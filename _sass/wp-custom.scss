@@ -62,6 +62,25 @@ typography
 /*
 layout 
 */
+.content {
+	margin: auto;
+	width: 1130px;
+}
+
+.siteFooter {
+	position: relative;
+	display: block;
+	clear: both;
+	width: 100%;
+	padding: 40px 20px 5px;
+	background: #000;
+	font-family: "Benton",Helvetica,sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #888;
+}
+
+
 .sp-hero-info {
 	padding: 1em;
 	text-align: center;
@@ -417,7 +436,7 @@ a.news-btn-action:hover {
 
 .staff-container {
 	display: flex;
-	flex-flow: row nowrap;
+	flex-wrap: wrap;
 	justify-content: space-between;
 }
 
