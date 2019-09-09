@@ -1,0 +1,779 @@
+/*
+Welcome to Custom CSS!
+
+CSS (Cascading Style Sheets) is a kind of code that tells the browser how
+to render a web page. You may delete these comments and get started with
+your customizations.
+
+By default, your stylesheet will be loaded after the theme stylesheets,
+which means that your rules can take precedence and override the theme CSS
+rules. Just write here what you want to change, you don't need to copy all
+your theme's stylesheet content.
+*/
+/* ===== STYLES FOR SPORTS SECTION - JSURMACZ@BU.EDU - SPRING 2018 ===== */
+/*
+typography
+*/
+.wrapper .sp-heading-label {
+	font-size: .875rem;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-weight: normal;
+	margin-bottom: .5em;
+}
+
+.wrapper .sp-byline {
+	font-size: .875rem;
+	font-weight: normal;
+	color: #999;
+	text-transform: uppercase;
+	font-style: italic;
+}
+
+.sp-heading-main-link:link {
+	color: #fff;
+	text-decoration: none;
+}
+
+.sp-heading-main-link:hover {
+	text-decoration: underline;
+	text-decoration-skip-ink: auto;
+}
+
+.sp-heading-main-link:visited {
+	color: #fff;
+}
+
+.sp-heading-link:link {
+	color: #222;
+	text-decoration: none;
+}
+
+.sp-heading-link:hover {
+	color: #cc0000;
+	text-decoration: underline;
+	text-decoration-skip-ink: auto;
+}
+
+.sp-heading-link:visited {
+	color: #666;
+}
+
+/*
+layout 
+*/
+.sp-hero-info {
+	padding: 1em;
+	text-align: center;
+}
+
+.sp-article-digest {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: center;
+	margin: 1em 0 0;
+}
+
+.sp-article-digest-img,
+.sp-article-digest-info {
+	flex-basis: 50%;
+}
+
+.sp-article-digest-info {
+	padding: 1em;
+	text-align: center;
+}
+
+/*
+themes
+*/
+.sp-bg-dark {
+	color: #fff;
+	background-color: #222;
+}
+
+.sp-bg-dark h1,
+.sp-bg-dark h2,
+.sp-bg-dark h3,
+.sp-bg-dark h4,
+.sp-bg-dark h5,
+.sp-bg-dark h6 {
+	color: #fff;
+}
+
+.sp-bg-default h1,
+.sp-bg-default h2,
+.sp-bg-default h3,
+.sp-bg-default h4,
+.sp-bg-default h5,
+.sp-bg-default h6 {
+	color: #000;
+}
+
+.sp-bg-dark .sp-heading-label,
+.sp-bg-default .sp-heading-label {
+	color: #cc0000;
+}
+
+/*
+buttons
+*/
+a.sp-btn {
+	font-size: .875rem;
+	text-decoration: none;
+	text-align: center;
+	line-height: 1;
+	display: inline-block;
+	padding: .9em 1.5em;
+	text-transform: uppercase;
+	letter-spacing: .075em;
+	border-radius: 2em;
+}
+
+a.sp-btn-action:link,
+a.sp-btn-action:visited {
+	background-color: #cc0000;
+	color: #fff;
+	transition: background-color .5s ease-in;
+}
+
+a.sp-btn-action:hover {
+	background-color: #9d0101;
+}
+
+/* ===== STYLES FOR HOMEPAGE - JSURMACZ@BU.EDU - SUMMER 2018 ===== */
+/* top-left logo*/
+.sitename {
+	display: none;
+}
+
+.brand-unbranded {
+	display: inline-block;
+	background-image: url("/wtbu/files/2018/06/WTBULogo-copy-e1530116757822.png");
+	background-repeat: no-repeat;
+	height: 80px;
+	width: 250px;
+}
+
+/* nav bar*/
+.level_1 {
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	padding: 0 1em;
+}
+
+/* banner */
+.bannerContainer {
+	margin-bottom: 2em;
+}
+
+a.banner-link:hover {
+	color: #9d0101;
+}
+
+.banner-container {
+	display: block;
+	text-align: center;
+	margin: auto;
+}
+
+.overlay {
+	background-image: url("/wtbu/files/2018/10/TENACIOUS-D-e1530115560803-1024x364.jpg");
+	background-size: cover;
+	position: relative;
+}
+
+.banner-content {
+	z-index: 2;
+}
+
+/* content */
+#post-5 {
+	float: left;
+	width: 100%;
+}
+
+.content-container {
+	max-width: 1280px;
+}
+
+.left-sidebar {
+	float: left;
+	width: 25%;
+	margin: 2em 2em 2em 0;
+}
+
+.center-content {
+	float: left;
+	width: 65%;
+	margin: 2em;
+}
+
+.widgetTitle {
+	font-size: 2em;
+	font-family: 'Benton';
+	font-weight: bold;
+	border-color: #000;
+	color: #000;
+}
+
+#player_div {
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+.hp-section {
+	background: linear-gradient (white,#eff5f8);
+	margin-bottom: 4em;
+}
+
+.spinitron-playlist {
+	margin: auto;
+	padding: 1em;
+}
+
+#player_div span a:hover {
+	background-color: #710101;
+}
+
+.news-articles, .sp-article-digest {
+	margin: 2em 1em;
+}
+
+#player_div span a {
+	font-size: 1em;
+	text-decoration: none;
+	font-family: 'Benton';
+}
+
+.border-transit:hover {
+	background-image: -webkit-linear-gradient(top,transparent,rgba(0,0,0,0.1));
+}
+
+/* download app */
+.appdownload {
+	display: inline-block;
+	margin: 2em 1em 1em 0;
+	text-align: center;
+}
+
+a.download-text {
+	font-size: 1em;
+	text-decoration: none;
+	text-align: center;
+	line-height: 1.3;
+	display: inline-block;
+	padding: .9em 1.5em;
+	letter-spacing: .075em;
+}
+
+/* news feed on homepage */
+.news-articles {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.wrapper .news-heading-label {
+	font-size: .875rem;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-weight: normal;
+	margin-bottom: .5em;
+}
+
+.news-articles-info, .news-articles-img {
+	flex-basis: 50%;
+}
+
+.news-articles-info {
+	padding: 1em;
+	text-align: center;
+}
+
+.news-articles-heading:link {
+	color: #000;
+	text-decoration: none;
+}
+
+.news-articles-heading:hover {
+	color: #cc0000;
+	text-decoration: underline;
+	text-decoration-skip-ink: auto;
+}
+
+.news-articles-heading:visited {
+	color: #666;
+}
+
+.wrapper .news-byline {
+	font-size: .875rem;
+	font-weight: normal;
+	color: #999;
+	text-transform: uppercase;
+	font-style: italic;
+}
+
+a.news-btn {
+	font-size: .875rem;
+	text-decoration: none;
+	text-align: center;
+	line-height: 1;
+	display: inline-block;
+	padding: .9em 1.5em;
+	text-transform: uppercase;
+	letter-spacing: .075em;
+	border-radius: 2em;
+}
+
+a.news-btn-action:link,
+a.news-btn-action:visited {
+	background-color: #cc0000;
+	color: #fff;
+	transition: background-color .5s ease-in;
+}
+
+a.news-btn-action:hover {
+	background-color: #9d0101;
+}
+
+/* sports feed on homepage */
+.hp-article-img {
+	opacity: 1;
+	transition: opacity .2s ease-in-out;
+}
+
+.hp-article-img:hover {
+	opacity: .6;
+}
+
+/* ===== STYLES FOR ABOUT PAGE - JSURMACZ@BU.EDU - SUMMER 2018 ===== */
+#post-47 {
+	display: block;
+	margin: auto;
+	width: 100%;
+	padding: 2em 8em;
+}
+
+.overview {
+	display: block;
+	margin: 1em;
+}
+
+.history-title {
+	font-size: 2em;
+	font-family: 'Benton';
+	font-weight: bold;
+	padding: 0 0 4px;
+	border: 4px solid #dd3333;
+	border-width: 0 0 4px;
+}
+
+.history {
+	display: block;
+	margin: 1em;
+}
+
+.image-container {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: stretch;
+}
+
+.image-about {
+	flex-basis: 30%;
+}
+
+.image-about-2 {
+	flex-basis: 45%;
+	margin: 1em;
+}
+
+#attachment1493 {
+	max-width: 100%;
+}
+
+/* ===== STYLES FOR CONTACT PAGE - JSURMACZ@BU.EDU - SUMMER 2018 ===== */
+#post-49 {
+	display: block;
+	margin: auto;
+	width: 100%;
+	padding: 2em 4em;
+}
+
+.staff-title {
+	font-size: 2em;
+	font-family: 'Benton';
+	font-weight: bold;
+	padding: 0 0 4px;
+	border: 4px solid #dd3333;
+	border-width: 0 0 4px;
+	margin: 2em 0 1em;
+}
+
+.staff-container {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+}
+
+.staff-description {
+	flex-basis: 32%;
+}
+
+.font_7 {
+	margin-bottom: .5em;
+}
+
+.font_8 {
+	font-size: 16px;
+	line-height: 22px;
+}
+
+/* ===== STYLES FOR MUSIC, TALK, IN-STUDIO PAGE - JSURMACZ@BU.EDU - SUMMER 2018 ===== */
+#post-1742, #post-1751, #post-1749 {
+	display: block;
+	margin: auto;
+	float: none;
+	width: 85%;
+}
+
+.music-section {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+	margin: 4em 0;
+}
+
+.music-flex {
+	flex-basis: 30%;
+	margin: 1.5em 0;
+	text-align: center;
+}
+
+.music-img {
+	margin-bottom: 2.5em;
+}
+
+.in-studio-container {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+}
+
+.in-studio-content {
+	flex-basis: 45%;
+}
+
+.in-studio-content iframe {
+	width: 100%;
+}
+
+/* ===== STYLES FOR MUSIC POSTS PAGES - JSURMACZ@BU.EDU - SUMMER 2018 ===== */
+.page-template-news .content-container {
+	max-width: 900px;
+}
+
+.news-posts .post {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.thumb {
+	flex-basis: 35%;
+}
+
+.news-posts h2 {
+	flex-basis: 55%;
+}
+
+.thumb {
+	margin-right: 2em;
+}
+
+.thumb img {
+	width: 100%;
+}
+
+.news-posts h2 a {
+	color: black;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+h2 a:hover {
+	color: #dd3333;
+}
+
+.meta {
+	font-size: .875rem;
+	font-weight: 400;
+	color: #999;
+	text-transform: uppercase;
+	font-style: italic;
+	margin-left: 2em;
+}
+
+.single-post-image {
+	width: 100%;
+}
+
+.narrow-banner {
+	font-size: 28px;
+}
+
+.posts-image {
+	width: 100%;
+}
+
+/* ===== STYLES FOR BUITM - JSURMACZ@BU.EDU - SUMMER 2018 ===== */
+.single-post article[role=main] {
+	margin-top: 2em;
+}
+
+.single-post-content {
+	padding: 2em;
+}
+
+/* ===== TALK NEWS - JSURMACZ@BU.EDU - SPRING 2018 ===== */
+.talk-news {
+	margin: auto;
+}
+
+/* ===== SCHEDULE PAGE - JSURMACZ@BU.EDU - SPRING 2018 ===== */
+#post-24 {
+	display: block;
+	margin: auto;
+	text-align: center;
+	width: 100%;
+}
+
+/* ===== THE BEAT PAGE - JSURMACZ@BU.EDU - SPRING 2018 ===== */
+#post-32 {
+	display: block;
+	margin: auto;
+	float: none;
+}
+
+.the-beat-container {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+}
+
+.the-beat-content {
+	flex-basis: 45%;
+	text-align: center;
+	border: 1px solid #c5c5c5;
+	border-radius: 8px;
+	margin-bottom: 1em;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.the-beat-content img, .the-beat-content img {
+	border-bottom: 1px solid #c5c5c5;
+	border-top: 1px solid white;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	opacity: 1;
+	transition: opacity .2s ease-in-out;
+	width: 100%;
+}
+
+.the-beat-content img:hover {
+	opacity: .6;
+}
+
+.the-beat-content p, .the-beat-video p {
+	text-align: center;
+	font-weight: bold;
+	line-height: 26px;
+}
+
+.the-beat-video {
+	text-align: center;
+	margin-top: 3em;
+}
+
+.the-beat-video iframe {
+	width: 100%;
+	height: 400px;
+}
+
+.the-beat-container-2 {
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+.the-beat-text {
+	padding: 0 1em;
+}
+
+/*allows for copy and paste YouTube embeds*/
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%;
+/* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+
+.videoWrapper iframe {
+	position: absolute !important;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/* ===== MEDIA QUERIES - JSURMACZ@BU.EDU - SPRING 2018 ===== */
+@media screen and (max-width: 1140px) {
+	.center-content {
+		width: 100%;
+		float: none;
+		margin: 0;
+	}
+	
+	.left-sidebar {
+		width: 100%;
+		margin: 0;
+	}
+	
+	.spinitron-playlist {
+		width: 80%;
+		text-align: center;
+		margin: auto;
+	}
+	
+	iframe {
+		width: 80%;
+	}
+}
+
+@media screen and (max-width: 980px) {
+	#post-1742 {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 900px) {
+	#post-47 {
+		padding: 2em;
+	}
+}
+
+@media screen and (max-width: 860px) {
+	.staff-container {
+		flex-flow: column wrap;
+		align-items: stretch;
+	}
+	
+	#post-49 {
+		padding: 2em;
+	}
+	
+	.in-studio-container {
+		display: flex;
+		flex-flow: column wrap;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.brand-unbranded {
+		text-align: center;
+		display: block;
+		margin: auto;
+	}
+	
+	.brand-container {
+		float: none;
+	}
+	
+	.music-section {
+		display: flex;
+		flex-flow: column wrap;
+	}
+	
+	.the-beat-container {
+		display: flex;
+		flex-flow: column;
+	}
+}
+
+@media screen and (max-width: 712px) {
+	#post-47 {
+		padding: .5em;
+	}
+	
+	.image-container {
+		display: flex;
+		flex-flow: column wrap;
+	}
+	
+	.image-about, .image-about-2 {
+		max-width: 100%;
+	}
+	
+	h1 {
+		font-size: 36px;
+	}
+}
+
+@media screen and (max-width: 630px) {
+	.news-posts .post {
+		display: flex;
+		flex-flow: column wrap;
+		justify-content: center;
+		text-align: center;
+	}
+	
+	.news-articles, .sp-article-digest {
+		flex-flow: column wrap;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.bannerContainer h3 {
+		font-size: 22px;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.spinitron-playlist {
+		width: 100%;
+		padding: 1em 0;
+	}
+	
+	#player_div {
+		width: 80%;
+	}
+	
+	#player_div span {
+		font-size: 14px;
+	}
+	
+	.bannerContainer h3 {
+		font-size: 16px;
+		line-height: 18px;
+	}
+	
+	.thumb {
+		margin-right: 0;
+	}
+	
+	#post-49 {
+		padding: 1em;
+	}
+	
+	.the-beat-container {
+		flex-flow: column wrap;
+		align-items: center;
+		justify-content: center;
+	}
+}

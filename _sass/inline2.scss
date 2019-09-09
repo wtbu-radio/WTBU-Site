@@ -1,0 +1,208 @@
+/* navigation bar and links
+----------------------------------------------------------------- *//* navbar bg color */.l-sideNav .wrapper,
+.primaryNav,
+.primaryNav-menu ul {
+ background:#000000;
+}
+/* main nav and nav border color */.primaryNav-menu a,
+.searchToggle::before,
+.l-sideNav .primaryNav-menu a {
+ color:#ffffff;
+ border-color:#333333;
+}
+/* main nav and nav border color */.navToggle span,
+.navToggle span::before,
+.navToggle span::after {
+ background-color:#ffffff;
+}
+/* utility nav color */.l-sideNav .utilityNav a {
+ color:#aaaaaa;
+}
+/* main nav and utility nav hover color */.primaryNav-menu a:hover,
+.l-sideNav .utilityNav a:hover,
+.primaryNav-menu li a.active,
+.primaryNav-menu li a.active_section,
+.primaryNav-menu li li a:hover,
+.primaryNav-menu li li a:focus {
+ color:#ff3a3a;
+}
+/* content area
+----------------------------------------------------------------- *//* heading color */.wrapper h1,
+.wrapper h2,
+.wrapper h3,
+.wrapper h4,
+.wrapper h5,
+.wrapper h6,
+.wrapper h1 a,
+.wrapper h2 a,
+.wrapper h3 a,
+.wrapper h4 a,
+.wrapper h5 a,
+.wrapper h6 a {
+ color:#dd3333;
+}
+/* text color */body {
+ color:#000000;
+}
+/* link color */article a,
+article a:visited,
+.widget a,
+.widget a:hover,
+.widget a:focus,
+.event-list .event-link a,
+.event-list .event-link a:hover,
+.event-list .event-link a:focus,
+.monthCalendar td a,
+.monthCalendar td a:hover,
+.monthCalendar td,
+.bu_collapsible:hover:after,
+.bu_collapsible:focus:after,
+.bu_collapsible_open .bu_collapsible:hover:after,
+.bu_collapsible_open .bu_collapsible:focus:after,
+.profile-listing a .profile-name {
+ color:#dd3333;
+}
+/* link hover color */article a:hover,
+.widget a:hover,
+.event-list .event-link a:hover,
+.monthCalendar td a:hover,
+ {
+ color:#590000;
+}
+/* buttons */input[type="submit"],
+.button,
+.button-primary,
+.button-selected,
+#quicksearch .button,
+.paging-navigation a,
+.archiveLink {
+ background:#c60000;
+ color:#ffffff;
+}
+/* sidebar area
+----------------------------------------------------------------- *//* widget border color */.sidebar .widgetTitle,
+.sidebar #contentnav ul,
+.sidebar .widget_nav_menu ul,
+.sidebar #contentnav li,
+.sidebar .widget_nav_menu li,
+.sidebar .widget-bu-calendar li,
+.sidebarPosts .widgetTitle,
+.sidebarPosts #contentnav ul,
+.sidebarPosts .widget_nav_menu ul,
+.sidebarPosts #contentnav li,
+.sidebarPosts .widget_nav_menu li,
+.sidebarPosts .widget-bu-calendar li,
+.sidebarProfiles .widgetTitle,
+.sidebarProfiles #contentnav ul,
+.sidebarProfiles .widget_nav_menu ul,
+.sidebarProfiles #contentnav li,
+.sidebarProfiles .widget_nav_menu li,
+.sidebarProfiles .widget-bu-calendar li,
+.monthCalendar,
+.monthCalendar th,
+.monthCalendar td {
+ border-color:#000000;
+}
+.sidebar .widgetTitle,
+.sidebar .widget .widgetTitle a,
+.sidebarPosts .widget .widgetTitle a,
+.sidebarProfiles .widget .widgetTitle a,
+.sidebar .widgetTitle a:after,
+.sidebarPosts .widgetTitle,
+.sidebarPosts .widgetTitle a:after,
+.sidebarProfiles .widgetTitle,
+.sidebarProfiles .widgetTitle a:after {
+ color:#000000;
+}
+/* text color */.sidebar .widget,
+.sidebarPosts .widget,
+.sidebarProfiles .widget,
+.monthCalendar th,
+.monthCalendar caption {
+ color:#cc0000;
+}
+/* link color */.sidebar .widget a,
+.sidebar #contentnav li a,
+.sidebar .widget_nav_menu li a,
+.sidebarPosts .widget a,
+.sidebarPosts #contentnav li a,
+.sidebarPosts .widget_nav_menu li a,
+.sidebarProfiles .widget a,
+.sidebarProfiles #contentnav li a,
+.sidebarProfiles .widget_nav_menu li a {
+ color:#cc0000;
+}
+/* link hover color */.sidebar .widget a:hover,
+.sidebar #contentnav li a:hover,
+.sidebar .widget_nav_menu li a:hover,
+.sidebar #contentnav li.current_page_item > a,
+.sidebar .widget_nav_menu li.current_page_item > a,
+.sidebarPosts .widget a:hover,
+.sidebarPosts #contentnav li a:hover,
+.sidebarPosts .widget_nav_menu li a:hover,
+.sidebarPosts #contentnav li.current_page_item > a,
+.sidebarPosts .widget_nav_menu li.current_page_item > a,
+.sidebarProfiles .widget a:hover,
+.sidebarProfiles #contentnav li a:hover,
+.sidebarProfiles .widget_nav_menu li a:hover,
+.sidebarProfiles #contentnav li.current_page_item > a,
+.sidebarProfiles .widget_nav_menu li.current_page_item > a {
+ color:#8e8e8e;
+}
+/* footbar area
+----------------------------------------------------------------- *//* background color */.footbar,
+.footbar .footbar-container,
+.bannerContainer-windowWidth {
+ background:#f5f5f5;
+}
+/* top border color */.footbar {
+ border-color:#cccccc;
+}
+/* widget title color */.footbar .widgetTitle,
+.footbar .widgetTitle a:after,
+.footbar h3.widgetTitle a,
+.footbar .widget-bu-calendar .default a .date,
+.footbar .widget-bu-calendar .graphic .day,
+.footbar .widget-bu-calendar .date {
+ color:#000000;
+}
+/* border color */.footbar .widgetTitle,
+.footbar #contentnav ul,
+.footbar .widget_nav_menu ul,
+.footbar #contentnav li,
+.footbar .widget_nav_menu li,
+.footbar .widget-bu-calendar li {
+ border-color:#000000;
+}
+/* link color */.footbar .widget a,
+.footbar #contentnav li a,
+.footbar .widget_nav_menu li a {
+ color:#e51010;
+}
+/* link hover color */.footbar .widget a:hover,
+.footbar #contentnav li a:hover,
+.footbar .widget_nav_menu li a:hover {
+ color:#dd3333;
+}
+/* text color */.footbar .widget,
+.widget-bu-calendar .graphic .month,
+.widget-bu-posts .meta {
+ color:#555555;
+}
+/* non-configurable styles
+----------------------------------------------------------------- */.comment-respond,
+#quicksearch,
+.l-sideNav #quicksearch,
+.message,
+.single article[role=main] .meta,
+.singleEvent .dateSummary,
+.single-profile .profile-info {
+ background:#f5f8ff;
+ border-color:#dfdfea;
+}
+/* calendar table */.monthCalendar thead,
+.monthCalendar th,
+.monthCalendar .out,
+.monthCalendar .today {
+ background:rgba(0,0,0,0.15);
+}
