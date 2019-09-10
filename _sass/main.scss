@@ -8,4 +8,5 @@ body {
   font-family: $bodyFont;
 }
 
+@import 'normalize';
 @import 'bu-slideshow', 'inline1', 'inline2', 'wp-custom';
