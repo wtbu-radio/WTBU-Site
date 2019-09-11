@@ -3,26 +3,26 @@ layout: page
 title: Contact Us
 type: page
 ---
-<p class="font_10"><em>Office Number</em>: 617-353-6401</p>
-<p class="font_10"><em>On-Air Number</em>: 617-353-6400</p>
-<p class="font_10"><em>Instagram</em>: @wtburadio</p>
-<p class="font_10"><em>IM</em>: @wtburadiodj</p>
-<p class="font_10"><em>Address</em>: 640 Commonwealth Ave Boston, MA 02215</p>
-<h2 class="staff-title">Our Staff</h2>
+<p><em>Office Number</em>: 617-353-6401</p>
+<p><em>On-Air Number</em>: 617-353-6400</p>
+<p><em>Instagram</em>: @wtburadio</p>
+<p><em>IM</em>: @wtburadiodj</p>
+<p><em>Address</em>: 640 Commonwealth Ave Boston, MA 02215</p>
 
+<h2>Our Staff</h2>
 
 <div class="staff-container">
   {% for member in site.data.eboard %}
   <div class="staff-description">
-    <p><img src="{{ site.baseurl }}/assets/{{ member.image }}" alt="{{ member.name }}" width="100%"/></p>
-    <h4 class="font_7"><em>{{ member.position }}:</em></h4>
-    <h4 class="font_7"><em>{{ member.name }}</em></h4>
-    <p class="font_8">{{ member.blurb }}</p>
-    <p class="font_8"><em>Email</em>: {{ member.email }}</p>
-    <p class="font_8"><em>Office Hours</em>: <strong>{{ member.hours }}</strong></p>
+    <img src="{{ site.baseurl }}/assets/{{ member.image }}" alt="{{ member.name }}" width="100%"/>
+    <h3>{{ member.position }}:</h4>
+    <h3><i>{{ member.name }}</i></h4>
+    <p>{{ member.blurb }}</p>
+    <p><em>Email</em>: {{ member.email }}</p>
+    <p><em>Office Hours</em>: <strong>{{ member.hours }}</strong></p>
   </div>
   {% endfor %}
 </div>
 
-<h2 class="staff-title">Leave a Message</h2>
-<h4><span style="font-weight: normal;">[gravityform id="1" title="false" description="true"]</span></h4>
+<h2>Leave a Message</h2>
+<h4>[gravityform id="1" title="false" description="true"]</h4>
