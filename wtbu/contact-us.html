@@ -14,9 +14,9 @@ type: page
 <div class="staff-container">
   {% for member in site.data.eboard %}
   <div class="staff-description">
-    <img src="{{ site.baseurl }}/assets/{{ member.image }}" alt="{{ member.name }}" width="100%"/>
-    <h3>{{ member.position }}:</h4>
-    <h3><i>{{ member.name }}</i></h4>
+    <img src="{{ site.baseurl }}/assets/eboard/{{ member.image }}" alt="{{ member.name }}" width="100%"/>
+    <h3>{{ member.position }}:</h3>
+    <h3><i>{{ member.name }}</i></h3>
     <p>{{ member.blurb }}</p>
     <p><em>Email</em>: {{ member.email }}</p>
     <p><em>Office Hours</em>: <strong>{{ member.hours }}</strong></p>

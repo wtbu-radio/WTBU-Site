@@ -1,0 +1,30 @@
+.siteFooter {
+	/*height: 50px;*/
+	padding: 20px;
+	background: #000;
+	font-family: $body-font-family;
+	font-size: 16px;
+	color: $footer-color;
+	text-align: center;
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+	> div {
+		flex-grow: 1;
+		min-width: 180px;
+		padding: 10px;
+	}
+}
+
+.siteFooter__links > a, a:link, a:visited, a:hover, a:active {
+	color: $footer-color;
+	text-decoration: none;
+}
+
+.siteFooter__social {
+	width: 30px;
+	height: 30px;
+	padding: 0px 5px;
+}

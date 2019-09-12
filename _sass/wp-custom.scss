@@ -1,81 +1,4 @@
-
-/* GLOBALS */
-
-$main-color: #dd3333;
-$heading-font-family: 'Oswald', sans-serif;
-$body-font-family: 'Open Sans', sans-serif;
-
-/* TYPOGRAPHY */
-
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:700|Oswald&display=swap');
-
-h1, h2, h3, h4, h5, h6 {
-	font-family: $heading-font-family
-}
-
-h1, h2, h3 {
-	color: $main-color;
-	font-style: bold;
-}
-
-h2 {
-	padding: 0 0 4px;
-	border: 4px solid $main-color;
-	border-width: 0 0 4px;
-}
-
-body {
-	font-family: 'Open Sans', sans-serif;
-}
-
-.wrapper .sp-heading-label {
-	font-size: .875rem;
-	text-transform: uppercase;
-	letter-spacing: .1em;
-	font-weight: normal;
-	margin-bottom: .5em;
-}
-
-.wrapper .sp-byline {
-	font-size: .875rem;
-	font-weight: normal;
-	color: #999;
-	text-transform: uppercase;
-	font-style: italic;
-}
-
-.sp-heading-main-link:link {
-	color: #fff;
-	text-decoration: none;
-}
-
-.sp-heading-main-link:hover {
-	text-decoration: underline;
-	text-decoration-skip-ink: auto;
-}
-
-.sp-heading-main-link:visited {
-	color: #fff;
-}
-
-.sp-heading-link:link {
-	color: #222;
-	text-decoration: none;
-}
-
-.sp-heading-link:hover {
-	color: #cc0000;
-	text-decoration: underline;
-	text-decoration-skip-ink: auto;
-}
-
-.sp-heading-link:visited {
-	color: #666;
-}
-
-/*
-layout 
-*/
+/* LAYOUT */
 
 html, body {
 	margin: 0;
@@ -84,17 +7,21 @@ html, body {
 
 .content {
 	margin: auto;
-	width: 1130px;
+	max-width: 1130px;
+	padding: 5px;
 }
 
-.siteFooter {
-	padding: 40px 20px 5px;
-	background: #000;
-	font-family: "Benton",Helvetica,sans-serif;
-	font-size: 16px;
-	color: #888;
+.page__logo {
+	text-align: center;
 }
 
+.page__tagline {
+	font-size: 24px;
+	color: black;
+	text-transform: uppercase;
+	font-style: italic;
+	margin: 0;
+}
 
 .sp-hero-info {
 	padding: 1em;

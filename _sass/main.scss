@@ -1,12 +1,21 @@
-$backgroundColor: #ffffff;
-$bodyColor: #000000;
-$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+/* GLOBALS */
+
+$background-color: #ffffff;
+$body-color: #000000;
+$body-font: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+
+$main-color: #dd3333;
+$footer-color: #888;
+$heading-font-family: "Pressura", sans-serif;
+$body-font-family: "Benton", sans-serif;
 
 body {
-  background: $backgroundColor;
-  color: $bodyColor;
-  font-family: $bodyFont;
+  background: $background-color;
+  color: $body-color;
+  font-family: $body-font;
 }
 
 @import '_normalize';
-@import 'bu-slideshow', 'inline1', 'inline2', 'wp-custom';
+@import 'fonts';
+@import 'typography', 'footer';
+@import 'wp-custom';
