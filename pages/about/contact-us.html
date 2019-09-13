@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact Us
-type: page
 ---
 <p><em>Office Number</em>: 617-353-6401</p>
 <p><em>On-Air Number</em>: 617-353-6400</p>
@@ -18,7 +17,7 @@ type: page
     <h3>{{ member.position }}:</h3>
     <h3><i>{{ member.name }}</i></h3>
     <p>{{ member.blurb }}</p>
-    <p><em>Email</em>: {{ member.email }}</p>
+    <p><em>Email</em>: <a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
     <p><em>Office Hours</em>: <strong>{{ member.hours }}</strong></p>
   </div>
   {% endfor %}
