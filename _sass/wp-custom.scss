@@ -10,10 +10,14 @@ body {
 	color: $body-color;
 }
 
+img {
+	max-width: 100%;
+}
+
 .content {
 	margin: auto;
 	max-width: 1130px;
-	padding: 5px;
+	padding: 16px;
 }
 
 .page__header {

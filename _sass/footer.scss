@@ -3,6 +3,7 @@
 	padding: 20px;
 	background-color: #000;
 	text-align: center;
+	box-shadow: 0 50vh 0 50vh #000;
 
 	display: flex;
 	flex-wrap: wrap;
@@ -15,31 +16,22 @@
 	}
 }
 
-.siteFooter__links {
-	a{
-		color: $footer-color;
-		text-decoration: none;
-	} 
-	a:link {
-		color: $footer-color;
-		text-decoration: none;
-	} 
-	a:visited {
-		color: $footer-color;
-		text-decoration: none;
-	}
-	a:hover {
-		color: white;
-		text-decoration: none;
-	} 
-	a:active {
-		color: $footer-color;
-		text-decoration: none;
-	}
+.siteFooter__link {
+	text-decoration: none;
+	color:$footer-color;
 }
+
+.siteFooter__link:hover {
+	color: white;
+	fill: white;
+} 
 
 .siteFooter__social {
 	width: 30px;
 	height: 30px;
 	padding: 0px 5px;
+}
+
+.siteFooter__social>path:hover {
+	fill:white;
 }

@@ -3,13 +3,13 @@
         <p>© 2019 WTBU</p>
     </div>			
     <div class="siteFooter__links">
-        <a href="http://www.bu.edu">Boston University</a><br>
-        <a href="http://www.bu.edu/com/">College of Communication</a>
+        <a class="siteFooter__link" href="http://www.bu.edu">Boston University</a><br>
+        <a class="siteFooter__link" href="http://www.bu.edu/com/">College of Communication</a>
     </div>
     <div class="siteFooter__socials">
-        <a title="Tumblr" href="http://wtburadio.tumblr.com/"><img class="siteFooter__social" src="{{ site.baseurl }}/assets/icons/tumblr-brands.svg"></a>
-        <a title="Twitter" href="https://twitter.com/WTBU"><img class="siteFooter__social" src="{{ site.baseurl }}/assets/icons/twitter-brands.svg"></a>
-        <a title="Instagram" href="https://www.instagram.com/WTBUradio/"><img class="siteFooter__social" src="{{ site.baseurl }}/assets/icons/instagram-brands.svg"></a>
-        <a title="Facebook" href="https://www.facebook.com/wtburadio/"><img class="siteFooter__social" src="{{ site.baseurl }}/assets/icons/facebook-square-brands.svg"></a>
+        {% include tumblr.html %}
+        {% include twitter.html %}
+        {% include instagram.html %}
+        {% include facebook.html %}
     </div>
 </footer>
