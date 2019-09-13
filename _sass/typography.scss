@@ -22,3 +22,9 @@ body {
 header {
 	@include heading-font;
 }
+
+.siteFooter {
+	@include body-font;
+	font-size: 16px;
+	color: $footer-color;
+}
