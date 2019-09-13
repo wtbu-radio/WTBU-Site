@@ -1,0 +1,38 @@
+.topBar {
+    background-color: black;
+}
+
+.home-button {
+    width: 200px;
+    padding: 25px;
+    background-color: #dd3333;
+}
+
+.topBar__link {
+    float: left; 
+    display: block;
+    text-align: center;
+    padding: 15px;
+    font-size: 1.5em;
+}
+
+/* SVG Styling */
+.home-button__icon {
+    fill:black;
+
+    /*#W {
+    fill: red;
+    }
+
+    #T {
+        fill: yellow;
+    }
+
+    #B {
+        fill: green;
+    }
+
+    #U {
+        fill: rebeccapurple;
+    } */
+}
