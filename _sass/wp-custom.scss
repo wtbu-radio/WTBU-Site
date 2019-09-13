@@ -5,6 +5,11 @@ html, body {
 	padding: 0;
 }
 
+body {
+	background: $background-color;
+	color: $body-color;
+}
+
 .content {
 	margin: auto;
 	max-width: 1130px;

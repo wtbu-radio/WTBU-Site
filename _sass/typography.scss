@@ -1,7 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:700|Oswald&display=swap');
-
 h1, h2, h3, h4, h5, h6 {
-	font-family: $heading-font-family
+	@include heading-font;
 }
 
 h1, h2, h3 {
@@ -17,5 +15,10 @@ h2 {
 }
 
 body {
-	font-family: $body-font-family, sans-serif;
+	@include body-font;
+	font-size: 1.25em;
+}
+
+header {
+	@include heading-font;
 }
