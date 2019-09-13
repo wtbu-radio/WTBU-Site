@@ -1,38 +1,113 @@
 .topBar {
-    background-color: black;
-}
+    background-color: $body-color;
+    width: 100%;
 
-.home-button {
-    width: 200px;
-    padding: 25px;
-    background-color: #dd3333;
+    a {
+        color: $background-color;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: $main-color;
+        text-decoration: none;
+    }
+
+    a.active {
+        color: $main-color;
+        text-decoration: none;
+    }
 }
 
 .topBar__link {
     float: left; 
     display: block;
     text-align: center;
-    padding: 15px;
-    font-size: 1.5em;
+    padding: 24px 15px;
+    text-transform: uppercase;
 }
+
+.home-button {
+    width: 200px;
+    height: 55px;
+    background-color: $main-color;
+    float: left; 
+    display: block;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 1.25em;
+}
+
+@mixin fadeLetter ($color1, $color2, $color3){
+    0% { fill: $main-color; }
+    25%  { fill: $color1; }
+    50% { fill: $color2; }
+    75% { fill: $color3; }
+    100% { fill: $body-color; }
+}
+
+@keyframes w { 
+    @include fadeLetter($body-color, $body-color, $body-color);
+}
+@keyframes t { 
+    @include fadeLetter($main-color, $body-color, $body-color);
+}
+@keyframes b { 
+    @include fadeLetter($main-color, $main-color, $body-color);
+}
+@keyframes u { 
+    @include fadeLetter($main-color, $main-color, $main-color);
+}
+
 
 /* SVG Styling */
 .home-button__icon {
     fill:black;
 
-    /*#W {
-    fill: red;
+    #W, #Stripe-W {
+        animation-name: w;
+        animation-duration: 0.5s;
     }
 
-    #T {
-        fill: yellow;
+    #T, #Stripe-T {
+        animation-name: t;
+        animation-duration: 0.5s;
     }
 
-    #B {
-        fill: green;
+    #B, #Stripe-B {
+        animation-name: b;
+        animation-duration: 0.5s;
     }
 
-    #U {
-        fill: rebeccapurple;
-    } */
+    #U, #Stripe-U{
+        animation-name: u;
+        animation-duration: 0.5s;
+    }
 }
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Old, extra safe backup clearfix 
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+html[xmlns] .clearfix {
+    display: block;
+}
+
+* html .clearfix {
+    height: 1%;
+} */
