@@ -5,65 +5,36 @@
                <div class="home-button__icon">{% include wtbu-vector.html %}</div>
             </a>
         </div>
-            <!--a href="#primaryNav-menu" class="navToggle"><span>Menu</span></a>
 
-            <a href="#quicksearch" class="searchToggle"><span>Search</span></a-->
-
-            <a class="topBar__link" href="http://sites.bu.edu/wtbu/music/" title="Navigate to: Music">Music</a>
-            <a class="topBar__link" href="https://sportswtbu.com/" title="Navigate to: Sports">Sports</a>
-            <a class="topBar__link" href="http://sites.bu.edu/wtbu/the-beat/" title="Navigate to: The Beat">The Beat</a>
-            <a class="topBar__link" href="http://sites.bu.edu/wtbu/talk/" title="Navigate to: Talk">Talk</a>
-            <a class="topBar__link" href="http://sites.bu.edu/wtbu/podcasts/" title="Navigate to: Podcast">Podcast</a>
-
-            <a class="topBar__link" href="http://sites.bu.edu/wtbu/schedule/programming/schedule/">Schedule</a>
-            <a class="topBar__link" href="http://sites.bu.edu/wtbu/interact/about-us/">About Us</a>
-            <a class="topBar__link" href="http://sites.bu.edu/wtbu/interact/contact-us/">Contact Us</a>
-            <a class="topBar__link" href="http://sites.bu.edu/wtbu/sponsor/">Sponsor</a>
-            <a class="topBar__link" href="http://sites.bu.edu/wtbu/dj/">DJ</a>
-            
-
-
-            <!--ul id="primaryNav-menu" class="primaryNav-menu ">
-                <li class="page_item page-item-1742">
-                    
-
-                    <ul>
-                        <li class="page_item page-item-41">
-                            <a class="level_2" href="http://sites.bu.edu/wtbu/music/music-reviews/"
-                                title="Navigate to: Music Reviews">Music Reviews</a>
-                        </li>
-                        <li class="page_item page-item-456">
-                            <a class="level_2" href="http://sites.bu.edu/wtbu/music/show-previews/"
-                                title="Navigate to: Show Previews">Show Previews</a>
-                        </li>
-                        <li class="page_item page-item-43">
-                            <a class="level_2" href="http://sites.bu.edu/wtbu/music/interviews/"
-                                title="Navigate to: Interviews">Interviews</a>
-                        </li>
-                        <li class="page_item page-item-1755">
-                            <a class="level_2" href="http://sites.bu.edu/wtbu/music/lotd/"
-                                title="Navigate to: Left of the Dial">Left of the Dial</a>
-                        </li>
-                        <li class="page_item page-item-1753">
-                            <a class="level_2" href="http://sites.bu.edu/wtbu/music/sessions/"
-                                title="Navigate to: In-Studios">In-Studios</a>
-                        </li>
-
-                    </ul>
-                </li-->
-                <!--li class="page_item page-item-1749">
-
-                    <ul>
-                        <li class="page_item page-item-30">
-                            <a class="level_2" href="http://sites.bu.edu/wtbu/talk/bu-in-the-morning/"
-                                title="Navigate to: BUITM">BUITM</a>
-                        </li>
-                        <li class="page_item page-item-6">
-                            <a class="level_2" href="http://sites.bu.edu/wtbu/talk/news/"
-                                title="Navigate to: News">News</a>
-                        </li>
-
-                    </ul>
-                </li-->
+        <div class="dropdown">
+            <button onclick="showLinks('music-dropdown')" class="topBar__link dropdown__button">Music {%include down-arrow.html %}</button>
+            <div id="music-dropdown" class="dropdown-content">
+                <a class="dropdown-content__link" href="http://sites.bu.edu/wtbu/music/music-reviews/">Music Reviews</a>
+                <a class="dropdown-content__link" href="http://sites.bu.edu/wtbu/music/show-previews/">Show Previews</a>
+                <a class="dropdown-content__link" href="http://sites.bu.edu/wtbu/music/interviews/">Interviews</a>
+                <a class="dropdown-content__link" href="http://sites.bu.edu/wtbu/music/lotd/">Left of the Dial</a>
+                <a class="dropdown-content__link" href="http://sites.bu.edu/wtbu/music/sessions/">In-Studios</a>
+            </div>
+        </div>
+        <a class="topBar__link" href="https://sportswtbu.com/" title="Navigate to: Sports">Sports</a>
+        <a class="topBar__link" href="http://sites.bu.edu/wtbu/the-beat/" title="Navigate to: The Beat">The Beat</a>
+        <div class="dropdown">
+                <button onclick="showLinks('talk-dropdown')" class="topBar__link dropdown__button">Talk {%include down-arrow.html %}</button>
+                <div id="talk-dropdown" class="dropdown-content">
+                    <a class="dropdown-content__link" href="{{ site.baseurl }}{% link pages/about/schedule.html %}">BUITM</a>
+                    <a class="dropdown-content__link" href="{{ site.baseurl }}{% link pages/about/index.md %}">News</a>
+                </div>
+            </div>
+        <a class="topBar__link" href="http://sites.bu.edu/wtbu/podcasts/" title="Navigate to: Podcasts">Podcasts</a>
+        <div class="dropdown">
+            <button onclick="showLinks('about-dropdown')" class="topBar__link dropdown__button">About {%include down-arrow.html %}</button>
+            <div id="about-dropdown" class="dropdown-content">
+                <a class="dropdown-content__link" href="{{ site.baseurl }}{% link pages/about/schedule.html %}">Schedule</a>
+                <a class="dropdown-content__link" href="{{ site.baseurl }}{% link pages/about/index.md %}">About Us</a>
+                <a class="dropdown-content__link" href="{{ site.baseurl }}{% link pages/about/contact-us.html %}">Contact Us</a>
+                <a class="dropdown-content__link" href="{{ site.baseurl }}{% link pages/about/sponsor.md %}">Sponsor</a>
+                <a class="dropdown-content__link" href="http://sites.bu.edu/wtbu/dj/">DJ</a>
+            </div>
+        </div>
     </nav>
 </header>
