@@ -7,9 +7,9 @@
   - name: Interviews
     location: pages/about/index.md
   - name: Left of the Dial
-    location: pages/about/index.md
+    location: pages/music/lotd.md
   - name: In-Studios
-    location: pages/about/index.md
+    location: pages/music/sessions.md
 - name: Sports
   external: https://sportswtbu.com
 - name: The Beat
