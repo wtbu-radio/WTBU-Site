@@ -1,0 +1,36 @@
+- name: Music
+  dropdown: 
+  - name: Music Reviews
+    location: pages/about/index.md
+  - name: Show Previews
+    location: pages/about/index.md
+  - name: Interviews
+    location: pages/about/index.md
+  - name: Left of the Dial
+    location: pages/about/index.md
+  - name: In-Studios
+    location: pages/about/index.md
+- name: Sports
+  external: https://sportswtbu.com
+- name: The Beat
+  location: pages/about/index.md
+- name: Talk
+  dropdown:
+  - name: BUITM
+    location: pages/talk/bu-in-the-morning.md
+  - name: News
+    location: pages/talk/news.md
+- name: Podcasts
+  location: pages/podcasts.html
+- name: About
+  dropdown:
+  - name: Schedule
+    location: pages/about/schedule.html
+  - name: About Us
+    location: pages/about/index.md
+  - name: Contact Us
+    location: pages/about/contact-us.html
+  - name: Sponsor
+    location: pages/about/sponsor.md
+  - name: Donate
+    location: pages/about/donate.md

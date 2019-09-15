@@ -5,36 +5,23 @@
                <div class="home-button__icon">{% include wtbu-vector.html %}</div>
             </a>
         </div>
-
-        <div class="dropdown">
-            <button onclick="showLinks('music-dropdown')" class="topBar__link dropdown__button">Music {%include down-arrow.html %}</button>
-            <div id="music-dropdown" class="dropdown-content">
-                <a class="dropdown-content__link" href="http://sites.bu.edu/wtbu/music/music-reviews/">Music Reviews</a>
-                <a class="dropdown-content__link" href="http://sites.bu.edu/wtbu/music/show-previews/">Show Previews</a>
-                <a class="dropdown-content__link" href="http://sites.bu.edu/wtbu/music/interviews/">Interviews</a>
-                <a class="dropdown-content__link" href="http://sites.bu.edu/wtbu/music/lotd/">Left of the Dial</a>
-                <a class="dropdown-content__link" href="http://sites.bu.edu/wtbu/music/sessions/">In-Studios</a>
-            </div>
-        </div>
-        <a class="topBar__link" href="https://sportswtbu.com/" title="Navigate to: Sports">Sports</a>
-        <a class="topBar__link" href="http://sites.bu.edu/wtbu/the-beat/" title="Navigate to: The Beat">The Beat</a>
-        <div class="dropdown">
-                <button onclick="showLinks('talk-dropdown')" class="topBar__link dropdown__button">Talk {%include down-arrow.html %}</button>
-                <div id="talk-dropdown" class="dropdown-content">
-                    <a class="dropdown-content__link" href="{{ site.baseurl }}{% link pages/about/schedule.html %}">BUITM</a>
-                    <a class="dropdown-content__link" href="{{ site.baseurl }}{% link pages/about/index.md %}">News</a>
+        {% for entry in site.data.navigation %}
+            {% if entry.dropdown %}
+                <div class="dropdown">
+                    <button onclick="showLinks('{{ entry.name }}-dropdown')" class="topBar__link dropdown__button">{{ entry.name }} {%include down-arrow.html %}</button>
+                    <div id="{{ entry.name }}-dropdown" class="dropdown-content">
+                        {% for link in entry.dropdown %}
+                        <a class="dropdown-content__link" href="{{ site.baseurl }}{% link {{ link.location }} %}">{{ link.name }}</a>
+                        {% endfor %}
+                    </div>
                 </div>
-            </div>
-        <a class="topBar__link" href="http://sites.bu.edu/wtbu/podcasts/" title="Navigate to: Podcasts">Podcasts</a>
-        <div class="dropdown">
-            <button onclick="showLinks('about-dropdown')" class="topBar__link dropdown__button">About {%include down-arrow.html %}</button>
-            <div id="about-dropdown" class="dropdown-content">
-                <a class="dropdown-content__link" href="{{ site.baseurl }}{% link pages/about/schedule.html %}">Schedule</a>
-                <a class="dropdown-content__link" href="{{ site.baseurl }}{% link pages/about/index.md %}">About Us</a>
-                <a class="dropdown-content__link" href="{{ site.baseurl }}{% link pages/about/contact-us.html %}">Contact Us</a>
-                <a class="dropdown-content__link" href="{{ site.baseurl }}{% link pages/about/sponsor.md %}">Sponsor</a>
-                <a class="dropdown-content__link" href="http://sites.bu.edu/wtbu/dj/">DJ</a>
-            </div>
-        </div>
+            {% else %}
+                {% if entry.location %}
+                    <a class="topBar__link" href="{{ site.baseurl }}{% link {{ entry.location }} %}" title="Navigate to: Podcasts">{{ entry.name }}</a>
+                {% elsif entry.external %}
+                    <a class="topBar__link" href="{{ entry.external }}" title="Navigate to: Podcasts">{{ entry.name }}</a>
+                {% endif %}
+            {% endif %} 
+        {% endfor %}
     </nav>
 </header>
