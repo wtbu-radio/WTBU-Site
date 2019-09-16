@@ -6,7 +6,8 @@ let posts = fs.readdirSync('_posts')
 
 var turndownService = new TurndownService()
 
-for (let i = 0; i < 1; i++) {
+for (let i = 0; i < posts.length; i++) {
+    console.log(`_posts/${posts[i]}...`)
     let contents = fs.readFileSync(`_posts/${posts[i]}`)
     let contentString = contents.toString()
     let contentSplit = contentString.split('---')
@@ -36,10 +37,7 @@ for (let i = 0; i < 1; i++) {
     //Changing content to markdown
     contentSplit[2] = '\n' + turndownService.turndown(contentSplit[2])
     let result = contentSplit.join('---')
-    //let markdown = turndownService.turndown(contentString)
     //console.log(result)
     console.log(`_posts/${posts[i]}`.split('.')[0] + '.md' + ' is done!')
-    fs.writeFileSync(`_posts/${posts[i]}`.split('.')[0] + '.md', markdown)
+    fs.writeFileSync(`_posts/${posts[i]}`.split('.')[0] + '.md', result)
 }
-
-var markdown = turndownService.turndown('<h1>Hello world!</h1>')
