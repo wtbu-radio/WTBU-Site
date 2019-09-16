@@ -2,8 +2,10 @@ url: "https://wtburadio.org" # the base hostname & protocol for your site, e.g. 
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "WTBU Radio" # the name of your site, e.g. ACME Corp.
 
-permalink: pretty
-
 collections:
   pages:
     output: true
+    permalink: pretty
+  posts:
+    output: true
+    permalink: /posts/:year/:month/:day/:title/
