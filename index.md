@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Happy Jekylling!"
+layout: page
+title: Home
 ---
 
 ## You're ready to go!
