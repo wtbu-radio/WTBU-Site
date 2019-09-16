@@ -37,9 +37,9 @@ for (let i = 0; i < 1; i++) {
     contentSplit[2] = '\n' + turndownService.turndown(contentSplit[2])
     let result = contentSplit.join('---')
     //let markdown = turndownService.turndown(contentString)
-    console.log(result)
-    console.log(`_posts/${posts[i]}`.split('.')[0] + '.md')
-    //fs.writeFileSync(`_posts/${posts[i]}`, markdown)
+    //console.log(result)
+    console.log(`_posts/${posts[i]}`.split('.')[0] + '.md' + ' is done!')
+    fs.writeFileSync(`_posts/${posts[i]}`.split('.')[0] + '.md', markdown)
 }
 
 var markdown = turndownService.turndown('<h1>Hello world!</h1>')
