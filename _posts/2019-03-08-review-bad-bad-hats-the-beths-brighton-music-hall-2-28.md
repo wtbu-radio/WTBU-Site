@@ -8,6 +8,8 @@ tags:
 - brighton music hall
 - photos
 - the beths
+meta:
+  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:40:"http://sites.bu.edu/wtbu/files/2019/03/bbh-blue-large-2.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3992";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu

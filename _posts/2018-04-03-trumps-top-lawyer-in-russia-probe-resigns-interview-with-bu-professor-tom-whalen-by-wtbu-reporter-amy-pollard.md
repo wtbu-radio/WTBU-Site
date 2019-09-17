@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Trump's top lawyer in Russia probe resigns: interview with BU professor Tom"
+title: 'Trump''s top lawyer in Russia probe resigns: interview with BU professor Tom
 categories:
 - News
 tags: []
+meta:
+  _bu_banner: |-
 author:
   login: ascholzc
   email: ascholzc@bu.edu

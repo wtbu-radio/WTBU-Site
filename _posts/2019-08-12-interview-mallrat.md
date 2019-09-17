@@ -12,6 +12,8 @@ tags:
 - osheaga festival
 - osheaga music and arts festival
 - osheaga music festival
+meta:
+  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:31:"http://sites.bu.edu/wtbu/files/2019/08/mallrat.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5208";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu

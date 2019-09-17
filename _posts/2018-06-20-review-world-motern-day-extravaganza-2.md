@@ -10,6 +10,8 @@ tags:
 - world motern day extravaganza 2
 - wtbu
 - youtube
+meta:
+  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu

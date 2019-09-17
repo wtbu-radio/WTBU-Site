@@ -4,6 +4,8 @@ title: 'REVIEW: Shinner, Strange Weekend 1/3'
 categories:
 - Music Reviews
 tags: []
+meta:
+  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:70:"http://sites.bu.edu/wtbu/files/2019/01/21752918_404752599937898_1046658248796087408_o.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3450";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: thornt17
   email: thornt17@bu.edu

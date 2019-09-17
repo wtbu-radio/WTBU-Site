@@ -4,6 +4,8 @@ title: Guyclaude on BU in the Morning
 categories:
 - BUITM
 tags: []
+meta:
+  _bu_banner: |-
 author:
   login: adrianbt
   email: adrianbt@bu.edu

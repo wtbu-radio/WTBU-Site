@@ -11,6 +11,8 @@ tags:
 - mat kearney
 - preview
 - wtbu
+meta:
+  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu

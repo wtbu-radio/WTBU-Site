@@ -8,6 +8,8 @@ tags:
 - jamila woods
 - maya mabern
 - photos
+meta:
+  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:39:"http://sites.bu.edu/wtbu/files/2019/06/jamila-woods-13.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4810";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu

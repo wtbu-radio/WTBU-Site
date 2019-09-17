@@ -5,6 +5,8 @@ categories:
 - Interviews
 tags:
 - remember sports
+meta:
+  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:112:"http://sites.bu.edu/wtbu/files/2019/04/remember-sports-carly-hoskins-web_wide-95ca8c10babb255a02c7f698df8fda0369c7ceab-s800-c85.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4144";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu

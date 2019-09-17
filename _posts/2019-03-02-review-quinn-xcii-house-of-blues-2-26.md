@@ -8,6 +8,8 @@ tags:
 - christian french
 - house of blues
 - quinn xcii
+meta:
+  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:68:"http://sites.bu.edu/wtbu/files/2019/03/quinn-xcii-tickets_03-29-19_17_5bdccbef1b43a.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3932";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu

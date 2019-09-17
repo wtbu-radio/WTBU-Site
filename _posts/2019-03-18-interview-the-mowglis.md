@@ -6,6 +6,8 @@ categories:
 tags:
 - interview. colin dieden
 - the mowglis
+meta:
+  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:42:"http://sites.bu.edu/wtbu/files/2019/03/THEMOWGLI_1600x900.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4013";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu

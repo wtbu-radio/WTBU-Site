@@ -10,6 +10,8 @@ tags:
 - review
 - st. vincent
 - wtbu
+meta:
+  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu

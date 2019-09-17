@@ -9,6 +9,8 @@ tags:
 - olivia gehrke
 - our lady peace
 - rockland trust pavilion
+meta:
+  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:98:"http://sites.bu.edu/wtbu/files/2019/06/75d5f6e2-87be-41a5-b137-ecb7584ef6fc-Main_ShotLIVE_by_Clay_Patrick_McBride.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4829";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
