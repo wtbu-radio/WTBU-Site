@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REVIEW: The A-Beez, Emily Elbert, Camille Merendail, DJ L''Duke @ Isabella
+title: "REVIEW: The A-Beez, Emily Elbert, Camille Merendail, DJ L'Duke @ Isabella Stewart Gardner Museum"
 categories:
 - Music Reviews
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REVIEW: Esperanza Spalding, Ysaye Barnwell @ Isabella Stewart Gardner Museum
+title: "REVIEW: Esperanza Spalding, Ysaye Barnwell @ Isabella Stewart Gardner Museum"
 categories:
 - Music Reviews
 tags:

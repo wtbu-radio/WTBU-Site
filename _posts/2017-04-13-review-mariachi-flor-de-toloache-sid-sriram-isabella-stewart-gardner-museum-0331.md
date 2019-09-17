@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REVIEW: Mariachi Flor de Toloache, Sid Sriram @ Isabella Stewart Gardner Museum
+title: "REVIEW: Mariachi Flor de Toloache, Sid Sriram @ Isabella Stewart Gardner Museum"
 categories:
 - Music Reviews
 tags:

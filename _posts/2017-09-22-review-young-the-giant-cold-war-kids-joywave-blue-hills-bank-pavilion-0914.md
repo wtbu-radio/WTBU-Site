@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REVIEW: Young the Giant, Cold War Kids, Joywave @ Blue Hills Bank Pavilion
+title: "REVIEW: Young the Giant, Cold War Kids, Joywave @ Blue Hills Bank Pavilion"
 categories:
 - Music Reviews
 tags:

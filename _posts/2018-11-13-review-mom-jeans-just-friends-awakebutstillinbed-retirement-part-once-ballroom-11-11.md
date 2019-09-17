@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REVIEW: Mom Jeans., Just Friends, awakebutstillinbed, Retirement Part @ ONCE
+title: "REVIEW: Mom Jeans., Just Friends, awakebutstillinbed, Retirement Part @ ONCE Ballroom"
 categories:
 - Music Reviews
 tags:

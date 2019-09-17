@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trump''s top lawyer in Russia probe resigns: interview with BU professor Tom
+title: "Trump's top lawyer in Russia probe resigns: interview with BU professor Tom Whalen"
 categories:
 - News
 tags: []

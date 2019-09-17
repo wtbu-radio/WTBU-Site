@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REVIEW: Jazz at Lincoln Center Orchestra: Celebrating the Jazz Drum @ Boston
+title: "REVIEW: Jazz at Lincoln Center Orchestra: Celebrating the Jazz Drum @ Boston Symphony Hall"
 categories:
 - Music Reviews
 tags:

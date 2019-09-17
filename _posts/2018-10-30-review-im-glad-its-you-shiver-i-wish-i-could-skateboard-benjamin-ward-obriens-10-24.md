@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REVIEW: I''m Glad It''s You, shiver., I Wish I Could Skateboard, Benjamin
+title: "REVIEW: I'm Glad It's You, shiver., I Wish I Could Skateboard, Benjamin"
 categories:
 - Music Reviews
 tags:

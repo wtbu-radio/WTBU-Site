@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REVIEW: Julia Easterlin, Knower, Safiyyah Johnson @ Isabella Stewart Gardner
+title: "REVIEW: Julia Easterlin, Knower, Safiyyah Johnson @ Isabella Stewart Gardner Museum"
 categories:
 - Music Reviews
 tags:

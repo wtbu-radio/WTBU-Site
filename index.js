@@ -22,6 +22,8 @@ for (let i = 0; i < posts.length; i++) {
             frontmatter[j].startsWith('categories') ||
             frontmatter[j].startsWith('tags') ||
             frontmatter[j].startsWith('-') ||
+            frontmatter[j].startsWith('meta:') ||
+            frontmatter[j].startsWith('  _bu_banner') ||
             frontmatter[j].startsWith('author') ||
             frontmatter[j].startsWith('  login') ||
             frontmatter[j].startsWith('  email') ||

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REVIEW: Acid Mothers Temple, Aura Mismo, YAMANTAKA // SONIC TITAN @ Great
+title: "REVIEW: Acid Mothers Temple, Aura Mismo, YAMANTAKA // SONIC TITAN @ Great Scott"
 categories:
 - Music Reviews
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REVIEW: Terri Lyne Carrington, Jas Kayser @ Isabella Stewart Gardner Museum
+title: "REVIEW: Terri Lyne Carrington, Jas Kayser @ Isabella Stewart Gardner Museum"
 categories:
 - Music Reviews
 tags:

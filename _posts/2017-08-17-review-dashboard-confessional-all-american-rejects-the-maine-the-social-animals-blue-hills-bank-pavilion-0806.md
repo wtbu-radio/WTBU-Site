@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REVIEW: Dashboard Confessional, All-American Rejects, The Maine, The Social
+title: "REVIEW: Dashboard Confessional, All-American Rejects, The Maine, The Social"
 categories:
 - Music Reviews
 tags:

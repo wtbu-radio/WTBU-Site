@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PREVIEW: Potty Mouth, PARTYBABY, Tennis System, Gravel @ Middle East Upstairs
+title: "PREVIEW: Potty Mouth, PARTYBABY, Tennis System, Gravel @ Middle East Upstairs"
 categories:
 - Music Reviews
 tags:
