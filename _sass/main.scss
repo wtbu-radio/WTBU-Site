@@ -23,5 +23,5 @@ $footer-color: #888;
 @import '_normalize';
 @import 'typography';
 
-@import 'footer', 'header';
-@import 'wp-custom';
+@import 'footer', 'header', 'home';
+@import 'pages';
