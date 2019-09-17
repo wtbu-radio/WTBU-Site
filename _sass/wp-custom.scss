@@ -23,6 +23,12 @@ img {
 	padding: 16px;
 }
 
+.content__post {
+	margin: auto;
+	max-width: 768px;
+	padding: 16px;
+}
+
 .page__header {
 	text-align: center;
 }
@@ -42,6 +48,7 @@ img {
 	margin: 0;
 }
 
+/* Contact Us */
 .staff-title {
 	font-size: 2em;
 	font-family: 'Benton';
@@ -67,7 +74,7 @@ img {
 	text-align: center;
 }
 
-/* podcasts */
+/* Podcasts */
 td {width: 50%} 
 
 .podcast-thumbnail { width: 100%; height:auto; }
