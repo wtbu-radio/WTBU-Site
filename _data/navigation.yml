@@ -1,19 +1,21 @@
 - name: Music
   dropdown: 
   - name: Music Reviews
-    location: pages/about/index.md
+    location: pages/music/music-reviews.md
   - name: Show Previews
-    location: pages/about/index.md
+    location: pages/music/show-previews.md
   - name: Interviews
-    location: pages/about/index.md
+    location: pages/music/interviews.md
   - name: Left of the Dial
     location: pages/music/lotd.md
   - name: In-Studios
     location: pages/music/sessions.md
+  - name: Show All
+    location: pages/music/show-all.html
 - name: Sports
   external: https://sportswtbu.com
 - name: The Beat
-  location: pages/about/index.md
+  location: pages/the-beat.html
 - name: Talk
   dropdown:
   - name: BUITM
