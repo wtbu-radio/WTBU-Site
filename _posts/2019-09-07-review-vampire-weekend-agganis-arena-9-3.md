@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 'REVIEW: Vampire Weekend @ Agganis Arena 9/3'
+image: 
+  src: http://sites.bu.edu/wtbu/files/2019/09/fullsizeoutput_6346.jpeg
+  alt: Vampire Weekend
 categories:
 - Music Reviews
 tags:
@@ -9,17 +12,13 @@ tags:
 - photos
 - review
 - vampire weekend
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:44:"http://sites.bu.edu/wtbu/files/2019/09/fullsizeoutput_6346.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5289";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Caroline Barry
+  first_name: Caroline
+  last_name: Barry
 ---
-_By Caroline Barry_
-
 Back and bigger than ever: on Tuesday, September 3, longtime indie-rock kings Vampire Weekend made their return to Boston after six years, this time with a whole new cast of supporting musicians, an album chock full of adventurous styles, and a giant inflatable frog.
 
 _Father of the Bride_ dropped on May 3, 2019, almost exactly six years since the release of their third album _Modern Vampires of the City_. More than half of the songs feature new writers and producers, such as Mark Ronson and Hans Zimmer (yes, THAT iconic film composer). Similar to _MVOTC_, the new album has a strong narrative. Frontman Ezra Koenig continues his religious contemplation, but complicates it even further with thoughts of domestic commitments and devolving cities. On my own time, I have constructed a complex conspiracy theory that _FOTB_ tells a tale of empowerment against the rise of Neo-Nazism while simultaneously reflecting on the moral injustices the Allies committed during WWII from the Eastern European perspective. But that’s an argument for another show review.

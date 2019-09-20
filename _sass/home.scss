@@ -1,0 +1,46 @@
+.post-listing {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px;
+}
+
+.post-listing__image {
+    float: left;
+    display: block;
+    height: auto;
+    width: 100%;
+    flex: 1 1 400px;
+}
+
+.post-listing__details {
+    width: 100%;
+    padding: 16px;
+    flex: 1 1 400px;
+    vertical-align: middle;
+
+    > h3 {
+        margin-top: 0px;
+        margin-bottom: 8px;
+    }
+
+    > h4 {
+        color: $footer-color;
+        margin-top: 8px;
+    }
+}
+
+.post-listing__button {
+    background-color: $main-color;
+    border: none;
+    border-radius: 16px;
+    padding: 16px;
+    color: $background-color;
+    text-align: center;
+    text-decoration: none;
+    @include heading-font;
+    display: block;
+    margin: auto;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+

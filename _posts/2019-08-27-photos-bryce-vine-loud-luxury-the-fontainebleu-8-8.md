@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 'PHOTOS: Bryce Vine, Loud Luxury @ The Fontainebleu 8/8'
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/08/P1060472.jpg
+  alt: Bryce Vine
 categories:
 - Music Reviews
 tags:
@@ -10,17 +13,13 @@ tags:
 - photos
 - review
 - the fontainebleu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:32:"http://sites.bu.edu/wtbu/files/2019/08/P1060472.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5248";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Madeleine Salman
+  first_name: Madeleine
+  last_name: Salman
 ---
-_By Madeleine Salman_
-
 What do you get when you combine Bikinis, Bacardi, and a great live performance?
 
 This past Thursday, Y100 Miami collaborated with Bryce Vine and Loud Luxury to throw the pool party of the year at the legendary Fontainebleau Hotel in Miami Beach. The day kicked off at 2 pm with party on the Arkadia pool deck with specialty cocktails, a local DJ, and several oversized beachballs.

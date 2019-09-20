@@ -12,11 +12,11 @@
     {% include header.html %}
     <div class="content">
       <div class="page__header">
-        <div class="page__logo">{% include wtbu-vector.html %}</div>
-        <h3 class="page__tagline"> The Beat of Boston University | WTBURadio.org</h3>
+        {% if '{{ page.image }}' %}<img class="post__image__main" src="{{ page.image.src }}" alt="{{ page.image.alt }}"> {% endif %}
+        <h1>{{ page.title }}</h1>
       </div>
       <div class="content__post">
-        <h1>{{ page.title }}</h1>
+        <p><i>By {{ page.author.display_name }}<br>{{ page.date | date: "%B %-d, %Y" }}</i></p>
         {{ content }}
       </div>
     </div>

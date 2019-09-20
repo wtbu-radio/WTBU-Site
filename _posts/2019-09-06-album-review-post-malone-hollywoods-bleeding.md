@@ -1,6 +1,9 @@
 ---
 layout: post
-title: 'ALBUM REVIEW: Post Malone — Hollywood''s Bleeding'
+title: "ALBUM REVIEW: Post Malone — Hollywood's Bleeding"
+image: 
+  src: http://sites.bu.edu/wtbu/files/2019/09/Post-Malone.jpg
+  alt: 'Post Malone'
 categories:
 - Music Reviews
 tags:
@@ -8,17 +11,13 @@ tags:
 - hollywood's bleeding
 - jarrad levy
 - post malone
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:35:"http://sites.bu.edu/wtbu/files/2019/09/Post-Malone.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5283";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 ---
-_By Jarrad Levy_
-
 Post Malone is weird. I think he is one of the most unique and talented artists in the sphere of modern pop music… when he’s on. Despite the fact that songs like “Sunflower,” “Psycho,” and “Stay” are artistically brilliant and represent his variability of styles and sounds, the gems of Post Malone’s catalogue are few and far between, and on his third album, _Hollywood’s Bleeding_, Post Malone once again produces some really awesome individual songs, but fails to craft a truly excellent album.
 
 The opening and titular song of _Hollywood’s Bleeding_ is fantastic, with a hauntingly beautiful opening and a chilling beat switch that transitions the song into a club banger. The track is entirely unique and has quickly become a favorite song of mine in Post’s arsenal. Post Malone continues the trend of unique songs with tracks like “Saint-Tropez” — where he retains his signature, auto-tuned and downer style, but is able to detach his vocals from the backing tracks at certain points to keep his sound unique — and “Take What  You Want” — where Ozzy Osbourne is not only a vocal feature, but scorches the listener with an electric guitar solo. It is in these unique songs that a listener can really see that unlike many other pop artists and rappers, Post Malone is a student of music and truly appreciates the greats who came before him (check out him covering Oasis’ “Don’t Look Back in Anger” with Twenty One Pilots from Reading & Leeds Festival [here](https://www.youtube.com/watch?v=zrHn4Vug7IA)).

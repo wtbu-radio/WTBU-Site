@@ -1,10 +1,8 @@
 <header role="banner">
     <nav class="topBar clearfix" role="navigation">
-        <div class="home-button">
-            <a href="{{ site.baseurl }}/">
+        <a href="{{ site.baseurl }}/"><div class="home-button">
                <div class="home-button__icon">{% include wtbu-vector.html %}</div>
-            </a>
-        </div>
+        </div></a>
         {% for entry in site.data.navigation %}
             {% if entry.dropdown %}
                 <div class="dropdown">
@@ -17,7 +15,7 @@
                 </div>
             {% else %}
                 {% if entry.location %}
-                    <a class="topBar__link" href="{{ site.baseurl }}{% link {{ entry.location }} %}" title="Navigate to: Podcasts">{{ entry.name }}</a>
+                    <a class="topBar__link" target="_blank" rel="noopener noreferrer" href="{{ site.baseurl }}{% link {{ entry.location }} %}" title="Navigate to: Podcasts">{{ entry.name }}</a>
                 {% elsif entry.external %}
                     <a class="topBar__link" href="{{ entry.external }}" title="Navigate to: Podcasts">{{ entry.name }}</a>
                 {% endif %}

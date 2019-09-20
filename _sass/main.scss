@@ -20,6 +20,34 @@ $body-font: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-ser
 $main-color: #dd3333;
 $footer-color: #888;
 
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Old, extra safe backup clearfix 
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+html[xmlns] .clearfix {
+    display: block;
+}
+
+* html .clearfix {
+    height: 1%;
+} */
+
 @import '_normalize';
 @import 'typography';
 

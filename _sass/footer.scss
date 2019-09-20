@@ -16,7 +16,7 @@
 	}
 }
 
-.siteFooter__link {
+.siteFooter__link, .siteFooter__link:visited {
 	text-decoration: none;
 	color:$footer-color;
 }
