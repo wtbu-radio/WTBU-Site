@@ -11,3 +11,5 @@ gem "jekyll-import", "~> 0.19.0"
 gem "open_uri_redirections", "~> 0.2.1"
 
 gem "normalize-scss", "~> 7.0"
+
+gem "jekyll-paginate-v2", "~> 1.5"
