@@ -1,38 +1,38 @@
 - name: Music
   dropdown: 
   - name: Music Reviews
-    location: pages/music/music-reviews.md
+    location: /pages/music/music-reviews
   - name: Show Previews
-    location: pages/music/show-previews.md
+    location: /pages/music/show-previews
   - name: Interviews
-    location: pages/music/interviews.md
+    location: /pages/music/interviews
   - name: Left of the Dial
-    location: pages/music/lotd.md
+    location: /pages/music/lotd
   - name: In-Studios
-    location: pages/music/sessions.md
+    location: /pages/music/sessions
   - name: Show All
-    location: pages/music/show-all.html
+    location: /pages/music/show-all
 - name: Sports
   external: https://sportswtbu.com
 - name: The Beat
-  location: pages/the-beat.html
+  location: /pages/the-beat
 - name: Talk
   dropdown:
   - name: BUITM
-    location: pages/talk/bu-in-the-morning.md
+    location: /pages/talk/bu-in-the-morning
   - name: News
-    location: pages/talk/news.md
+    location: /pages/talk/news
 - name: Podcasts
-  location: pages/podcasts.html
+  location: /pages/podcasts
 - name: About
   dropdown:
   - name: Schedule
-    location: pages/about/schedule.html
+    location: /pages/about/schedule
   - name: About Us
-    location: pages/about/index.md
+    location: /pages/about/index
   - name: Contact Us
-    location: pages/about/contact-us.html
+    location: /pages/about/contact-us
   - name: Sponsor
-    location: pages/about/sponsor.md
+    location: /pages/about/sponsor
   - name: Donate
-    location: pages/about/donate.md
+    location: /pages/about/donate
