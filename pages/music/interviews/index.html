@@ -1,0 +1,34 @@
+---
+layout: page
+title: Interviews
+pagination: 
+  enabled: true
+  category: Interviews
+---
+
+{% for post in paginator.posts %}
+  <div class="post-listing">
+    {% if post.image %} <div class="post-listing__image"><a href="{{ post.url }}"><img src="{{ post.image.src }}" alt="{{ post.image.alt }}"></a></div> {% endif %}
+    <div class="post-listing__details">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <h4>By {{post.author.display_name }} on {{ post.date | date: "%B %-d, %Y" }}</h4>
+        <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</p>
+        <button class="post-listing__button" onclick="window.location.href = '{{ post.url }}';">Read More</button>
+    </div>
+  </div>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<ul>
+  {% if paginator.previous_page %}
+  <li>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
