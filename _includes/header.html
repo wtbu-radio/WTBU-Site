@@ -9,15 +9,15 @@
                     <button onclick="showLinks('{{ entry.name }}-dropdown')" class="topBar__link dropdown__button">{{ entry.name }} {%include down-arrow.html %}</button>
                     <div id="{{ entry.name }}-dropdown" class="dropdown-content">
                         {% for url in entry.dropdown %}
-                        <a class="dropdown-content__link" href="{{ site.url }}{{ url.location }}">{{ url.name }}</a>
+                        <a class="dropdown-content__link" href="{{ site.url }}{{ url.location }}" title="Navigate to: {{ url.name }}">{{ url.name }}</a>
                         {% endfor %}
                     </div>
                 </div>
             {% else %}
                 {% if entry.location %}
-                    <a class="topBar__link" target="_blank" rel="noopener noreferrer" href="{{ site.url }}{{ entry.location }}" title="Navigate to: Podcasts">{{ entry.name }}</a>
+                    <a class="topBar__link" target="_blank" rel="noopener noreferrer" href="{{ site.url }}{{ entry.location }}" title="Navigate to: {{ entry.name }}">{{ entry.name }}</a>
                 {% elsif entry.external %}
-                    <a class="topBar__link" href="{{ entry.external }}" title="Navigate to: Podcasts">{{ entry.name }}</a>
+                    <a class="topBar__link" href="{{ entry.external }}" title="Navigate to: {{ entry.name }}">{{ entry.name }}</a>
                 {% endif %}
             {% endif %} 
         {% endfor %}
