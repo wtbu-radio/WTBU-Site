@@ -12,6 +12,8 @@ collections:
 
 plugins: [jekyll-paginate-v2]
 
+exclude: ['post-converter']
+
 
 # Site configuration for the Jekyll 3 Pagination Gem
 pagination:
