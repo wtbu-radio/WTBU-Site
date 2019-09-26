@@ -11,7 +11,7 @@ author:
   first_name: Emily
   last_name: Frantz
 image:
-  src: {{ site.baseurl }}/assets/IMG_4142-2-636x477.jpg
+  src: /assets/IMG_4142-2-636x477.jpg
   alt: post lead image
 ---
 

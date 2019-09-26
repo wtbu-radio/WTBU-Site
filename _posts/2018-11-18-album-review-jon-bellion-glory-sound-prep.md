@@ -18,7 +18,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/jon-bellion-glory-sound-prep-capitol-1024x1024.jpg
+  src: /assets/jon-bellion-glory-sound-prep-capitol-1024x1024.jpg
   alt: post lead image
 ---
 

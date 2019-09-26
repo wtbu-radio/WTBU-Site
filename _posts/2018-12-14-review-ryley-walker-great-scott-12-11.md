@@ -11,7 +11,7 @@ author:
   first_name: ''
   last_name: ''
 image:
-  src: {{ site.baseurl }}/assets/Ryley_walker_SG-2938-1525815705-1500x1000-636x424.jpg
+  src: /assets/Ryley_walker_SG-2938-1525815705-1500x1000-636x424.jpg
   alt: post lead image
 ---
 

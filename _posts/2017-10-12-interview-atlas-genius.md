@@ -16,7 +16,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/Atlas-Genius-credit-Anna-Maria-Lopez_preview-633x636.png
+  src: /assets/Atlas-Genius-credit-Anna-Maria-Lopez_preview-633x636.png
   alt: post lead image
 ---
 

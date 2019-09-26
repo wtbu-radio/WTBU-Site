@@ -18,7 +18,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/jimi-hendrix-both-sides-of-the-sky-636x344.jpg
+  src: /assets/jimi-hendrix-both-sides-of-the-sky-636x344.jpg
   alt: post lead image
 ---
 

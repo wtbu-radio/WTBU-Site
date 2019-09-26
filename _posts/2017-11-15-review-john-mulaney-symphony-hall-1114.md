@@ -19,7 +19,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/JohnMulaneyBSO_ArtistPage.jpg
+  src: /assets/JohnMulaneyBSO_ArtistPage.jpg
   alt: post lead image
 ---
 

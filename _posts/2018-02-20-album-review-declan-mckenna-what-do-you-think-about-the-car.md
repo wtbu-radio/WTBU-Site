@@ -16,7 +16,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/9df5d48735ce27933a24_Sophie-Green-636x517.jpg
+  src: /assets/9df5d48735ce27933a24_Sophie-Green-636x517.jpg
   alt: post lead image
 ---
 

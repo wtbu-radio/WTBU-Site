@@ -20,7 +20,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/STLUCIA_HYPERION_COVER-1024x1024.jpg
+  src: /assets/STLUCIA_HYPERION_COVER-1024x1024.jpg
   alt: post lead image
 ---
 

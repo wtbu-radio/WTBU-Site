@@ -22,7 +22,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/Miracle-on-Lansdowne-Featured-Image.jpg
+  src: /assets/Miracle-on-Lansdowne-Featured-Image.jpg
   alt: post lead image
 ---
 

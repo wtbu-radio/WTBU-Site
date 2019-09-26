@@ -16,7 +16,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/tumblr_inline_oezvpoVK4S1swxv3i_500-e1489450077229.png
+  src: /assets/tumblr_inline_oezvpoVK4S1swxv3i_500-e1489450077229.png
   alt: post lead image
 ---
 

@@ -17,7 +17,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/brockhampton-636x477.jpg
+  src: /assets/brockhampton-636x477.jpg
   alt: post lead image
 ---
 

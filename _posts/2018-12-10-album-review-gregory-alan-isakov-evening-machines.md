@@ -19,7 +19,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/Gregory-Alan-Isakov-1170x650-1024x569.jpg
+  src: /assets/Gregory-Alan-Isakov-1170x650-1024x569.jpg
   alt: post lead image
 ---
 

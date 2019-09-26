@@ -19,7 +19,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/Pinkwall2-424x636.jpg
+  src: /assets/Pinkwall2-424x636.jpg
   alt: post lead image
 ---
 

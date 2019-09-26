@@ -17,7 +17,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/Dead-Company-Summer-2017-Crop.jpg
+  src: /assets/Dead-Company-Summer-2017-Crop.jpg
   alt: post lead image
 ---
 

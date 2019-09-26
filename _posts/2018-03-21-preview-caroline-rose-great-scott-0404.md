@@ -19,7 +19,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/LONER_COVER_900x900_RGB_preview_1024x1024.jpg
+  src: /assets/LONER_COVER_900x900_RGB_preview_1024x1024.jpg
   alt: post lead image
 ---
 

@@ -18,7 +18,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/22834-SimritWoods-138-Edit-636x424.jpg
+  src: /assets/22834-SimritWoods-138-Edit-636x424.jpg
   alt: post lead image
 ---
 

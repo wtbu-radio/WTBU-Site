@@ -18,7 +18,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/togetherpangea_bullsroosters_3600-1497470387-640x640-636x636.png
+  src: /assets/togetherpangea_bullsroosters_3600-1497470387-640x640-636x636.png
   alt: post lead image
 ---
 

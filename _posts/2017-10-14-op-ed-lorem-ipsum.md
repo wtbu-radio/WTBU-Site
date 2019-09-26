@@ -16,7 +16,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/succulents-1993396_1280-636x424.jpg
+  src: /assets/succulents-1993396_1280-636x424.jpg
   alt: post lead image
 ---
 

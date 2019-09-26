@@ -20,7 +20,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/The-Neighbourhood-1.jpg
+  src: /assets/The-Neighbourhood-1.jpg
   alt: post lead image
 ---
 

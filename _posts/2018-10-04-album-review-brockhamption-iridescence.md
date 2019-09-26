@@ -19,7 +19,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/brockhampton-iridescence-1024x1024.jpg
+  src: /assets/brockhampton-iridescence-1024x1024.jpg
   alt: post lead image
 ---
 

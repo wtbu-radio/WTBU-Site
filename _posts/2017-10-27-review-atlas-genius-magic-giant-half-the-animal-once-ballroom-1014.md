@@ -18,7 +18,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/atlas-genius-10.14.17-125-424x636.jpg
+  src: /assets/atlas-genius-10.14.17-125-424x636.jpg
   alt: post lead image
 ---
 

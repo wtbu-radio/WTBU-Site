@@ -17,7 +17,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/rockfest18_afficheWEB_FINAL_en-773x1024.jpg
+  src: /assets/rockfest18_afficheWEB_FINAL_en-773x1024.jpg
   alt: post lead image
 ---
 

@@ -17,7 +17,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/08-Famous-Phone-Figure-mp3-image.jpg
+  src: /assets/08-Famous-Phone-Figure-mp3-image.jpg
   alt: post lead image
 ---
 

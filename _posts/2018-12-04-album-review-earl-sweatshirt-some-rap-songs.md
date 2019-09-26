@@ -19,7 +19,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/Earl-Sweatshirt-Some-Rap-Songs-1543858883-compressed.png
+  src: /assets/Earl-Sweatshirt-Some-Rap-Songs-1543858883-compressed.png
   alt: post lead image
 ---
 

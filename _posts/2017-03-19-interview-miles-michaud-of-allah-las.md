@@ -17,7 +17,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/Allah-Las_204015-613x636.jpg
+  src: /assets/Allah-Las_204015-613x636.jpg
   alt: post lead image
 ---
 

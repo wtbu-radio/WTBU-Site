@@ -17,7 +17,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/twofreindsgood-636x424.jpg
+  src: /assets/twofreindsgood-636x424.jpg
   alt: post lead image
 ---
 

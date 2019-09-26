@@ -18,7 +18,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/Little_Dark_Age-636x636.jpg
+  src: /assets/Little_Dark_Age-636x636.jpg
   alt: post lead image
 ---
 

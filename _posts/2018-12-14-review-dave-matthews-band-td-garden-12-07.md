@@ -16,7 +16,7 @@ author:
   first_name: ''
   last_name: ''
 image:
-  src: {{ site.baseurl }}/assets/dave-matthews-band-2018-press-crop-updated-1480x779-636x335.jpg
+  src: /assets/dave-matthews-band-2018-press-crop-updated-1480x779-636x335.jpg
   alt: post lead image
 ---
 

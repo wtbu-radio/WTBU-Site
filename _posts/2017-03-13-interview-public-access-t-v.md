@@ -16,7 +16,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/BookScanStation-2017-02-25-03-16-14-PM0002-636x486.jpg
+  src: /assets/BookScanStation-2017-02-25-03-16-14-PM0002-636x486.jpg
   alt: post lead image
 ---
 

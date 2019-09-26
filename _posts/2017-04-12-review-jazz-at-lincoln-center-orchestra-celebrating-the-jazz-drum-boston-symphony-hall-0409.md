@@ -18,7 +18,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/jlco.jpg
+  src: /assets/jlco.jpg
   alt: post lead image
 ---
 

@@ -16,7 +16,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/alex-green-636x424.jpg
+  src: /assets/alex-green-636x424.jpg
   alt: post lead image
 ---
 

@@ -18,7 +18,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/TANK-636x491.jpg
+  src: /assets/TANK-636x491.jpg
   alt: post lead image
 ---
 

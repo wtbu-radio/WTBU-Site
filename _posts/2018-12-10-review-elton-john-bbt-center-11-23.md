@@ -19,7 +19,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/elton-john-farewell-tour-1518020471-list-handheld-0.jpg
+  src: /assets/elton-john-farewell-tour-1518020471-list-handheld-0.jpg
   alt: post lead image
 ---
 

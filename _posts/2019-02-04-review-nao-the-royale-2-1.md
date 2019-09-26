@@ -14,7 +14,7 @@ author:
   first_name: ''
   last_name: ''
 image:
-  src: {{ site.baseurl }}/assets/IMG_9838-613x1024.jpg
+  src: /assets/IMG_9838-613x1024.jpg
   alt: post lead image
 ---
 

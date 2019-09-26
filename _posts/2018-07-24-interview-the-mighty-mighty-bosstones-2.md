@@ -19,7 +19,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/001_MMBosstones_A_LisaJohnson_HiRes-1024x715.jpg
+  src: /assets/001_MMBosstones_A_LisaJohnson_HiRes-1024x715.jpg
   alt: post lead image
 ---
 

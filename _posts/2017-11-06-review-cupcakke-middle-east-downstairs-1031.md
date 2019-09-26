@@ -19,7 +19,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/cupcakke-477x636.jpg
+  src: /assets/cupcakke-477x636.jpg
   alt: post lead image
 ---
 

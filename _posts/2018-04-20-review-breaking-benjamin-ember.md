@@ -18,7 +18,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/fb_meta_ember_breaking_benjamin-636x332.jpg
+  src: /assets/fb_meta_ember_breaking_benjamin-636x332.jpg
   alt: post lead image
 ---
 

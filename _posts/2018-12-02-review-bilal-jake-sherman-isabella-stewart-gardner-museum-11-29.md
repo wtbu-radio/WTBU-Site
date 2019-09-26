@@ -19,7 +19,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/11066550_1002689603097310_4678862268600321366_n.jpg
+  src: /assets/11066550_1002689603097310_4678862268600321366_n.jpg
   alt: post lead image
 ---
 

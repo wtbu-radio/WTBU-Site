@@ -16,7 +16,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/weezer-pacific-daydream-new-album-636x636.jpg
+  src: /assets/weezer-pacific-daydream-new-album-636x636.jpg
   alt: post lead image
 ---
 

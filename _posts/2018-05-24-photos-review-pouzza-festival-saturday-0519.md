@@ -20,7 +20,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/anti-queens-1-636x357.jpg
+  src: /assets/anti-queens-1-636x357.jpg
   alt: post lead image
 ---
 

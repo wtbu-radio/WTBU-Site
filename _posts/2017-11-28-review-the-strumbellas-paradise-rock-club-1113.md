@@ -17,7 +17,7 @@ author:
   first_name: Olivia
   last_name: Gehrke
 image:
-  src: {{ site.baseurl }}/assets/HopeVinylCoverArtFinal-636x636.jpg
+  src: /assets/HopeVinylCoverArtFinal-636x636.jpg
   alt: post lead image
 ---
 
