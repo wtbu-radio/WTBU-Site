@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Archelle Thelemaque
+  first_name: Archelle
+  last_name: Thelemaque
 image:
   src: /assets/janelle-636x235.jpg
   alt: post lead image
 ---
-
 Janelle Monae is back as she takes on a journey through the past, present, and future of America.
 
 _Dirty Computers_ is simultaneously her ode and lamentation to a society where she can express herself freely, but does so with critique waiting around the corner to pounce on her very freedom of expression.  Her 2018 album grapples with the intersection of being a sexually awakened, Black, queer woman in world that regards such as an anomaly.
@@ -34,5 +33,3 @@ Contrary to the façade of fun “Screwed” presents, Monae fades into “Djang
 Monae spends much of the album exploring the themes of sexual liberation and defining her identity, but “Don’t Judge Me” lends her the platform to bring emotional vulnerability to the table. Monae wants sex and lots of it, but she still yearns for intimacy, and “Don’t Judge Me” is that confession. The R&B number is Monae’s tribute to Prince with her suave verses and smooth funk sound. The track is bass-heavy and doused with soft guitar riffs to create a delicate setting to question the legitimacy of relationships dominated by sex. “_Even though ya tell me ya love me / I’m afraid that you just love my disguise,_” she sings in the chorus. Monae is the most vulnerable here, and she draws a sharp juxtaposition between the brute Django Jane she presents and this insecure woman hiding behind a cold exterior. “Don’t Judge Me” demonstrates the complexity of Monae, not only as an artist, but as an individual.
 
 Monae makes room for a queer, Black woman in the world with _Dirty Computers_. Her songs are cathartic, and she engages in honest conversation around issues regarding race, gender, and sexuality. She concludes with “Americans,” an up-beat, gospel-meets-country song that allows her to stake a claim in this world. She says, “_Don’t try to take my country / I will defend my land / I’m not crazy, baby / No I’m American._” In an America that does not capture all the intersections of its population, Monae makes her case to say that she is an American, regardless of what others have to say. _Dirty Computers_ is her moment to present her qualms and find liberation in an America not quite fit for her. It is her real-life Declaration of Independence to have the freedom to be whomever she decides.
-
-_\-Archelle Thelemaque_

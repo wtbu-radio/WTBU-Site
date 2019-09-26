@@ -10,18 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Kristen Berg
+  first_name: Kristen
+  last_name: Berg
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/LP2.jpg
   alt: post lead image
 ---
-
-_By Kasia Jezak_
-
-_Photos by Kristen Berg_
-
 On Presidents’ Day, LP brought her _Heart to Mouth_ tour to the House of Blues, Boston, and performed in front of a mystified crowd especially overflowing with women of all ages, bringing a delightful, juicy female energy to the gig. LP was nowhere to be seen until about two hours after doors opened to the public, but the stage was already illuminated with blue and purple light, and soon, fabric screens displaying projections of forests were installed to heighten the magic of the performance.
 
 As opener Korey Dane promised at the end of his act, watching LP perform live is a mystical experience that could never truly be matched by listening to her recorded music. There’s just something about hearing the raw texture of someone’s voice in a live performance that is so special; you are able to hear all of the bare and undistorted elements of LP’s unique voice that is impossible to experience in listening to recordings. The New York-born singer appeared onstage fashionably late, and fashionably in general, clad in a bright blue collared shirt, a red vest with a star pin, colorful beads, and a bandana to hold back her signature shaggy curls. Under the vibrant and dramatic lights, LP resembled the lovechild of a male rock star from the 70s and a Sapphic goddess. She started off the show with the first song from her _Heart to Mouth_ album, the haunting piece “Dreamcatcher.”

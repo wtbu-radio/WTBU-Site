@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Temma Pelletier
+  first_name: Temma
+  last_name: Pelletier
 image:
   src: /assets/Tank-636x476.png
   alt: post lead image
 ---
-
 Tank and the Bangas had a sold-out crowd at the Sinclair jumping, dancing, and trying to sing along to genre-defying songs at lightning speeds. The New Orleans-based band combines all the best musical influences of the city, lacing together jazz, funk, and hip-hop with a Cajun influence.
 
 On top of that, though, what really sets the band apart is its lead singer, Tarriona “Tank” Ball. Tank was originally a spoken word poet, and it shows in the band’s clever lyrics and unique flow. Tank effortlessly delivers rhythmically complicated lines, often in a conversational style with her companion Anjelika “Jelly” Joseph. Many of the songs, like “Crazy,” a story about breaking into a man’s house, are more or less a discussion between Tank and Jelly backed by a full band.  
@@ -32,5 +31,3 @@ This is another of the band’s strengths. After a full set of high-intensity mu
 This is especially true of the opening band, Sweet Crude. They are another band with clear New Orleans influences that sings mostly in French over heavy drums and a wave of sound. Together, they put on an incredibly varied show, but did not lose the audience for a moment. The show felt like a party that the whole crowd was invited to. This was emphasized by the sheer number of people on stage. On top of the initial seven musicians surrounded by numerous instruments, Sweet Crude came back out to dance and play drums with them for the lively “The Brady’s.”
 
 Tank and the Bangas is a band known for bringing infectious energy to each live show, and their Cambridge set absolutely lived up to this expectation.
-
-_\-Temma Pelletier_

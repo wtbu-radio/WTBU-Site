@@ -19,16 +19,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Reed Romanko
+  first_name: Reed
+  last_name: Romanko
 image:
   src: /assets/37161459_2128643234073594_5692300825188106240_n.jpg
   alt: post lead image
 ---
-
-_By Reed Romanko_
-
 In back to back (to back, sort of) shows, Mom Jeans. had a “ball” at the Once Ballroom, bringing dad jokes and high energy to an adoring crowd.
 
 Mom Jeans. released their latest album, _Puppy Love_, in July and only three months later, they began their coast to coast tour, which spanned from Boston to Berkeley. For most of the tour, Mom Jeans had Retirement Party and awakebutstillinbed as openers, co-headlining with Just Friends. All four bands have put out a new album this year, each worth a listen.

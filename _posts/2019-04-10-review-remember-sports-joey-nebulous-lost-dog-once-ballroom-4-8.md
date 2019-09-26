@@ -11,16 +11,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Reed Romanko
+  first_name: Reed
+  last_name: Romanko
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/remember-sports-1244.jpg
   alt: post lead image
 ---
-
-_By Reed Romanko_
-
 On April 8th, the ONCE Ballroom hosted Remember Sports, Joey Nebulous, and Lost Dog, each band bringing their own unique sound to the venue for a varied yet cohesive concert experience.
 
 It’d been six months since I’d been to the ONCE Ballroom, and the difference in vibe was slight, but noticeable; I was one of five with “X”s drawn on my backhand, signs read “NO STAGE DIVING OR CROWDSURFING,” and the venue itself felt cleaner, mellower. The laid-backness lent itself to the artists there that night.

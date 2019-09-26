@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: /assets/fullsizeoutput_19f0-636x410.jpg
   alt: post lead image
 ---
-
 On Friday, Oct. 27th, Bad Suns headlined Paradise Rock Club for the second time in a full year. The band, hailing from California, consists of lead singer Cristo Bowman, bassist Gavin Bennett, drummer Miles Morris, and guitarist Ray Libby. They’ve come a long way from the 2014 release of their first album, _Language & Perspective_, which earned them a significant following. Their second album, _Disappear Here_, was released in September of 2016 and was met with even more praise. The quartet has garnered significant attention within their few years of existence, especially after opening for The 1975 in 2014 and playing at popular festivals such as Bonnaroo and Coachella.
 
 Bad Suns’ music is often said to be influenced by ‘70s and ‘80s rockers Elvis Costello and The Cure, but their catchy, dark-pop songs definitely appeal to more than just fans of those decades. While teens primarily consumed the main floor, the balcony was filled with adults who could be seen singing along to songs both new and old. Both of Bad Suns’ albums revive the best of ‘80s pop-rock and synthesize it with modern indie to provide a unique and enthralling alt-rock sound with catchy guitar riffs and compelling lyrics.
@@ -34,7 +33,5 @@ Starting with “Disappear Here,” the title track of their sophomore album, Ba
 Bad Suns made sure to show some love for Paradise Rock Club, emphasizing it especially before singing “Outskirts of Paradise” and mentioning the beauty of the audience to introduce “Daft Pretty Boys.” They then went on to play their most popular song, “Cardiac Arrest,” which has over 40 million streams on Spotify. Bowman’s distinct vocal sound echoed through Paradise and was amplified as the entire venue sang along. They finished off with a three song encore of “Rearview,” “Heartbreaker,” and “Salt.”
 
 Overall, Bad Suns is an extremely entertaining and talented group to see live. Any expectation you have for them will not only be met, but exceeded. The entire crowd of dedicated fans will sweep you up and soon enough you’ll be singing and dancing along to some of the best new music in the alt-rock scene. While there is currently no word on a third album or 2018 tour, I highly encourage you to take a listen to the two existing albums with a careful ear and a willingness to let Bad Suns into your heart.  
-
-_\-Monica Sucic_
 
 \[gallery link="file" columns="4" ids="954,953,952,955"\]

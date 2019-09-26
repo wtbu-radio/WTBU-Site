@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Christian Jaeger
+  first_name: Christian
+  last_name: Jaeger
 image:
   src: /assets/The-Neighbourhood-1.jpg
   alt: post lead image
 ---
-
-_By Christian Jaeger_
-
 California pop rock band The Neighbourhood brought a taste of the West Coast to Boston’s House of Blues on Tuesday, October 2.
 
 If there’s one word to describe The NBHD, it’s “dynamic.” Each album has a refreshing new sound and each tour an unfamiliar look. The constants: the energy, color, and love visible from each band member, especially from the wildly outgoing and exceptional frontman Jesse Rutherford.  

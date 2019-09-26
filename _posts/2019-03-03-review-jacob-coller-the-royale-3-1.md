@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Chris Bunting
+  first_name: Chris
+  last_name: Bunting
 image:
   src: http://sites.bu.edu/wtbu/files/2019/03/small-jacob-collier-artist-photo_wide-0d8240767c95f2b67ac05990de80a0a557f152fd.jpg
   alt: post lead image
 ---
-
-_By Chris Bunting_
-
 On March 3rd, musical wunderkind Jacob Collier graced the stage of Royale in Boston while touring for his album _Djesse Vol 1_. Collier explained the album is one of four based around a titular character that represents “the inner child who creates freely”. His performance embodied that concept wonderfully.
 
 Collier rose to fame as a one-man band, but this time shared the stage with a trio of multi-instrumentalist virtuosos — Christian Euman (percussion), Robin Mullarkey (bass, keys, vocals), and Moro (keys, vocals, guitar, percussion) — who shared his technical skill and deft-defying sensibilities. The band was in perpetual motion for almost all of the two-hour set, with Collier constantly oscillating between keys, drums, bass and guitars all while singing melodies and totally vibing with the crowd. It was spectacular to see him shift between instruments, effortlessly sliding into the spaces between and within the complex grooves laid down by his band mates. He would complement and at times transform the rhythm and harmony with almost mind-numbing precision and creativity. One point saw him dancing across the stage mid-melody to grab a tambourine and perform a wildly crunchy polyrhythm. He boogied his way back across the stage to slam dunk into a cymbal, singing and grinning throughout without missing a beat.  The band was carefully attuned to him and to each other throughout the show, providing a nearly gapless symbiosis of musicality.

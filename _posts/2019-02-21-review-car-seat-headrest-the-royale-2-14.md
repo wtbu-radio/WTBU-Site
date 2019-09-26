@@ -10,17 +10,14 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Brittany Moura
+  first_name: Brittany
+  last_name: Moura
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/DSC00539.jpg
   alt: post lead image
 ---
-
 _Photo by Zoe Salvucci_
-
-_By Brittany Moura_
 
 Car Seat Headrest played a sold out show to an ever-so-adoring Royale crowd on the night of Valentine’s Day, along with fellow bandmates and openers Naked Giants. The band consisting of vocalist and master puppeteer Will Toledo, guitarist Ethan Ives, bassist Seth Dalby, and percussionist Andrew Katz, has been joined by Naked Giants to form some of the most powerful and cacophonous sounds coming out of the indie rock scene currently.
 

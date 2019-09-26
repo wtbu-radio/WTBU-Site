@@ -14,16 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Maggie Leone
+  first_name: Maggie
+  last_name: Leone
 image:
   src: /assets/29060412_10156095978313418_7709969953433016426_o-1024x1024.jpg
   alt: post lead image
 ---
-
-_By Maggie Leone_
-
 Wow. That is the first word that comes to mind whenever I reflect on the Pray for the Wicked show that Panic! at the Disco has put together for fans this summer. Brendon Urie is one of the most talented performers the entertainment world has seen.
 
 When the opening performers–Hayley Kiyoko and Arizona–took the stage, the seats in the area were still relatively unoccupied, which was unfortunate because both groups put on a great show! While I’d heard of Kiyoko before, thanks to her roles in a Scooby Doo live-action movie as Velma and in the Disney Channel Original Movie _Lemonade Mouth_, I’d never heard of the band Arizona. While they are from New Jersey, the lead singer definitely knew how to quickly make friends in Pittsburgh: by playing the set in a Pittsburgh Penguins shirt.

@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Miranda Suarez
+  first_name: Miranda
+  last_name: Suarez
 image:
   src: /assets/fb_admat_sponsors-819x1024.jpg
   alt: post lead image
 ---
-
 **THE NATIONAL**
 
 Listening to the National with other people feels like doing something private in public. Each of their melancholy tunes addresses a specific type of city-dwelling mid-20s malaise that calls for an intimate listening space (maybe an IKEA bed in a closet-sized apartment). They have an entire song about feeling anxious at a party.
@@ -40,8 +39,6 @@ The band focused on songs from their latest album, but when they reached back in
 “This was written about President Taft. President Taft, this is for you,” he said. Then he thought about it some more. “I think he was shitty—I think he was a piece of shit.”
 
 The National doesn’t make festival crowds dance, and even a looser, live version is focused on building highly controlled musical clockwork, playing songs with a million moving and interlocking parts. Sure, there’s still room for them to let their proverbial hair down, but if they did, they wouldn’t be the National. Their ability to bring some intimacy to a huge stadium festival shows how powerful their songs are, even at their moodiest.
-
-_\-Miranda Suarez_
 
 SET LIST:
 

@@ -21,8 +21,6 @@ image:
   src: /assets/tumblr_inline_okb18goghl1swxv3i_500.jpg
   alt: post lead image
 ---
-
-
 Being all ages, the show packed the 194 capacity venue to the brim with young teens, middle-aged couples, and families alike. There was immediate camaraderie between everyone as well, not only because there was a collective mourning over the shift in power to our country’s new leader, but also because everyone was excitedly waiting to see Cherry Glazerr take the stage.
 
 Until then, Boston’s own Midriffs played through an explosive set of psychedelic garage rock. By the reactions and approving smiles of the crowd, Midriffs gained a couple dozen more followers throughout their set. The local favorites played a set of primarily new material to be released on their upcoming album, with classic “Green on the Grass” thrown in.
@@ -42,5 +40,3 @@ But perhaps the most moving part of the set is when Creevy ventured to “try so
 Cherry Glazerr played through the rest of their set with a renewed passion, and every person in the crowd echoed that energy.
 
 The band returned for a one-song encore composed of a cover of Nirvana’s “Territorial Pissings.” Creevy and Ashworth seemed to have been the female reincarnations of Kurt Cobain as they screamed and wailed into the microphones. By this point in time, it’s recognized that women can kill it in the rock ‘n’ roll world, but Cherry Glazerr made it known at this show that they’re here to stay.
-
-_By Olivia Gehrke_

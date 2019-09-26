@@ -16,14 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Morgan King and Nicki Hymowitz
+  first_name: Morgan
+  last_name: King
 image:
   src: /assets/a3385549727_10-636x636.jpg
   alt: post lead image
 ---
-
 On Thursday night, Nov. 30, Beach Slang an American punk rock band from Philadelphia hit the Sinclair stage—hard. The Boston concert also featured Dave Hause and the Mermaid, and Homeless Gospel Tour.
 
 The audience was extremely passionate about the intense rock music of the night, banging their heads throughout. Dave Hause was filled with high energy throughout the entire seven song set. He was jumping all around the stage, cursing about political views, while getting the audience riled up. He even dedicated a song called “Dirty Fucker” to the president of the United States. The whole crowd was cheering as they repeated the chorus of “_You’re a dirty fucker_” over and over again. It was like watching a cult come together in hatred for our country. As the crowd became more and more riled up, surprisingly there was no mosh pit. Hause was sweating from head to toe, going so hard, it looked like he was going to have a heart attack. The band ended with a slow ballad dedicated to the people of Boston. You could see the admiration Hause had for his 24-year-old brother Tim who accompanied him on stage to play lead guitar. It seemed as if Tim had been playing for years, he was so talented. Everyone in their presence was in awe of their passionate performance. The band was extremely grateful to the Cambridge audience who came out for them as this show was almost the end to their 140 show tour in one year.
@@ -35,5 +34,3 @@ As new listeners, we didn’t know what to expect when Beach Slang came out. You
 This tour came just in time to promote Beach Slang’s EP _Here I Made This For You: Volume 1_which came out in 2016, in addition to _Here I Made This For You: Volume 2_ (2017). The band was able to showcase songs from both albums which had a heavy rock tone. They were able to explore new sounds while sticking to their classic punk persona.
 
 For more information about the band’s music and upcoming shows go to [beachslang.com](http://beachslang.com).
-
-_\-Morgan King and Nicki Hymowitz_

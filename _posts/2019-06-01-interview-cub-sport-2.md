@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Angel Kim
+  first_name: Angel
+  last_name: Kim
 image:
   src: http://sites.bu.edu/wtbu/files/2019/06/cubsport.jpg
   alt: post lead image
 ---
-
-_By Angel Kim_
-
 WTBU DJ Angel Kim talked to Cub Sport's lead singer, Tim Nelson, ahead of their show at Songbyrd in Washington, D.C.
 
 **Angel Kim: You toured in the US last fall — how does it feel to come back now and play songs from your new album?**

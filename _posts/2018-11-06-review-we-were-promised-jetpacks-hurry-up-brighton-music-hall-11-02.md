@@ -18,16 +18,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: /assets/IMG_7898-1024x683.jpg
   alt: post lead image
 ---
-
-_By Zoe Salvucci_
-
 Edinburgh-based indie rock band We Were Promised Jetpacks played Brighton Music Hall on Friday with support from Portland, Oregon natives Hurry Up. Hurry Up opened the night with a low-energy, but high-spirited punk set, expressing extreme gratitude to Jetpacks for taking such a small band on tour. After a prolonged break between sets, We Were Promised Jetpacks began their set to uproarious applause. There was something truly ethereal about their performance; some combination of the lights, their musical style, and simply how immersed in the music both the crowd and the band were. It was like a dream. There would be long, repetitive instrumental breaks that you somehow wanted to last forever. The band didn’t need to move around or showcase a ton of physical energy to capture the audience’s attention. They were focused, and so was audience. It was a live show truly about the music. No crazy lights or special effects—partly due to the venue’s limitations, of course—were on display, and if they had been, they would have detracted from the performance. Jetpacks followed what seems to be a growing trend of not playing encores, acknowledging the nonsensical tradition and saying their closing “thank you’s” before announcing their final song and leaving the stage for the night. It was truly a magical night, and everyone in the room could feel it.
 
 \[caption id="attachment\_3140" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/hurry-up-1-1024x683.jpg) Hurry Up by Zoe Salvucci\[/caption\]

@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Matt Bandel
+  first_name: Matt
+  last_name: Bandel
 image:
   src: /assets/Picture1-636x477.png
   alt: post lead image
 ---
-
 Sunday night, pop rock band Everything Everything finished their U.S. tour at the Sinclair in Cambridge. The UK group is hot off of their fourth studio album, _A Fever Dream_, where they once again take a stab at turning the turbulent political and social climate of the times into a loud, fast, and fun album. The band has been touring across the UK and Europe and made a brief stop here where they first hit the West coast and finished their time in America on the East coast.
 
 The venue was set up with a stage about four feet off of the ground, allowing concert goers to get right up close to the performers. The crowd was a blend, full of nerdy people looking for some cool math rock, to middle-aged adults looking for a fun night out before the new work week began.
@@ -40,5 +39,3 @@ The pace picked back up from there, performing a couple tracks, “Kemosabe” a
 The group came back out, to much applause, and performed “Ivory Tower,” with Higgs and lead guitarist Alex Robertshaw jamming out on an epic guitar solo. They then finished (for real this time) with “No Reptiles,” with the bass drum driving the intensity, and the audience singing together about feeling like a fat child in a push chair.
 
 Overall, Everything Everything put on a hell of a show. Higgs was energetic and having so much fun that you couldn’t help but enjoy yourself. Robetrtshaw was precise and technically accurate on some intricate guitar riffs. Michael Spearman on drums and Jeremy Pritchard on bass holding a steady groove and serving as a solid backbone for the group. All of the members did their part to put on a show that both they and audience members enjoyed. I look forward to more music from the group, and their return to the States.
-
-_\-Matt Bandel_

@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Hannah Rogers
+  first_name: Hannah
+  last_name: Rogers
 image:
   src: /assets/31764032693_37d98a2b62_b-636x384.jpg
   alt: post lead image
 ---
-
 The anticipation for Ed Sheeran at TD Garden Friday night was palpable throughout the arena as the crowd shuffled in during James Blunt’s opening set. That excited tension ended at roughly 8:40pm when the lights went out and Sheeran casually walked on stage and began singing “Castle on the Hill” as the crowd erupted into screams and applause. Behind him was a vivid and bright autumn scene, displayed uniquely on a row of tall and narrow LED screens which surrounded his one-man setup on the center of the stage.
 
 After he finished the first song, Sheeran began a charming and enthusiastic banter with the audience, encouraging us to sing every word to every song and to dance our hearts out because “nobody is looking at \[us\] anyway.” The other songs that made up the show’s first half included the edgier “Eraser,” a quick but necessary rendition of his first mega-hit “The A Team”, a dope mashup of “Don’t” and “New Man” (both of which are F U songs to ex-loves) and “Dive,” an upbeat love-ballad that allowed Sheeran to show off his silky-smooth riffing abilities.
@@ -41,5 +40,3 @@ Sheeran ended the main set with the absolute jam “Thinking Out Loud,” for wh
 An exciting light show began for Sheeran’s performance of  “Shape of You” to re-excite the crowd, and prepare us for his fierce performance of “You Need Me, I Don’t Need You”, reminding us how far he has come since his first album. He ended with a bang, giving the performance all of his energy, and really involving the crowd. He made the song last by including some intense instrumentals with a lot of guitar and vocal layering on the loop pedal.
 
 Ed Sheeran’s unique musical approach, which leaves him solo on stage with just his mic, guitar, and a loop pedal, really separates him from his fellow pop stars. The loop pedal allows him to record and layer his own voice or guitar, and eliminates the need for an accompanying band. Not to mention his efficiency; after each number a different guitar (pre-tuned) would be brought out to him to save from having to tune them in between songs. He bangs on the face of his guitar to create a drum-like beat, adding a bass sound which creates the excitement and noise which is to be expected from a stadium performance. Sheeran’s singular musical and lyrical talents, combined with his rare ability to perform on stage completely unaccompanied, are what makes him one of today’s most entertaining music artists.
-
-_\-Hannah Rogers_

@@ -14,16 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 image:
   src: /assets/The-Struts.png
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
 Over four years after their bombastic high energy debut album, _Everybody Wants_, the Struts have released their sophomore album, _YOUNG&DANGEROUS_. The band has spent nearly five years growing their brand and fanbase, and accumulated a staggering amount of success for a group with only one album. So have the Struts won the lottery a second time with _YOUNG&DANGEROUS_?
 
 Kind of. The album is really good, and some songs are fantastic, but the project is not consistent enough to warrant it being called phenomenal in the same way as _Everybody Wants_.

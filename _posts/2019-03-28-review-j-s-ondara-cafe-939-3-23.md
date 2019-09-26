@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: http://sites.bu.edu/wtbu/files/2019/03/og.jpg
   alt: post lead image
 ---
-
-_By Allie Antonevich_
-
 On Saturday, March 23, Café 939 hosted a night of quiet, intimate music with artists Cat Clyde and J.S. Ondara.
 
 Opener Cat Clyde, a 24-year-old singer, embodies the soul of a weathered country girl, with bangs that frame her face and a wide grin. Based out of Stratford, Ontario, she hopes to sing classic songs of “yesteryear,” with her guitar and voice working together to produce soft, bluesy tunes.  

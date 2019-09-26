@@ -10,18 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Amber Jared
+  first_name: Amber
+  last_name: Jared
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/MG_9952.jpg
   alt: post lead image
 ---
-
-_By Dahlia Maleh_
-
-_Photos by Amber Jared_
-
 On April 12th, the Boston-founded band, Juice, returned and performed a remarkable show at Brighton Music Hall.
 
 The opener for the show was Paper Citizen, an indie artist who also had their start in Boston. The Boston pride concert was the perfect show to start off the Marathon Monday weekend.

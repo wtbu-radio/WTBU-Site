@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Olivia Malek
+  first_name: Olivia
+  last_name: Malek
 image:
   src: http://sites.bu.edu/wtbu/files/2018/12/Spotify-Singles-Christmas-Collection-740x390.png
   alt: post lead image
 ---
-
-_By Olivia Malek_
-
 It’s that time of year again.
 
 As we approach into finals season we approach another important season of the year: the season where Michael Bublé rides on the only album that’s given him substantial fame. We’re nearing Christmas, and I’m here today to talk about Spotify’s Christmas singles for this year. They have 15 singles which range in genre, song, and artist. Let’s tackle these singles from worst to best to see which artists nailed the art of covering a Christmas song.

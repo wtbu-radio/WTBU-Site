@@ -18,16 +18,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Ali Audet
+  first_name: Ali
+  last_name: Audet
 image:
   src: /assets/a0980878328_10-1024x1024.jpg
   alt: post lead image
 ---
-
-_By Ali Audet_
-
 Looking to impress your friends with your knowledge of local music? I would direct you to introduce them to shiver. Hailing from Salem, Mass., shiver. puts on a live show that only amplifies the dynamic, engaging music they create. Although they shared the stage with three other acts, it was clear who the real star of the night was.
 
 The night began with Benjamin Ward, a solo acoustic performance. Ward was an outlier compared to the other artists on the bill. Although I’m Glad It’s You was a solo acoustic act as well, Ward’s performance was considerably more toned down. But Ward had the awkward charm of a kid brother: he was shy and almost withdrawn as a performer. Even given this, he still managed to reel you in. The first few songs in the set were slow, but picked up with his performance of “Movies.” He also played a song by his band, Hemingway, which boosted his performance immensely. The song was well-written and worked well as a stripped down, acoustic version. But, by his own admission, he was a bit out of place: “I know someone in one of the other acts, that’s how I got this gig.” Although I’m not sure this is something you should be telling your audience, it piled on to the awkward charm of Benjamin Ward. Even though he was a fish out of water, he managed to capture people’s attention: his performance was dynamic and heartfelt.

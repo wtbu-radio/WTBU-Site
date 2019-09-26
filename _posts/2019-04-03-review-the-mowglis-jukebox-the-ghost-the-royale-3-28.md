@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Kate Evans
+  first_name: Kate
+  last_name: Evans
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/IMG_5422.jpg
   alt: post lead image
 ---
-
-_By Kate Evans_          
-
 Opening the night was Los Angeles trio [Twin XL](http://sites.bu.edu/wtbu/2019/04/03/photos-twin-xl-the-royale-3-28/). The band consists of vocalist Cameron Walker-Wright, bassist Stephen Gomez, and guitarist John Gomez. Their walk-on track had a dystopian robotic voice that said “pay no attention to the end of the world” which pulled the audience right in to their set. The pop band had the audience captured throughout their set as they performed songs off their debut EP _How To Talk To Strangers_ which came out earlier this year. In the middle of their set they revealed to the audience that it was not only their first time playing in Boston but it was also their first ever tour. They were a huge hit and gave a lot of high energy in their performance.
 
 Up next was the first headliner of the night, The Mowgli’s. The Los Angeles six piece opened their set with the crowd favorite “Say It, Just Say It” and everyone around erupted into cheers. They performed the entirety of their new EP _American Feelings_ along with songs off all 3 of their albums. When they played “Real Good Life” the entire room began to jump with the beat causing the ground to shake. The band delivered each and every song with a pure and raw emotion that can only be experienced in a live setting.

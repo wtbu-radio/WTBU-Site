@@ -7,16 +7,13 @@ tags: []
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 image:
   src: http://sites.bu.edu/wtbu/files/2019/01/half.alive_press20182019.png
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
 You probably don’t know who Half Alive are — but you will. Having only five songs released, one would wonder — rightfully so — how the band could run a full tour as the main act. After all, the show would be ridiculously short and be quite predictable given there would be such a small pool of songs to pull from. While the show was shorter than most concerts, Half Alive were able to keep their concert interesting, unpredictable, and, most importantly, fun, by playing the songs that have already become fan favorites, some unreleased songs, two covers, and lots of breathtaking and unique choreographed dance breaks.
 
 The band opened with “The Fall,” a track about the love of writing and the fear of making mediocre art. Immediately, the band set themselves apart through their stage setup. The second the opening notes to the opener began playing, neon lights started firing around the stage with the stage lights shooting blue light to the ceiling, making the venue feel much more open and comfortable. Half Alive continued their set with “Awake at Night,” where they presented something quite unique in live music: choreographed dancing. This became a theme through the night, where two dancers would intermittently come on stage and dance with lead singer, Josh Taylor, in ways that seemed physically impossible. At times they would position themselves into completely inhuman shapes and find unexpected ways out of them. This original stage presence was striking and extremely refreshing to see.

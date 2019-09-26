@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: /assets/IMG_0631-1024x683.jpeg
   alt: post lead image
 ---
-
-_By Monica Sucic_
-
 On Oct. 24, the English alt-rock trio that is the Wombats took the stage at Boston’s House of Blues. The group has been a powerhouse of British alt-rock for the past decade and continues to energize audiences across the world with their roaring live shows and four albums.
 
 The current tour follows the release of their latest album, _Beautiful People Will Ruin Your Life,_ which was released in February of this year. This album follows three extremely successful albums; The Wombats’ debut, _A Guide to Love, Loss, & Desperation_ put them on the 2008 alternative map with songs “Let’s Dance to Joy Division” and “Moving to New York.” Encapsulating the angst of love and loss in your 20s, _This Modern Glitch_ followed as the band’s second full album in early 2011. The Wombats kept their rough pop-rock sophistication and dark lyrics through their third album, _Glitterbug_, which was released in 2015 after much anticipation. The fan base has grown and changed over the years, but they remain ever-dedicated to each new release.

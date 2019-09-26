@@ -7,16 +7,13 @@ tags: []
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Brittany Moura
+  first_name: Brittany
+  last_name: Moura
 image:
   src: http://sites.bu.edu/wtbu/files/2019/08/B261C6E6-F44D-4124-97DA-052E8D1E0238.jpeg
   alt: post lead image
 ---
-
-_By Brittany Moura_
-
 Spoon is on tour supporting Beck and Cage the Elephant, alongside up-and-comers Sunflower Bean, WTBU DJ Brittany Moura sat down with Spoon frontman Britt Daniel ahead of the tour's show at Xfinity Center in Mansfield to discuss the band's history, future plans, and current tour.
 
 **Brittany Moura: How’d this tour come together?**

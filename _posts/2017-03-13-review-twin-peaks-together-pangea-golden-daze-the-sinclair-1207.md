@@ -21,8 +21,6 @@ image:
   src: /assets/tumblr_inline_ohzdr44fnJ1swxv3i_500.png
   alt: post lead image
 ---
-
-
 Twin Peaks returned to The Sinclair for the second time this year accompanied by two of LA’s finest bands: California rock ‘n’ roll heroes, Together Pangea, and dreamy psych ensemble, Golden Daze. The sold out crowd packed into the venue was as diverse as the line-up; there were teens, people in their 20s, 30s, and beyond. It makes sense considering Twin Peaks’ sound is a combination of classic influences (think Rolling Stones) and hints of new dirty stoner garage rock.
 
 Golden Daze was put in charge of setting the tone for the night, and they didn’t disappoint. With three guitars and layers of ethereal, reverbed vocals, Golden Daze’s music was very substantial and full sounding, but still had an overall mellow and pleasant feel. They played through multiple tracks off their self-titled album, like upbeat tune “Salt” and criminally catchy psych pop song “Me Llamo.” It was clear that the crowd was surprisingly pleased by the set, and they even had a special affection for keyboardist who they enthusiastically cheered on between songs. Though the show was in Cambridge in early winter, while listening to Golden Daze, it may as well have been on a California beach inside a kaleidoscope.
@@ -44,5 +42,3 @@ Twin Peaks played tracks from all their albums including, but certainly not limi
 As the band played some of their rowdier, favored songs like “Making Breakfast” and “Flavor,” the crowd surfing and stage diving increased. But instead of security guards waiting to manhandle any fan fortunate enough to reach the stage, Twin Peaks’ tour manager was waiting up front to offer a hand and lead them down the side of the stage. This, in addition to the dedicated fans (including a guy up front who was attending his 20th Twin Peaks show), created a community of good vibes during the show. Of course, like at any large club show unfortunately, there was a disrespectful anomaly or two souring the crowd a bit. Overall though, people valued the music enough (and had enough human decency) to create a fun, enthusiastic show experience.
 
 Twin Peaks closed their set with “Have You Ever?” which also acts as the final track on _Down in Heaven_. It wasn’t long before the crowd was chanting for the band to come back on stage for a riotous encore, though. When the guys did re-emerge to a loving applause, they played their way through the mellower, rather heartbreaking track “I Wanted You.” As a mid-encore surprise, Twin Peaks covered “Dead Flowers” by The Rolling Stones. Considering the band is heavily influence by The Stones, it was no surprise that the cover could have easily been one of their own. “Strawberry Smoothie” brought the liveliness of the encore to its highest point and closed the night in the most energetic, feel-good manner possible. Twin Peaks proved once again that they are the kings of live shows.
-
-_\- Olivia Gehrke_

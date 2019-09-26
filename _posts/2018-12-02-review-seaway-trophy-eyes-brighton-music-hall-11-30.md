@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 image:
   src: /assets/Screen-Shot-2018-12-02-at-8.39.39-PM.png
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
 When Trophy Eyes and Seaway announced their coheadling American Vacation Tour I was confused. I love both bands and have become a big fan of both after their latest releases _The American Dream_ and _Vacation_, respectively, but they are such wildly different bands. While both can fit into the broad genre of punk rock, Trophy Eyes falls mostly into the category of melodic hardcore while Seaway is unquestionably pop punk through and through. I never would have expected the two bands to synergize so well, but they did.
 
 After what felt like an eternity waiting for an hour outside the venue, half an hour inside the venue, and three somewhat decent opening bands, Trophy Eyes finally hit the stage. They ripped into “You Can Count on Me” which really presents everything special about the band. Not only is it one of the band’s most emotional songs with deeply personal lyrics about addiction and friendship, but it also shows off lead singer John Floreani’s fantastic voice and even better scream. Floreani began his habit of stage diving during the song and continued to do so during almost every song the band played. Their third song was “More Like You,” which opens with the lyrics, _“Now that we’re done with introductions / You know a little more about me.”_ I thought it was clever for them to play this song early, as it truly felt like Floreani was talking to the crowd rather than feeling like the band was playing just any song in their catalogue.

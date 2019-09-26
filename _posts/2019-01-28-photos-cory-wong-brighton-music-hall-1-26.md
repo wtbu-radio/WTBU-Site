@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: http://sites.bu.edu/wtbu/files/2019/01/IMG_8095.jpg
   alt: post lead image
 ---
-
-_By Zoe Salvucci_
-
 Cory Wong, guitarist known for his collaboration with the funk band Vulfpeck, sold out Brighton Music Hall on Saturday night during his tour for recent release _The Optimist_. Wong had complete command of the audience from when he first stepped on stage; he held it throughout the night by peppering his instrumental songs with bits, half-ironic merchandise promotion, and the occasional guest vocalist, including one who was live-streamed in. Supported by New Zealand multi-instrumentalist Emily C. Browning and backed up by a band comprised of six wildly talented musicians, Wong and his team proved, as if it needed proving, that funk is alive and well, and here to stay. The show was live-streamed to thousands of fans as well, likely due to the building hype around Vulfpeck's show at Red Rocks in May and the recent announcement of their headlining show at Madison Square Garden this September, with support by The Fearless Flyers, a Vulfpeck offshoot that also features Wong on guitar. Kicking off 2019 with a tour like this and two massive shows on the calendar, Wong is sure to have one of the biggest years of his career.
 
 \[caption id="attachment\_3559" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/IMG_7730-1024x683.jpg) _Emily C. Browning by Zoe Salvucci_\[/caption\]

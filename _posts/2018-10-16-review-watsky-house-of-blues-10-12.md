@@ -17,16 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 image:
   src: /assets/11393042_10153366655204321_6166293020348261272_n.jpg
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
 Watsky is not a typical rapper. He’s not tough or bold or aggressive. He’s nice, approachable, and emotional. In fact, he does not even classify himself as a rapper, but instead as a slam poet. His music is about love and peace and insecurities, far from the subject matter found in majority of “radio rap.” I personally love this about Watsky. He produces rap music, but strays from the subject of drugs, crime, and casual misogyny, which is sadly all too common in modern rap music. However, ultimately I love Watsky because he makes damn good music. His lyrics are meaningful, his beats impactful, and his flow impeccable. With this being my first time seeing Watsky in concert, the question was _“Does his skill and emotion carry over into his live show?”_ After all, having seen Logic live, his “syllability,” or flow, does not always resonate while live and having seen Kendrick Lamar live, his passion and emotion do not seem to punch you in the gut quite as hard as they do on his records. So, I did not fully expect Watsky to be able to do live what two other extremely talented and popular rappers could.
 
 So was I right?

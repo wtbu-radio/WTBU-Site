@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Christian Jaeger
+  first_name: Christian
+  last_name: Jaeger
 image:
   src: /assets/STLUCIA_HYPERION_COVER-1024x1024.jpg
   alt: post lead image
 ---
-
-_By Christian Jaeger_
-
 The Brooklyn-based St. Lucia and Ontario-based Arkells transformed a Monday night at Boston’s Royale into a Saturday. The Theatre District night club was overflowing with energy.
 
 It was just after 8 p.m.. A bustling crowd for a Monday night was decked-out in Arkells apparel: hats, tees, etc. Surprising, because they were _just_ the opening band. Little did I know that the alternative  rockers have completely exploded in their hometown of Ontario, even luring some Canadians to the show.

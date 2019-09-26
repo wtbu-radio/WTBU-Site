@@ -14,15 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Miranda Suarez
+  first_name: Miranda
+  last_name: Suarez
 image:
   src: /assets/TANK-636x491.jpg
   alt: post lead image
 ---
-
-
 From tiny desks to fine arts museums, Tank and the Bangas have played some unconventional venues. Their energy is always infectious no matter where they are, and that was the case at their show at the Museum of Fine Arts on Wednesday night. But while they have style, talent, and fun in abundance, they should still anticipate some growing pains.
 
 The New Orleans-based group played as part of the MFA’s summertime Concerts in the Courtyard series. Bands set up for a small crowd in the museum’s courtyard, a shady space boxed in by ivy-covered walls. Tank and The Bangas’ unique mix of spoken word, hip-hop, funk, and R&B (say a genre and they probably got it covered) gave the stately space a life it wouldn’t have otherwise.
@@ -46,5 +44,3 @@ Photo by Miranda Suarez\[/caption\]
 Tank and the Bangas haven’t yet reached their full potential, but there are no indications that they won’t. Following bands as they grow and develop is one of the most satisfying things about loving music, and Tank and the Bangas’ journey will be a pleasure to hear.
 
 You can catch Tank and the Bangas at the Sinclair on September 14.
-
-_\-Miranda Suarez_

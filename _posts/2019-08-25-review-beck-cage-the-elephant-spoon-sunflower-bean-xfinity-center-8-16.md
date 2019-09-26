@@ -14,16 +14,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Brittany Moura
+  first_name: Brittany
+  last_name: Moura
 image:
   src: http://sites.bu.edu/wtbu/files/2019/08/529516B4-F60B-461A-A680-DEC28A874564.jpeg
   alt: post lead image
 ---
-
-_By Brittany Moura_
-
 An all-star lineup rocked the Xfinity Center this past Thursday evening, with rule-breaking, bending, and sometimes back-bending bands Sunflower Bean, Spoon, Cage the Elephant, and Beck. Talk about a rock show.
 
 Sunflower Bean, indie rockers from New York City, took the stage first, playing a short but all shots fired set stemming from classics like “Easier Said” and “I Was A Fool,” to the self-empowering “King of the Dudes,” off their new EP of the same name. Julia Cumming, versatile vocalist, bassist, and fashionista, managed to actually get some parents off their seats, while fans watched in awe of Nick Kivlen’s jarring yet sensuous guitar work. Touring member, formerly of The Lemon Twigs, keyboard slayer Danny Ayala, quite literally picked up and shred his keyboard as if it was a guitar. Sunflower Bean reminded the audience that some good ole classic rock is forever, far-reaching, and fearless. 

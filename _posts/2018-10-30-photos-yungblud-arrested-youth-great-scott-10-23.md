@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: /assets/IMG_0903-1024x683.jpg
   alt: post lead image
 ---
-
-_Photos by Zoe Salvucci_
-
 \[caption id="attachment\_3077" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/IMG_0907-1024x683.jpg) Yungblud by Zoe Salvucci\[/caption\]
 
 \[caption id="attachment\_3078" align="alignnone" width="683"\]![]({{ site.baseurl }}/assets/IMG_0908-683x1024.jpg) Yungblud by Zoe Salvucci\[/caption\]

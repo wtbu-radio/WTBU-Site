@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Caroline Barry
+  first_name: Caroline
+  last_name: Barry
 image:
   src: /assets/31882947_10156419709629433_1104854528437518336_n.jpg
   alt: post lead image
 ---
-
-_By Caroline Barry_
-
 The night was perfect for an outdoor venue; the air was saturated with the excitement of preteens at the height of summer, and the sun set just in time for the stage lights to shine at full effect. Fans poured into the Blue Hills Bank Pavilion seats with signs and merchandise in hand to inaugurate the first night of Charlie Puth’s Honda Civic tour. Puth is a successful member of the newest wave of teen heartthrob singers. He’s known for big hits featuring stars like Selena Gomez, James Taylor, and Meghan Trainor, as well as for a few solo chart-climbers, like his romantic “One Call Away.”
 
 Although his voice only hit the radio in 2015 as a feature on Wiz Khalifa’s “See You Again,” Puth has been a star in my eyes since I was in seventh grade. At that time, in 2010, he was a student at our neighboring university Berklee College of Music. During his free time away from his jazz piano studies, he made comedic music with his friends for YouTube. Watching him parade around Kenmore Square, Symphony, and the Prudential Center in these music videos instilled in me this inexplicable passion for Boston; thus, I made it my mission to follow in his footsteps and move to this glorious city. Well, I did it, didn’t I?

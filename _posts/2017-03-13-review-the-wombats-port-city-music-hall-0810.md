@@ -19,7 +19,6 @@ image:
   src: /assets/tumblr_inline_obwvmnUqN01swxv3i_500.jpg
   alt: post lead image
 ---
-
 The warm breeze gently rustled the pines, and the sea lapped at the sandy shores; all was calm in Maine on August 10th…except at Port City Music Hall where Liverpool indie-dance floor heroes, The Wombats, were about to make their debut in the Pine Tree State that night. The nearly sold-out venue was packed to the brim with youthful energy and anticipation. The air buzzed with excited electricity that fans were waiting to have sparked by The Wombats.
 
 Cheerleader, a Philadelphia-based band who was touring with The Wombats for their second time, opened up the night with their catchy pop tunes. They got the crowd warmed up, but it wasn’t until The Wombats took the stage to play “Give Me a Try” that all the pent up energy was released. Immediately, hundreds of voices synced up to that of Matthew Murphy (or Murph, as fans lovingly refer to him) as he finished the first song and launched into another fan favorite, “Jump into the Fog.”
@@ -31,5 +30,3 @@ Maybe it was the perfectly composed setlist, or the enthusiasm of both the fans 
 Sweat laced the foreheads of every person jittering and waiting anxiously on the floor. Murph kept the tension going, though, with a solo performance of the beautifully delicate song “Isabel.” But once the rest of The Wombats joined him on stage to play the well-known single off _Glitterbug_, “Greek Tragedy,” the most famed Wombats tune “Let’s Dance to Joy Division,” and a heavy, instrumental original, “A Hedgehog Went to a Chocolate Café,” Port City Music Hall unified for a euphoric celebration.
 
 The fans could have been celebrating the fact that The Wombats finally came to Maine, or maybe they were just celebrating an unbelievable band’s music. Most likely, they were just enthusiastically celebrating one of the best shows Portland, Maine has ever seen.
-
-_\- Olivia Gehrke_

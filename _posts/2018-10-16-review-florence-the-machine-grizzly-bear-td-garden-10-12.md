@@ -17,16 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Christian Jaeger
+  first_name: Christian
+  last_name: Jaeger
 image:
   src: /assets/36336040_10156546400289166_1483193181020356608_n.jpg
   alt: post lead image
 ---
-
-_By Christian Jaeger_
-
 English indie rock band Florence + the Machine turned Boston’s TD Garden into a festival of love on Friday, October 12.
 
 Artists can only dream to have the raw talent of Florence Welch, the lead singer of Florence + the Machine; it is in her blood. Her pitch-perfect voice hits the most challenging of notes effortlessly. Meanwhile, the Machine creates orchestral sounds so grand yet so lovely, the two fuse into musical perfection.

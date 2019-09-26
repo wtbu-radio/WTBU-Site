@@ -11,14 +11,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Mariel Cariker
+  first_name: Mariel
+  last_name: Cariker
 image:
   src: /assets/tumblr_inline_o80uzrNlWn1swxv3i_500.png
   alt: post lead image
 ---
-
 In comparison to other music festivals, Boston Calling clearly isn’t the biggest or the grandest. There’s no camping, audiences stand on nothing but brick, and there’s only three stages – two for big acts. And yet, the festival marches on, consistently bringing in impressively large artists for their lineups each season. On the third anniversary of its inception, Boston Calling continued to strive for new heights, introducing a new, third stage for local acts and comedy. While the festival still feels like it’s finding its footing, it provided some true highlights and memorable moments during its Spring 2016 festival this past weekend.
 
 To headline their lineup, Boston Calling brought in some strong ladies and immense talent through the likes of Sia, Robyn, Janelle Monáe and HAIM. While some of the lineup seemed sporadic and poorly planned, such as the shift on Saturday from the lowkey, more indie vibe of The Vaccines, Børns and City and Colour straight into a more upbeat techno sound through Miike Snow, ODESZA and Robyn, each day provided a mix of genres and artists to give any fan something they were interested in.
@@ -36,5 +35,3 @@ Sunday was a powerhouse of performances, balancing out the polar opposite of Sat
 Sunday’s headliners were unreal, a strong way to wrap up the weekend. Janelle Monáe was truly captivating, hitting every vocal riff and lyric perfectly, with some inspiring onstage banter and an amazing Prince tribute to match. HAIM kept the audience on their toes, debuting two new songs off their eagerly anticipated new album and providing a lovely second Prince tribute with the help of fellow lineup act Christine and the Queens. Their onstage energy and presence is immensely charming, each sister playing their role and instruments in their own way but supporting and balancing each other out perfectly. Disclosure was a perfect way to end the night and the whole festival. Members Howard and Guy Lawrence knew the audience was there to listen and dance, not watch them, so they provided some intricate and mesmerizing visuals, a different one for each song. They played a pulsating, entirely high energy hour and a half set that never faltered, all the way through to the last note of "Latch.”
 
 As the festival announces its move from City Hall Plaza to Allston next May, cancelling their usual fall festival in September, change is bound to come. As proven through each year, Boston Calling is figuring out what works for them and what people enjoy. A move in venue might just be what the festival needs, but this May weekend was on track for the majority of the time. Putting their name out there as a newer festival can be hard, but Boston Calling is holding its own.
-
-_\- Mariel Cariker_

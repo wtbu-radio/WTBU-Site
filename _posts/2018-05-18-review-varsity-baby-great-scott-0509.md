@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: /assets/use-this-one-636x424.jpg
   alt: post lead image
 ---
-
 On Wednesday May 9, Chicago-based Varsity played Allston’s Great Scott. The five-piece indie pop-rock group is made up of vocalist Steph Smith, Dylan Weschler on back-up vocals and guitar, guitarist Pat Stanton, Paul Stolz on bass, and Jake Stolz on drums. The group was formed in 2013, with their first single, “Turns Out/Downtown,” out that same year. Recently, they’ve been touring the US following the release of their sophomore album _Parallel Person._ Varsity’s sound has often been described as a blend of indie pop and surf rock, and their music will entertain your ears with upbeat riffs and eloquent lyrics. For fans of the Walters and Tennis, Varsity will surely be your new favorite band.
 
 _Parallel Person_ is Varsity’s most recent release, having come out at the end of this past April. The album has many songs that capture the band’s classic surf rock-y sound, such as “Settle Down,” “A Friend Named Paul,” and “Lied for You.” However, it also has some deeper, more emotional tracks like “Krissy,” “Watching You,” and “Discipline.” “Must Be Nice” shows a bit of variety on the album, still being upbeat but with slightly darker chords and unique bridges. Overall, the album showcases Smith’s beautiful vocals and the musical dexterity of the whole group. It builds on the strong foundation of their 2015 self-titled album and proves that they’re able to try new tactics while still maintaining their individual sound.
@@ -38,7 +37,5 @@ The group continued with “Krissy,” where Smith delivered another powerful pe
 This was Varsity’s second time playing Great Scott, and they noted their love for the venue as they left the stage and thanked the audience. Hopefully, the band will return to Boston soon because they’re an unforgettable group with great talent.
 
 Varsity’s second album, _Parallel Person_, is out now on Bandcamp, Spotify, and Apple Music.
-
-_\-Monica Sucic_
 
 \[gallery columns="2" link="file" size="medium" ids="1626,1627,1628"\]

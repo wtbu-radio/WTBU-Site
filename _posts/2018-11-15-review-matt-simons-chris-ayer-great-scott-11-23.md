@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Grace Lauson
+  first_name: Grace
+  last_name: Lauson
 image:
   src: /assets/30124529_10160120175580507_4309694674433474560_n.jpg
   alt: post lead image
 ---
-
-_By Grace Lauson_
-
 On Nov. 12, American singer-songwriter Matt Simons played at the Great Scott in Allston. Simons’s friend Chris Ayer opened the show. They first toured together about eight years ago and have been playing shows together ever since. This was Simons’s first headlining show in Boston; his funny personality and great energy made for an exciting show.
 
 Simons just finished the international leg of his tour and only has a couple of shows left before he goes back to into the studio to record more music. He has an album coming out later this year and gave the Boston crowd a sneak peek of some of his new songs. He played multiple unreleased songs, some old pieces, and, of course, his singles. His most popular song, "Catch and Release" (the Deepend Remix), has upwards of 200,000,000 listens on Spotify. The fan base has grown over the years and remain quite dedicated to Ayer and Simons.

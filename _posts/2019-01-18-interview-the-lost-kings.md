@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Grace Lauson
+  first_name: Grace
+  last_name: Lauson
 image:
   src: http://sites.bu.edu/wtbu/files/2019/01/35B8E44A-92BD-47DA-8EF4-3D25AD9D0000.jpeg
   alt: post lead image
 ---
-
-_By Grace Lauson_
-
 Lost Kings have just kicked off “The So What Tour” in San Diego and will be playing at The Sinclair in Boston on Jan. 24. WTBU journalist Grace Lauson chatted with Lost Kings which consists of Robert Abisi and Nick Shanholtz.
 
 GL (Grace Lauson): I know you guys are starting your tour tonight, congratulations on that.  I was wondering if you enjoy the process of constantly being busy while on tour or does it get overwhelming?

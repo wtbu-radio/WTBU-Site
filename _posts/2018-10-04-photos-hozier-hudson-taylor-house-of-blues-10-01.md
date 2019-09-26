@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: /assets/IMG_5732-1024x683.jpg
   alt: post lead image
 ---
-
-_Photos by Zoe Salvucci_
-
 \[caption id="attachment\_2922" align="alignnone" width="683"\]![]({{ site.baseurl }}/assets/IMG_5734-683x1024.jpg) Hudson Taylor by Zoe Salvucci\[/caption\]
 
 \[caption id="attachment\_2923" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/IMG_5744-1024x683.jpg) Hudson Taylor by Zoe Salvucci\[/caption\]

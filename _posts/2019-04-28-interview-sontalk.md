@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Grace Lauson
+  first_name: Grace
+  last_name: Lauson
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/website-header.png
   alt: post lead image
 ---
-
-_By Grace Lauson_
-
 Joseph LeMay, who goes by the name of SONTALK, is currently on tour playing songs off his new album “Stay Wild”. WTBU's Grace Lauson chatted with SONTALK about his daily life, the upcoming tour, and much more.
 
 **Grace Lauson: I know you must be pretty busy on tour right now, can you walk me through a normal day for you?**

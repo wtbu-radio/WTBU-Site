@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Jillian Napolitano
+  first_name: Jillian
+  last_name: Napolitano
 image:
   src: http://sites.bu.edu/wtbu/files/2019/01/vine.jpg
   alt: post lead image
 ---
-
-_By Jillian Napolitano_
-
 8:31pm. The lights dim as the _Star Wars_ theme begins to echo through Brighton Music Hall. The bass drops, making the entire crowd screams and pushes forward. Bryce Vine steps on stage.
 
 Vine opens the show with “On The Ball,” an upbeat bop that makes the entire crowd dance and smile. Next up is his hit song “Sunflower Seeds,” resulting in the entire venue to roar, making it nearly impossible to hear Vine himself. The lyrics “Forty ounces and a pack of ranch sunflower seeds” have never been sang as loudly as it was during this show, and it was obvious that Vine was very excited to see so many people having the time of their lives to a song that he wrote.

@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Caroline Barry
+  first_name: Caroline
+  last_name: Barry
 image:
   src: /assets/unnamed-4-1-1024x683.jpg
   alt: post lead image
 ---
-
 “You didn’t come to hear perfect music. You came to hear a lot of music.”
 
 Honored with such titles as “Spotify Spammer” and “Genius Lunatic,” Matt Farley is a humble Massachusetts man who has graced the internet with more than 19,000 songs over his career. He sings about any and all topics under 75 different pseudonyms, including The Motern Manly Band, The Smokin' Hot Babe Lovers, and The Guy Who Sings Songs About Cities & Towns. By his efforts and a smart assessment of Spotify’s payment algorithms, Farley makes tens of thousands of dollars a year on Spotify revenue alone.
@@ -40,8 +39,6 @@ I myself discovered Farley’s music six years ago. Two songs in particular (“
 The morning after WMDE2, all show attendees were invited to challenge Farley in both one-on-one basketball. Word has it he beat every challenger. Unfortunately, I could not attend.
 
 Find Matt Farley and his many bands on Spotify and YouTube. For a complete list of his pseudonyms, films, and podcast episodes, visit [_moternmedia.com_](http://moternmedia.com/).
-
-_\-Caroline Barry_
 
 \[caption id="attachment\_2296" align="alignnone" width="710"\]![Photo by Caroline Barry]({{ site.baseurl }}/assets/unnamed-2-1-1024x683.jpg) Photo by Caroline Barry\[/caption\]
 

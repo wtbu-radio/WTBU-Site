@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: David Taylor
+  first_name: David
+  last_name: Taylor
 image:
   src: /assets/dave-matthews-band-2018-press-crop-updated-1480x779-636x335.jpg
   alt: post lead image
 ---
-
-_By David Taylor_
-
 [Dave Matthews Band](https://www.davematthewsband.com/) brought their Fall 2018 tour to TD Garden and delivered the music like only DMB can. The jam-band pioneers kicked off the night with fan favorites “Everyday”, “Funny the Way It Is”, “That Girl Is You”, and “Granny.” Mixing old songs with new (including a great cover of Peter Gabriel’s “Sledgehammer”), the show never lulled, remaining energetic, alive, improvised, and electric. They let loose and experimented, breathing new life into their songs that are now nearly two decades old.
 
 As always, the jam interludes were long and fast. The band played off each other, complementing and highlighting one another’s skills. The band’s drummer, Carter Beauford, proved why he is [ranked number 41](https://www.rollingstone.com/music/music-lists/100-greatest-drummers-of-all-time-77933/carter-beauford-31231/) on Rolling Stone’s “100 Greatest Drummers of All Time.” His drumming was great in every song, but when he got the stage to himself to introduce “Say Goodbye,” watching him solo was as magical as watching Eddie Van Halen play “Eruption.” He is ridiculously talented, and he never stopped smiling. You could almost hear the joy radiate through his drums.

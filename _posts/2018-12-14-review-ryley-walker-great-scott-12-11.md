@@ -7,16 +7,13 @@ tags: []
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Lani Weil
+  first_name: Lani
+  last_name: Weil
 image:
   src: /assets/Ryley_walker_SG-2938-1525815705-1500x1000-636x424.jpg
   alt: post lead image
 ---
-
-_By Lani Weil_
-
 For a show that begins at 10:30 PM on Tuesday night, one who chooses to attend probably is one of two things: a) unwaveringly devoted to the music or b) blindly driven by drunken will. Though the only thing I could claim to be was stuffed with scallion pancakes, I entered the warm and intimate venue that is Great Scott a stranger to Ryley Walker’s music. What I found was a sea of ogling eyes of various ages and genders, waiting with bated breath for Ryley Walker to take the stage, all precisely identifying as the first category, though perhaps peppered by the second.
 
 As the band of four took the stage, the smug grin of Ryley Walker was mirrored by the ecstatic crowd. Walker was joined by his three tour mates, Ryan Jewell on drums, Andrew Young on bass, and Brian Sulpizio on guitar. While the crowd rang with amusement and excitement, Walker exuded an immediate ease and comfort with his audience, immediately launching into the music.

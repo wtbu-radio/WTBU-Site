@@ -12,14 +12,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Daniella Weiss
+  first_name: Daniella
+  last_name: Weiss
 image:
   src: /assets/tumblr_inline_omcwyn2aGU1swxv3i_500.jpg
   alt: post lead image
 ---
-
 Indie-pop band The Griswolds took the stage at the Sinclair in Cambridge on Feb. 26, as part of their _The Low Lives_headlining tour. Before the show, WTBU DJ Daniella Weiss sat down with lead singer Chris Whitehall of the Australian band to talk about their tour and newest album.
 
 Eager to be on a headlining tour once again after multiple co-headlining tours and touring as an opening act, Whitehall speaks for the rest of the band in expressing their excitement for the show.
@@ -63,5 +62,3 @@ To end the show with a vivacious finale, the band brought out opening act Dreame
 “They’re the nicest guys, and their music rules,” he said. “It’s an awesome thing. I love to have bands come on the road with us who are also great musicians and friends.”
 
 As for what’s to come once the band wraps up _The Low Lives_ tour mid-March, Whitehall said they plan to relax, take some time off, and make plans to tour in Australia later in the year. Regardless of their next move, the band was thrilled to be back in Boston, and that energy came through in the incredible show they delivered at the Sinclair.
-
-_\-Daniella Weiss_

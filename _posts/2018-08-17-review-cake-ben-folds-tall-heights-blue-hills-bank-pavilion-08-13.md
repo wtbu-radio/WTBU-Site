@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: /assets/IMG_6125-1024x683.jpg
   alt: post lead image
 ---
-
-_By Zoe Salvucci_
-
 Monday night at the Blue Hills Bank Pavilion, alternative/funk-rock band CAKE kicked off their tour with Ben Folds, alternative singer-songwriter formerly of the Ben Folds Five, with Boston’s own Tall Heights as support. It was a relatively mellow show whose energy, both in the music and the audience, grew as the rain pounded down on the amphitheater’s roof.
 
 Tall Heights played a short set of electro-folk tunes as the crowd ambled in to take their seats. The band was not afraid to bring the audience into the songs, something every act of the night would go on to do, and the as yet scattered crowd participated eagerly. Ben Folds led his set with two solo songs, himself on vocals and piano, before bringing the members from Tall Heights back onto the stage to help with the instrumentation of his more musically complex songs. (Tall Heights singers Tim Harrington and Paul Wright noted during their own set that learning Folds’s songs made them realize how simple their own were.) Folds had no trouble grabbing the audience’s attention with entertaining anecdotes leading into songs, and banter with the members of Tall Heights. He even composed a song dedicated to Boston for the start of the tour—during which a slip-up by Harrington caused Folds to insist they play the chorus again for good measure. Folds had fans on their feet as he approached the end of his set, playing more upbeat anthems than the songs rooted in piano and folk music.

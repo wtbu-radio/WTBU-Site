@@ -11,16 +11,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Angel Kim
+  first_name: Angel
+  last_name: Kim
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/amitw-14.jpg
   alt: post lead image
 ---
-
-_Photos by Angel Kim_
-
 \[caption id="attachment\_3838" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/amitw-2-1024x683.jpg) _Andrew McMahon in the Wilderness by Angel Kim_\[/caption\]
 
 ![]({{ site.baseurl }}/assets/amitw-1-683x1024.jpg) ![]({{ site.baseurl }}/assets/amitw-3-683x1024.jpg) ![]({{ site.baseurl }}/assets/amitw-4-1024x683.jpg) ![]({{ site.baseurl }}/assets/amitw-5-1024x683.jpg) ![]({{ site.baseurl }}/assets/amitw-6-1024x683.jpg) ![]({{ site.baseurl }}/assets/amitw-7-1024x683.jpg) ![]({{ site.baseurl }}/assets/amitw-8-1024x683.jpg) ![]({{ site.baseurl }}/assets/amitw-9-1024x683.jpg) ![]({{ site.baseurl }}/assets/amitw-10-1024x683.jpg) ![]({{ site.baseurl }}/assets/amitw-11-1024x683.jpg) ![]({{ site.baseurl }}/assets/amitw-13-1024x683.jpg) ![]({{ site.baseurl }}/assets/amitw-14-1024x683.jpg) ![]({{ site.baseurl }}/assets/amitw-15-1024x683.jpg) ![]({{ site.baseurl }}/assets/amitw-16-683x1024.jpg) ![]({{ site.baseurl }}/assets/amitw-17-683x1024.jpg) ![]({{ site.baseurl }}/assets/amitw-18-683x1024.jpg)

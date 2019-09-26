@@ -13,16 +13,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: http://sites.bu.edu/wtbu/files/2018/12/IMG_3735.jpg
   alt: post lead image
 ---
-
-_Photos by Zoe Salvucci_
-
 \[caption id="attachment\_3417" align="alignnone" width="683"\]![]({{ site.baseurl }}/assets/IMG_4245-683x1024.jpg) _The Academic by Zoe Salvucci_\[/caption\]
 
 \[caption id="attachment\_3416" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/IMG_4218-1024x683.jpg) _The Academic by Zoe Salvucci_\[/caption\]

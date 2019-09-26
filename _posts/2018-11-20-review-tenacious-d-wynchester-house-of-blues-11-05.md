@@ -17,16 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Deanna Costa
+  first_name: Deanna
+  last_name: Costa
 image:
   src: /assets/0-23-1024x723.jpeg
   alt: post lead image
 ---
-
-_By Deanna Costa_
-
 The crowd that gathered for Tenacious D’s first tour in five years largely looked like the band themselves: middle-aged (and older), predominantly white, and a little immature. Dozens of concert-goers packed themselves into the general standing room at House of Blues, bobbing their heads and singing along to “Dirty Woman” by Pink Floyd as they patiently waited for the D.
 
 The reason for the duo’s unexpected resurgence? The 2016 presidential election inspired them to write an album, of course. _Post-Apocalypto_ was just released on Nov. 2, along with a six-part animated series on the Tenacious D YouTube channel. Considering their 2006 hit “The Government Totally Sucks,” and the general atmosphere of the comedy-music industry since the last election, an anti-Trump project was inevitable for the two.

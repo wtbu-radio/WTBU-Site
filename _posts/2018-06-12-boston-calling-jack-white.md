@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Miranda Suarez
+  first_name: Miranda
+  last_name: Suarez
 image:
   src: /assets/775169182_TH_1609_2468F3A215223382B5C4C3A2AE76D526_preview-1024x819.jpeg
   alt: post lead image
 ---
-
 Jack White used to be a minimalist. His two-person band, the White Stripes, blasted to alt-rock stardom in the 2000s, winning Grammys and producing the banger-turned-stadium-chant “Seven Nation Army.” Every kid who’s picked up a bass since knows how to pluck out that famous riff.
 
 But White Stripes Jack White is not the Jack White who headlined Boston Calling on Saturday night. Present-day, solo career Jack White has lost the simplicity that made him famous. He brought his new bloated style and lots of baggage.
@@ -39,8 +38,6 @@ Afterwards, White became the oblivious uncle that shakes his head at the youth o
 Artists can use their art to fight for their causes, but it should still be good art. White’s wasn’t. His lack of subtlety extends to his political statements, too. A video on the screens behind the band showed his drummer throwing a dart at a Trump face dartboard. He dug at the president again when he switched out a line in the set closer “Seven Nation Army” for the sentence “_I wanna build a wall_.”
 
 These moves are especially strange considering he already has an excellent pro-immigrant, anti-Trump anthem. “_White Americans, what, nothing better to do?/Why don’t you kick yourself out, you’re an immigrant too_,” White sang in “Icky Thump,” all the way back in 2007. That song didn’t make it into Saturday’s show.
-
-_\-Miranda Suarez_
 
 SET LIST
 

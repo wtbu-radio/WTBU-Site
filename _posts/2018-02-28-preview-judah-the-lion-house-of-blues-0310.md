@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Daniella Weiss
+  first_name: Daniella
+  last_name: Weiss
 image:
   src: /assets/unnamed-636x424.jpg
   alt: post lead image
 ---
-
 Making their return to Boston this March, Judah & The Lion (Cletus the Van Records/Caroline) are bringing their biggest headlining tour to date, the Going to Mars tour, across the country. The tour is in support of the deluxe edition release of their sophomore album _Folk Hop N Roll,_ which features hits on Alternative radio, “Suit and Jacket” and “Take It All Back.”
 
 The Going to Mars tour took the band through the US, Canada, and Europe in the fall of 2017, hitting major cities for several sold-out stops. Named after latest single “Going to Mars,” the tour’s 2018 run began in Arkansas in late January and will carry through to mid-April to end in Georgia.
@@ -34,5 +33,3 @@ Supported by Colony House and Tall Heights, Judah & the Lion will take the Going
 Judah & the Lion:
 
 [Facebook](https://www.facebook.com/judahandthelion/) / [Twitter](https://twitter.com/judahandthelion) / [Instagram](https://www.instagram.com/judahandthelion/)
-
-_\-Daniella Weiss_

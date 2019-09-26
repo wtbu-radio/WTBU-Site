@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Eva Rondon
+  first_name: Eva
+  last_name: Rondon
 image:
   src: /assets/0009283425_10-636x358.jpg
   alt: post lead image
 ---
-
 On April 26, I took to the Sinclair in Harvard Square to experience a Pinegrove show for the eighth time. The band’s nearly flawless live sound, their always wholesome and sincere message, and overall danceability always makes the trips worthwhile for me. But the Pinegrove buzz is much bigger than myself, and this was evident in the _extremely_ sold out crowd. The Montclair, N.J. natives signed to Run for Cover Records in October 2015. A short four months later with the release of _Cardinal_, it became clear the rock ‘n’ roll six-piece with country twang and shifting time signatures was ready to take on the world.
 
 Opener Horse Jumper of Love endeared the crowd with melancholic strumming and soft-spoken bantor. As a staple in the Boston DIY community, the modest and always thought-provoking three-piece served as the perfect warmup for the show.
@@ -35,5 +34,3 @@ The many tuning breaks throughout Pinegrove’s performance allowed Hall to enga
 The band reemerged from their short break about 30 seconds later, Hall with slices of red bell peppers in tow. He placed them on his amp and got right into their final tune, “Recycling.” Pinegrove exited the stage with a sincere “thank you” matched by thunderous applause.
 
 The show was over, but the aforementioned feeling lived on. The crowd disbanded, many making their way to the merch table. As I waddled my way toward the long line in front of the table, I heard a girl say to her companion, “Seeing Pinegrove live made me want to be a better person.” Perhaps being kind and unapologetically sincere is the new punk.
-
-_\-Eva Rondon_

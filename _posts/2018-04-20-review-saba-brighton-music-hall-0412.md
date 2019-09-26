@@ -17,14 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Phoebe Pacheco
+  first_name: Phoebe
+  last_name: Pacheco
 image:
   src: /assets/28061111_1664932150293279_1043433472520215583_o-636x636.jpg
   alt: post lead image
 ---
-
 Brighton Music Hall played host to Chicago rapper Saba on April 12, and he brought both the frigid midwest chill and a poetic, encapsulating performance.
 
 The show was opened by three different artists, Latrell James, Mfn Melo and Joseph Chilliams. The latter of the two are members of an independent West side Chicago rap group who refer to themselves as “Pivot Gang.” Mfn Melo, the first opening act, has a sound is slightly darker than the rest of the group with a powerful voice and inviting stage presence. Joseph Chilliams drew us in with witty lyrics and his certified “funnyman” attitude onstage. Saba, the main act, also is a part of the group. Their fourth founding member, John Walt, cousin to Saba and Chilliams, was killed last year in an incident in West Chicago. Saba’s just-released album _Care for Me_ is largely dedicated to him.
@@ -38,5 +37,3 @@ If his debut album, _Bucket List_, was an optimistic look to the future, his sop
 His song “Fighter” is something of a rap ballad, and he moved artfully between heartfelt moments into impassioned chants of “_I war no more…cause I’m not a fighter._” His charismatic demeanor was almost overshadowed by his striking realness and sincerity. This carried through his commentary and performance. Every word felt profoundly emotional, but was accompanied by clever lyricism and hooks that cause you to root for him.
 
 Throughout the night, Saba had the audience completely enraptured with a nervous excitement as they longed to hear what was next–a stark contrast to how Saba ended the night, strolling coolly off the stage.
-
-_\-Phoebe Pacheco_

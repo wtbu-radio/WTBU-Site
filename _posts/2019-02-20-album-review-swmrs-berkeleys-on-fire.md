@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/rs-242861-20160527_SWMRS_2_HP.jpg
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
 In their second album under the SWMRS name, Cole Becker and co. have released a scathing critique on the modern world. While _Berkeley’s on Fire_ is not as groovy or energetic as the band’s debut album _Drive North_, the record is easily the most mature release from the quartet and extremely refreshing in the punk rock scene.
 
 Modern punk rock is littered with happy sounding songs about being sad. While so many bands in the genre are fun and talented, Neck Deep, State Champs, WSTR, All Time Low, and so many other bands all generally have the same theme and tone in the wide majority of their musical repertoire. Hearing SWMRS discuss something so different and important is refreshing and more than welcome in the scene.

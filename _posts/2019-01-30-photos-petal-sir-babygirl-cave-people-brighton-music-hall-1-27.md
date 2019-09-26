@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Angel Kim
+  first_name: Angel
+  last_name: Kim
 image:
   src: http://sites.bu.edu/wtbu/files/2019/01/127-24.jpg
   alt: post lead image
 ---
-
-_Photos by Angel Kim_
-
 \[caption id="attachment\_3605" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/127-1-1024x683.jpg) _Petal by Angel Kim_\[/caption\]
 
 ![]({{ site.baseurl }}/assets/127-2.jpg) ![]({{ site.baseurl }}/assets/127-3.jpg) ![]({{ site.baseurl }}/assets/127-4.jpg) ![]({{ site.baseurl }}/assets/127-5.jpg) ![]({{ site.baseurl }}/assets/127-6.jpg) ![]({{ site.baseurl }}/assets/127-7.jpg) ![]({{ site.baseurl }}/assets/127-8.jpg) ![]({{ site.baseurl }}/assets/127-9.jpg) ![]({{ site.baseurl }}/assets/127-10.jpg) ![]({{ site.baseurl }}/assets/127-11.jpg) ![]({{ site.baseurl }}/assets/127-12.jpg)

@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Matt Bandel
+  first_name: Matt
+  last_name: Bandel
 image:
   src: /assets/brockhampton-iridescence-1024x1024.jpg
   alt: post lead image
 ---
-
-_By Matt Bandel_
-
 The hardest working boy band in the world returns for their fourth full length album. Brockhampton is a southern California rap/art collective made up of rappers, producers, graphic designers and much more. The group prefers to call themselves a boy band, and to quote their leader, Kevin Abstract, “We’re boys and we’re in a band.” The group took the hip-hop world by storm last year with their _Saturation_ trilogy: three albums all with similar styles all released in 2017. Each album was pretty similar to the next, but over the course of the three records, different members got more of a spotlight, and by the end of the year ,listeners had a pretty good idea of all of the musical members’ talents. I knew from the get-go that this album would be very different. So much had changed since the last album. They signed a rumored $15 million record deal with RCA records and kicked out one of the core members, Ameer Vann (his face was literally on the cover of all three Saturation albums), due to sexual assault allegations. Between restructuring the verses to accommodate the loss of Ameer and coming up with a new sound, there was a lot of adjustment that had to be done. And adjust they did.
 
 The largest change is definitely the production. Straight from the opening track “NEW ORLEANS” the band is going for a much different sound. The beats have lost the friendlier, pop/rap atmosphere of the _Saturation_ trilogy. The industrial sound is much colder and creates such a different dynamic. This sound is a fresh change for the band. The boys sound much harsher over these beats.

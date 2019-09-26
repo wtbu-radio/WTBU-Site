@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Kristen Lay
+  first_name: Kristen
+  last_name: Lay
 image:
   src: /assets/tumblr_inline_omcv1r8jo01swxv3i_500.jpg
   alt: post lead image
 ---
-
 _Photo by Kristen Lay_
 
 Sitting around a campfire on a chilly day surrounded by good company and good music is really something great. It’s even better when that good company and good music is Welsh alternative rock band The Joy Formidable. Thursday night was the last of their seven-day _Leave No Trace_ tour which featured a semi-acoustic performance from the band in a campfire-esque setting, complete with a fake fire pit, teepee, lanterns, and string lights.
@@ -43,5 +42,3 @@ The Joy Formidable also had a bit of a surprise for the audience; they gave away
 During the encore, they opened with a cover of Angelo Badalamenti’s “Twin Peaks Theme,” a delightful surprise for myself and the other _Twin Peaks_ fans in the audience. Two personal favorites of mine, “Cradle” and “Llaw = Wall,” from their first album followed after. Dafydd sang the vocals for “Llaw = Wall” with Bryan joining in at certain parts to create a harmonious unison. Their set ended with “Sleep Is Day” off their newest EP _Sleep Is Day_, and the band left the stage with a standing ovation.
 
 The Joy Formidable put on a unique performance that exceeded my expectations and which I felt fortunate to have experienced. Though Bryan says they probably won’t do anything like this again, I believe the _Leave No Trace_ tour succeeded in showcasing their talent and versatility. For now, the band says they will be going into hiding to work on the new record, but hopefully it won’t be too long before Boston welcomes them again.
-
-_\-Kristen Lay_

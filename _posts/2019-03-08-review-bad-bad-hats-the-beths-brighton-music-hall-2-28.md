@@ -11,18 +11,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: http://sites.bu.edu/wtbu/files/2019/03/bbh-blue-large-2.jpg
   alt: post lead image
 ---
-
-_By Carrie Sheehan_
-
-_Photos by Monica Sucic_
-
 On the night of February 28, a steady line filed into Brighton Music Hall for at least an hour after the doors opened, congregating to catch a duel-headliner show. Bad Bad Hats of Minneapolis and The Beths, all the way from New Zealand, had converged in Allston on a cold night to share their unique takes on the indie rock tradition. The layout of the stage was scaled back, with just two guitars, a bass, drum kit and simple lighting mostly unchanged for all three acts. The music was similarly consistent, unpretentious and excellent.
 
 D.C. band Bad Moves served an opening set of driving, grungy power pop to the unusually packed house. Pulling from their recent debut album _Tell No One_, Emma Cleveland (bass, vocals), David Combs (guitar, vocals), Katie Park (guitar, vocals) and Daoud Tyler-Ameen (drums, vocals) energized and riling up the crowd with the stresses of imminent climate change and queer love at Bible camp. Songs “One Thing” and hit “The Verge” were the standouts of their set, where they most successfully balanced their impish energy and heavy instrumentals. 

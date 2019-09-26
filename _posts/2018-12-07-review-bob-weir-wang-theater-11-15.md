@@ -18,16 +18,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Jordan Frankenthaler
+  first_name: Jordan
+  last_name: Frankenthaler
 image:
   src: /assets/Weir1-1024x683.jpg
   alt: post lead image
 ---
-
-_By Jordan Frankenthaler_
-
 The Grateful Dead was a big band. Often swelling to seven or eight members, the role of each musician was defined, though some would say unconventionally. Two contrasting drummers, Bill Kreutzman and Mickey Hart, provided concrete stability and a zany world influence, respectively. Phil Lesh was hardly a bassist. Frankly, he played “lead bass,” contributing to the melodic qualities of the band more than the rhythmic ones. Jerry Garcia needs no words, as none would adequately describe his essential role as lead guitarist in the band. And the rotating lineup of keyboard players defined the band’s different musical eras. Bob Weir played the often understated, often underutilized role of rhythm guitar.
 
 That role has gained an unfortunate stigma: “Put a guitar in his hand so he can do something when he’s not singing” does not lend itself to frontman material. But don’t be fooled; Bob Weir is the Hendrix of rhythm guitar. In early Dead recordings, his playing and interplay with Garcia proves as important as Garcia’s soloing.

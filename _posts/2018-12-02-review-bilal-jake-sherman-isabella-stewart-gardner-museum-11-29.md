@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Chris Bunting
+  first_name: Chris
+  last_name: Bunting
 image:
   src: /assets/11066550_1002689603097310_4678862268600321366_n.jpg
   alt: post lead image
 ---
-
-_By Chris Bunting_
-
 Virtuosic Grammy-winning vocalist Bilal recently graced the stage in the Isabella Stewart Gardner Museum’s RISE concert series. Stage might not be the best word, no formal stage exists in the museum’s “sonic cube” Calderwood Hall. Standing in the center of the room, Bilal looked upward from behind his sunglasses to see four, square levels of almost stadium-style seats, packed with fans ecstatic to hear him perform in one of Boston’s most unique venues. He looked up and screamed, “Let’s have a party!” That’s what we did.
 
 Before that, armed with a grand piano, synthesizer, microphone, and lone hi-hat cymbal, Bilal’s long-time sideman Jake Sherman opened with a set of cleverly introduced originals and covers, in what felt at times like a Dmitri Martin bit. Clad in bright red pants and mismatched socks, his outfit contrasted with his quiet, almost awkward demeanor and similarly mannered tunes. His background in jazz showed through in the complex harmonies and impressive runs that colored his piano playing. These provided a bluesy background for his quiet, poppy vocals, reminiscent of Phoenix’s Thomas Mars in his more thoughtful moments.

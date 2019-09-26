@@ -17,16 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: /assets/JD-BECK-1-1024x683.jpg
   alt: post lead image
 ---
-
-_Photos by Zoe Salvucci_
-
 \[caption id="attachment\_2889" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/JD-BECK-2-1024x683.jpg) JD Beck by Zoe Salvucci\[/caption\]
 
 \[caption id="attachment\_2863" align="alignnone" width="683"\]![]({{ site.baseurl }}/assets/DOMi-1-683x1024.jpg) DOMi by Zoe Salvucci\[/caption\]

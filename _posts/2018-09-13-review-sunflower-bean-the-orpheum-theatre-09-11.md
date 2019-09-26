@@ -14,16 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Brittany Moura
+  first_name: Brittany
+  last_name: Moura
 image:
   src: /assets/26756509_1780116461998431_4056616171212331659_o-1024x1024.jpg
   alt: post lead image
 ---
-
-_By Brittany Moura_
-
 Rock’s most promising, vibrant trio, Sunflower Bean, opened up for Interpol on the first night of their U.S. Fall tour. It was not a surprising pairing, as just a few years back they were opening for the legendary Pixies. Watching “the bean,” as dubbed by their close-knit group of fans, attempt to win over the far more lax crowd of Interpol fans seemed insulting. Julia Cumming, Nick Kivlen, and Jacob Faber are truly a breath of fresh air in 2018’s “rock scene.” I guess it’s true that most attend gigs for the main act, but it is the year 2018 and every single audience member remained seated, even during the band’s most hard-hitting performances, like “Crisis Fest,” and “I Was Home.” The moral of this story is that the same older generation of (mainly) men, the same group who believe they know “real” rock n roll, are the least hardcore subpopulation of humans.
 
 Speaking of badass women, who seem to always be the best audience, lead singer and bassist Cumming lead the set with her ferocious roars and impactful vocal ticks–an effective use of both light and dark that I’ve only ever seen in bands like Wolf Alice. The same can be said for Kivlen, lead guitarist, who exhibited some of the most exciting and personal guitar playing, with no specific genre or player to pin him down to. Drummer, Faber, laid down the same level of passion and talent, and did so in such a sneaky way. He’s not flashy, like Bonham, or soft spoken, but bled into the bass groove and guitar tones in a way reminiscent of the Stones in their prime.

@@ -12,14 +12,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Niko Yaitanes
+  first_name: Niko
+  last_name: Yaitanes
 image:
   src: /assets/6bab80f0b53013097f43059a48951010.268x268x1.jpg
   alt: post lead image
 ---
-
 Two years following his debut EP, _Benchwarmer,_ London-based alternative artist THØSS isready to take the music world by storm with new material.
 
 _Benchwarmer_ was successful and captured the attention of BBC. He played at the BBC Introducing show in London in 2016, a stage where Ed Sheeran, Ting Tings, The 1975, and Two Door Cinema Club all gained popularity. I discovered THØSS at the BBC Introducing show in London. I recently contacted him and asked him several questions about his music.
@@ -45,7 +44,5 @@ THØSS’s visual process is resourceful and coincides with the atmosphere of hi
 As for new material, we may have to wait just a little bit longer.
 
 “I’m currently working on a whole host of material but won’t be releasing anything new until 2018.”
-
-_\-Niko Yaitanes_
 
 \*Tune into Niko’s show, Moby Disc, on Fridays 12 p.m.-2 p.m. on WTBU radio to hear THØSS and similar artists!\*

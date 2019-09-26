@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Ali Audet
+  first_name: Ali
+  last_name: Audet
 image:
   src: http://sites.bu.edu/wtbu/files/2019/03/State-Champs-Upset-1.jpg
   alt: post lead image
 ---
-
-_By Ali Audet_
-
 State Champs brought their Living Proof tour to Boston’s House of Blues on Saturday, March 9th. The tour is in support of their third studio album, _Living Proof_, released last June. Not only was this a sold out show, but it was also the largest headlining show the band has ever played.
 
 They opened the show with Living Proof’s “Criminal” and “Frozen,” the first of nine songs on the setlist selected from the album. But just because they’re on the Living Proof tour doesn’t mean they overlooked their old material. They followed these two tracks with “Losing Myself” and “Shape Up,” two crowd-favorite sing-a-longs from their 2015 album _Around the World and Back_. It’s refreshing to see a band like State Champs give their older material as much respect and playtime as their newer material, especially on a tour in support of a new album. As State Champs lead singer Derek Discanio said, “We don’t want to be one of those bands who won’t play their old \[songs\].”

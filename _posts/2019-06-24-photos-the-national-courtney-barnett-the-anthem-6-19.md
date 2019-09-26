@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Angel Kim
+  first_name: Angel
+  last_name: Kim
 image:
   src: http://sites.bu.edu/wtbu/files/2019/06/cb-6.jpg
   alt: post lead image
 ---
-
-_By Angel Kim_
-
 With support from Courtney Barnett, The National headlined at The Anthem in DC on June 19. They are currently touring their new album “I Am Easy To Find”, and will play at Agganis Arena this fall.
 
 \[caption id="attachment\_4856" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/tn-3-1024x683.jpg) _The National by Angel Kim_\[/caption\]

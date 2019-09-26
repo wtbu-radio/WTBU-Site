@@ -12,18 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Maya Mabern
+  first_name: Maya
+  last_name: Mabern
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/girlpool-11.jpg
   alt: post lead image
 ---
-
-_By Claudia Rosado_
-
-_Photos by Maya Mabern_
-
 On Tuesday, April 23, indie rock band Girlpool performed at The Sinclair, which made for a night of unabashed fun.
 
 The band, who describes their music as “transient fun,” is comprised of Cleo Tucker and Harmony Tividad on guitar and bass respectively, alongside sharing the responsibility of lead vocals. They also brought along a secondary guitar/bass player, synth, and drums, which added grit and a liberating sound to their set. A hyped, gender-bending, and chatty crowd also created a lively atmosphere.

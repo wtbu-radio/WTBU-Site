@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Jack Beck
+  first_name: Jack
+  last_name: Beck
 image:
   src: /assets/23561575_10155800923709454_7353093763143931113_n.jpg
   alt: post lead image
 ---
-
-_By Jack Beck_
-
 Rock is dead, and has been dead in some way since it was born; rock is saved, and has been saved in some way since before it was dead. Now rock is hip-hop, now rock is jazz, and funk, and folk, and country, and blues, and soul too; now rock is multi-millionaire octogenarians ranting racist diatribes against hip-hop to Rolling Stone; now it’s dead-eyed Soundcloud rappers crying for help to a hoard of moshing teenagers. Rock is trapped in the past, rock is only underground, you’ll never understand rock because you weren’t there. Rock is dead, they say. Long live rock: rock is Ezra Furman at the Sinclair Monday night in a sweat-stained floral dress, hands clutching his pearl necklace, rallying a chant of “Fuck! Nazis! Fuck! Nazis!” in the final moments of his show.
 
 Rock is the moment in “Suck the Blood From My Wounds” when everyone in the band kicks out and it’s just Ezra screaming the song’s title while the saxophonist, Tim, wails the track’s main riff–the two of them alone, but still so loud you can _feel_ it.

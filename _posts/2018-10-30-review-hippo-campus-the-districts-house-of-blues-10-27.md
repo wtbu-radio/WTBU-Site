@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Emma Kopelowicz
+  first_name: Emma
+  last_name: Kopelowicz
 image:
   src: /assets/unnamed-1-1024x768.jpg
   alt: post lead image
 ---
-
-_By Emma Kopelowicz_
-
 Hippo Campus brought their signature alt-indie “happy-go-lucky” sound to the House of Blues on Saturday, Oct. 26.
 
 Since the release of their sophomore album, _Bambi_, the band has been on a promotional tour with the Districts. The opening band played a full hour before Hippo Campus got on stage, and got the crowd revved up with their indie rock hits. Once their set was over, the lights remained dim as everyone stood waiting for the boys to take the stage.

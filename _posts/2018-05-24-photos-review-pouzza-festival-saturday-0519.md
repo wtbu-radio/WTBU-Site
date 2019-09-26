@@ -16,14 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: /assets/anti-queens-1-636x357.jpg
   alt: post lead image
 ---
-
 In Montreal last weekend, punk fans young and old from all over Canada flocked to the Quartier Des Spectacles for the 8th annual Pouzza Fest, a hardcore music festival taking place in one weekend every May. Headliners this year included Anti-Flag, Face to Face, and Reel Big Fish, who closed out Saturday night.
 
 Among smaller, local acts were two stand-out all-women bands, Toronto’s the Anti-Queens and Laval’s Bad Skin. The former is a head-banging, fishnet-wearing hardcore punk band who played Foufounes Électriques Saturday afternoon to an eager crowd whose investment in the act only increased as the band’s talent became more and more evident. Down the street at Théâtre Saint-Catherine, Bad Skin, one of the francophone acts of the festival, played to a full house. They were eager to get the crowd riled up, using interactive lyrics and even jumping into the crowd and starting a mosh pit themselves.
@@ -43,8 +42,6 @@ Among smaller, local acts were two stand-out all-women bands, Toronto’s the An
 \[caption id="attachment\_1655" align="alignnone" width="424"\]![Bad Skin / Photo by Zoe Salvucci]({{ site.baseurl }}/assets/bad-skin-3-424x636.jpg) Bad Skin / Photo by Zoe Salvucci\[/caption\]
 
 Orange County ska-punk band Reel Big Fish played through the rainy Saturday night to a wild crowd of moshing, crowd-surfing, drunken Canadian punks. Known for their comedic live act, the band played not only their own hits– including “Beer,” “Everything Sucks,” and their ska cover of a-ha’s “Take On Me”–but introduced their most famous song, “Sell Out,” by playing numerous classic ‘90s songs, including the Mighty Mighty Bosstones’ “The Impression That I Get,” Lit’s “My Own Worst Enemy,” and Nirvana’s “Smells Like Teen Spirit,” intentionally crediting the wrong band for each song. Never letting a joke go, singer-guitarist Aaron Barrett interrupted “Beer,” the last song of the set, [to play an entire verse and chorus from “Self-Esteem” by the Offspring](https://www.youtube.com/watch?v=xHOf3x1XFHE). To a new audience member, these constant jokes and fake-outs may seem overdone, but regular concert-goers know to expect a blend of humor and random covers among the band’s usual dynamic ska-punk set. At a mere 10:30, Reel Big Fish wrapped up, so the crowds flocked to various indoor venues around the neighborhood for more intimate–but no less energetic–gigs by smaller bands, eager to keep the party going late into the night.
-
-_\-Zoe Salvucci_
 
 \[caption id="attachment\_1660" align="alignnone" width="636"\]![Bhatt / Photo by Zoe Salvucci]({{ site.baseurl }}/assets/bhatt-1-636x424.jpg) Bhatt / Photo by Zoe Salvucci\[/caption\]
 

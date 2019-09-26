@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Ioanna Karageorge
+  first_name: Ioanna
+  last_name: Karageorge
 image:
   src: /assets/1-1-1024x790.jpg
   alt: post lead image
 ---
-
-_By Ioanna Karageorge_
-
 Boston loves Lindsey Jordan and Lindsey Jordan loves Boston. Her band, Snail Mail, came to play Cambridge’s the Sinclair on Dec. 1 for two sold-out, back-to-back shows.
 
 Snail Mail, established in 2015, is just in the beginning of their career and have already achieved momentous success. Rising from origins in the Maryland DIY scene, Lindsey Jordan has moved on from playing house shows to now performing internationally to sold out audiences. The question looming seems to be: So, how did she do it? This was answered for me after attending her recent Boston concert.

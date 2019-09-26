@@ -17,16 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Brittany Moura
+  first_name: Brittany
+  last_name: Moura
 image:
   src: /assets/0004968940_10.jpg
   alt: post lead image
 ---
-
-_By Brittany Moura_
-
 Orange County natives the Garden, consisting of Wyatt and Fletcher Shears, twin part-time models, gave a surprisingly explosive performance at the Sinclair on Dec. 3. It was as if Ariel Pink decided to form a hardcore punk band with Rage Against the Machine, and every goth girl and boy showed up, donned in clown makeup, chains, and bleached hair.
 
 The first opener, Machine Girl, embodied what I coin as “SoundCloud punk,” and I mean that in the best way possible. If Machine Girl linked me their [SoundCloud](https://soundcloud.com/machine-girl), I would actually listen. I couldn’t make out when one song stopped and another began, but the energy never faltered as the lead singer, or shall I say screamer, jumped into the adoring crowd to mosh and celebrate the cerebral energy of the music. Their new album, _The Ugly Art_, reveals everything you need to know before you listen to this new, exhilarating, youth-representing duo.

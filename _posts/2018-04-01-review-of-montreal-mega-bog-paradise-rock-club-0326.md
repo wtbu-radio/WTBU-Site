@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Leonora Telford
+  first_name: Leonora
+  last_name: Telford
 image:
   src: /assets/26731407_10156037458563686_2360744444247178411_n.jpg
   alt: post lead image
 ---
-
 Georgia-based indie band of Montreal performed a concert at the Paradise Rock Club on Monday, March 26 as part of a tour for their new album, _White Is Relic/Irrealis Mood_, released on March 9.
 
 Psych rockers Mega Bog, hailing from Seattle and Brooklyn, opened the show. While their musical style differed significantly from that of the headliners, frontwoman Erin Birgy peppered the set with quirks and oddities not out of place in the of Montreal universe. Her offbeat vocal stylings evoked shades of Joanna Newsom, while the rest of the band hypnotized the audience with extended trance-like jams.
@@ -35,5 +34,3 @@ They performed many old and new dance tunes, including 2005 album _The Sunlandic
 A highlight of the performance was when Barnes briefly exited the stage and reappeared wearing a white coat and a platinum blond wig that was an obvious nod to Judith Light. He then proceeded to sing an emotional cover of the Bonnie Beecher ballad “Come Wander With Me” from _The Twilight Zone_. His performance transfixed the audience, who was now standing completely still. He then threw the jacket off and the band resumed their dance music performance, starting with “Soft Music/Juno Portraits of the Jovian Sky” from their newest album. Their last song before the encore was _Hissing Fauna…_’s “A Sentence of Sorts in Kongsvinger,” an epic pop tune that saw more confetti bursting into the singing and dancing crowd.
 
 As the audience cheered for an encore, the band’s mascots came onstage dressed as blue crustaceans and began to control the noise of the crowd, crouching down when they wanted quiet and rising back up to indicate that the fans should resume cheering. The band then performed an explosive encore, beginning with _Hissing Fauna…_’s “Bunny Ain’t No Kind of Rider,” a glamorous track with a catchy chorus that rendered it a crowd favorite. Next was “Gallery Piece” off of 2008 album _Skeletal Lamping_, arguably their most danceable track to date, and it showed in their performance. Finally they ended with _Innocence Reaches_’ “Let’s Relate.” Overall, of Montreal put on a spectacular show that transcended the realm of music and was squarely in the territory of true performance art. Barnes has honed his craft well over the years and is clearly unafraid to color outside the lines, and it showed.
-
-_\-Leonora Telford_

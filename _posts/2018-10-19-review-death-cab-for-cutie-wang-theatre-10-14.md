@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Alison Audet
+  first_name: Alison
+  last_name: Audet
 image:
   src: /assets/dcfc_4.jpg
   alt: post lead image
 ---
-
-_By Alison Audet_
-
 If you’re looking for nostalgia from Death Cab for Cutie, you’re not going to get it anytime soon. Their newest album, August’s _Thank You for Today_, debuted at #1 on the Billboard Top Rock and Alternative charts. The band modernized without losing what makes them so special: endearing, heartfelt lyrics and complex instrumentation. It’s no wonder they spent two nights performing in Boston: they keep getting better and better.
 
 Opening the show was Charly Bliss. Lead singer Eva Hendricks’s piercing vocals and the band’s energetic riffs made their set engaging and exciting to start the show. Self-described as “a bubble-grunge band from Brooklyn, NY,” they complimented Death Cab while bringing their own unique sound to the table. They played selections from their 2017 album _Guppy_, as well as their new single “Heaven.”

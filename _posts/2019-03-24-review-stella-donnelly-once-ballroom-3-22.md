@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Ben Gorelick
+  first_name: Ben
+  last_name: Gorelick
 image:
   src: http://sites.bu.edu/wtbu/files/2019/03/55453706_2248204508736625_162140281053904896_n.jpg
   alt: post lead image
 ---
-
-_By Ben Gorelick_
-
 ONCE Ballroom was in a buzz after the opening act, Faye Webster, had shared not only her songs, but also some genuinely impressive yo-yo tricks. After this, people had come on stage starting to set up drums, synths, and different guitars and pedals. The excitement for Stella Donnelly was palpable in the air.
 
 Donnelly herself is an Australian and Welsh musician, who released her first EP, _Thrush Metal_, in 2017, and her debut album which her tour was titled after, _Beware of the Dogs_, in early March of 2019. She’s been hailed as a “feminist folk hero on the rise,” and “tipped for international success.”

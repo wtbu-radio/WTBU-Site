@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Anjali Balakrishna
+  first_name: Anjali
+  last_name: Balakrishna
 image:
   src: /assets/20637835_10154593469750780_4199800017565087161_n-636x279.png
   alt: post lead image
 ---
-
 As any human who has gone through the so-called “emo phase” can attest to, Fall Out Boy is a household name. The band consists of lead singer Patrick Stump, bassist Pete Wentz, lead guitar Joe Trohman, and drummer Andy Hurley. Forming all the way back in 2001, the group is still going strong with a brand new record preparing to drop and an accompanying world tour.
 
 Two years ago I had the honor of seeing Fall Out Boy for the first time in Downtown Dallas at the Southside Ballroom. It was an intimate venue with an invested crowd. The vibe then was different to that of this year. Aside from the venue being comparable to a House of Blues, James Bay and George Ezra were the opening acts back in 2015.
@@ -42,5 +41,3 @@ The band also treated us to a taste of their currently unreleased single, “Exp
 Aside from the music, their stage presence was phenomenal. All four members had so much enthusiasm for performing and true love for their fans.  Wentz noticed a girl dressed as a Teletubby and called for her to get a free shirt. I don’t think I have ever been more jealous of someone in a Tinky Winky costume before.
 
 Initially set to release in October, _Mania_ will drop in January 2018. It will be worth a listen for us pop punk kids. Correction: it will be worth a listen for anyone ready to embrace the greatness that is Fall Out Boy.
-
-_\-Anjali Balakrishna_

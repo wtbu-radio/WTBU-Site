@@ -24,16 +24,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Matt Bandel
+  first_name: Matt
+  last_name: Bandel
 image:
   src: /assets/61t6KRgvezL._SS500.jpg
   alt: post lead image
 ---
-
-_By Matt Bandel_
-
 It’s been a hell of a summer for music. In this modern age, it’s so easy to pump out music, so I decided to break down some of the releases that have caught my eye since the school year has ended.
 
 **Pusha T - _Daytona_**

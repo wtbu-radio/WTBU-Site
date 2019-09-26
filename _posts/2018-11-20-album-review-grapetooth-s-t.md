@@ -13,16 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: John Spaulding
+  first_name: John
+  last_name: Spaulding
 image:
   src: /assets/a2847102934_10-1024x1024.jpg
   alt: post lead image
 ---
-
-_By John Spaulding_
-
 Is there a band having more fun than Grapetooth right now? Listening to their self-titled debut, it’s hard to imagine that there was ever a dull moment when recording this album. Grapetooth consists of Clay Frankel (who you might be familiar with as the guitarist and frontman of Twin Peaks) and his roommate, Chicago-based producer Home-Sick_,_ or Chris Bailoni. The duo released their debut single, “Trouble” over a year ago, and, since then, have sold out three shows, signed to Polyvinyl Records, and released their debut album. They started making music in Bailoni’s bedroom studio just for kicks, bonding over a mutual admiration of ‘80s Japanese new wave and cheap red wine (the latter being the source of their name), and have evolved into a proper band.
 
 The project divides its 40-minute length across 10 tracks, with almost every song sounding completely different than the last. The album’s opener, “Violent,” sets the stage for what’s to come: a lot of synths, ‘80s nostalgia, and fun. “Death” and “Blood” both have infectious synths that beg the listener to dance like no one’s watching. You also have “Imagine On,” which sounds straight out of a John Hughes flick, which is followed by “Hangover Sq.,” which takes its lyrics from a 17th century English poem and pairs it with a jangle-pop instrumental that wouldn’t entirely surprise me to be a Smiths track that never saw the light of day. It’s moments like this which showcase the band’s free and easygoing attitude.

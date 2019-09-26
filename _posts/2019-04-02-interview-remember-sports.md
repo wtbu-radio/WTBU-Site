@@ -8,16 +8,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Reed Romanko
+  first_name: Reed
+  last_name: Romanko
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/remember-sports-carly-hoskins-web_wide-95ca8c10babb255a02c7f698df8fda0369c7ceab-s800-c85.jpg
   alt: post lead image
 ---
-
-_By Reed Romanko_
-
 WTBU DJ Reed Romanko talked on the phone with Remember Sports' Carmen Perry about their upcoming album and current tour. Remember Sports plays at ONCE in Somerville on April 8th. Tickets are available [here](https://www.oncesomerville.com/event/1828267-remember-sports-somerville/).
 
 **Reed Romanko:** **Later today, you’ll be playing in Richmond, Virginia for the first performance of this tour. How are you feeling about that?**

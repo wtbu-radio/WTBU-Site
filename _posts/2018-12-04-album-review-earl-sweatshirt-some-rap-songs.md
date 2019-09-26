@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: John Spaulding
+  first_name: John
+  last_name: Spaulding
 image:
   src: /assets/Earl-Sweatshirt-Some-Rap-Songs-1543858883-compressed.png
   alt: post lead image
 ---
-
-_By John Spaulding_
-
 This is not the Earl we know from [the age of Odd Future.](https://www.youtube.com/watch?v=EJbnulJMVnM)
 
 In the three-and-a-half years since Earl Sweatshirt’s last album, _I Don’t Like Shit, I Don’t Go Outside: An Album by Earl Sweatshirt_, Earl has been well out of the public eye. He has dropped the occasional single or feature, cancelled tour dates, and experienced the deaths of his father, his uncle, and his dear friend, Mac Miller. At this point, it’s common knowledge that the former Odd Future rapper is troubled. _I Don’t Like Shit, I Don’t Go Outside_ was incredibly dark and provided an insight into Earl’s harsh time adjusting to fame as a teenager, dealing with addiction, and issues with friends and family. It spanned just 30 minutes, with many songs featuring extended instrumental outros, creating the impression that the ten tracks could have probably been condensed into a runtime closer to 20 minutes. On his new album, _Some Rap Songs,_ Earl has continued to consolidate his songs, with 15 tracks across 25 minutes. The brevity of these tracks is reminiscent of the legendary _Madvillainy,_ but much darker.

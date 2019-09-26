@@ -18,16 +18,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 image:
   src: /assets/39234698_10156646355279588_4898205417047326720_n.jpg
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
 When Bayside announced an acoustic tour along with the release of their new album, _Acoustic Volume 2_, a record of reimagined acoustic songs from their huge catalogue of music, I expected them to be playing in the concert halls that bands like them usually play in, like the House of Blues or Brighton Music Hall. Thus, when I entered the Sinclair to secure my spot in what I thought would be a corded pit, I was shocked to see that the floor pit was barely three times the size of my dorm room with so few people that I probably could have counted them. I didn’t think about it before the show or when listening to either of Bayside’s acoustic albums, but everything about Bayside’s acoustic album and tour can be described in one word: intimate.
 
 Throughout the show I literally had my elbows on the stage the entire time. The fact that there was no divide between the stage and the crowd aside from a four foot lift really added to the warm atmosphere of the show. The first time the band took a break from their set, bassist Nick Ghanbarian told the crowd how long he’s wanted to visit the Sinclair in some capacity and told a story of how he had been kicked out of a show at the venue a few years ago. This brings up something that I found so amazing about this concert; I’ve never been to a concert where an artist or band felt so real. Lead singer Anthony Raneri was having conversations with various members of the audience throughout the night, giving me a big thumbs up and a warm smile when he jokingly bashed the city and I told him I was from New York, the birthplace of the band. Lead guitarist Jack O’Shea told stories of growing up in Boston and how much he loves his hometown. Quite simply, Bayside did not seem like a band on that december evening; they felt like friends excited to show you some songs that they wrote because they care about their music and even more so, your opinion.

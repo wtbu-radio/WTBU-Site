@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Spencer Vilicic
+  first_name: Spencer
+  last_name: Vilicic
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/IMG_9788.jpg
   alt: post lead image
 ---
-
-_Photos by Spencer Vilicic_
-
 \[caption id="attachment\_4297" align="alignnone" width="683"\]![]({{ site.baseurl }}/assets/MG_9695-683x1024.jpg) _Tails by Spencer Vilicic_\[/caption\]
 
 ![]({{ site.baseurl }}/assets/MG_9722-819x1024.jpg) ![]({{ site.baseurl }}/assets/IMG_9722-1024x683.jpg) ![]({{ site.baseurl }}/assets/IMG_9726-1024x683.jpg) ![]({{ site.baseurl }}/assets/IMG_9736-819x1024.jpg) ![]({{ site.baseurl }}/assets/IMG_9740-1024x683.jpg) ![]({{ site.baseurl }}/assets/IMG_9754-1024x683.jpg) ![]({{ site.baseurl }}/assets/IMG_9756-683x1024.jpg) ![]({{ site.baseurl }}/assets/MG_9746-1024x683.jpg)

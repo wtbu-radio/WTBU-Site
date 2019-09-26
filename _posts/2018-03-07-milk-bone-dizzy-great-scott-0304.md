@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: /assets/MilkBone-636x477.png
   alt: post lead image
 ---
-
 Electro-pop Canadian duo Milk & Bone released their sophomore effort, _Deception Bay_, in early February. They began jet setting across Canada and the United States in March to tour the album. Band members Laurence Lafond-Beaulne and Camille Poliquin returned to Great Scott in Allston on March 4 for a night wrapped up in floaty vocals, harrowing lyrics, and deep electronic synths.
 
 Canada-based indie rock band Dizzy opened the show. The band is comprised of Katie Munshaw (vocalist), Charlie Spencer (drummer, synths), Alex Spencer (guitarist) and Mack Spencer (bassist). With only two released songs to date, and a few still being workshopped, the band is still figuring out their rather stiff stage presence. A few songs in, it was clear that their strength ultimately lies in their ability to tell coming-of-age stories with a solid beat. That being said, their most popular song, “Stars and Moons,” reminiscent of the band PVRIS, proves them a group worth keeping an eye on.
@@ -38,5 +37,3 @@ Lafond-Beaulne and Poliquin have found the perfect balance of attention to their
 Milk & Bone closed their set with “BBBlue” (not counting their added encore). It was the perfect song about nostalgia for a past love, and clearly one of their own favorites. The live rendition allowed the song to come to life, with the two sharing glances, they transported themselves into their own world.
 
 _Deception Bay_ confirms nothing but growth from the 2015 EP, _Little Mourning._ This is an album worth an entire listen-through. Though their voices are light and airy, Lafond-Beaulne and Poliquin develop harsh undertones and lyrics that force listeners to reflect on heartbreak. An album that tells stories personal enough to get an intimate look into their mind and experiences, yet broad enough for listeners to apply themes to their own life, _Deception Bay_ shows that Milk & Bone have found their creative footing.
-
-_\-Allie Antonevich_

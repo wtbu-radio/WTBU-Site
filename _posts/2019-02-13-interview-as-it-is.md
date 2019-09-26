@@ -8,16 +8,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Maggie Leone
+  first_name: Maggie
+  last_name: Leone
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/IMG_6087.jpg
   alt: post lead image
 ---
-
-_By Maggie Leone _(Photos [here](http://sites.bu.edu/wtbu/2019/02/13/photos-as-it-is-the-middle-east-2-10/))
-
 Stranger Sings DJ Maggie Leone sat down with Patty Walters, As It Is frontman, before the band’s February 10th show (their biggest headlining show in North America yet) at The Middle East Downstairs. _The Great Depression Tour: Act II_ with Sharptooth, Hold Close, and Point North, is in partnership with A Voice for the Innocent**, **a non-profit organization that provides community, resources, and support for people who have been affected by sexual violence.
 
 As It Is recently released a new [music video](https://www.youtube.com/watch?v=X4yLctPRiXU) for their latest single from _The Great Depression_, “The Fire, The Dark.”  It serves as a welcome for new permanent lead guitarist Ronnie Ish.

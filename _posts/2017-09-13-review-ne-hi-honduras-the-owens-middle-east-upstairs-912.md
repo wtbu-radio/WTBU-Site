@@ -22,7 +22,6 @@ image:
   src: /assets/IMG_0725.JPG-636x393.jpeg
   alt: post lead image
 ---
-
 Much has changed since the last time NE-HI graced the stage of the Middle East Upstairs this past March. For one, their album _Offers_, a one-month old babe at the time of their last tour, has since fully matured and gained heavy traction. And as guitarist and vocalist Jason Balla had pointed out, it wasn’t raining ice chunks, making this mild September Boston night seem a little less apocalyptic. One constant, though, was the infectious level of energy that has become a staple of NE-HI’s live shows.
 
 Before NE-HI’s electric return, local indie rock band The Owens opened with their dreamy, goth-infused sounds. Though their songs are decidedly melancholy, The Owens manage to transform the tracks live by giving them a heavier presentation—closer to a rock show that an indie bedroom band pity party. Tracks like “Judgement Day” off of their latest EP _Redemption Day_ in addition to older songs warmed the slowly growing crowd for the night.
@@ -36,5 +35,3 @@ Once NE-HI’s set rolled around, the Middle East had begun to pack out, though 
 Despite the old favorite being a highlight, NE-HI also showcased plenty of tracks from _Offers_ including the title track, “Prove,” and “Sisters,” a particularly stand out track with just the right amount of angst and poppy hooks.
 
 NE-HI stylistically isn’t groundbreaking (think Beach Fossils with Midwestern charm), but they set themselves apart dramatically with their sheer passion when playing live. It was evident is Balla’s moves, the band sweating a song and a half in, and their humble attitude—these Chicago boys aren’t above playing a half-empty club. But judging by the show NE-HI put on, perhaps the club was really actually half full.
-
-_\-Olivia Gehrke_

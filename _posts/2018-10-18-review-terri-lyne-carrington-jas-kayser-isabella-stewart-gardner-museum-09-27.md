@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Audrey Sutter
+  first_name: Audrey
+  last_name: Sutter
 image:
   src: /assets/12366204_801611313298805_1291320573788266558_n.jpg
   alt: post lead image
 ---
-
-_By Audrey Sutter_
-
 Three-time Grammy award winning drummer and educator, Terri Lyne Carrington, played a complex and memorable set in the four-story Calderwood Hall. Carrington and her opener, former Berklee student Jas Kayser and her band Jas & Chums, had audients craning far over the barrier of each level to see what was going on below.
 
 Carrington’s set was part of the RISE Music Series, curated by Shea Rose and Simone Scazzocchio. RISE is working to bring pop, rock, and hip-hop into classical settings while also inspiring people to get out and enjoy music.

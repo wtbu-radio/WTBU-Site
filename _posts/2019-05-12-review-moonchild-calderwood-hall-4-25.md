@@ -14,16 +14,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Hannah Rogers
+  first_name: Hannah
+  last_name: Rogers
 image:
   src: http://sites.bu.edu/wtbu/files/2019/05/MG_0535.jpg
   alt: post lead image
 ---
-
-_By Hannah Rogers_
-
 On Thursday night, alternative R&B trio Moonchild performed in the Calderwood Hall at Isabella Stewart Gardner Museum as part of the RISE music series, for which local rising stars and established musicians perform. In Calderwood Hall, people are able to enjoy a concert experience in a beautiful and unique venue.
 
 Moonchild, a Los Angeles based trio made up by Amber Navran, Max Bryk, and Andris Mattson, delivered an engaging and impressive performance that had the audience dancing in their seats all the way through to the last song, when the crowd stood up to give the funky beat the dance moves it deserved.

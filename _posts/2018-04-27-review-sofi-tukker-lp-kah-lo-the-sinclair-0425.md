@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Christian Jaeger
+  first_name: Christian
+  last_name: Jaeger
 image:
   src: /assets/28616767_1977056552321796_4306152655864035684_o-636x636.jpg
   alt: post lead image
 ---
-
 With the two week old release of _Treehouse_, electronic-pop duo Sofi Tukker brought the color and addictive beats of their new album to the Sinclar on Wednesday, April 25. Igniting the stage and possessing a distinct energy of their own, this duo’s performance will be hard for audiences to forget, and a challenge to top.
 
 Musicians Sophie Hawley-Weld and Tucker Halpern met in college, forming Sofi Tukker in 2014. Their house genre beginnings are evident in “Drinkee,” their first collaboration. With a passion for Brazilian Portuguese, the duo sings a number of their most dance-provoking songs in the radiant language.
@@ -44,5 +43,3 @@ Closing with the first song they’d ever written together, Sofi Tukker finished
 An explosion of a performance and an experience to remember, Sofi Tukker felt relatable, almost friend-like, as they reigned the stage for nearly two hours. Opening acts LP and Kah-Lo were fantastic at pumping up the crowdt; by the time the acts were finished, concertgoers were exhausted from standing for almost an hour and a half before the leads could enter the stage. Nonetheless, it only took their swank entrance to bring the energy(ia) and exhilarate the audience.
 
 It’s rare to see a set of performers enjoying themselves as much as these two. Perhaps it was their East Coast roots, particularly Halpern’s in Brookline, so a familiar setting as well as family and friends in the audience only amplified the already bright mood. Sofi Tukker delivered, big time. Do not miss this incredible duo the next time they’re in Boston or wherever home may be; tour dates continue until September 21.
-
-_\-Christian Jaeger_

@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Caroline Barry
+  first_name: Caroline
+  last_name: Barry
 image:
   src: /assets/unnamed-636x424.jpg
   alt: post lead image
 ---
-
 Peach Pit is four totally normal guys playing abnormally good surf rock music. They played at Great Scott in Allston, one of the tiniest venues I’ve ever attended, on Monday, Oct. 9.
 
 The Great Scott bar television played The Hobbit while a friend and I sat through soundcheck for the hard-rocking girlband main act, Winter. Before doors opened, the four Vancouver-native Peach Pit members warmly introduced themselves. It made for a very relaxed pre-show environment.
@@ -34,5 +33,3 @@ Although Peach Pit was only the second opener for The Land of Enchantment, it se
 This band is recognizable for a strange relationship with their fans. They refer to themselves and their fans as “daddies,” aligned with pop culture’s “sugar daddy”-“sugar baby” relationships. However, as they attended to their merch table post-performance, they showed exceptional reception to fan photos, signatures, compliments, and conversations. These guys really care for their fans, which has absolutely contributed to their growing fanbase.
 
 As I had discovered Peach Pit’s first EP, _Sweet FA_, just this past summer, it was a real treat seeing these guys perform. Actual peach pits may be filled with enough arsenic to kill a human being, but this quartet is nothing but sweet.
-
-_\-Caroline Barry_

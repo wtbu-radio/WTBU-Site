@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Maggie Leone
+  first_name: Maggie
+  last_name: Leone
 image:
   src: /assets/IMG_9351-2-636x424.jpg
   alt: post lead image
 ---
-
 When 5 Seconds of Summer announced the 5SOS Tour a few months ago, the fact that tickets were only $30 and that the band was playing at the Paradise Rock Club, felt like a dream.  Being there Sunday night, that dreamlike feeling only intensified. The intimate venue made the show incredibly special; it was a once in a lifetime experience, as it’s not every night you are in a relatively small room with four of your idols singing your favorites songs practically to you.  Every time a crew member set foot on stage, the crowd packed into the bar exploded in anticipation of Ashton Irwin, Luke Hemmings, Michael Clifford, and Calum Hood. Finally, after a small wait, the boys took the stage and the fun truly began. Even though they have performed in front of countless crowds, the band was energetic, engaging, and eager to please their audience.  The set was short, but sweet–especially when they played their new song “Valentine,” which references different desserts throughout. The crowd gathered in the Paradise Rock Club had the honor of being the first group in North America to have heard the set list of the 5SOS Tour, as up until Sunday night, the band had been touring in Europe.
 
 The band played many new songs from their upcoming album _Youngblood_ (which was officially announced on Monday and will be released on June 22, but will be available for pre-order on April 13). They also mixed in a few fan favorites from their last two albums, _5 Seconds of Summer_ and _Sounds Good, Feels Good._ And boy, standing there in such close proximity to an incredible band really did feel good.  Fans waited outside in the cold and wind for hours to see the 5SOS3 Tour, which turns out to be a promotional tour for _Youngblood_ and the band’s much bigger North American tour this summer: the Meet You There Tour.  The boys will be back in town on August 30, at the Blue Banks Pavilion–a far cry from the 933-capacity Paradise Rock Club.
@@ -31,7 +30,5 @@ Guitar player, Clifford, said, “We’ve been playing this game called ‘let�
 Fans seemed to really enjoy the new songs played and, somehow, many already knew the words to the unreleased surely soon-to-be hits.  The boys played “Moving On,” “Valentine,” and the titular track, “Youngblood,” and each one was better than the last. Over the course of the last two 5 Seconds of Summer albums, the band’s sound has fluctuated between pop and pop punk, and thus it will be very exciting to discover which direction the upcoming album will go in and what sound it will take on.
 
 Tickets for the Meet You There Tour go on sale on Friday, April 13 at 10 a.m. local time.
-
-_\-Maggie Leone_
 
 \[gallery size="large" columns="2" link="file" ids="1516,1517,1518,1519,1520"\]

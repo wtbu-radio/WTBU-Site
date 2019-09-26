@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Katie Evans
+  first_name: Katie
+  last_name: Evans
 image:
   src: /assets/unnamed-5-636x424.jpg
   alt: post lead image
 ---
-
 After the release of their debut album _Booty Shakers Ball_, California-based rockers Vista Kicks set off on their first headline tour making stops across the U.S. including the Middle East Upstairs in Cambridge. Opening the night was Boston natives Instant Shawarma. They had a garage rock sound that did not stand out. The crowd seemed a bit disinterested as they had a long wait for the main act. The stage was so dark I could hardly see the band from the front row. The band announced that they would be coming back to play the Foundation Room at the House of Blues.
 
 After about half an hour and a short set change, Canadian indie rock band Kasador hit the stage. The crowd was immediately intrigued as lead singer Will Hunter wowed the crowd with strong vocals and constant motion. Everyone began dancing within the first few notes and continued throughout their set. The band is still new to the music scene with only one EP, _Kasador_, out right now and a few singles. The crowd smiled and cheered at the end of their set and the band looked at the audience with pure gratitude.
@@ -35,7 +34,5 @@ During “Gotta Get Away,” Thomas asked the crowd to form an open circle and i
 Near the end, drummer Nolan Le Vine had a drum solo that Thomas decided to live stream for fans not at the show. The band finished with their biggest hit to date “Marceline” and everyone continued to dance.
 
 An intense energy could be felt throughout their performance, and with each song it grew. The audience and the band never stopped moving. Vista Kicks will be back soon, but no dates have been announced yet.
-
-_\-Katie Evans_
 
 \[gallery link="file" columns="2" size="medium" ids="1415,1413,1414,1412,1410,1409,1411"\]

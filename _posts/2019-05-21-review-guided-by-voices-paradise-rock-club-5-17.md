@@ -11,16 +11,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Jack Beck
+  first_name: Jack
+  last_name: Beck
 image:
   src: http://sites.bu.edu/wtbu/files/2019/05/Guided-by-Voices-losing-game-pricks.jpg
   alt: post lead image
 ---
-
-_By Jack Beck_
-
 It’s weird to think that Robert Pollard and the rest of Guided By Voices are actual people. I don’t mean that in a mean way at all, it’s just that when I listen to their music I really can’t imagine it coming from a bunch people just playing instruments in their garage or their studio or anything like that. To me it sounds a lot more like something fantastical but still super goofy, like that old gnome dude from those Travolocity commercials, like what he would make if he spent all of his time listening to Big Star instead of getting us really good deals on hotels.
 
 Then, after seeing Guided By Voices live at Paradise this past weekend, one of the first things I saw was that they’re not magical hospitality fantasy gnomes at all, but actually just some middle aged guys who make music. It’s grounding, definitely, but the catch is that Guided By Voices are as good at their special brand of catchy indie rock as that gnome is at finding you the best hotel deals\*. If you’re not familiar with the band, they’re the brainchild of frontman Robert Pollard and they’ve been putting out a pretty steady stream of music since the mid-nineties, all of which consists of some sound on the indie rock spectrum ranging from full-on professional studio recordings to hazy so-lo-fi-it’s-hardly-music garage rock. And, because they’re Guided By Voices, it's all at least really good, sometimes even amazing. Robert Polland just doesn’t write bad songs. Look at it like this: this show was 59 songs long (59!!!). They pretty much just put their catalog on shuffle for two hours, and it was totally cool. Like they’re just so good at these short little candy pop gems, it’s fantastic.

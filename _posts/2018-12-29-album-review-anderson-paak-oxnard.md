@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Olivia Amitay
+  first_name: Olivia
+  last_name: Amitay
 image:
   src: http://sites.bu.edu/wtbu/files/2018/12/Anderson-Paak-Oxnard-Feature.jpg
   alt: post lead image
 ---
-
-_By Olivia Amitay_
-
 For those expecting to hear the breezy beach vibes of Anderson .Paak’s last album _Malibu_, _Oxnard_ is not the answer.
 
 Before _Oxnard_’s release_,_ many believed the album would reveal more about .Paak’s upbringing, and how his hometown of Oxnard shaped him into the artist he is today. However, the album barely mentions California, with exception of the West Coast anthem _Anywhere_ featuring G-Funk legend, Snoop Dogg. The distinct surfer sound of _Malibu_ is replaced by an array of genres we’ve seldom seen in .Paak’s work.

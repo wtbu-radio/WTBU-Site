@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: http://sites.bu.edu/wtbu/files/2019/08/maxresdefault.jpg
   alt: post lead image
 ---
-
-_By Allie Antonevich_
-
 Tessa Violet, known previously as Meekakitty, is currently touring for her 2019 EP, _Bad Ideas (Act One)_. Though I was unable to make her show at the Sinclair last minute, I was able to connect with the popular YouTube vlogger-turned-singer songwriter over email to get a sense of what she’s up to now and what’s on the horizon.
 
 **Allie Antonevich: How was Lollapalooza?! What was the craziest thing you saw there?**

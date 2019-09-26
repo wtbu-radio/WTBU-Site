@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: /assets/jake-blue-636x424.jpg
   alt: post lead image
 ---
-
 Every time I’ve seen Hippo Campus, the weather has been extreme and out of season. When I saw them for the first time at Paradise on April Fool’s Day 2017, it was snowing. When I trekked up to Portland, Maine, to see them this February, it was pouring rain. The five Minnesotans headlined Port City Music Hall, which was a third of the size of the venue they sold out the night before, Brooklyn Steel. Regardless of the size, the stages were consumed by the energy of lead vocalist and guitarist Jake Luppen, guitarist Nathan Stocker, trumpeter Decarlo Jackson, drummer Whistler Allen, and bassist Zach Sutton.
 
 The opener for this tour was the band Sure Sure. The quartet of Californians showed off songs from their first, self-titled album as well as songs from their EP _Songs from 2014_. They also played a fantastic cover of Talking Heads’ “This Must Be the Place” and gave the ‘80s tune a bit of a modern twist while still honoring its classic elements. Overall, Sure Sure provided an awesome set that showcased their variety of musical talent. They’ll be playing at the Middle East Upstairs in Cambridge on April 17; be sure to check them out!
@@ -35,7 +34,5 @@ Old favorites such as “Suicide Saturday” and “Little Grace” were not neg
 Hippo Campus’s most recent release, the _warm glow EP_, was featured throughout the whole set. “Traveler” and “warm glow,” the second and third tracks on the EP, are meant to be paired together and were played as such. Certain lyrics from “traveler” feel like they could be pulled out of a Victorian novel, such as “_feelings so fleeting / yet never completing the thoughts I quelled to last,_” and the song overall feels somewhat like a more mature version of a song from the _Tarzan Rejects EP_, “I (Oh I).” The guitar in “traveler” is extremely complex and Stocker rises to the occasion to serve it on stage. “Warm glow” transitions from “traveler” and is a song that will make you think of driving down a highway in the wide open California fields with wind in your hair and the warmth of the fleeting sun on your face. Although the first song on the EP, “baseball,” is typically introduced as a song about tennis/soccer/football/etc., tonight Luppen introduced it as “a song about politics.” It has familiar indie rock guitar riffs and outstanding lyrics, but the highlight is where Sutton’s intricate bass lines shine through. The bass in “baseball” continues to show Hippo Campus’s musical prowess: distinct and outstanding, quick and rhythmic, ebbing and flowing.
 
 To close out the set, the band ended with “Buttercup” and encored with “Violet.” Both of these songs are not only popular with fans but favorites of the band as well. The energy that fills the air during these two songs really shows that Hippo Campus loves to serve their songs and aims for everyone to have a good time, themselves included.
-
-_\-Monica Sucic_
 
 \[gallery link="file" columns="2" size="large" ids="1434,1435,1436,1437,1438"\]

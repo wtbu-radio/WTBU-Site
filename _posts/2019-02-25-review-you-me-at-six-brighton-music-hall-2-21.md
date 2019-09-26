@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/you-me-at-six-929694254-700x420.jpg
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
 On Thursday, February 21st, You Me at Six began the next leg of their current tour promoting their new album, _IV_.
 
 It is rare to see an artist with such energy as the singer of You Me at Six, Josh Franceschi. Throughout the entire show, he danced, sang, and performed not to the crowd, but _with_ the crowd. The little dances he did and extra inflections he added to the songs really made it seem like he was having fun while helping others have fun. He even mentioned toward the end of the show something that many bands and artists seem not to realize: an artist’s job is not to make art, but instead to make others enjoy themselves - and Franceschi certainly did his job.

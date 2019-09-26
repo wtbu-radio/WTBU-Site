@@ -11,16 +11,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Isabela Rocha
+  first_name: Isabela
+  last_name: Rocha
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/jaiwolf.png
   alt: post lead image
 ---
-
-_By Isabela Rocha_
-
 In a young, energetic atmosphere, Jai Wolf turned up the House of Blues on April 12. The show, opened by DJs AOBeats and Luttrell, was a great success, a combination of lights, color and energy that gave the audience a unique sensorial experience.
 
 “Are you guys ready for a little journey?” Wolf said, taking over the stage.

@@ -7,16 +7,13 @@ tags: []
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Grace Lauson
+  first_name: Grace
+  last_name: Lauson
 image:
   src: http://sites.bu.edu/wtbu/files/2019/01/358570f2-745e-40c3-ac12-f6f36f66067a.jpg
   alt: post lead image
 ---
-
-_By Grace Lauson_
-
 Lost Kings have just started out on their very own tour called “The So What Tour”. Their Los Angeles show at the El Rey Theater was their second stop along the way. They will be coming to Boston on January 24th. Tickets are available [here](https://www.wearelostkings.com/).
 
 The duo consisting of Robert Abisi and Nick Shanholtz gave a fantastic and extremely high energy show. Their dancing and ability to get the crowd very involved in the music was incredible. They had two different artists open for them. Shaggy was the first of the two. He had a very different style of music that got many in the crowd ready to dance. Kream followed with a very upbeat kind of music, similar to the style of Lost Kings, which gained a positive response from the audience.

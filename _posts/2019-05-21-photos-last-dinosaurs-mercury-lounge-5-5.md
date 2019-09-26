@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Caroline Barry
+  first_name: Caroline
+  last_name: Barry
 image:
   src: http://sites.bu.edu/wtbu/files/2019/05/rqKTR8oKQJOhyJujCOsoUg_thumb_4257.jpg
   alt: post lead image
 ---
-
-_By Caroline Barry_
-
 If a cartoon protagonist, a goth, and a cute Mark Zuckerberg formed one of the most danceable sounds currently on the indie scene, they would be called Last Dinosaurs. And, like those long-gone reptiles, I wasn’t sure I’d ever have the chance to see this group with my own two eyes. That is, until they appeared at Mercury Lounge on the night of May 5.
 
 Last Dinosaurs is an Aussie band currently formed of lead Sean Caskey, his brother Lachlan on guitar, and Michael Sloane on bass. They released their third album, Yumeno Garden, in October 2018. But Last Dinosaurs’ fame has much earlier roots; the success of their debut EP “Back from the Dead” launched them into festivals alongside Foals, Foster The People, and Matt & Kim. Their 2012 debut album, In a Million Years, received rave reviews and by the time their second album, Wellness, was out, they had toured Australia, Europe, East Asia, and South Africa. But it wasn’t until this April that Last Dinosaurs finally touched down in these great United States for a nearly-sold-out tour.

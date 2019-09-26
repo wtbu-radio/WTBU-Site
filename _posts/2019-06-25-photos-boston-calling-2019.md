@@ -19,16 +19,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Sophia Flissler
+  first_name: Sophia
+  last_name: Flissler
 image:
   src: http://sites.bu.edu/wtbu/files/2019/06/DSC8631.jpg
   alt: post lead image
 ---
-
-_Photos by Sophia Flissler_
-
 \[caption id="attachment\_4915" align="alignnone" width="683"\]_![]({{ site.baseurl }}/assets/DSC8528-683x1024.jpg)_ _King Princess by Sophia Flissler_\[/caption\]
 
 \[caption id="attachment\_4914" align="alignnone" width="683"\]_![]({{ site.baseurl }}/assets/DSC8312-683x1024.jpg)_ _Princess Nokia by Sophia Flissler_\[/caption\]

@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: David Taylor
+  first_name: David
+  last_name: Taylor
 image:
   src: http://sites.bu.edu/wtbu/files/2019/07/65730439_2271997442901360_384348428521439232_o.jpg
   alt: post lead image
 ---
-
-_By David Taylor_
-
 WTBU DJ David Taylor sat down with Bay Area indie rockers Carpool Tunnel ahead of their show in San Francisco on July 2nd. They discuss the band's influences, touring, and future projects.
 
 **David Taylor: Ok, so first question: what’s it like being a local San Francisco band?**

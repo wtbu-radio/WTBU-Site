@@ -17,14 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Matt Bandel
+  first_name: Matt
+  last_name: Bandel
 image:
   src: /assets/unnamed-6-477x636.jpg
   alt: post lead image
 ---
-
 Remo Drive are an emo rock band from Minnesota. The band is composed of brothers Stephen and Erik Paulson, playing bass and lead guitar andvocals respectively. The group came through in March of 2017, touring their debut album ironically titled _Greatest Hits_. It oozes teenage angst and is filled with fun, fast-paced indie tracks that are still a blast to listen to. About a year later in March of this year, the group released a short three-track EP titled _Pop Music_. As the title suggests, the sound was sweetened for a set of short and sweet songs, however it definitely wasn’t as interesting as their previous project.
 
 Remo Drive weren’t scheduled to play in Boston this week, but Monday I received an email from Spotify about a free secret show for fans in the Boston Area. I missed the group on their last headlining tour, so I wasn’t going to let this opportunity pass. The concert took place at Spotify’s Boston headquarters in Somerville. The address was literally an office, and there were signs for other companies that rented out other portions of the building, but the Spotify crew turned the space they had into a well-done DIY venue. It felt like an underground basement concert, with even free beer for those over 21 (which I of course did not participate in because I am 19).
@@ -38,7 +37,5 @@ The real strength of the performance was the intimacy with the band and the chem
 “Yer Killin’ Me” before going on to play the original version. It was during this last track that the crowd broke out into a mosh pit and went completely crazy. Although this was fun, it did distract a bit from the performance.
 
 Remo Drive put on a great show, and their indie sound thrived in a small DIY venue like the Spotify office. The concert was a lot of fun and I would definitely see the band again.
-
-_\-Matt Bandel_
 
 \[caption id="attachment\_1589" align="alignnone" width="636"\]![Photo by Matt Bandel]({{ site.baseurl }}/assets/unnamed-1-2-636x477.jpg) Photo by Matt Bandel\[/caption\]

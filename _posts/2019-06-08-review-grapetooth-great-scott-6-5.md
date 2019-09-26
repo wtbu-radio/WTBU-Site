@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Matt Bandel
+  first_name: Matt
+  last_name: Bandel
 image:
   src: http://sites.bu.edu/wtbu/files/2019/06/grapetooth-header.jpg
   alt: post lead image
 ---
-
-_By Matt Bandel_
-
 I remember first discovering Grapetooth on my Spotify discover weekly playlist. Their first single, “Trouble,” was so weird, but I couldn’t help being fascinated by it. It was so much fun and I was excited to see what would come next. The Chicago indie pop duo continued to put out singles until they finally released their self-titled, debut album. The project is really solid from front to back with some slower cuts like “Mile after Mile” and some really dancy ones like “Blood,” my favorite track off of the album. Clips from their Instagram showed how much fun the duo had when they performed, so when the chance came to cover their Boston show, I took it immediately.
 
 The Great Scott is a cozy little venue that is designed for smaller indie shows, so Grapetooth were perfect for it. Everyone was able to get really close to the stage and even those that were farther back in the crowd could still see all of the action. But when Grapetooth took the stage everything descended into madness in the best way possible. Frontman Clay Frankel came on first and played a new song he said he had wrote two days ago. I was impressed by his musical talent, playing guitar, harmonica, and singing on the track. But after that quiet song, all hell broke loose as the rest of the band members came out to play “Violent.” The crowd erupted into a mosh pit that would last pretty much the entire show. It was a lot of fun and the energy was amazing.

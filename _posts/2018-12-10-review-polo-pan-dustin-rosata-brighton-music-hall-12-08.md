@@ -17,16 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Isabela Rocha
+  first_name: Isabela
+  last_name: Rocha
 image:
   src: /assets/26165409_752971264892615_243922588977682016_n.jpg
   alt: post lead image
 ---
-
-_By Isabela Rocha_
-
 With their warm, alternative EDM vibe, Polo & Pan filled the Brighton Music Hall with happiness and positive energy, on Dec. 8. Their experimental electronic style combined all sorts of beats, instruments, and lyrics into a soul-touching experience.
 
 Brighton Music Hall’s relaxing, Bohemian vibe was a perfect match to the duo’s energy, giving the event an extra spark. Starting at 8 p.m., the show was opened by the wonderful Dustin Rosata, a Boston-based DJ. With his indie-electro style, Dustin impressively gathered the rather shy crowd, hitting the beats for an hour and a half until the sound of his voice turned the public wild with the so expected question: “Are you ready for Polo & Pan?” Then, twenty minutes of anxiety took up the space, as the technicians prepared the stage. The French DJs awaited entrance that finally occurred at 10 p.m. caused random strangers, as if by magic, to suddenly form a huge wave of excitement and positive energy.

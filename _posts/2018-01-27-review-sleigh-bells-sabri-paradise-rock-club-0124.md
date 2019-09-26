@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Leonora Telford
+  first_name: Leonora
+  last_name: Telford
 image:
   src: /assets/22309085_1604378439614763_2681848543091417160_n-636x636.jpg
   alt: post lead image
 ---
-
 It has been the consensus among fans of the Brooklyn-based indie punk duo Sleigh Bells that the quality of their output has been steadily declining over the last few years. Their debut release, 2010’s _Treats_, saw considerable commercial success due to its innovatively raw, thrashing pop style. The band enjoyed similarly positive reception with _Reign of Terror_ in 2012. A year and a half later, though, they released _Bitter Rivals_, a collection of tracks with markedly cleaner production and more prominent melodies; fans and music blogs alike considered it a watered-down version of their earlier albums and mourned the loss of the distortion so crucial to the Sleigh Bells sound. 2015’s _Jessica Rabbit_ brought more of the same, and by the time mini-album _Kid Kruschev_ was released in October 2017, no one was surprised that it appeared even worse than its predecessors.
 
 However, when Sleigh Bells performed at the Paradise Rock Club on Jan. 24, it became clear that lousy studio production is to blame for the poor reception of their recent releases; all the songs they played, including the newer ones, demonstrated the same sonic and performative energy that can be heard on their earlier albums.
@@ -33,5 +32,3 @@ Sleigh Bells took the stage in a characteristically dramatic fashion, with the f
 There was no shortage of energy exuded from the other half of the duo, guitarist Derek Miller, nor from the touring band members: everyone on stage was moving and headbanging with a contagious vitality. No one, though, could outshine Krauss, who was jumping into the audience any chance she could get, yelling and singing with everything she could muster and then some. The band did not stop or slow down for the entire performance, and with the main set’s closing song, _Treats’_ “Crown on the Ground,” Krauss dramatically leaned back for a long-anticipated bout of crowdsurfing. They waited barely a minute before coming back onstage to perform an encore, the first song of which, “And Saints” from _Kid Kruschev_, was arguably the sole low point of the show, as its lack of a rhythm section slightly killed the vibe of the severely pumped-up crowd. The rest of the encore, though, did not disappoint. “A/B Machines,” from _Treats_, brought back the unmatchable energy. Throughout the show, several crowd members had belligerently yelled “Play ‘Rill Rill!’” referring to their breakout single from _Treats_, and they got their wish with the closing song of the show, as Krauss once again came into the crowd, “so we can sing this together.”
 
 Overall, the Sleigh Bells performance was pleasantly surprising considering the lack of energy felt in their recent releases. Hopefully in the future they’ll perfect their studio production, as it’s clear that the original sound that fans know and love is not going anywhere.
-
-_\-Leonora Telford_

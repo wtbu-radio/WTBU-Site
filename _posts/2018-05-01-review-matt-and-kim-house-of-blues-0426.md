@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: /assets/DSC0606-636x424.jpg
   alt: post lead image
 ---
-
 Brooklyn-based couple Matt and Kim used to tour non-stop, stopping everywhere they could across North America at festivals and headlining shows. Last year, everything changed for Matt Johnson and Kim Schifino when Schifino tore her ACL after an on-stage accident. She continued to play drums with vigor until the pain became too much to handle, and after five songs she was taken away in an ambulance.
 
 But if you had seen Schifino at House of Blues on Thursday night, you’d never be able to tell that any such incident occurred. She bounced on from stage right, with Johnson coming on from stage left. Wielding her sticks as she stood on her drum set, Schifino roared at the crowd and proved that she was back and better than ever.
@@ -36,7 +35,5 @@ They continued with other classics such as “Hey Now,” “Cameras,” and “
 At a Matt and Kim show, (safe) crowd surfing is highly encouraged, especially by Schifino. Almost every song provided ample opportunity for at least one person to get off their feet and soar on top of the packed floor. Members on the balcony were able to get involved with the very interactive show by passing around a board with a GoPro camera on it. The sign wielded the phrase “Hit it in the Hot Pocket” in glittery writing, which is a statement that Schifino has made in the increasingly popular YouTube series Matt and Kim host, “Matt and Kim Show You Stuff.”
 
 The pair finished with their most popular song, “Daylight,” and encored with the high-energy hit, “Let’s Go.” Balloons were released from the ceiling, confetti guns went off, and inflatable sex dolls were launched into the crowd. Even with their trademark flair for the taboo and strange, Matt and Kim constantly smiled at their parents in the balcony. I can only imagine that they were filled with a mix of happiness and subtle fear, but overall pride for the talented people their children have become. The audience truly showed that Matt and Kim are loved, and Johnson announced that Boston was their favorite show of tour thus far as he and Schifino embraced.
-
-_\-Monica Sucic_
 
 \[gallery columns="2" link="file" size="medium" ids="1602,1603,1604,1605,1606,1607"\]

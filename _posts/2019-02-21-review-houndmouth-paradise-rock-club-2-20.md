@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Emma Kopelowicz
+  first_name: Emma
+  last_name: Kopelowicz
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/houndmouth_wide-54ebc7a66087dec60969e5d26b6b178520390f45.jpg
   alt: post lead image
 ---
-
-_By Emma Kopelowicz_
-
 Houndmouth transformed the Paradise Rock Club into a place of worship with their gospel rock and roll crooning on Wednesday, February 20.
 
 The band released their third album, _Golden Age_, in August 2018 and have been on a promotional tour for it since September. For the east coast leg of the tour, Houndmouth brought Modern Love Child and Ben Kweller as their opening acts. Modern Love Child took the stage first with a short but sweet set of poppy-alternative love songs. Ben Kweller followed up with a head-banging set filled with punk garage rock-inspired tunes.

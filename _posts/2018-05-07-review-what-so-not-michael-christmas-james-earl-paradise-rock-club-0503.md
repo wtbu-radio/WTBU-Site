@@ -16,14 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Christian Jaeger
+  first_name: Christian
+  last_name: Jaeger
 image:
   src: /assets/27709677_1539986166049855_4282440791597840880_o-636x636.jpg
   alt: post lead image
 ---
-
 The Australian electronic music project What So Not took the Paradise Rock Club stage on Thursday, May 3. An event tailored for EDM fans, What So Not’s performance was flashy and explosive, filled with talented rap appearances and a blaring electric guitar. Though the genre of the night was uncertain, fans of all sorts could gather for a not-your-everyday DJ performance.  
 
 Chris Emerson, better known by his stage name Emoh Instead, founded What So Not in 2011 with fellow electronic artist, Flume. With the latter musician leaving the project in 2015, What So Not is now solely operated by Emerson, but the producer features a diverse array of artists into his music as well as his tour.
@@ -43,5 +42,3 @@ With his new album, _Not All the Beautiful Things_, being released just one mont
 Featuring both opening acts on tracks in his new album, Emerson took advantage of the two musicians by incorporating them into his set. First, Christmas rapped alongside What So Not during “Monsters,” which took a grim look into rap life and being self-aware about it. Following, Earl returned on stage for “Demons,” a sinister comment on relationships. Both are easily the darkest songs on the album, but this works in the record’s favor, balancing upbeat fun and ominous rap moods.
 
 All genres of music were heard in the Paradise on Thursday, so much so that it became overwhelming and difficult to follow at times. Regardless, What So Not delivered more than enough pulse-pounding beats and surprise guests for the audience to be satisfied. Emerson will continue the _Not All the Beautiful Things_ Tour until September 21; look for What So Not in cities near you.
-
-_\-Christian Jaeger_

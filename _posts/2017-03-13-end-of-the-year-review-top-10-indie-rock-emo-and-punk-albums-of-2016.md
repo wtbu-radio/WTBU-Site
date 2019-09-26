@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Zach Mccollum
+  first_name: Zach
+  last_name: Mccollum
 image:
   src: /assets/tumblr_inline_oi4y9gtYeu1swxv3i_500.jpg
   alt: post lead image
 ---
-
 2016 has been an absolutely insane year. From Donald Trump being elected to the slew of amazing musicians dying, I would say we have nearly hit rock bottom as a planet in 2016. Luckily, we have been blessed with having many incredible artists release eclectic and seminal albums that will be stuck in our heads for decades to come. The emo, punk rock, and indie rock genres have had quite the shift in sonic change. A lot of bands who play these styles of music have really hit it home with their style changes. Here are, in my opinion, the Top 10 Indie Rock, Emo, and Punk Albums of 2016:
 
 **10. _Celebrate_ - Tiny Moving Parts**  
@@ -53,5 +52,3 @@ Touché Amore has had a long and interesting music career, releasing four great 
 
 **1. _Cardinal _\- Pinegrove**  
 Here we are, with the grand finale, #1. Pinegrove released their indie rock magnum opus, _Cardinal_, earlier this year, and blew the music world’s mind. If you think Modern Baseball have grown a lot, look at Pinegrove’s career. They were playing basements last year, and are now taking the music world by storm. _Cardinal _is the perfect mix of alternative country, folk, indie rock, emo, and even punk rock sounds to create Pinegrove’s diverse and eclectic sound. There really is nothing like this record, with the masterfully catchy “Old Friends” and “Then Again,” the beautiful and emotional “Cadmium” and “Aphasia,” and the moving closers, “Size of the Moon” and “New Friends.” Pinegrove have created their own sound and image, and manifested it into this seminal debut collection of eight amazing songs.
-
-_\- Zach Mccollum_

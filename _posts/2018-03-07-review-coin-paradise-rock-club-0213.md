@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: /assets/unnamed-1-1-636x360.jpg
   alt: post lead image
 ---
-
 The American alt-pop band COIN headlined Paradise Rock Club on Feb. 13, where they almost tore a speaker off the ceiling. Literally.
 
 This was COIN’s first time in Boston in 2018, and there was a stunning turn out for a Tuesday night. Following their sold-out show at the Sinclair in May, COIN has definitely established a strong and dedicated fan base here in Beantown. Many of the audience members already knew every word to their newest single, “Growing Pains,” which the band released the previous Friday before a sold-out show at New York’s Irving Plaza. Most of their recent success comes from the popularity of their second album, _How Will You Know If You Never Try_, which was released in April 2017.
@@ -33,7 +32,5 @@ COIN came on stage receiving thunderous applause and opened with “Growing Pain
 Every time I go to a COIN show, I feel nervous before. It’s as if there’s a shared jittery energy in the air. There’s a chaotic blend of those who have seen the band over five times and know what they’re in for, and those who have never seen them before and are anxiously awaiting what’s to come. For me personally, it’s a mix of both. This was my third COIN show, and I knew a bit of what to expect. Flashing lights as electric chords ripped through the venue, then the calm of “Malibu ’92” and the live version of “I Would,” and the spark of green lights as Lawrence sings “_blah blah, green eyes_” during “Talk Too Much.” But they always bring a toss up, like adding “Hannah” and “Miranda Beach” to the setlist of certain shows but not others. This time, the new elements were an unreleased song, “You,” and the set design. On this tour, COIN has made full use of a large LED screen as a backdrop as opposed to the neon signs they’ve been using on the previous two tours supporting their second album. Definitely a step in the right direction for their stage layout, the backdrop added a new mood to each song and another emotional level that hasn’t been prevalent in their prior shows. Everything felt stronger; the room felt even more connected through these images.
 
 Anyone, regardless of whether they like COIN’s music or not, should go to a COIN show at least once in their life. It’s truly a high-energy experience in a way that makes you feel simultaneously young and mature, and makes you think “This is what concerts should be like.” Seeing COIN has made me appreciate their music more than I ever thought I would, and they’re definitely one of my top three favorite bands to see live. Get out to see them in small venues while you still can, because I have a strong feeling they’re only going to go onwards and upwards from here.
-
-_\-Monica Sucic_
 
 \[gallery size="medium" link="file" ids="1357,1356,1358"\]

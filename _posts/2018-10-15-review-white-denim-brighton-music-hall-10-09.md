@@ -17,16 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: David Taylor
+  first_name: David
+  last_name: Taylor
 image:
   src: /assets/42970425_10155563825076816_3461240107200151552_n.jpg
   alt: post lead image
 ---
-
-_By David Taylor_
-
 White Denim’s new album _Performance_ has revived their unhinged rocker vibe, highlighting the band’s impressive musical ability while maintaining an unpolished, gritty sound heard in their earlier albums. There is a distinctly recognizable Austin hum to the band, sharing a similar experimentally psychedelic quality to the 13th Floor Elevators as well as incorporating clean blues licks similar to Gary Clark Jr. and Stevie Ray Vaughan. But more importantly, the new album release has set the band back on the road.
 
 With their average song lasting over seven minutes, White Denim came to rock Brighton Music Hall. Their jammin’ performance style allowed the band to stretch their talents, go past the safety of the recording studio, and experiment on stage. Lead singer James Petralli hit notes previously unheard on album versions. Basic blues licks transformed into musical interludes, taking on Latin samba rhythms or Zeppelin-esk solos, before returning to its original form and allowing the song to progress. And, Petralli even incorporated the hammer-on-pull-off solo technique used by the likes of Eddie Van Halen and Randy Rhoads which elevated the songs into another level of complexity. And, despite all of the experimentation, improvisation, and spontaneity, White Denim never lost the timing. They never missed a note for that matter.

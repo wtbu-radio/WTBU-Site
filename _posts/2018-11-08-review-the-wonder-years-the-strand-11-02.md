@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Ali Audet
+  first_name: Ali
+  last_name: Audet
 image:
   src: /assets/27336701_10160157226140195_1104151777447322447_n.jpg
   alt: post lead image
 ---
-
-_By Ali Audet_
-
 Philadelphia rockers the Wonder Years put on a phenomenal show at the Strand on Friday, Nov. 2.
 
 The band released their sixth studio album, _Sister Cities_, in April of this year–their first album to peak at #1 on the Billboard U.S. Indie chart. The setlist reflected this achievement: it included many songs from _Sister Cities_. The band opened with titular track and album opener “Sister Cities.” The effect this song had was electric; the venue shook with the force and ferocity of the opener. The band’s departure from their classic pop punk roots was evident immediately; “Sister Cities” has a new sense of maturity to its sound, closer to alt-rock more akin to 2015’s _No Closer to Heaven_ than fan-favorite _Suburbia I’ve Given You All and Now I’m Nothing_ (2011).

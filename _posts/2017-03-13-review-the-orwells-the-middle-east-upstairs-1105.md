@@ -19,7 +19,6 @@ image:
   src: /assets/tumblr_inline_ogc1mh8maF1swxv3i_500.jpg
   alt: post lead image
 ---
-
 _Photo Credit: Daniel Topete_
 
 The crowd funneling into the Middle East Saturday night wasn’t just there to hear the dirty, anthemic rock ‘n’ roll tunes of some Chicago rockers—they were there to witness a rock ‘n’ roll resurrection. They came sporting denim jackets and combat boots, ready to sacrifice their voices, bodies, and probably their souls. The stage served as an altar for the night’s proceedings, and the saviors were none other than The Orwells.
@@ -39,5 +38,3 @@ Corso narrated the night by presenting the crowd with new tunes like “Buddy,�
 The set was unrestrained chaos, but the results couldn’t have been better. The crowd surged as a singular, sweaty mass during the explosive encore composed of “Who Needs You” and “Head.” Cuomo seemed to hurtle headlong into uncontrolled insanity as he became possessed by the rock ‘n’ roll spirit itself. The band, whose musicianship is nothing short of incredible, echoed this passion, but with flawless execution instead of unbridled convulsions and screams. And with that, The Orwells left the stage and consequently left the crowd in a stunned bliss.
 
 The Orwells never fail in producing a near religious experience during their shows. The band’s admiring respect and complete embodiment of rock ‘n’ roll in its most fundamental, dirty, raunchy form causes them to put on shows unlike those of any other rock band today. They shamelessly have the attitude of the biggest rock ‘n’ roll band in America. In other words, they’re good at what they do, and they aren’t shy about showing it. Cuomo’s onstage persona could be seen as vulgar and gimmicky, but in reality he’s doing what the most infamous frontmen of the genre have been doing for years—he pushes the envelope and frankly doesn’t care how people feel about it. When that attitude is melded with honest songwriting and immensely talented musicians, you’re destined to end up with one of the greatest rock bands of the era. And after witnessing the inspiring chaos of their shows, you know The Orwells are undoubtedly one of those bands.
-
-_\-Olivia Gehrke_

@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Leonora Telford
+  first_name: Leonora
+  last_name: Telford
 image:
   src: /assets/Ariel-LP-1000x1000-636x636.jpg
   alt: post lead image
 ---
-
 The calendar said Halloween was over, but at the Ariel Pink concert at Brighton Music Hall on Nov. 2, no one would have guessed that the season of wild and spooky shenanigans had come to an end.
 
 The show opened with a “set” from Nina Tarr that didn’t actually involve any music, only spoken-word comedy. Nevertheless, the crowd was sufficiently pumped up for what was to come. The second opener, Gary War, was a former member of Ariel Pink’s backing band, Haunted Graffiti, and this was evident in his music. The fast-paced songs and dark vocals suggested a pseudo-Pink, but his extensive use of phasers and fuzzy guitar effects made for a psychedelic sound all his own. War was on stage alone and at times he appeared to have trouble controlling all his instruments at once, but it was impressive how full of a sound he could make on his own.
@@ -33,5 +32,3 @@ The vast majority of Pink’s set was composed of songs from the new album. The 
 Other highlights of his set included “Ghosts,” a high-energy shriek-fest from his earlier days, and “Baby,” a mellow Donnie and Joe Emerson cover from his 2013 album _Mature Themes_. He closed the main part of his set with back-to-back songs from his most successful album with Haunted Graffiti, 2010’s _Before Today_. First was “Menopause Man,” an enjoyable if lyrically bizarre track, and next was danceable hit “Round and Round,” which, naturally, ended in Pink crowd-surfing. An encore seemed imminent, and thankfully he did not repeat the episode from 2013: the band came back on stage to play four more songs, beginning with _Dedicated to Bobby Jameson_’s “Bubblegum Dreams,” a tune that’s about as LA as it gets. He then played two short, high-energy pieces, “Kinski Assassin” and “Bright Lit Blue Skies,” from _Mature Themes_ and _Before Today_ respectively, before closing with “Do Yourself A Favor.” The latter was an odd choice for a closer because it lacked the vitality of some of his earlier tunes, but the crowd was satisfied nonetheless.
 
 Overall, the show was wild from start to finish. Ariel Pink’s onstage charisma combined with the energetic crowd made for a very interesting and exciting concert. Who said Halloween ends with November, anyway?
-
-_\-Leonora Telford_

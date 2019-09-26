@@ -19,8 +19,6 @@ image:
   src: /assets/tumblr_inline_okuyveyxyM1swxv3i_500.jpg
   alt: post lead image
 ---
-
-
 Just four days after the release of their fifth full-length album, Cloud Nothings took the Paradise Rock Club by storm along with their opening act, LVL UP.
 
 Being a Tuesday night, the venue was very loosely packed as the time creeped closer to 8 p.m. But as New York rock band LVL UP began their set, the crowd pressed forward to attentively take in the four-piece’s music.
@@ -40,5 +38,3 @@ Paradise Rock Club by nature is a loud venue, but Cloud Nothings brought the vol
 Songs like “Stay Useless” had people emotionally belting out lyrics and practically throwing their bleeding hearts (or their sweaty bodies) onto the stage at Baldi. As Cloud Nothings began nearing the end of their set, they played another fan favorite, “I’m Not Part of Me.” This is when every die-hard fan transformed into the band’s friends in that Cleveland basement. It was evident that everyone supported the band wholeheartedly and would follow them into a rock ‘n’ roll revolution were they given the chance.
 
 And they got that chance. During the encore, the band returned to stage by playing “Fall In” and then creating a wall of sound. Distortion, screams and heavy bass notes melded into a single, ringing hum of noise. That noise then flowed right into “Wasted Days” from the band’s 2012 album _Attack On Memory_. The recording of this song has a sort of vocal melody that Baldi executes with passion, but also rhythm. On stage, however, he let loose. Impassioned singing turned into electrically charged screams as the bass paraded behind. It was no longer a song, but an experience—one that the crowd took part in as they looked on incredulously. Cloud Nothings proved that night that no matter how poppy they may seem in some of the new releases, they are, at the very core, a rock ‘n’ roll band.
-
-_\-Olivia Gehrke_

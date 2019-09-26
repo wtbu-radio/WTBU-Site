@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Catherine Massie
+  first_name: Catherine
+  last_name: Massie
 image:
   src: /assets/DSCF5028-1024x683.jpg
   alt: post lead image
 ---
-
-_Photos by Catherine Massie_
-
 \[caption id="attachment\_3208" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/DSCF5031-1024x753.jpg) Mayday Parade by Catherine Massie\[/caption\]
 
 \[caption id="attachment\_3209" align="alignnone" width="683"\]![]({{ site.baseurl }}/assets/DSCF5036-683x1024.jpg) Mayday Parade by Catherine Massie\[/caption\]

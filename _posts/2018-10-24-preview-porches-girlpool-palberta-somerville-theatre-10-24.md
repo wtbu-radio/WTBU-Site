@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Jack Beck
+  first_name: Jack
+  last_name: Beck
 image:
   src: /assets/22365229_1458876097521282_6176017515160173718_n.jpg
   alt: post lead image
 ---
-
-_By Jack Beck_
-
 Spice up your Thursday night at the Somerville Theatre, where coming this week we have Girlpool, Porches, and Palberta all in the same night. The trio will be about a week into their fall tour of the Northeast when this show arrives, all three coming off fresh releases in 2018.
 
 The Girlpool duo have the most recent release of the three, having dropped two singles earlier this month with “Lucy” and “Where You Sink.” These new tracks show the band making big steps from their 2017 album _Powerplant_, moving towards a grander, almost shoegazey sound. But even with the anthemic builds and onslaughts of echoing guitars, Girlpool still find a way to keep that comfy intimacy of their early drum-free bedroom pop recordings and get the best of both worlds. Expect lots of reverb, catchy hooks, and rekindled memories of the best friend from kindergarten that you haven’t seen in a decade.

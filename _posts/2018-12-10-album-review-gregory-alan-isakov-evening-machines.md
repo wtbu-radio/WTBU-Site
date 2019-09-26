@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Hannah Rogers
+  first_name: Hannah
+  last_name: Rogers
 image:
   src: /assets/Gregory-Alan-Isakov-1170x650-1024x569.jpg
   alt: post lead image
 ---
-
-_By Hannah Rogers_
-
 Singer/songwriter Gregory Alan Isakov’s sixth studio album, _Evening Machines_, released Oct. 5 of this year, is an amalgamation of indie and folk infused ballads, accompanied by delicate vocals, strings, and percussion. In an interview with _Atwood Magazine_, Isakov revealed that most of the songs were written in Colorado, and are intended to be infused with the spirit of the mountainous state. Though not really a departure from his usual sound, which is full of thoughtful, gentle ballads accompanied by subtle instrumentals, the album does not disappoint.
 
 The album opens with “Berth,” a melancholy, indie-sounding lament about making peace with hard times of the past. The next song, “San Luis,” is a calm ballad, which opens with just an acoustic guitar and makes pleasant use of quiet drums in the background. “Southern Star,” the third track, is a more upbeat, short song which makes interesting use of strings—starting off with swift plucks and leading into more elaborate violin solos. “Powder,” accompanied by a female background vocalist, opens with an ethereal, almost suspenseful build to the chorus, with nature-oriented lyrics and a relaxing blend of instruments and vocals. “Bullet Holes,” a more upbeat love song, starts off with soft humming and focuses more on the sound of Isakov’s vocals—especially in the chorus—than the other songs on the album. The next song, “Was I Just Another One,” is a lyrically poetic, thoughtful, and soft ballad with an instrumental build-up towards the end, and an easing back into quiet to finish.

@@ -11,16 +11,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 image:
   src: http://sites.bu.edu/wtbu/files/2019/05/Logic.jpeg
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
 In his sixth studio album, Logic delivers the most controversial and surface level release of his ten year career.
 
 I don’t really know where to start with _Confessions of a Dangerous Mind_. I like it. I want to love it, but I just don’t. In full disclosure, Logic is one of my favorite artists for a variety of reasons. I think he has a very listenable and enjoyable voice and flow in addition to his premier production and backing music, created by his partner 6ix (pronounced “Six”). Another major reason why I love Logic is because of how much he stands out from the hip-hop landscape. Rarely is he discussing drugs or partying, but instead brings his listeners’ attention towards more personal and important topics such as abuse, addiction, and racism. However, on his latest album, Logic seems to have forgotten who he is. Gone are the deep topics and stories about his childhood, and instead the album is largely dominated by songs where Logic seems more caught up with his success and comparing himself to other popular artists like Childish Gambino, Kendrick Lamar, and Kanye West.

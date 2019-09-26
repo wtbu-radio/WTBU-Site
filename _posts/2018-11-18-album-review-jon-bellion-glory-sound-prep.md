@@ -14,16 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
+  display_name: Olivia Malek
   first_name: Olivia
-  last_name: Gehrke
+  last_name: Malek
 image:
   src: /assets/jon-bellion-glory-sound-prep-capitol-1024x1024.jpg
   alt: post lead image
 ---
-
-_By Olivia Malek_
-
 I have been a Jon Bellion fan since I was a freshman in high school, back when his mixtape, _The Definition_, was his only music on Spotify. So when I heard _Glory Sound Prep_ was being released, I was thrilled. He hadn’t released any new music since his debut album _The Human Condition_ in 2016, which followed his style of alternative R&B that’s heavily laced with pop and sprinkled with some hip-hop and rap, and I was excited to get more of his unique genre-mixing music. The album is stacked with great features and was announced with a Pixar-animated trailer. Not only that, Bellion had been absent from social media for the nine months leading up to the release of this album, so safe to say, I had high expectations
 
 Listening to _Glory Sound Prep_ for the first time definitely took me for a trip. This album leans much more towards pop than any of his other music and it is a very heavily produced album. One of Bellion’s strengths as an artist is his voice, and one of my big disappointments of this album is that the production at times distracts or detracts from the vocals. For example, in the pre-chorus of the song “Couples Retreat,” the production causes his voice to cut out almost like he’s on the phone and losing service. It’s jolting and not pleasant to the ear. He’s also a great lyricist, and there are some songs in the album that repeat lyrics when there was room to write different ones. However, he showcases his rap ability a lot more on this album with the songs “Adult Swim” and “Let’s Begin,” which has some really unique lyricism that you don’t often see in rap. Additionally, a lot of Bellion’s music is also really fun, however, this album seems to take on a more experimental side to his music, making it less accessible or engaging to people not already familiar with his music.

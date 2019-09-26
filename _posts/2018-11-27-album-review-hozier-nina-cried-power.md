@@ -13,16 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Camille Fowler
+  first_name: Camille
+  last_name: Fowler
 image:
   src: /assets/Hozier.jpg
   alt: post lead image
 ---
-
-_By Camille Fowler_
-
 After four years of hiatus since the release of Hozier’s first album and his hit song “Take Me to Church,” fans were graced with a new EP. The collection, titled _Nina Cried Power_, was released Sep. 8, and fully embodies the implications of the name. It is a musical homage to revolution, and is evidently inspired by radicalism without sacrificing Hozier’s characteristic concoction of light and darkness.
 
 The opening song and the EP’s namesake, “Nina Cried Power,” is a mighty ballad about overcoming and rising up. It is driven by a dynamic drum sequence sustained throughout the number. It’s eventually accompanied by gospel echoes, which support the vocals of Hozier and soul legend Mavis Staples. The song is emotional and a tribute to resistance, referring to revolutionary musicians Nina Simone, James Brown, John Lennon, and B.B. King.

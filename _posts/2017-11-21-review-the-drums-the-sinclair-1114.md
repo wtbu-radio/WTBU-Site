@@ -15,9 +15,9 @@ meta:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Morgan King
+  first_name: Morgan
+  last_name: King
 ---
 https://www.youtube.com/watch?v=IqYgNiZdfh4
 
@@ -32,5 +32,3 @@ You would expect that a band that calls themselves The Drums would flourish thei
 The Drums are the champions of pairing sad lyrics and meanings with upbeat, carefree melodies. “Blood Under My Belt,” a fan favorite, best exemplifies this. The song is essentially a heartbreak song about Pierce’s divorce, but disguised as a side-stepping and head-banging hit. Other songs from the new album are just as personal. “Head of the Horse” is about Pierce's parents’ disapproval of him coming out. The crowd connected personally with certain lyrics over others.
 
 The Drums came to Cambridge and did not disappoint. The audience welcomed an electric, enjoyable performance. You could even say that The Drums were a _hit!_
-
-_\-Morgan King_

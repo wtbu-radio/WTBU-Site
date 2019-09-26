@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Caroline Barry
+  first_name: Caroline
+  last_name: Barry
 image:
   src: /assets/unnamed-6-636x424.jpg
   alt: post lead image
 ---
-
 It was a dark and stormy Thursday, muggy, with a sky lit up by two dozen flashes of lighting per minute; the seats flooded and the stage saturated with rainwater. Three bands were due to play that night, Sept. 14, at the Blue Hills Bank Pavilion, a partially outdoor venue: Joywave, Cold War Kids, and Young The Giant. The venue crew worked diligently to mop and dry the equipment, and against Mother Nature’s apparent wishes, the show went on.
 
 Rochester, New York natives Joywave played first, a hard-rocking short set with boundless energy. Frontman Daniel Armbruster is as animated as the band’s hits, and I spent the set chasing his wild movement with my camera from down in the pit. The crowd trickled in as the weather subsided, but by the end of their set these openers had the whole stadium bouncing. Finishing with “Tongues” was a strong choice; it’s electronic, catchy, and playful.
@@ -36,7 +35,5 @@ Finally, the thunder and lightning raging on behind the venue, Young the Giant a
 However, due to an unfortunate mix up with the venue staff, my concert experience was cut short. I still had the chance to hear their timeless “Cough Syrup,” which—thanks to the outdoor acoustics—still impressed from outside the Pavilion walls. And, unfortunately, they saved many of their best songs for later in the set after I left the show to avoid the continuing storm (but thanks to my wonderful roommate, I was FaceTimed in to hear “Silvertongue,” my favorite off the most recent album, _Home of the Strange_).
 
 If you haven’t had the chance to see this band play live, I feverishly encourage you to find a way. Seeing their set (almost) twice now, I have never seen another band exude such infatuation for performance. They ignite the stage, and deliver consistent greatness, both in the studio and on the stage.
-
-_\-Caroline Barry_
 
 \[caption id="attachment\_849" align="alignnone" width="424"\]![Photo by Caroline Barry]({{ site.baseurl }}/assets/unnamed-1-3-424x636.jpg) Photo by Caroline Barry\[/caption\]

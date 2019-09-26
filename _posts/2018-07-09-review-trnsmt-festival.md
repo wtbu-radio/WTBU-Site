@@ -14,16 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: /assets/24130179_559579961049068_1602855796804430033_o-724x1024.jpg
   alt: post lead image
 ---
-
-_By Zoe Salvucci_
-
 On June 29, TRNSMT Festival entered its second year on the Glasgow Green following its “Best New Festival” award at the 2017 NME Awards. First weekend headliners included Stereophonics, former Oasis frontman Liam Gallagher, and Arctic Monkeys. TRNSMT’s inception followed the end of the 22-year run of T in the Park, one of the U.K.’s original music festivals. The sun gave Scotland a bit of mercy from their usually fair summers to bring a hot weekend for TRNSMT and its 120,000 attendees, with the temperature remaining around 80º with a cloudless sky for the whole weekend.
 
 The festival had two stages, with the King Tut's Stage (named for King Tut's Wah Wah Hut in the city center) featuring smaller acts, though the sets were staggered so audience members could see at least part of every set throughout the day. Down by the River Clyde, audiences could relax to acoustic acts on the hotels.com stage or party with fellow festival goers to the DJ sets at the Smirnoff Bar. The real King Tut's hosted after-party shows Friday and Saturday night, featuring the Academic and Fatherson, respectively, both of whom performed at the festival on the King Tut's Stage.

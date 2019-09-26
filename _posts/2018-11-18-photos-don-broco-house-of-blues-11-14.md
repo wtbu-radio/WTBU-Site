@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Maggie Leone
+  first_name: Maggie
+  last_name: Leone
 image:
   src: /assets/0-1-2.jpeg
   alt: post lead image
 ---
-
-_Photos by Maggie Leone_
-
 \[caption id="attachment\_3246" align="alignnone" width="992"\]![]({{ site.baseurl }}/assets/0-2-2.jpeg) Don Broco by Maggie Leone\[/caption\]
 
 \[caption id="attachment\_3247" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/0-3-1024x682.jpeg) Don Broco by Maggie Leone\[/caption\]

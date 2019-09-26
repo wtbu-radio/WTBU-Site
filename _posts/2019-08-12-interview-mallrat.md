@@ -15,16 +15,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: http://sites.bu.edu/wtbu/files/2019/08/mallrat.jpg
   alt: post lead image
 ---
-
-_By Allie Antonevich_
-
 Grace Shaw, known professionally as Mallrat, is a 20-year-old Australian singer-songwriter from Brisbane. She began releasing music in 2014 and has since released two EPs, with a third, _Driving Music_, scheduled to be released in September 2019. Mallrat supported Maggie Rogers’ “Heard It in A Past Life” tour in Europe in 2018-2019, and is currently on her headline national tour. I had a moment to catch up with Mallrat after her set at Osheaga on August 4, where we talked about inspirations and next steps.
 
 **Allie Antonevich: How and when did you start getting into music?**

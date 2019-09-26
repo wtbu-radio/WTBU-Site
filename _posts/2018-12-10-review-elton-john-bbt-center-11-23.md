@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Nicole Silvera
+  first_name: Nicole
+  last_name: Silvera
 image:
   src: /assets/elton-john-farewell-tour-1518020471-list-handheld-0.jpg
   alt: post lead image
 ---
-
-_By Nicole Silvera_
-
 Elton John brought all of his greatest hits to life on Nov. 23 at the BB&T Center in south Florida.
 
 John has been touring worldwide on his retirement tour, Farewell Yellow Brick Road World Tour. However, while he was “sad to say goodbye to touring,” citing a desire to spend time with his family as the reason for his farewell, the concert was not a sad occasion. The British rock legend brought the arena to life, making it feel less like a concert and more like a celebration.

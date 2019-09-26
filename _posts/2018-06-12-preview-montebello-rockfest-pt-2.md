@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Danya Trommer
+  first_name: Danya
+  last_name: Trommer
 image:
   src: /assets/rockfest18_afficheWEB_FINAL_en-773x1024.jpg
   alt: post lead image
 ---
-
 Montebello Rockfest is quickly approaching.  Labeled as “Canada’s Largest Rock Festival,” the 13th edition of the festival brings an astounding lineup.  
 
 While many may know the headliners of the festival, monumental bands such as Weezer and Prophets of Rage, the smaller supporting acts also bring immense talent.  
@@ -32,5 +31,3 @@ Raised Fist is a Swedish hardcore punk band formed in 1993. The band has receive
 Municipal Waste is a thrash metal band from Virginia formed in 2001. The only original members in the current lineup are Tony Foresta and Ryan Waste. They take inspiration from bands such as D.R.I and Suicidal Tendencies. Their song “Amateur Sketch” was nominated for Metal Song of the Year at the 2017 Loudwire Music Awards. The band has six studio albums and three split EPs. Municipal Waste will be playing June 15 at 5:30 p.m.  
 
 Planning a last minute trip to Canada?  [Tickets](http://www.montebellorockfest.com/en/tickets) for Montebello Rockfest are still available!
-
-_\-Danya Trommer_

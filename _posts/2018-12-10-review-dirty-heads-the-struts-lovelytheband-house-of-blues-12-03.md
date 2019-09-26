@@ -18,16 +18,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 image:
   src: /assets/Miracle-on-Lansdowne-Featured-Image.jpg
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
 I think the best way to start this review is to say that this was one of the strangest nights of music I have ever experienced. Lovelytheband, the Struts, and Dirty Heads all stem from such dramatically different genres of music that there was no reason for them to play a show together besides the fact that Boston’s Alt 92.9 radio station clearly tried to book three artists who have a smidgen of buzz and happened to be available. To be fair, the concert was not bad—far from it—but because of the radically different bands, the crowd did not overly support any one of them.
 
 I cannot say enough about how much I disliked lovelytheband. This was the first time I ever heard any music from them whatsoever, and while it was not aggressively awful by any means, it was so offensively generic that I was on my phone for the majority of their set. The band sounds like they are halfway between sounding like the 1975 and Arctic Monkeys, and yet do not come remotely close to being the slightest bit as enjoyable as either, and I don’t even like the 1975.

@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: /assets/unnamed-636x477.jpg
   alt: post lead image
 ---
-
 On May 10, Demo Taped and Amber Mark performed at Sonia in Cambridge. Enveloping concert-goers into a soulful embrace, the two both used the night to showcase their growth as artists with their respective 2018 EP releases.
 
 Adam Alexander, professionally known as Demo Taped, opened for Amber Mark. He is a 19-year-old singer-songwriter who hails from Atlanta. His music is electronic pop, as he relies heavily on his Akai MPD32 soundboard.
@@ -40,6 +39,4 @@ Amber Mark oozed confidence. She gave a small, half-smile as she greeted the aud
 
 Amber Mark chose to wear bedazzled, light wash mom jeans. Her right leg was covered in silver gemstones, the left leg plain. This serves as the perfect analogy for her well-defined craft. Mark is an artist who can enter different realms of song (speed, lyrics, and themes) while maintaining her well-defined sound that makes her authentically _her._ With “Monsoon,” Mark recounted a heart-wrenching anecdote of a difficult breakup. She also left time to dance with upbeat tracks such as “Way Back” and “Can You Hear Me.”
 
-Mark invited Demo Taped back on stage as the two performed their popular song “Stay,” and ended the night with “Love Me Right.” She gave one last smile and headed into the darkness off stage, her intoxicating presence lingering with the audience.  
-
-_\-Allie Antonevich_
+Mark invited Demo Taped back on stage as the two performed their popular song “Stay,” and ended the night with “Love Me Right.” She gave one last smile and headed into the darkness off stage, her intoxicating presence lingering with the audience.

@@ -11,16 +11,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Hannah Rogers
+  first_name: Hannah
+  last_name: Rogers
 image:
   src: http://sites.bu.edu/wtbu/files/2019/03/MG_0454-2.jpg
   alt: post lead image
 ---
-
-_By Hannah Rogers_
-
 Alice Phoebe Lou, South African singer-songwriter based in Berlin, delivered a feminist, spiritual, and psychedelic performance Tuesday night in the Red Room at Cafe 939, Berklee’s student-run coffeehouse that features live performances. Lou’s album _Paper Castles_ debuted today, Friday, March 8th.
 
 Lou expressed excitement that the sold-out Boston show was her first tour date ever in the US. Though admittedly jet-lagged, she seemed ready to show her American audience what her and her band can do. With the attitude of Paramore’s Hayley Williams, the rasp of Brandi Carlile, and a depth all her own, Lou came ready to enrapture.

@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Matt Bandel
+  first_name: Matt
+  last_name: Bandel
 image:
   src: /assets/Screen-Shot-2017-10-14-at-6.04.49-PM-636x636.png
   alt: post lead image
 ---
-
 The Harvard dropout\*, Tupac ghostwriter, meme rapper extraordinaire has blessed us with his first full length project, appropriately titled _Little Pump_. Lil Pump is the Florida rapper who has made a name for himself off of his hit singles “D Rose” and “Gucci Gang” that first garnered attention on the popular streaming service, SoundCloud. Despite being predominantly used by amateur artists, SoundCloud is the first step for many in breaking into the mainstream and has given rise to many musicians who are now household names. Lil Pump is also another one of the Floridian rappers to rise to fame recently, following names such as Denzel Curry, Kodak Black, XXXTentacion, Ski Mask the Slump God, and Smokepurpp, who is featured on the mixtape multiple times. All of these rappers have gained a lot of attention recently, especially the first three who have been featured on hip-hop magazine “_XXL_’s” freshman class in the past two years.
 
 Lil Pump is one of the most prominent meme rappers. Meme rappers are known for promoting their music and brand through internet culture and social media. He is best known for his abuse of Xanax (xans), his attraction to Miranda Cosgrove’s character “Carly” from the hit Nickelodeon show, iCarly, and of course his famous catchphrase, “Esketit!” (I think he’s supposed to be saying “Let’s get it”). By not taking himself too seriously, he gives himself some free promotion and resonates with a younger audience.
@@ -40,5 +39,3 @@ The memes bring up another question: how seriously do you take this project? Pum
 Overall, if you’re looking for the next _To Pimp a Butterfly_, you should look somewhere else. But if you’re a fan of Lil Pump or other SoundCloud rappers of the same vein, he stays consistent to previous work, and you should enjoy the project. If you’re skeptical like I was, there are definitely some fun tracks, and at only 35 minutes, it might be worth sifting through. Pump still hasn’t won me over yet, but he has impressed me with some catchy beats and great features. ESKETIT!
 
 \*DISCLAIMER: Lil Pump was expelled from high school in ninth grade. He has never stepped foot on Harvard’s campus, and for the sake of quality education, I hope he never will.
-
-_\-Matt Bandel_

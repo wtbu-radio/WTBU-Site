@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Miranda Suarez
+  first_name: Miranda
+  last_name: Suarez
 image:
   src: /assets/unnamed-8-1024x678.jpg
   alt: post lead image
 ---
-
 \[audio mp3="http://sites.bu.edu/wtbu/files/2018/06/Boston-Calling-Sunday-Diehards.mp3"\]\[/audio\]
 
 TRANSCRIPT  
@@ -38,8 +37,6 @@ Julie Amico and Abby Sullivan from Massachusetts sat huddled in sweatshirts agai
 “Yeah,” Sullivan said. “Sometimes the chaos just adds to the excitement almost.”
 
 Boston Calling will be back next year from May 24 to 26, once again at the Harvard Athletic Complex.
-
-_\-Miranda Suarez_
 
 \[caption class="single-post-image" id="attachment\_2087" align="alignnone" width="710"\]![A group plays hackey sack at Boston Calling on May 26, 2018. Photo by Miranda Suarez / WTBU.]({{ site.baseurl }}/assets/unnamed-1024x708.jpg) A group plays hackey sack at Boston Calling on May 26, 2018. Photo by Miranda Suarez / WTBU.\[/caption\]
 

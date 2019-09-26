@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Emily Pintor
+  first_name: Emily
+  last_name: Pintor
 image:
   src: /assets/08-Famous-Phone-Figure-mp3-image.jpg
   alt: post lead image
 ---
-
 The Los Angeles-based surf rock band, Allah-Las, took the stage of Brighton Music Hall with their vintage look, instruments, and sound on March 25.
 
 Since the release of their first few singles in 2011, the quartet has been compared to bands like The Zombies and The Animals. They achieve this retro sound while still infusing contemporary aspects to create music that makes a listener long for the ‘60’s and a California beach.
@@ -48,5 +47,3 @@ Towards the end, the band had an epic and dramatic build up to one of their most
 The Allah-Las ended their set with an encore where they played an extended version of “Catamaran,” the first track off their debut album. At this point, the crowd was at their peak, jumping across the room and belting the scratchy tunes.
 
 The nostalgia of their music resonates not only with the audience, but with the members of the Allah-Las themselves. Their presence on stage mimics their laid-back sound, but it is clear they are passionate and committed to the music they make.
-
-_\-Emily Pintor_

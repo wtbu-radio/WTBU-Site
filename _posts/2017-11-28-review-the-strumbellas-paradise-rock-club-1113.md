@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Kiran Galani
+  first_name: Kiran
+  last_name: Galani
 image:
   src: /assets/HopeVinylCoverArtFinal-636x636.jpg
   alt: post lead image
 ---
-
 The Strumbellas’ performance at the Paradise Rock Club earlier this month showcased every bit of their genre-spanning talent with a high energy show that swept their audience away.
 
 Interspersing some of their alt rock tracks with more folksy music, they used the limited stage space at the Paradise with elegance and zest, dancing around in tune to their beat. They had given the stage a rather oriental look and plastered the back wall with a giant image of the album cover of their latest album, _Hope_. It transformed the entire venue giving it a rather unique vibe that reverberated perfectly with the band’s energy.
@@ -32,5 +31,3 @@ The diversity extended not only to their tracklist, but also to the instruments 
 The band even tried out a new song to yells of “Just do it!” from the audience, and the crowd was beyond delighted by this. The last track that they played before the encore was one of their biggest hits, “Spirits.” This had the entire audience that filled out the venue to full capacity sing in unison, and it was quite the transcendental experience.  
   
 After handing out setlists to some highly delighted fans in the audience, they left the stage briefly before coming back for an encore. The played one of their most energetic songs yet, “Wild Sun,” to conclude the night and asked the audience to “sing with them from the top” towards end. The ended the show with the entire audience yelling, "I'm just waiting on the wiiiildddd sun" along with them, and it was one of the most phenomenal ends to a show that I have been to!
-
-_\-Kiran Galani_

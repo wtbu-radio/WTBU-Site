@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Meredith Aebi
+  first_name: Meredith
+  last_name: Aebi
 image:
   src: /assets/tumblr_inline_om86rw28BI1swxv3i_500.jpg
   alt: post lead image
 ---
-
 On Wednesday night, Feb. 22, The Wilbur Theater was lit up with groups of people ready to see a music performance from actor/writer/musician David Duchovny and his band.  Currently on their sophomore U.S tour, the band was on their sixth stop out of eleven, all in promotion of Duchovny’s 2015 debut album _Hell or Highwater_ as well as his upcoming album, whose title is TBA.
 
 Though Duchovny is well-known for his acting in the television shows The X-Files, Californication and more, he began to write his own songs a few years ago and then became serious about putting out an album around 2014.  With all music written by himself, he worked with producer Colin Lee and president of Boston label ThinkSay Records Brad Davidson to create the album.  The singer/songwriter is joined by Berklee College of Music alumnus of the band Weather as his backing band for the album and all performances.  Together, they create an alternative rock sound.  In previous interviews, Duchovny has cited influences on his music such as Leonard Cohen, R.E.M. and Wilco, and it clearly comes across in his music.  His songs are masterfully crafted, with lyrics that showcase Duchovny’s penchant for writing, as they sound like they could be pieces of poetry.
@@ -34,5 +33,3 @@ But the crowd was not the only energized entity in the theater—Duchovny and hi
 While the music was all good, what really made the night was how interactive the performers were with the audience and how much energy they brought.  As previously mentioned, Duchovny interacted through anecdotal storytelling or joking with the audience, but he also really went for it.  At one point he got_ off_ the stage and came into the crowd, dancing with audience members and running through the aisles high-fiving people.  He also danced on stage, truly getting into it along with everyone else.  Everyone was having a good time, but the verve David Duchovny and his band brought to their performance made everyone have a _great_ time.
 
 At the end, they came out to do a few songs as an encore, and for the very last one, Duchovny leaned into the mic and said, “You know where my heart is at.” Then he and his band members pulled out of their pockets their own individual pussy hats and put them on for the finale, which was a cover of the classic Sly and the Family Stone song “Thank You (Falettinme Be Mice Elf Agin).”  At this point, everyone was singing and dancing along.  Truly, how could you not?  They put on a fantastic show, and the closing was a great way to end the night.  Hopefully, David Duchovny will be back again soon.
-
-_\-Meredith Aebi_

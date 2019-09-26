@@ -13,16 +13,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Angel Kim
+  first_name: Angel
+  last_name: Kim
 image:
   src: http://sites.bu.edu/wtbu/files/2019/06/cs-8.jpg
   alt: post lead image
 ---
-
-_Photos by Angel Kim_
-
 \[caption id="attachment\_4774" align="alignnone" width="683"\]![]({{ site.baseurl }}/assets/cs-1-683x1024.jpg) _Cub Sport by Angel Kim_\[/caption\]
 
 \[caption id="attachment\_4790" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/mp-1-1024x683.jpg) _Minor Poet by Angel Kim_\[/caption\]

@@ -20,7 +20,6 @@ image:
   src: /assets/Dead-Company-Summer-2017-Crop.jpg
   alt: post lead image
 ---
-
 Thousands of Dead Heads young and old arrived at Fenway Park by stroller, by bike, by foot, and by VW van on June 18 to jive to Dead & Company, who are currently on a month-long summer tour. A reincarnation of the Grateful Dead, Dead & Company is composed of Bob Weir, Mickey Hart, Bill Kreutzmann, and John Mayer, with Jeff Chimenti and Oteil Burbridge in tow as well.
 
 The band started about 15 minutes after the advertised start time of 6:30 p.m., giving the crowd just enough time to build its already excited energy. The historic park was a sea of dreadlocks, tye-die, and smiles--a pure concentration of genuine happiness that isn’t normally encountered anywhere but at a Dead show. As Dead & Company launched into “Samson and Delilah,” that sea became waves of moving bodies and still, of course, smiles.
@@ -40,5 +39,3 @@ It wasn’t long before the band left the stage--minus Hart, Kreutzman, and Burb
 “Not Fade Away,” did not fade away once Dead & Company left the stage. The entirety of Fenway carried on the song with nothing but their voices and some well-timed claps until the Dead reemerged to a wall of cheers.
 
 “Brokedown Palace” acted as the solemn, yet hopeful closer to the show. As Dead Heads overflowed into the streets, echos and claps of “Not Fade Away” reverberated throughout Boston and through the windows of the VW buses truckin’ away to the next Dead show, and the next, and the next...
-
-_\-Olivia Gehrke_

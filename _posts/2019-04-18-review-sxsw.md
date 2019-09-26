@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/0_8jyRxSh7K9u7t4l4.png
   alt: post lead image
 ---
-
-_By Allie Antonevich_
-
 From March 8 to 17, almost half a million people flocked from around the globe to Austin, Texas, to attend South by Southwest (SXSW). It is an annual conglomerate that celebrates creative expression, bringing together film, music, interactive media, and event conferences.
 
 Founded in 1987, it continues to grow in size and scope every year, becoming an event that captures media attention around the globe. When the festival first started, 700 visitors arrived. In 2018, approximately 432,500 people participated in the SXSW Conference & Festivals.

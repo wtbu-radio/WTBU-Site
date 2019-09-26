@@ -13,16 +13,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: http://sites.bu.edu/wtbu/files/2019/07/DSC0342.jpg
   alt: post lead image
 ---
-
-_By Monica Sucic_
-
 \[caption id="attachment\_5137" align="alignnone" width="684"\]![]({{ site.baseurl }}/assets/DSC0017-684x1024.jpg) _Flipturn by Monica Sucic_\[/caption\]
 
 ![]({{ site.baseurl }}/assets/DSC0276-1024x684.jpg) ![]({{ site.baseurl }}/assets/DSC0281-1024x684.jpg)

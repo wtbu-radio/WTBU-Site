@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Daniella Weiss
+  first_name: Daniella
+  last_name: Weiss
 image:
   src: /assets/unnamed-1-636x424.jpg
   alt: post lead image
 ---
-
 It has been five years now since American indie-pop band COIN formed in Nashville, Tenn. as four college students. In the time since, the band has released a self-titled debut album and, most recently, their second studio album, titled _How Will You Know if You Never Try?_ Amidst the release of this new album, the band is currently out on their first ever U.S. headlining tour. WTBU DJ Daniella Weiss had a chance to talk with lead singer Chase Lawrence about the new album and tour.
 
 One year after releasing their debut album, COIN released the track “Talk Too Much,” which would become the first single off their second album. The upbeat tune took off as a popular radio single for the band. When asked about the effect the single had on the band’s increase in success, Chase referred back to the band’s roots in America’s music city.
@@ -54,5 +53,3 @@ As for who will precede the band as an opening act, COIN brings along emerging e
 “They have this song called ‘Oceans Away’ that we really love. The song has an incredible amount of streams on Spotify; it’s crazy, and we didn’t even know that. We just heard that song everywhere and loved it,” says Chase. “We definitely wanted to have \[an opener\] that was a slightly different departure from what we’re going to do.”
 
 Beginning with this tour, there is an exciting future ahead for COIN as their newest album takes off. The tour began in mid-April and will run until the end of June with support from A R I Z O N A in select cities. The band made a Boston stop at The Sinclair on May 3rd as part of the _How Will You Know If You Never Try?_ Tour.
-
-_\-Daniella Weiss_

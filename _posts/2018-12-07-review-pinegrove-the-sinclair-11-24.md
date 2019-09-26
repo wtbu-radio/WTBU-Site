@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Damon Musso
+  first_name: Damon
+  last_name: Musso
 image:
   src: /assets/1.jpg
   alt: post lead image
 ---
-
-_By Damon Musso_
-
 Last Saturday, Pinegrove came back to Boston after their near year-long hiatus due to sexual assault allegations against the band’s frontman Evan Hall. In the middle of the set, Hall said, “It’s been a year full of introspection and growth.” It felt relieving to hear the band speak directly to the crowd about their hiatus. With this tour, Pinegrove seems ready to move past the incident without denying or negating. The line between separating the artist from the art is often narrow and deceptive: Pinegrove has shown a willingness to move forward with their music, and their audience seems ready to forgive and to continue listening to their music that has resonated deeply with so many.
 
 Structure became the defining aspect of the concert. Pinegrove came on without an opener. To a crowd that waited over a year to see them play, this gesture seemed more of an act of respite than anything. It also gave a quality of vulnerability to the show. The band first played all of the songs from their most recent album, _Skylight_, and then continued by playing every song of their defining EP, _Cardinal_. As an encore, the band played four songs from their first full-length album _Everything So Far_. Between songs, Hall took as many opportunities as possible to just simply say “thank you.”

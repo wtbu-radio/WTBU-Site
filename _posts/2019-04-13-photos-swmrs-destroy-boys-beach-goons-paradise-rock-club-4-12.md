@@ -12,18 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Maggie Leone
+  first_name: Maggie
+  last_name: Leone
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/SWMRS16.jpg
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
-_Photos by Maggie Leone_
-
 In their return to Boston, SWMRS delivered a raucous and rage-fueled concert on their _Berkeley’s on Fire_ tour.
 
 Opening the show with “Trashbag Baby,” the band immediately set the tone for the night, telling the crowd to jump, mosh, and have a good time. This does bring up a problem with the concert however. While the energy of the show was infectiously energetic, the venue was far too small for the entire crowd to be moshing. Paradise Rock Club is simply too small for the entire crowd to be jumping around. Moving the show to a more spacious venue like Brighton Music Hall would have been a lot more comfortable for the audience, as many could be seen leaving the show throughout the night, bloody and in pain.

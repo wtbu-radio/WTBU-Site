@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Jack Salvucci
+  first_name: Jack
+  last_name: Salvucci
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/xiu-xiu.jpg
   alt: post lead image
 ---
-
-_By Jack Salvucci_
-
 Xiu Xiu’s newest record, _Girl with Basket of Fruit_, barrages the listener with many familiar tricks from the band’s playbook. The clean production and twists on those sounds familiar to fans work together to create one of the more interesting and contemporary records of the band’s discography. This record comes two years after 2017’s _Forget_, a highly memorable record that saw Xiu Xiu exploring new territories of contemporary electronic and psychedelic pop with some of the best production of their career. While Forget is arguably one of their more accessible records, however, this new record, with eclectic instrumentation and abrasive tones strewn on nearly every track, will be familiar to the avid Xiu Xiu listener.
 
 It should be noted for those unfamiliar with Xiu Xiu that it can take time and re-listening to see the appeal and appreciate the beauty of their music, given their frequent usage of abrasive sounds and the exceedingly depressing vocal delivery and subject matter of many of the songs. The experience of listening to their music can often be visceral, given the extreme emotions that Jamie translates into music so well. The first two tracks, “Girl with Basket of Fruit” and “It Comes Out as a Joke,” are a perfect example of a more angry and energetic sound to be expected from a Xiu Xiu song. The combination of the high-end production, grinding bass synths, acoustic percussion, and the electronic stylings all contribute to a sound that is both new and easily fitting with the rest of their discography. Past these developments in sound, the tracks are super captivating and energizing to listen to. The tracks take surprising turns before any section has gone on too long, never losing steam for a second. In many instances, the individual sounds that make up these great tapestries may be considered unusable by most, yet are fit together perfectly by Xiu Xiu.

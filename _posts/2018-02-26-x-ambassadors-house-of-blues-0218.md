@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Katie Evans
+  first_name: Katie
+  last_name: Evans
 image:
   src: /assets/unnamed-2-636x424.jpg
   alt: post lead image
 ---
-
 After a spending time working on new music, X Ambassadors have returned to the touring world by kicking off a short February tour. They performed a sold out show at the House of Blues in Boston on Feb. 18.
 
 Minnesota-based indie rock duo Now, Now opened the show. The band is made up of longtime friends Cacie Dalager (vocals/guitar) and Bradley Hale (drums). Despite being sick, Dalager entertained the audience with a high energy performance and strong vocals. The band performed a collection of upbeat rock songs. After instructing the crowd to dance, Dalager introduced their newly released single “SGL.” The audience appeared to enjoy their set, but seemed ready for the main act of the night.
@@ -36,7 +35,5 @@ X Ambassadors have been on the down low for over a year while they worked on new
 They kept the high energy throughout their performance and the audience was constantly moving along. Harris’ vocals were strong and clear. He played the saxophone during a few songs, and the audience loved it. His brother had a solid night on the keys and danced along to all of their songs. Levin’s drum beats rang throughout the venue constantly and added an important element to the set.
 
 They dedicated a song to the 17 victims of the recent Florida shooting, and Harris expressed his views: “Bottom line we need stricter gun control.” The crowd cheered in agreement and the band began a touching performance of “Unsteady.” The show ended with a note from the band, “You should never be afraid to be who you are. We are your allies, your friends, your lovers. We will protect you and always fight for your rights and we will never silence ourselves.” The band began their final song of the night, “Unconsolable” and a warm feeling was felt throughout the venue.
-
-_\-Katie Evans_
 
 \[gallery size="medium" columns="2" ids="1336,1335,1334,1333"\]

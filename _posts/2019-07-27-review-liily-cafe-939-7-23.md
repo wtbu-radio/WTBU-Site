@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: http://sites.bu.edu/wtbu/files/2019/07/IMG_1273.jpg
   alt: post lead image
 ---
-
-_By Allie Antonevich_
-
 Liily performed at Café 939 on Tuesday night to play songs from their first EP, _I Can Fool Anybody in This Town,_ released in March 2019. They stormed the stage only to swallow up the crowd for a bit before spitting them back out.
 
 Liily has an unabashed, unapologetic swagger that instantly electrifies the room they’re in. The rock band is comprised of five Los Angeles teenagers: Dylan Nash on vocals, both Sam de la Torre and Aaron Reeves on guitar, Charlie Anastasis on bass, and Maxx Morando (formerly of The Regrettes) on drums. The boys embodied a thick grunge aesthetic as they came on stage, each with a different graphic t-shirt (Snoopy, Yankees, Catskill Mountains, Coca Cola, and Midwest Boyz, in case you were curious), their arms decorated with stick and poke tattoos, khaki pants cuffed, and beat-up, white sneakers on.

@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Brittany Moura
+  first_name: Brittany
+  last_name: Moura
 image:
   src: /assets/15027371_10154114639034856_1651253087234316206_n-636x242.png
   alt: post lead image
 ---
-
 On Tuesday, Nov. 28, Jason Bonham’s Led Zeppelin Experience played the House of Blues as a part of their annual winter tour. Founding member Jason Bonham, son of the late Led Zeppelin drummer John Bonham, crafted a group of band members that mimic the ‘70s blues rock band almost exactly. Jason, along with Dorian Heartsong on bass and Alex Howland on keyboards and guitar, found later on in this project’s timeline the two remaining members that would turn the band into a visual representation of Zeppelin themselves. They found their singer, James Dylan on YouTube. He posted videos of Zeppelin covers, sounding just like Robert Plant in his prime. When their original guitarist, Tony Catania, who had worked with Bonham on many projects previously, left the band, they found their very own Jimmy Page. Jimmy Sakurai, a long time Page impersonator, not only mimics his sloppy blues guitar sound, but also happens to be the spitting image of the world famous guitar god.
 
 The crowd was full of Zeppelin fanatics who wanted to relive their 1970s pasts, with a few younger college-aged fans who looked to fulfill their fantasies of seeing the closest thing to their favorite band. There was no opening act, so the audience could unwind with over two hours of their favorite tunes. Bell bottom-clad, middle-aged couples stayed near the bars, while the younger audience members tried to get as close to the action as possible.
@@ -37,5 +36,3 @@ Moving on to an emotional version of “Thank You,” probably one of the most c
 As they left the stage after “Stairway,” every 50-year-old man drunkenly screamed “One more song!” They got two, “Whole Lotta Love” as well as “Rock And Roll.” Each performance visceral and well-done as the next, the most iconic moment was when the crowd sang into Dylan’s microphone, “Been a long time, been a long time, been a long, lonely, lonely, lonely, lonely, lonely time!” For a lot of them, it was true. It’s been a long time since we all rock and rolled that hard.
 
 Overall, the set was pleasurable, iconic, and liberating. For a solid two hours, the music transported us to the height of rock music, each band member creating the image of their predecessor, and giving the audience a whole lotta love.
-
-_\-Brittany Moura_

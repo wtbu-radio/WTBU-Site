@@ -11,16 +11,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: http://sites.bu.edu/wtbu/files/2019/03/quinn-xcii-tickets_03-29-19_17_5bdccbef1b43a.jpg
   alt: post lead image
 ---
-
-_By Allie Antonevich_
-
 On Tuesday, February 26, the House of Blues exploded in sound with artists Christian French, Ashe, and Quinn XCII.
 
 Opener Christian French, a 21-year-old singer-songwriter, recently dropped out of Indiana University to pursue a full-time career in music. French released his first electro-pop laden EP, _Natural Colors,_ two months ago. French’s excitement to perform was palpable as he led the audience to sing along with popular songs “By Myself” and “Love Ride.” Though it was only French and his guitarist on stage, he took up a lot of space.

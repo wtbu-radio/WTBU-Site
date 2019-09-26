@@ -15,16 +15,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: http://sites.bu.edu/wtbu/files/2019/07/osheaga.jpg
   alt: post lead image
 ---
-
-_By Allie Antonevich_
-
 From August 2-4, more than 130,000 festival goers flocked to Montreal, Quebec, for the 14th edition of Osheaga. Founded in 2006, the popular Canadian event took place at the newly renovated site at Espace 67 of Parc Jean-Drapeau, a beautiful island that holds the Montreal skyline in view.
 
 Osheaga welcomed rising and popular artists alike, positioning them on six different stages throughout the park. The festival isn’t confined to one genre of music. In fact, it welcomes the blend of talent from artists around the world. Performances started at 1pm each day with festival-goers trickling in, and by mid-day, the park was nearly full.

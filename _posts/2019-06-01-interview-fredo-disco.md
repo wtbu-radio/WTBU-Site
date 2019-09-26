@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Reed Romanko
+  first_name: Reed
+  last_name: Romanko
 image:
   src: http://sites.bu.edu/wtbu/files/2019/06/IMG_20190528_170053.jpg
   alt: post lead image
 ---
-
-_By Reed Romanko_
-
 WTBU's Reed Romanko talked to Fredo Fosco of fredo disco ahead of their show with Hot Mulligan at Brighton Music Hall.
 
 **REED ROMANKO: How's the tour going so far?**

@@ -17,16 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Caroline Barry
+  first_name: Caroline
+  last_name: Barry
 image:
   src: /assets/DSC_0609-1024x683.jpg
   alt: post lead image
 ---
-
-_By Caroline Barry_
-
 With his new album _Bloom_, Australian actor-Youtuber-musician Troye Sivan regains his power in the pop scene, both in the studio and on stage.
 
 On Friday, Oct. 12, I had the glorious opportunity to catch his show at the ornate Boch Center. The Bloom Tour is Sivan’s fourth tour (the third of which I’ve attended). His seemingly endless setlist featured every song off his new album, and a healthy amount of his old hits and singles too. His audience ranged from kids under 10 to young adults reaching their 30s; but regardless of age, the venue held an undeniable, communal sensation of pure joy.

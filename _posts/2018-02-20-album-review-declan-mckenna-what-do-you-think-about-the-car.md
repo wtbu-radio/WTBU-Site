@@ -12,14 +12,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: /assets/9df5d48735ce27933a24_Sophie-Green-636x517.jpg
   alt: post lead image
 ---
-
 After making a name for himself with his hit single “Brazil” in 2015, British singer-songwriter Declan McKenna released his first full-length album, _What Do You Think About the Car?_ on July 21, 2017.
 
 The best way to describe McKenna’s vibe is semi-sweet. With amazing vocals and a smile that even your parents would approve of, Declan uses his charm and talent to speak up for what he believes in and is a true contender to be the voice of a generation. Instead of being a product of media or forcefully fighting against it, he takes his songwriting and lyricism to acknowledge the issues of the modern age and encourage change.
@@ -33,5 +32,3 @@ Another shinier and more cheery song off the album is “The Kids Don’t Wanna 
 McKenna finishes the record with “Listen to Your Friends,” produced by Rostam Batmanglij, artistically known as Rostam and best known for his former work with Vampire Weekend. He repeats “_please trust in me_” after some of the most powerful spoken-word lines to be released in 2017. He lists the problems of the world and how hypocritical the government can be, especially to youth. The song is ultimately a powerful ending to a core-shaking album.
 
 Declan and his debut album are truly a powerhouse, and not to be missed. He will be playing at The Met in Pawtucket, RI, which is a short ride away on the commuter rail. Tickets are available [here](https://www.etix.com/ticket/p/2056708/declan-mckenna-pawtucket-the-met?cobrand=themetri%20http://bit.ly/Declan_McKenna_TheMet) and _What Do You Think About the Car?_ is available on iTunes, Spotify, and for physical purchase.
-
-_\-Monica Sucic_

@@ -20,16 +20,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Caroline Barry
+  first_name: Caroline
+  last_name: Barry
 image:
   src: /assets/1-1.jpg
   alt: post lead image
 ---
-
-_By Caroline Barry_
-
 Massachusetts-born Jonathan Richman was proud of his home back when he performed as the Modern Lovers throughout the 1970s and 1980s. That same enthusiasm shone through his performance last Monday, October 15, when he played the first of his four nights at the Middle East in Cambridge.
 
 Native to Natick, Richman began his musical career as the founding member of the Modern Lovers, a band whose influence has stretched decades. The band’s original drummer, David Robinson, went on to form the Cars, and their keyboardist, Jerry Harrison, later performed as part of Talking Heads. “Pablo Picasso,” a witty song from their 1976 self-titled album that claims the famous painter was never rejected by women, was later covered by John Cale of the Velvet Underground, Iggy Pop, David Bowie, and many more.

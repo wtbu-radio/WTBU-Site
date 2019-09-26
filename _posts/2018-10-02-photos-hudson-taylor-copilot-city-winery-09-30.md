@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: /assets/copilot-1-683x1024.jpg
   alt: post lead image
 ---
-
-_Photos by Zoe Salvucci_
-
 \[caption id="attachment\_2822" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/copilot-2-1024x683.jpg) Copilot by Zoe Salvucci\[/caption\]
 
 \[caption id="attachment\_2823" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/copilot-3-1024x683.jpg) Copilot by Zoe Salvucci\[/caption\]

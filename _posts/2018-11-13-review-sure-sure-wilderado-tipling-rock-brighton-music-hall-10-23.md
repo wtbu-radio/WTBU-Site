@@ -19,16 +19,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: /assets/charlie-pink-1024x683.jpg
   alt: post lead image
 ---
-
-_By Monica Sucic_
-
 I really never thought that I’d get close to a band that called me “Monica Tree” the first time we met, but I’ve been talking with California pop-rockers Sure Sure for a bit more than a year now. The energetic quartet played at Brighton Music Hall on Oct. 23 as a part of their “first ever third tour.” The group is made up of my “four unofficial uncles,” also known as guitarist Charlie Glick, bassist Michael Coleman, drummer Kevin Farzad, and “keysman” Chris Beachy.
 
 Sure Sure has been tearing their way across the United States throughout 2018. They kicked off the year by opening for Hippo Campus in January and February, then they showcased their feel-good energy on their first headlining tour in the spring. Through the summer, the four friends moved out of their banana-yellow house and studio and made sure to get to recording right away in their new place. Their fall plans have been consumed with their headlining tour with Wilderado which took them coast to coast.

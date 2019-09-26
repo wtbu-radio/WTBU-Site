@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Angel Kim
+  first_name: Angel
+  last_name: Kim
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/sasami-23.jpg
   alt: post lead image
 ---
-
-_Photos by Angel Kim_
-
 \[caption id="attachment\_4567" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/sasami-1-1024x683.jpg) _Carol by Angel Kim_\[/caption\]
 
 ![]({{ site.baseurl }}/assets/sasami-2-683x1024.jpg) ![]({{ site.baseurl }}/assets/sasami-3-1024x683.jpg)

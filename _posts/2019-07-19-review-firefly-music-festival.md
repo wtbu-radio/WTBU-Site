@@ -13,16 +13,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Spencer Vilicic
+  first_name: Spencer
+  last_name: Vilicic
 image:
   src: http://sites.bu.edu/wtbu/files/2019/07/MG_1071.jpg
   alt: post lead image
 ---
-
-_By Spencer Vilicic_
-
 Firefly was fun and exhausting and worth every second. To cover as many different aspects of the festival as possible, here are my ABCs of Firefly:
 
 A is for All the Artists who performed. With well over 100 artists taking the stages during the weekend, there was no way I could see all of them. Multiple times a day, I would pass by a stage on my way to another, just watching the crowd move to the music and wishing I could be in the middle of it. I appreciate those moments just as much as the concerts I watched front row because I could still listen to the music while cooling off in the shade.

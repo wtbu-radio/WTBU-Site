@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Allie Miller
+  first_name: Allie
+  last_name: Miller
 image:
   src: /assets/nothside.jpg
   alt: post lead image
 ---
-
 **Northside Music Festival 2017...Stacked!**
 
 Kamasi Washington, Miguel, and Dirty Projectors will headline SXSW-esque music festival in Brooklyn this week in Brooklyn-located music and culture festival. Along with stacked headliners, there will also be “Innovation” events, NYC and industry-focused talks lead by NPR, Bust Magazine, and even mayor Bill de Blasio in conversation with Buzzfeed. The event takes place from today, June 7 to Sunday, June 11.
@@ -40,5 +39,3 @@ In addition to the headliners (and in order of my bias) the bands Hoops, Joy Aga
 Some exciting Innovation events are a Soundcloud Case Study, a Live Podcast Taping of See Something, Say Something and NPR’s Snap Judgement, BUST’s Poptarts Podcast, and Vision to Victory: How Squarespace, Waze, & Boxed have Pioneered from Start-Ups to Industry Leaders.
 
 WTBU will be covering Northside 2017, so check back in for more coverage of the festival!
-
-_\-Allie Miller_

@@ -22,7 +22,6 @@ image:
   src: /assets/22426202_1237682799711681_4137976660968621361_o-2-636x242.jpg
   alt: post lead image
 ---
-
 When Louisville’s White Reaper rolled into Boston this past Thursday, they came with guns blazing, ready to defend their self-proclaimed title as the World’s Best American Band. Touring their second full length album, _The World’s Best American Band_, White Reaper did in fact do the title justice.
 
 The night got off to a slow start with Rival Island. The Boston-based indie pop group were out of place in the heavily rock-centric bill. Almost everything about the band’s sound translated as generic: the vocals, the drumbeats, even the chords for every song were more or less the same and played identically by both the lead and rhythm guitarist resulting in little variation. It might suffice in the mainstream alt-pop scene, but didn’t carry its weight in this otherwise dominant bill.
@@ -38,5 +37,3 @@ Their popular single, “Judy French,” produced a similar surge of crowd energ
 White Reaper played through older material like “Make Me Wanna Die” from their full length debut, _White Reaper Does It Again_, and even reached back to their first EP with “Half Bad” played during the encore.
 
 What made the night stand out was the rock ‘n’ roll antics and attitude of White Reaper. They truly embraced their latest album’s title, and that confidence and edge translated into a fueled performance. But instead of being distant and inaccessible like big name rock stars, they were personable through not only their interactions with the crowd, but also in how they carried themselves on stage: Hater dancing recklessly around about and playing air guitar, a crowdsurfing race to the bar and back between drummer Nick Wilkerson and Esposito, and the friendly between-song chatter. Combine that with the music, and it was a flawless night of rock ‘n’ roll worship.
-
-_\-Olivia Gehrke_

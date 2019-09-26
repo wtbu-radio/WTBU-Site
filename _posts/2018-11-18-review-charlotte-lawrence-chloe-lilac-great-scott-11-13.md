@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: /assets/0-22-1024x576.jpeg
   alt: post lead image
 ---
-
-_By Allie Antonevich_
-
 A wave of female empowerment and pop synths hit Great Scott, where both Chloe Lilac and Charlotte Lawrence took the stage on Nov. 13.
 
 Chloe Lilac, a 17-year-old Brooklyn native, opened for Lawrence. She donned all-black attire, her silver hair hugging her face. As she introduced herself, she held a bit of child-like wonder and excitement. She explained to the audience that a lot of her songs come from personal experience, and that she is a DIY artist whose songs are found on SoundCloud. Before she started her set, she told audience members that she wants everyone to enjoy themselves, but also to be respectful to those around them.

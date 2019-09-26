@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Matt Bandel
+  first_name: Matt
+  last_name: Bandel
 image:
   src: /assets/unnamed-1-1024x768.jpg
   alt: post lead image
 ---
-
-_By Matt Bandel_
-
 UK punk/post-punk band Idles are in the states on another American tour. Last time they were in the U.S., they didn’t come to Boston, so I wasn’t going to let this chance pass me by. The group first caught my attention last year with their debut album, _Brutalism_. It was filled from front to back with fast-paced, hard-hitting tracks that I came to fall in love with. Their intense sound and cheeky lyrics made every song inventive and fun.
 
 In late August, Idles released their sophomore album, _Joy as an Act of Resistance_. On this project, the band was much more upfront about their politics that were hidden in metaphors on their previous record. This time they openly mock Brexit, toxic masculinity, and anti-immigrant attitudes along with a plethora of other lefty sentiments. The guitar playing is much tighter than on _Brutalism_, with more clean cut melodies as opposed to the waves of sound that assaulted your ears on their first album.

@@ -26,16 +26,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Danya Trommer
+  first_name: Danya
+  last_name: Trommer
 image:
   src: /assets/RANCID-CROWD-1024x683.jpg
   alt: post lead image
 ---
-
-_By Danya Trommer_
-
 Starting June 14, punks from all over North America descended upon the small Canadian town of Montebello for Montebello Rockfest. With a population of less than 1,000, the festival engulfs the entire town. Local vendors set up shop on the town’s one main street, selling plenty of local Quebec cuisine such as poutine and smoked meat.  Families sat outside their homes selling bags of ice and lemonade, while others offered up their homes as campgrounds.
 
 Inside the festival, three stages stood, with stage one and two staggering act times while stage three had an almost constant barrage of smaller acts. This third stage showcased much of the French Canadian talent that the festival had to offer. A highlight was Mononc’ Serge, a comedy rock band donning black turtlenecks famous for their obscene lyrics. The crowd, as well as the backstage viewing area, was packed with fans who barked along to songs such as “Marijuana” and “Le joual.”  While I may not speak French, I could easily tell there was hilarity in each song just from the singer Serge Robert’s delivery.

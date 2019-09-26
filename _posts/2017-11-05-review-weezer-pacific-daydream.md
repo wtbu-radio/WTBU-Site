@@ -12,14 +12,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Matt Bandel
+  first_name: Matt
+  last_name: Bandel
 image:
   src: /assets/weezer-pacific-daydream-new-album-636x636.jpg
   alt: post lead image
 ---
-
 Weezer is back, hot off of _The White Album_, bringing more of the California alt rock that they’re known for with _Pacific Daydream_. Over the years, the band has taken their fans on a roller coaster ride of emotions with their albums. Their releases have ranged from some real hits to some real misses, all the while deviating farther and farther from the stripped back rock sound of _The Blue Album_ and _Pinkerton_, the group’s first two and most well-received albums. The band’s eleventh album, _Pacific Daydream_, is almost pop music. Despite the ups and downs, I really loved _The White Album_, so I was excited for a new project.
 
 The album runs into its first problem with the first five tracks. The band has been releasing singles since March of this year, and all five of them appear on the record. This wouldn’t be a problem…if the album were more than just nine tracks. At 34 minutes, _Pacific Daydream_ is for sure a little short, but less than half of the project is new material, which really weighs the album down. This is especially apparent since none of these singles really stood out, but I was hopeful for more from the album.
@@ -37,5 +36,3 @@ I was disappointed by how much of the track list was pre-released singles, but e
 I felt that every cut from _The White Album_ had its own characteristic that drew me into it. There were constant transitions in the mood of the album; almost every track went back and forth between different vibes. These ups-and-downs kept listeners attentive and tuned in to what would come next. _Pacific Daydream_ is much flatter and monotone. Every song has an upbeat fun feeling. Worse is that all of the tracks follows the same formula: a first verse that builds into a chorus, more instrumentation added in the second verse until a livelier second chorus, a bridge, and the song will end on the chorus. It’s not a bad formula used by plenty of modern day songs, but really? Every track? I love French toast, but if I ate French toast every day I’d get sick of it.
 
 I do think that it’s a fine album, but that’s as positive as I can really get. The more and closer I listen to the album, the more I do enjoy it. However, half of the songs already feel stale, making it tough to fall in love with. If you’re a fan of Weezer you may not be crazy about the more artificial and multi-layered instrumentation, but I think there is some merit to _Pacific Daydream_. I’ll definitely check out _The Black Album_ that the band has said will be coming out next year.
-
-_\-Matt Bandel_

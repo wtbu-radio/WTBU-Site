@@ -17,16 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 image:
   src: /assets/36850500_10155272688666148_7004154983243317248_n.png
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
 Twenty One Pilots are the most interesting band working today. The two-piece of singer Tyler Joseph and drummer Josh Dun are able to merge the genres of rap, pop, emo, and reggae seamlessly in their music, effectively creating their own genre that no one else has been able to replicate. Joseph claims that he simply makes music that he wants to hear, but very clearly he’s not the only one. In 2015 the duo broke through with their album _Blurryface_ and traded in small clubs for full-on arenas. In the summer of 2016, they even sold out Madison Square Garden on two back-to-back nights.
 
 After the tour that took them to MSG, they went on a brief, self-imposed hiatus where Joseph seemingly dropped off the face of the planet. While they called the almost two years that no one heard from them a “hiatus,” Joseph was really building a world: the world of their fifth studio album, _Trench_. The album is a rock opera, telling the story Joseph himself trapped in the dystopian city of Dema and his continued failed escape attempts. In July, with no prior notice, the band released their first two singles, “Jumpsuit” and “Nico and the Niners,” from the album, along with dates for the Bandito Tour–a tour that would take the band around the world between late-2018 and mid-2019. The real question is could the band trap lightning in a bottle a second time with their new album and tour coming off what was easily the most successful period in their history?

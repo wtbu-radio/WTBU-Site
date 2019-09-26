@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Leonora Telford
+  first_name: Leonora
+  last_name: Telford
 image:
   src: /assets/Little_Dark_Age-636x636.jpg
   alt: post lead image
 ---
-
 Psychedelic indie rockers MGMT performed at the Orpheum Theatre on Friday, March 16 as part of a tour for their latest album, _Little Dark Age_, released in February.
 
 Setting the stage for MGMT was Michigan-based producer and DJ Matthew Dear. His music would not have been out of place in the ‘80s, featuring deep vocals and reverberated guitars reminiscent of the new wave movement. Despite being alone on stage with only a guitar and a couple of synthesizers, Dear easily filled the venue with sound. The backing beats were repetitive and trancelike, and overall Dear’s set was a great precursor to that of the headliners.
@@ -33,5 +32,3 @@ MGMT have produced a handful of far-reaching hit singles, and they played one of
 Despite their onstage antics, MGMT made little effort to interact with the audience, offering almost no quips to the eager crowd. Nevertheless, the fans seemed to be having a great time, going wild during _Oracular Spectacular_’s smash hit “Electric Feel.” The band kept the energy up with “James,” a disco-sounding track from _Little Dark Age_, and “TSLAMP” (which stands for “Time Spent Looking At My Phone”) from the same album, accompanied by stock footage of smartphones. They closed out their main set with their most famous song, “Kids,” from _Oracular Spectacular_. To the delight and amazement of much of the audience, during the bridge they segued into the theme from 1984 children’s fantasy film _The Neverending Story_ before seamlessly returning to finish the rest of their song.
 
 For their encore, MGMT performed “Hand It Over” from _Little Dark Age_ followed by “Weekend Wars” from _Oracular Spectacular_. VanWyngarden encouraged the crowd to make some more noise, one of his only remarks to the audience all night. The visuals at this point resembled those of a disco ball and were projected all over the venue, extending beyond the backdrop of the stage and onto the sides of the theatre. Although they didn’t talk to the crowd too much, MGMT put on a great show.
-
-_\-Leonora Telford_

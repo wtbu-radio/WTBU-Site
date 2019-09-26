@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Daniella Weiss
+  first_name: Daniella
+  last_name: Weiss
 image:
   src: /assets/unnamed-1-636x424.jpg
   alt: post lead image
 ---
-
 The first weekend of August saw the return of a few of emo music’s most notable names to Boston through Dashboard Confessional's summer headlining tour. The tour’s stop at Blue Hills Bank Pavilion, which overlooks the Boston harbor on a crisp summer night, consisted of the emo rock group taking the stage following three popular openers of the same musical vein.
 
 First up in the night were young rock group The Social Animals. With their toe-tapping tunes and authentic sound, the band served a pleasant, fresh opener for the increasingly rock-charged night.
@@ -33,7 +32,5 @@ Long-awaited in the night was rock band The All-American Rejects. After flying u
 
 Last up for the night was headlining band Dashboard Confessional. The band has spent the last couple of years coming off of a hiatus and has embarked on this summer tour to reconnect with fans across the country. While Dashboard hasn't released an album since 2009, the band recorded a few covers that were collected into an EP and released earlier this year. Playing a set composed of their decade-old hits and future album tracks, the band emerged on stage to gift the crowd with one of their most notable tunes, “Vindicated.” In their aforementioned EP collection of covers, Dashboard recorded Justin Bieber’s popular hit “Love Yourself.” They included the cover, to the crowd’s pleasure, in their set. Throughout the entire set, frontman Chris Carrabba exuded gratitude and appreciation for the chance to carry out this summer tour and to have such positive feedback from the fans who made the trip out to see it. To end the night, the band played a one-song encore with one of their most notable tunes, “Hands Down,” a song that brought the crowd of loyal emo fans together as they watched their long-time favorite perform again.  
 The tour’s Boston stop was one of the last few before the summer fun wrapped up this week in Illinois. This August night stocked full of nostalgic hits and unforgettable energy made Dashboard Confessional and friends’ summer tour one to remember.  
-
-_\-Daniella Weiss_
 
 \[gallery link="file" size="large" ids="792,793,794,795,796,797,798"\]

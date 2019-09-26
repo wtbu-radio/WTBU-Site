@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Alyssa Lai
+  first_name: Alyssa
+  last_name: Lai
 image:
   src: http://sites.bu.edu/wtbu/files/2019/06/twf_056_preview-f7f94adf-6b17-4ac5-a19c-ce2a05ecd91b.jpg
   alt: post lead image
 ---
-
-_By Alyssa Lai_
-
 So it’s 8PM, a Friday night, and you have a 7AM shift at you job tomorrow morning. You’ve just spent the entire day lounging around your apartment, and damn, you really want to go out and dance the night away with some good music, but you don’t exactly want to get carried away… Since, you know, you have to wake up early for that job. This was my situation last weekend, but don’t worry, there’s a happy ending here. Rather than heading out to a nightclub and regretting my decisions in 11 hours, I spent my evening at Brighton Music Hall, enjoying the music of Lauren Jenkins and The Wild Feathers.
 
 The show began with a wonderful performance by the Texan-born country singer Lauren Jenkins. She performed solo with only herself and an acoustic guitar, and she needed nothing more. She brought a positive energy as she played her music, and not only that, she joked and laughed right along with the audience; she was one of the most relatable artists that I’ve seen on stage thus far. Not only that, but her songs and her lyrics were great to dance along too, despite never hearing about her or her music before that night. Her set consisted of songs that were fun — such as “Payday,” a song that was about how she always ended up spending her paychecks on music and booze — and personal — her single, “Give Up the Ghost” was excellent and touching, about falling in love with someone who would never love her back. Her voice had a rough grittiness to it that made the lyrics sound like a rock n’ roll version of Taylor Swift’s pre-1989 music, and it could not have been a better fit for Lauren Jenkins to open for The Wild Feathers, an equally energetic and fun country rock band.

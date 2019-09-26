@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: /assets/unnamed-9-636x477.jpg
   alt: post lead image
 ---
-
 On Saturday, March 24, Boston-based duo Ronan and Montreal’s Men I Trust performed at Sonia for an unbalanced night of music.
 
 Opener Ronan, led by vocalist Craig Ronan and supported by drummer Abel, quickly proved they are still figuring out their sound. Emanating confidence, Ronan swaggered up to the stage and immediately began his upbeat, drum-heavy set. His vocals, though, lacked any range or passion. Songs fluctuated between rock to rap. At one point, he relied only on a vocal modulator and shallow lyrics that repeat, “_ring ring / let it go to voice messaging._” Some of his songs could not be heard well because the audience talked through it; there was a collective confusion as to why the band opened for such a soft, well-established band.
@@ -41,5 +40,3 @@ A lot of Men I Trust’s songs explore human relationships, leading the focus to
 The band treated the audience at the end of the show with an unreleased song, “I Hope to Be Around,” that held the same sound. This time, they played for themselves, rather than the audience. Emma and Dragos shared eye contact and laughs as they played, the audience drinking in every moment.
 
 As the four took a bow and invited people to the back to “get rid of merchandise,” it felt as if the show was more of a whisper hello than anything. But, for a group like Men I Trust_,_ that is precisely what they intended.
-
-_\-Allie Antonevich_

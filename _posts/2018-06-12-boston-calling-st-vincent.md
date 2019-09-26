@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Miranda Suarez
+  first_name: Miranda
+  last_name: Suarez
 image:
   src: /assets/fb_admat_sponsors-819x1024.jpg
   alt: post lead image
 ---
-
 St. Vincent’s Saturday night set at Boston Calling had the crowd hooked even when they weren’t quite sure what was going on.
 
 The music was great, that much was clear. Everything else took some thinking. An example: the drummer and keyboard player wore pantyhose over their heads and matching tan jumpsuits, topped off with blonde bowl-cut wigs. St. Vincent herself came on in a traffic cone-orange one-piece, carrying a bright orange electric guitar to match. She switched her guitar out for a new color almost every song, handing off the discarded instruments to a pantyhose-head in a black wig.
@@ -44,8 +43,6 @@ Remember the earlier comment about not being sure what was going on?
 “Huey Newton” brought the action live. The black-haired pantyhose-head in charge of switching out guitars came onstage and loomed behind St. Vincent with her neon yellow guitar. He circled her like a vulture, leaving the audience in suspense as the band played an ominous version of the song’s buzzy intro. He made a full lap before slowly, slowly strapping the guitar over her shoulders, her arms frozen in a bent-elbow robot pose.
 
 St. Vincent’s set was exhilarating and strange, as she surely planned. And that’s why it works. St. Vincent is the rare artist who knows exactly what she’s doing and what she wants her art to be. That confidence and singularity of vision can make any audience cheer for blue slime vomit.
-
-_\-Miranda Suarez_
 
 SET LIST
 

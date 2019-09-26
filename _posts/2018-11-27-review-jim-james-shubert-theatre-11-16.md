@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: David Taylor
+  first_name: David
+  last_name: Taylor
 image:
   src: /assets/30728606_2348177511875105_3879414255035875328_n.jpg
   alt: post lead image
 ---
-
-_By David Taylor_
-
 At the Shubert Theatre on Nov. 16, Jim James performed a show that left me confused. His concert was a solo gig, an acoustic set with most songs performed only by himself and his guitar, with the occasional accompaniment of a drummer who would walk out on stage, play one or two songs, then walk off again.
 
 James entered the stage barefoot, wearing a sleeveless vest and no shirt. He picked up his guitar, walked to the front of the stage, and took his place beneath the spotlight, where he stayed for most of the night. The set was largely undecorated and simple, his spotlight being so bright that we could see little beyond the boundary of where the light ended and the darkness filling the rest of the stage began. It fit the show well. It left the audience undistracted, parallelling the simplicity of the musician that it surrounded

@@ -22,7 +22,6 @@ image:
   src: /assets/IMG_0482.JPG-636x477.jpeg
   alt: post lead image
 ---
-
 In terms of indie icons, the line-up that hit the Sinclair Wednesday night was composed of complete and utter all stars.
 
 Let’s start with Cende. With two of the members being Cameron Wisch of Porches and Greg Rutkin of LVL UP, the band has quite a bit of an indie pop legacy. The set they played was filled with power chords and power pop. The sound was like a boyish Green Day—straightforward lyrics and straightforward music, ridden with poppy energy. That energy mixed with a guest appearance from Michelle Zauner (Japanese Breakfast) and Molly Germer (violinist touring with Alex G) during one of Cende’s songs fed into the sold-out crowd’s excitement for the next opening act.
@@ -44,5 +43,3 @@ Once the band finished their planned set, they asked for requests—not an uncom
 The evening was closed with “Brite Boy,” a song that features a female vocalist in an almost call and response pattern between her and Giannascoli. The spot was filled by Zauner, with Germer also making another appearance. It was a cohesive, all-encompassing, feel-good end to the night for the crowd, and Giannascoli seemed to agree.
 
 “We’ve heard some fucked up things about Boston on the road,” he had joked more than once. “But you guys seem pretty cool.”
-
-_\-Olivia Gehrke_

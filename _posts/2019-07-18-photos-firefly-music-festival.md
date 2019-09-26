@@ -25,16 +25,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Spencer Vilicic
+  first_name: Spencer
+  last_name: Vilicic
 image:
   src: http://sites.bu.edu/wtbu/files/2019/07/MG_1941.jpg
   alt: post lead image
 ---
-
-_By Spencer Vilicic_
-
 This year's edition of Firefly Music Festival took place from 21-23 June in Delaware. WTBU DJ Spencer Vilicic was in attendance; check out his photos below and read his review here.
 
 \[caption id="attachment\_5052" align="alignnone" width="683"\]![]({{ site.baseurl }}/assets/MG_1854-683x1024.jpg) _AJR by Spencer Vilicic_\[/caption\]

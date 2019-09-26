@@ -16,16 +16,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: http://sites.bu.edu/wtbu/files/2019/06/sameer-blue-red-landscape.jpg
   alt: post lead image
 ---
-
-_Photos by Monica Sucic_
-
 \[caption id="attachment\_4982" align="alignnone" width="918"\]![]({{ site.baseurl }}/assets/DSC1378-918x1024.jpg) _COIN by Monica Sucic_\[/caption\]
 
 ![]({{ site.baseurl }}/assets/DSC1228-1024x683.jpg) ![]({{ site.baseurl }}/assets/DSC1211-683x1024.jpg) ![]({{ site.baseurl }}/assets/DSC1103-1024x724.jpg)

@@ -16,9 +16,9 @@ meta:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Shari Hirsch
+  first_name: Shari
+  last_name: Hirsch
 ---
 Displayed on three rows of LED screens above the stage were the words: “Please Standby.” Switching to a video, the screens showed the group making their way to the stage with red Solo cups in hand. After one last chug, The National was ready to perform.
 
@@ -31,5 +31,3 @@ The most impressive element of their performance, however, was the band’s disp
 The National is currently on tour to promote their newest album, _Sleep Well Beast,_ which was released on Sept. 7, 2017. The 12 track album peaked at number two on the _Billboard_ 200. Following their performance in Boston, The National will be playing in New York City, followed by a night of music in Pittsburgh. Both of these shows will be accompanied by the opening band Daughter. The band already has a jam packed 2018, with plans to play in Oceania and South America. Dessner will also be curating prominent music festivals next year such as Boston Calling and Euax Claires. And, if you’re abroad, look to HAVEN in Copenhagen, curated by both Dessner brothers.
 
 There is one memory that will not be forgotten from last night: a quick miss of lyrics in the song “Turtleneck.” Berninger, adamant that his favorite verse be sung properly, stopped and restarted the band. The crowd wildly cheered at his decision. It was like the game Chutes and Ladders, Berninger said, because one lyric slipped down the chute and then the next verse dropped in too early. “Do you guys like Chutes and Ladders?” Beringer asked, “I fucking hate that game.” The show finished with Berninger chucking cups of beer into the audience and a reflective crowd slowly filing out.
-
-_\-Shari Hirsch_

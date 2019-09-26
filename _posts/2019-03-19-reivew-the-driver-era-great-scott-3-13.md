@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Maunika Reddy
+  first_name: Maunika
+  last_name: Reddy
 image:
   src: http://sites.bu.edu/wtbu/files/2019/03/image5.jpeg
   alt: post lead image
 ---
-
-_By Maunika Reddy_
-
 A half an hour passed since the opening band PUBLIC finished their set. The crowd was eager for The Driver Era to take the stage. Cheers flooded the venue from the back as the band appeared and headed for the stage.  
 
 The Driver Era is a musical duo composed of brothers Ross and Rocky Lynch. The two were previously apart of R5, which was their family band. They decided to take the next step in their musical career, leading to the creation of a new sound and new band.  

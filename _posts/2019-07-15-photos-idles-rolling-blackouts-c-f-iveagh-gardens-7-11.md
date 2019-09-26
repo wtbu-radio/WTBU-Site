@@ -13,16 +13,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: http://sites.bu.edu/wtbu/files/2019/07/DSC03842.jpg
   alt: post lead image
 ---
-
-_By Zoe Salvucci_
-
 Bristol punk band IDLES played their largest headline show to date on Thursday at Iveagh Gardens in Dublin, with support from local band the claque. and Melbourne's Rolling Blackouts Coastal Fever. Check out photos from RBCF and IDLES below.
 
 \[caption id="attachment\_5003" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/DSC03493-1024x683.jpg) _Rolling Blackouts Coastal Fever by Zoe Salvucci_\[/caption\]

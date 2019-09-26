@@ -17,16 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Ioanna Karageorge
+  first_name: Ioanna
+  last_name: Karageorge
 image:
   src: /assets/IAN-SWEET-3.jpg
   alt: post lead image
 ---
-
-_By Ioanna Karageorge_
-
 IAN SWEET returned to Boston this past Saturday to perform at Great Scott in Allston. In this dimly lit bar setting, bodies packed in close and swayed together for a cozy, three-act concert.
 
 The show began early at 6:30 p.m. on the dot with opening band Sean Henry. Lead singer Sean Henry Posila crooned his new album, _Fink_, into the microphone with his baby blue Fender Mustang. His voice is distinctly peculiar, delivering his lyrics in an almost whining tone–like a more angsty Sparklehorse. One might think that this tone would make his music sound insincere, but his relatable lyrical content on anxiety and existentialism felt like he is communicating things that have definitely crossed my mind and those of his fans. This performance was the first night of Sean Henry’s participation on the IAN SWEET _Crush Crusher_ tour.

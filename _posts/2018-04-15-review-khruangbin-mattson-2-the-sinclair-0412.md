@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Catherine Allemann
+  first_name: Catherine
+  last_name: Allemann
 image:
   src: /assets/unnamed-636x477.jpg
   alt: post lead image
 ---
-
 “Wait, how do you pronounce it?”
 
 “You know, I’m not really sure”
@@ -38,5 +37,3 @@ The first thing you notice when they get on stage is the hair. Mark Speer (guita
 They started strong with a track off their last album, _The Universe Smiles upon You_, called “Dern Kala.” It’s an upbeat song with a catchy guitar hook that got everyone dancing. The songs that followed off the new album included “August 10” and “Friday Morning.” Being an instrumentally focused band, especially when playing such mellow music, it can be hard to compete with the audience. Khruangbin suffered from this, at least from my position, by being nearly overwhelmed by some loud conversations going on in the crowd.  This was not for long as the band quickly got my attention back by riffing off beats from classic hip hop (think Dr. Dre’s “The Next Episode”) and transitioning into more songs off of their new album. Khruangbin found success in their ability to improvise and this was perfectly displayed in their performance of “Evan Finds the Third Room,” which is a super funky track heavily featuring Lee on bass and vocals. The band left the stage after a few more melancholy songs knowing that they’d be called back for an encore, which did not disappoint. “People Everywhere (Still Alive)” is their most popular and danceable song, not to mention my favorite, so coming on with an extended version was the perfect way to wrap up before leaving the audience with a “hit it and quit it” (a Khruangbin-via-James Brown tradition).
 
 Were there lulls? Yes. Did the highs make up for them and more? Yes. Did I almost buy a T shirt with the band members’ bang framed faces on it? You bet. And if you think you’d also like to see the production that is a Khruangbin concert you’re in luck; they’ll be back in Boston at Agganis Arena with Leon Bridges on Oct. 4.
-
-_\-Catherine Allemann_

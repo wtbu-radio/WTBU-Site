@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Skyler Vernon
+  first_name: Skyler
+  last_name: Vernon
 image:
   src: /assets/IMG_7999-636x424.jpg
   alt: post lead image
 ---
-
 On May 9, Jorja Smith, accompanied by Ama Lou, performed at Brighton Music Hall. 
 
 Hailing from London, Ama Lou opened up for Jorja Smith, setting up the night for soulful, authentic, R&B that we would also see form Jorja. Her tiny frame somehow holds a deep, raspy voice that, when paired with powerful beats, creates an overall feeling of nostalgia and hurt. Watching her, listeners could tell that she was giving nothing but her best. 
@@ -37,7 +36,5 @@ With slight smile, and a little giggle she didn’t waste too much time before b
 She played through “February 3rd,” “Tomorrow,” “Goodbyes,” “Lifeboats,” and “Don’t Watch Me Cry”–all songs from her upcoming debut album, _Lost & Found_, which will be released on June 8. The commonality between all of the new tunes was the honesty that each of them radiated. Despite the crowd not knowing the words, her voice kept everyone engaged. The performance was anything but boring. “Don’t Watch Me Cry” took place during the encore where it seemed as if the audience was holding their breath over her vocals, erupting into applause during the last chorus. Jorja Smith is the epitome of sincerity. 
 
 To close out the night she ended with “On My Mind,” her biggest single to date. The song, upbeat and easily danced to, led to laughter throughout the venue. The most playful we had seen her all night, Jorja broke into a few seconds of dance before finishing the song. After thanking her band and the audience multiple times, she left, leaving only the wonderfully curated energy by her and her band to resonate with the rest of the room. 
-
-_\-Skyler Vernon_
 
 \[gallery columns="2" link="file" size="large" ids="1643,1644,1645,1646"\]

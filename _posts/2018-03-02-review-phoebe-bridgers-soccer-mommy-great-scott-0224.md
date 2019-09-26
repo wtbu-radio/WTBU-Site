@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: William Bauman
+  first_name: William
+  last_name: Bauman
 image:
   src: /assets/0012275377_10-636x494.jpg
   alt: post lead image
 ---
-
 Bedroom pop returned to Allston on Feb. 24 when Soccer Mommy opened for Phoebe Bridgers at the Great Scott, six days prior to the release of their debut album _Clean_.
 
 Soccer Mommy began to receive buzz from several music publications, like _Stereogum_ and _Fader_, after a releasing a series of compilations on Bandcamp. The lead singer, Sophie Allison, is heavily influenced by female singers like Mitski and Jay Som. Allison is from Nashville, but went to school in New York and cites in an interview with _Billboard_ that she is impacted by the music from both of these cities.
@@ -40,5 +39,3 @@ The band was sure to play the three singles from their new album: “Cool,” �
 The band was followed by Phoebe Bridgers, a perfect accompaniment, since her band also has a Nashville country-folk influenced sound. Bridgers and her band created an empty space with their music, leaving her lyrics of heartbreak and loss unfiltered when delivered in such a hollow sonic atmosphere. The band played every song off their new album and Bridgers played some solo renditions of her older material.
 
 My only disappointment with Soccer Mommy was only being able to hear an eight-song set. Luckily my desires will be met when the band returns to the Great Scott on May 1, with more songs to play from their new album.
-
-_\-William Bauman_

@@ -22,8 +22,6 @@ image:
   src: /assets/IMG_9894-636x424.jpg
   alt: post lead image
 ---
-
-
 Chicago rockers NE-HI coasted through Boston last Friday to deliver a show of infectiously catchy indie rock bliss. With the Middle East’s new venue, Sonia, opening up the same night and a handful of stacked local shows, it was questionable on whether the NE-HI show would draw a dense crowd, but the Middle East Upstairs, though not sold out, was a packed house.
 
 The night was started off by local rock band Cove Sauce. The sound produced by the band’s three members was pleasantly scuzzy, evoking an angry slacker rock vibe (think the sound of bands signed to Exploding in Sound). It was deliciously heavy, and amped the crowd for the next local opener, Steep Leans.
@@ -41,5 +39,3 @@ In between songs, NE-HI engaged in some banter about sports and the city of Bost
 As NE-HI closed with “Stay Young,” the crowd was still waking up from their music-induced hypnosis. Once it hit that NE-HI was done though, they snapped out of it to loudly and passionately urge the band back on stage. The members of NE-HI all locked eyes as if to decide to come back for just one more, but by the briefness of the silent discussion, it was pretty clear that it was never even a question.
 
 NE-HI bounded back on stage for a tune they had only played one other time in the past year, according to Balla. The crowd relished every last second of the encore, consuming every note and ounce of energy the band produced, hoping it was enough until next time NE-HI rolled into town.
-
-_\-Olivia Gehrke_

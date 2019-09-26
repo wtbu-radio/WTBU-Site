@@ -18,18 +18,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: /assets/IMG_8893-1024x683.jpg
   alt: post lead image
 ---
-
-_By Danya Trommer_
-
-_Photos by Zoe Salvucci_
-
 Walking through Worcester, it was easy to tell who was there to attend Crankin’ and Skankin’ Fest on August 25. Checkerboard, Hawaiian shirts, and Jamaican flags painted the crowd that swarmed into the parking lot of the Worcester Palladium where the festival was held. Food trucks from the area dotted the parking lot, as well as a beer garden that served locally brewed drinks. Fans from all over the Northeast gathered to see the fest curated by Boston’s own Mighty Mighty Bosstones.  
 
 Boston’s Big D and the Kids Table had an incredibly energetic set, with lead singer David McWane commanding the audience’s attention with his exuberant performance.  A circle pit swirled around in the center of the crowd, full of fans belting the lyrics to hits such as “Shining Down” and “L.A.X.” At one point, trombone player Logan La Barbera stood up against the barricade and blasted notes into the crowd. Big D put on one of the best sets of the night, hyping up the crowd for the several other acts that were to follow.  

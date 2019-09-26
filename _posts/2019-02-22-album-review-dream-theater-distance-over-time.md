@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Ben Gorelick
+  first_name: Ben
+  last_name: Gorelick
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/24958690_10155976529925439_7669121237656517706_o.jpg
   alt: post lead image
 ---
-
-_By Ben Gorelick_
-
 Marking their fourteenth studio album, progressive metal giant Dream Theater’s _Distance over Time_ offers a return to form from their previous album _The Astonishing_ (2016). Being much heavier and not focused on a central concept or story lets this record feel more like one of their classic albums. If you were a fan of any of Dream Theater’s work from the late 90’s to the mid 2000’s, this is the album for you.
 
 The album starts off with its lead single, “Untethered Angel,” a track that depicts a person at their lowest point trying to start rehabilitating themselves. Just this track is heavier than anything from _The Astonishing_. It is clear from the first riff that Dream Theater is truly near their best on this record. The mix feels dark and cacophonous without drowning out the vocals or feeling too confusing, and the way the drums are mixed in feels much more reminiscent of when Mike Portnoy was in the band. The solo sections features the guitarist, John Petrucci and keyboardist, Jordan Rudess absolutely shredding over the chord changes before taking it into the final bridge and chorus and finishes off on a held chord.

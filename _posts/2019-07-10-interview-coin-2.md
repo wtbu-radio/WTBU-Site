@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: http://sites.bu.edu/wtbu/files/2019/07/pmexj1sffy3nnvigdjuc.jpeg
   alt: post lead image
 ---
-
-_By Monica Sucic_
-
 On June 21st, WTBU DJ Monica Sucic caught up with COIN at Rockland Trust Bank Pavilion. The Nashville quartet has grown an immense fanbase since the release of their self-titled album in 2015, and have spent the past few years on headlining tours in support of their sophomore album, _How Will You Know If You Never Try?. _Currently, they are preparing for the release of their third album and are on tour supporting Young the Giant and Fitz and the Tantrums. Sucic spoke with lead singer Chase Lawrence, guitarist Joe Memmel, and drummer Ryan Winnen about their latest single, their time in South Korea, and their plans for the rest of the summer. 
 
 **Monica Sucic:** How have the past two years on tour been? 

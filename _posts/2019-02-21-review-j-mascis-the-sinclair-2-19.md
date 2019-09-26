@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Jack Beck
+  first_name: Jack
+  last_name: Beck
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/jmascis_wide-55706f78ba0457d0236a89d94173964ee8970a49.jpg
   alt: post lead image
 ---
-
-_By Jack Beck_
-
 1.  Pizza (at its most basic, ideal, platonic level) consists of three components: tomato sauce, cheese, and bread. While there are other variations of pizza, an assortment of toppings and seasonings and different combinations which may not even include the three listed, the idea of a ‘pizza’ can be represented most directly by the combination of tomato sauce, cheese, and bread.
 
 2\. Pizza is greater than the sum of its parts.

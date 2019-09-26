@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Jack Beck
+  first_name: Jack
+  last_name: Beck
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/AcidMothersTemple-photo2018-e1524258021538.jpg
   alt: post lead image
 ---
-
-_By Jack Beck_
-
 Did you ever think how low the odds of all this happening are? Your parents had to meet and do all the things they did in the exact way they did them for you to be here. And their parents had to meet and do all the things they did in the exact way they did them for your parents to be here. Same for their parents, and their parent’s parents, and so on. Then you had to do all the things you did in the exact way you did them (and do all the things you do in the exact way you do them) and because of all those people doing all those things in their own special way, and also all of Acid Mothers Temple’s parents and grandparents and great-grandparents and so on doing all their own things in their own special way, you’re here, reading this review of Acid Mothers Temple at Great Scott last Thursday. Crazy.
 
 But first, the openers! Round one was a local band named Aura Mismo who were super cool. All of them wore blacks shirts (expect for the drummer who wore a purple shirt that was very dark and close to being black) but I don’t think it was coordinated, it seemed more like they just really like black shirts. Their music sounded like The Cure if The Cure played way faster. They seem like the type of people who like to wear black shirts. Also, all their music is pay-what-you-want on Bandcamp (which is awesome), so check them out!

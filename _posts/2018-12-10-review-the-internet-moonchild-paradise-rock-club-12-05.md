@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
+  display_name: Olivia Amitay
   first_name: Olivia
-  last_name: Gehrke
+  last_name: Amitay
 image:
   src: /assets/33923039_1669316196439219_570948715829788672_n.jpg
   alt: post lead image
 ---
-
-_By Olivia Amitay_
-
 On Dec. 5, the Internet performed at Paradise Rock Club on their _Hive Mind_ Tour, just under six months after the release of their fourth studio album. This alternative R&B group consists of Syd on main vocals, Matt Martians on keys, Patrick Paige II on bass, Steve Lacy on guitar, and Chris Smith on drums.
 
 It would be unfair to skip past the ethereal show that Moonchild put on as the Internet’s opening act. Moonchild, formed at the University of Southern California, is made up of Amber Narvan, Max Byrk, and Andris Mattson. Narvan served as lead vocals, while Byrk and Mattson dominated the keys. Narvan’s flowing, fiery red, two-piece jumpsuit was a visual representation of Moonchild’s energy: vibrant, warm, and refreshing. While it seemed that the crowd was not familiar with most of the group’s songs, this was not an obstacle in stimulating excitement within the venue. One of Moonchild’s tools in setting themselves apart from other forgettable opening acts was their mastery of various instruments. The trance placed by Narvan’s wistful voice was shattered as she and Mattson erupted in a delightful saxophone duet. If this wasn't enough to blow the crowd away, Moonchild had a couple more tricks up their sleeves, including a barrage of flute, trumpet, and clarinet solos.  

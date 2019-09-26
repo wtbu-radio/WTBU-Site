@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Caroline Barry
+  first_name: Caroline
+  last_name: Barry
 image:
   src: /assets/unnamed-3-636x424.jpg
   alt: post lead image
 ---
-
 On Monday, May 8 I had the pleasure of attending the final night of Rostam Batmanglij’s first solo tour. The musician was a long-time member of Vampire Weekend, but publicly announced his departure in January of 2016. Batmanglij has since been working toward producing his first solo album, which he plans to release late this summer.
 
 Even if you’re not a die-hard Vampire Weekend fan like I am, you’ve definitely heard Rostam’s talents throughout his many projects over his ten-year career: Batmanglij released an album as side project Discovery with Ra Ra Riot’s lead Wes Miles in 2009, and later held producer and vocal credits on Ra Ra Riot’s single 2015 “Water”; he composed the score for Netflix’s _The OA_ (which his brother, Zal created and directs); he produced songs for Charlie XCX, Solange, Francis and the Lights, Carly Rae Jepsen, and Frank Ocean; he was recently featured on RAC’s pop track “This Song”; and he collaborated with Hamilton Leithauser (of The Walkmen) for their debut album, _I Had A Dream That You Were Mine._
@@ -36,5 +35,3 @@ The song I was highly anticipating was “Gwan,” the most recently released si
 Of course, Batmanglij can’t leave his Vampire Weekend roots behind: he sang “Young Lion” off of the most recent VW album, _Modern Vampires of the City_. While Rostam’s serene voice has complemented lead Ezra Koenig’s more nasal-y voice throughout the three albums, “Young Lion” is the only Vampire Weekend track to feature only Rostam. To the audience’s surprise, the song had never been performed live by the band; “Young Lion” has only been heard by attendees of Rostam’s tour
 
 After the show, we exchanged some words with the big man himself. If you haven’t given this wildly accomplished artist a listen, get familiar before his solo album arrives later this year.
-
-_\-Caroline Barry_

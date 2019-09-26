@@ -11,18 +11,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Madeleine Salman
+  first_name: Madeleine
+  last_name: Salman
 image:
   src: http://sites.bu.edu/wtbu/files/2019/05/P1040087.jpg
   alt: post lead image
 ---
-
-_By Dariush Sosnowski_
-
-_Photos by Madeleine Salman_
-
 The Kali & Jorja Tour made its third stop on Wednesday night in Boston. The seventeen-show, five-week tour will span North America. Both artists are coming off massive success in 2018 due to their respective debut albums. Jorja Smith released _Lost & Found_ last June, which earned her the Brit Award for best British Female Solo Artist. Kali Uchis released _Isolation_ last April, an album which featured on many end of the year top 50 lists. The neo-soul female duo enthralled fans with a performance that balanced power with elegance.
 
 Elevated on individual platforms, Jorja Smith was accompanied by a four-piece band. She emerged from the shadows sporting a beautiful yellow silk dress with green corset. Smith skipped the formalities and jumped straight into the head bobbing “Teenage Fantasy” to open her set. She was strong yet graceful, and transitioned from soft low notes to sharp high notes masterfully. Under a low purple light, she slowly walked the stage with her head held high observing her audience. The use of lighting during her set was very well done and created vivid shadows mixed with rich colors.

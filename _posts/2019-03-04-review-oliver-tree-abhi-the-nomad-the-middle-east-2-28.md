@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Aathil Chaturvedi
+  first_name: Aathil
+  last_name: Chaturvedi
 image:
   src: http://sites.bu.edu/wtbu/files/2019/03/OliverTree_WMSDesktopbanner.jpg
   alt: post lead image
 ---
-
-_By Aathil Chaturvedi_
-
 Crammed in the back of a sweaty bar in Allston is far from the ideal way to spend your Thursday night, but Abhi the Nomad and Oliver Tree’s performance at the Great Scott was far from a disappointment.
 
 After seeing Abhi the Nomad’s sold out show at the Middle East in Cambridge this past October, I was curious to see how he would fare as an opening act. The Tommy Boy Music rapper nervously walked onto the stage and promptly thanked the audience for arriving early to watch him perform (apparently few did this for his openers during his headlining tour). He addressed the elephant in the room within his first few words, proudly claiming his status as an Indian rapper. The audience took kindly to this, and soon after Abhi began performing they were bobbing along to his groovy melodies and smooth production.

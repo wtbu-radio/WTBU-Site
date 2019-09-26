@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/image.jpg
   alt: post lead image
 ---
-
-_By Allie Antonevich_
-
 At SXSW, WTBU DJ Allie Antonevich interviewed Barrie, a Brooklyn-based band, at Historic Scoot Inn during the B+Q BBQ Day Party. Just coming off their tour with Miya Folick, their debut LP, “Happy To Be Here,” is out May 3rd.
 
 **Allie Antonevich: How did you guys all come together and when?**

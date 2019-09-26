@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Daniella Weiss
+  first_name: Daniella
+  last_name: Weiss
 image:
   src: /assets/unnamed-1-636x476.jpg
   alt: post lead image
 ---
-
 It’s been a big year for a certain alt-pop three-piece from Los Angeles. As their fourth year of being a band is underway, LANY released their debut, self-titled album and has spent 2017 touring in support of their emerging music. LANY—which stands for Los Angeles New York—is made up of three talented young artists by the names of Paul Klein, Jake Goss, and Les Priest.
 
 On a Wednesday fall night in October, the trio took over the House of Blues in Boston for another energetic show on their current headlining run. This stretch of shows, presented by Ones To Watch and dubbed THE LANY TOUR PART 2, took off on Sept. 25 in New Orleans and extends through Nov. 12 with a last show in Canada.
@@ -40,5 +39,3 @@ Among the remainder of the set, there was a retro atmosphere thrown into the mix
 The night culminated with a three-song encore including the synth-fueled hit, “Super Far,” during which all one could hear was the crowd screaming, “If this is love, I don’t want it,” louder than the band. Ending the night with their most well-known hit, LANY jumped right into “ILYSB” leading an enthusiastic, dancing crowd.
 
 The LANY trio made this show entirely their own from start to finish, taking the audience away to a removed, musical atmosphere that music is intended to create. It’s clear that LANY’s fan base is going to continue to evolve exponentially from here; it’s only upwards for this promising group.
-
-_\-Daniella Weiss_

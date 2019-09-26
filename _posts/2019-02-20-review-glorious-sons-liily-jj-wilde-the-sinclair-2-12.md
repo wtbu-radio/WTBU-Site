@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Alyssa Lai
+  first_name: Alyssa
+  last_name: Lai
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/The-Glorious-Sons-press-by-Samantha-Falco-2019-billboard-1548.jpg
   alt: post lead image
 ---
-
-_By Alyssa Lai_
-
 The Sinclair is a venue most well-known for the indie musicians and not so much up and coming rock bands with songs topping the US Billboard charts. However, the Glorious Sons put on a show that did not disappoint, especially paired with the intense energy of the opening acts and the crowd.
 
 The entire show was bundled up with excitement and anticipation in both performer and audience alike. The Glorious Sons performed with two opening acts, Liily, a new LA band on their very first tour, and JJ Wilde, an aspiring singer with her very first single just released on Spotify. Both artists delivered a performance that resonated with the audience, despite the small crowd. JJ Wilde's performance of her new single _Wired_ displayed her passion for her music and was an excellent way to close out her act and set the stage for Liily. This show was their first tour and their first performance outside of California. Now knowing this only added to the excitement radiating from the band as they performed songs from their first album, _Toro_. The presence of the five 19-year olds on their very first tour brought out a sense of “crazy maniac intensity” as well as a new sense of almost child-like wonder and excitement that set the tone for the Glorious Sons’ act.

@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Ioanna Karageorge
+  first_name: Ioanna
+  last_name: Karageorge
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/IMG_9450.jpg
   alt: post lead image
 ---
-
-_Photos by Ioanna Karageorge_
-
 Boston was graced with a two-hour performance from English space-rock band Spiritualized this Sunday 4/14 at The Wilbur Theatre. With no opening band, the multi-membered rock ensemble glided through a number of entrancing atmospheric pieces to more full-bodied danceable tunes during their set. Playing music from both their earlier records and their newest album release from 2018, "And Nothing Hurt," Spiritualized moved their audience with a powerful display of musical expertise and sentimental emotion.
 
 \[caption id="attachment\_4397" align="alignnone" width="683"\]![]({{ site.baseurl }}/assets/IMG_9247-683x1024.jpg) _Spiritualized by Ioanna Karageorge_\[/caption\]

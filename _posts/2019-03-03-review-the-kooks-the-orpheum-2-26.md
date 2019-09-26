@@ -10,18 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Kate Evans
+  first_name: Kate
+  last_name: Evans
 image:
   src: http://sites.bu.edu/wtbu/files/2019/03/IMG_4869.jpg
   alt: post lead image
 ---
-
-_By Julie Montana_
-
-_Photos by Kate Evans_
-
 A fur trimmed orange coat draped over the shoulders of an elegant, wise woman. Black and white striped sleeves under a just-purchased pastel pink band tee paired with scrunchies and beat-up Chucks. A tweed newsboy cap perched atop a balding head. All ages, all races, all types of people were gathered under the roof of the Orpheum Theatre on Tuesday the 26th, ready to take a trip through the timeless, alt-rock sound of The Kooks.
 
 And the band did not disappoint.

@@ -15,14 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Leonora Telford
+  first_name: Leonora
+  last_name: Telford
 image:
   src: /assets/Cults-636x403.jpg
   alt: post lead image
 ---
-
 New York City indie pop darlings Cults paid a visit to Brighton Music Hall as part of a tour promoting their new album _Offering_, which was released on Oct. 6. Though in the studio the band consists of singer Madeline Follin and guitarist/keyboardist Brian Oblivion, on stage they were joined by guitarist Gabriel Rodriguez, bassist Max Kamins, and drummer Cory Stier.
 
 Rodriguez’s other band, Hideout, set the stage as the first opener. Without the connection to the headliner, they would have seemed a strange choice to open for Cults, as their grungy, driving rock tracks contrasted with Cults’ lighter, poppier sound. The room was nearly empty during their set, but that didn’t stop them from jamming out for a solid, tight few songs.
@@ -38,5 +37,3 @@ The definite highlight of the show came when an audience member yelled a request
 Besides Follin forgetting a few of the words, they performed the song as flawlessly as if they had been playing it all tour, much to the delight of both the band members and the audience. They closed with their self-titled album’s “You Know What I Mean,” a crooning, ‘50s-style ballad, before exiting the stage for the first time. Follin opened the curtains of the green room overlooking the stage and smiled at the crowd, who was clapping and cheering for an encore. After a couple of minutes, the band came back to play _Static_’s “Keep Your Head Up.” Follin explained to the audience, “I know it always sounds fake when we say it, but this is one of the best Boston sets we’ve ever played. I mean, we changed the setlist!” The band then launched into their final number, breakout single “Go Outside,” which is by far their most popular song and has been featured in numerous commercials and TV shows. They said some last “thank-you’s” to the crowd before leaving the stage.
 
 Overall, Cults put on a great concert with lots of energy and charisma, and hopefully _Offering_ will get the attention it deserves thanks to this run of shows.
-
-_\-Leonora Telford_

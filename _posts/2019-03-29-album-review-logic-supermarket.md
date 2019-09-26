@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 image:
   src: http://sites.bu.edu/wtbu/files/2019/03/XBLS_1127_HERO-hero.jpg
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
 Attention everyone, there is a goldmine on aisle five, and that goldmine is Logic’s fifth studio album, _Supermarket_.
 
 In tandem with his book release of the same title, the rapper and hip hop artist, Logic, has effectively refreshed his style, trading in his 808s and signature flow for a guitar and a rawness never before heard in his music.

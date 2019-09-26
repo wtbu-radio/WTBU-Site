@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Isabela Rocha
+  first_name: Isabela
+  last_name: Rocha
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/87-og.jpeg
   alt: post lead image
 ---
-
-_By Isabela Rocha_
-
 On April 17th, the Los Angeles band Kolars played Upstairs at the Middle East Club. Their show was opened by the charismatic Calliope Musicals.
 
 In a trippy, shinny stage, the Calliope Musicals opened the Wednesday night with a lot of energy and joy. Their creative music, combines a very upbeat kind of rock with special sounds – such as xylophone notes, sweet keyboard sounds, and outer space sound effects — creating a very fun and playful vibe.

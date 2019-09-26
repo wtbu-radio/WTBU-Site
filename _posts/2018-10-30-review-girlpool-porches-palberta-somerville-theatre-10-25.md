@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Jack Beck
+  first_name: Jack
+  last_name: Beck
 image:
   src: /assets/43509449_1740453742748385_6238623439788179456_n.jpg
   alt: post lead image
 ---
-
-_By Jack Beck_
-
 I’m trying to get through all of the tragedies Shakespeare wrote before the end of the semester and right now I’m on _Titus Andronicus_, one of his first plays. It’s known for having by far the highest body count of any of his works, the play’s traditional Shakespearean scenes in the ancient Roman court offset by graphic depictions of bloody murders, cut-off limbs, and brutal decapitations.
 
 And while that might seem completely unrelated to anything you’d find on WTBU’s website, the mix of ornate Roman glory with obscene violence actually comes pretty close to describing the experience of seeing a rock concert at the Somerville Theatre, where Palberta, Porches, and Girlpool performed Oct. 25.

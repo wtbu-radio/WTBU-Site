@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Jarrad Levy
+  first_name: Jarrad
+  last_name: Levy
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/bring-me-the-horizon-press-2015-770x470.jpg
   alt: post lead image
 ---
-
-_By Jarrad Levy_
-
 Bring Me the Horizon has such a variety of music in their catalogue that is all masterful and passionate in its own way. Whether it be hardcore, metal, rock, or pop - it is all done with a vigor and passion usually unseen in a band that does performs only one of those genres. This presence was not lost in the band’s on-stage performance.
 
 The moment lead singer Oliver Sykes hit the stage for the moody and atmospheric “i apologize if you feel something,” he owned the stage. His stage presence is difficult to describe, but it was almost like a muted swagger. He knew he had the attention of every fan in the arena, but he did not act overconfident or flashy. Instead, he simply walked to the edge of the stage, reaching out to the crowd: begging them to feel his heart.

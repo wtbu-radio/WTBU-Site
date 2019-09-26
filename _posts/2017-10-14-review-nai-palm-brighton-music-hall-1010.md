@@ -13,14 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Meredith Aebi
+  first_name: Meredith
+  last_name: Aebi
 image:
   src: /assets/unnamed-1-1-636x516.jpg
   alt: post lead image
 ---
-
 Brighton Music Hall is known for its intimate atmosphere, as it’s a small venue with two bars, a downstairs area and a floor that your shoes seem to mysteriously stick to. But probably the most intimate part of it is its stage—concertgoers crowd around it on their feet and are able to (if in the front) stand nearly feet away from the performer. The stage is raised, so there’s almost a feeling of the performer being worshipped. In some cases, some might say they truly are worshipping them if the artist is a favorite of theirs.
 
 I’d been to Brighton Music Hall only once before for a show, but my experience this second time was incredibly different. This time, the venue was packed, with audience members straining against each other and craning their necks to get a glimpse of the performer on stage, who by all accounts, comes pretty damn close to being the real deal of a goddess. So who could argue with the idea that she’s someone worth worshipping?
@@ -44,5 +43,3 @@ This can only lead me to one conclusion: her music is absolutely a testament to 
 As mentioned earlier, _Needle Paw_ arrives on October 20th, but on Spotify you can listen to two songs from her upcoming solo debut now.
 
 I highly recommend that you do.
-
-_\-Meredith Aebi_

@@ -16,16 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Christian Jaeger
+  first_name: Christian
+  last_name: Jaeger
 image:
   src: /assets/30727573_10155941639072199_8497841738640914153_n.png
   alt: post lead image
 ---
-
-_By Christian Jaeger_
-
 Indie pop singer-songwriter Lykke Li performed a sold-out show of her _So Sad So Sexy_ world tour at the Paradise Rock Club on Sunday, October 7.
 
 The Swedish artist–though her music is primarily in English–has a sound as unique as her stage presence. If one could describe Lykke Li’s style in a few words, it would be something like the title of her latest record, _So Sad So Sexy_.

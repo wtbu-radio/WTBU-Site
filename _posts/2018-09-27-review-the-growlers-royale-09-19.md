@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: David Taylor
+  first_name: David
+  last_name: Taylor
 image:
   src: /assets/35629233_10155432567910079_4122780493735264256_n.jpg
   alt: post lead image
 ---
-
-_By David Taylor_
-
 Hailing from Dana Point, California, the Growlers have reinvented their sound over their last two albums. The simplistic (lovable) beachy jangle heard in everything before _Chinese Fountain_ has transformed into synthy, beat-driven melodies led by the ever-raspier lead-singer Brooks Nielsen and music director/guitarist Matt Taylor. Just releasing their _Casual Acquaintances_ album last July, the Growlers have set off on their Beach Goth 2018 tour, carrying the post-modern psychedelic energy of their annual ‘SoCal’ festival across the country–as well as a couple lucky European cities.
 
 Getting past the peculiar (to say the least) set with painted flames and the Dia de los Muertos Virgin Mary tucked in the corner, the Growlers “costumes” were more than enough to keep the eyes occupied. All six members of the band were dressed in jumpsuits with hand painted eight-pointed stars and inverted crosses. The black light glow reflecting off the white jumpsuits gave the illusion of ghostly-ghouls performing rather than people, especially during the lyrically eerie songs like “Empty Bones” and “Graveyards Full.” And while discussing appearances, it would be a disservice to neglect describing Brooks. For those who don’t know, the man looks like the love child of Jim Morrison and Edward Scissorhands. His comfortably awkward dancing, slicked back hair, and ‘70s pornstar sideburns truly make him one of the coolest–if not _the_ coolest–front men touring today.

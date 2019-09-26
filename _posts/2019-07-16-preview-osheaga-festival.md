@@ -17,16 +17,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: http://sites.bu.edu/wtbu/files/2019/07/Osheaga-2019-Lineup-Announcement-Feature-Banner.png
   alt: post lead image
 ---
-
-_By Allie Antonevich_
-
 In a little under 3 weeks, 135,000 people will gather at Parc Jean-Drapeau on Montreal’s Saint Helen’s Island for the 14th annual OSHEAGA Music and Arts Festival. The popular Canadian event spans across three days from August 2-4, combining rising musical acts with visual installations and interactive activities.
 
 OSHEAGA’s coordinators see the event as an opportunity to merge “the discovery of local and national emerging talent, offering them the opportunity to play alongside some of the biggest international artists in the business,” and provides lineups over the three days for attendees to take advantage all that the festival has to offer.

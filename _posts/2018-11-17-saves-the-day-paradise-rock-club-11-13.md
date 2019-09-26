@@ -15,16 +15,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Ali Audet
+  first_name: Ali
+  last_name: Audet
 image:
   src: /assets/39079247_10156565552807103_6653620273897537536_n.jpg
   alt: post lead image
 ---
-
-_By Ali Audet_
-
 Saves the Day is embarking on a cross-country tour, hot on the heels of the release of their latest album, _9_. The album is a reflection on where Saves the Day has been, as well as the progress lead singer and songwriter Chris Conley has made since the release of their first record. In this regard, _9_ is an album that references back to older material while still bringing a fresh take on Saves the Day. Conley even remarked to Billboard that it’s “really enjoyable” to be able to bring older motifs and lyrics back to new music. Bringing this music to the live stage, then, harkens back to the energy of classic Saves the Day without losing their modern edge.
 
 It was clear that the centerpiece of the night was _9_. The stage backdrop was a full-sized banner of the album cover, and five songs from the setlist were from _9_, more than any other album featured. However, there wasn’t a complete departure from previous material. The band opened with “At Your Funeral,” the lead single from their 2001 album _Stay What You Are_. Starting out with an older song rather than one from _9_ really set the tone for the night. Not only was it a celebration of the release of a new album, but a celebration of where Saves the Day has come from. Considering that _Stay What You Are_ is their highest selling album to date, it makes sense to start with a song from the album.

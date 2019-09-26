@@ -13,16 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Kate Gilberd
+  first_name: Kate
+  last_name: Gilberd
 image:
   src: /assets/39674606_723455701379941_4863327731393232896_n.jpg
   alt: post lead image
 ---
-
-_By Kate Gilberd_
-
 The folk rock stylings of the supergroup Boygenius, made up of headliner Julien Baker with Phoebe Bridgers and Lucy Dacus, captivated the crowd at Boston’s Orpheum Theatre on Thursday.
 
 Each artist first performed on her own. Dacus started the show right on time with a 30-minute set, beginning with an unreleased song that featured only Dacus and her guitar without the rest of her band. The stripped-down version fit perfectly in the context of Bridgers’s and Baker’s powerful ballads, soon to come. From then on, Dacus and her band played several other songs from her new release _Historian_ and an old favorite from her first album, filling in the gaps with easy quips to the crowd. During her closing song, “Night Shift,” her soaring, confrontational vocals and shredded guitar tone left the stage humming with energy heading into the next act.

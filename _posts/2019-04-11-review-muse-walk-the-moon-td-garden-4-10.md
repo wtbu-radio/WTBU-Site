@@ -11,18 +11,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/DSC03395.jpg
   alt: post lead image
 ---
-
-_By Grant Hillyer_
-
-_Photos by Zoe Salvucci_
-
 Opening what would be a packed show at TD Garden on Wednesday, April 10, was Walk the Moon and their high energy set that went straight into their hits. The band consists of Nicholas Petricca, Kevin Ray, Sean Waugaman, Eli Maiman and they got right into their live show after walking out to Elton John’s “Circle of Life.” The setlist contained a variety of songs from each of their albums, including their classic “Anna Sun” and hits “Kamikaze” and “Shut Up and Dance.” Lead singer Nicholas Petricca mentioned multiple times how excited he was to be opening for Muse, claiming he and his bandmates often went to Muse shows when they were younger. The band walked off to Led Zeppelin’s “Kashmir” and it wasn’t long before Muse came out after them.
 
 Touring their new album _Simulation Theory_, Muse went all out on creating a retro feel to the show. There were lots of neon colored clothes donned by the band and their extras, as well as large neon batons that the dancers wielded as the band played. The extras at times dressed in military uniforms with comically large helmets and guns which shot foam into the air, and at other times backed the band on the trombone or even came down from the ceiling behind the band.

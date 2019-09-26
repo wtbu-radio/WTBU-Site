@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Catherine Massie
+  first_name: Catherine
+  last_name: Massie
 image:
   src: http://sites.bu.edu/wtbu/files/2019/02/DSCF5813.jpg
   alt: post lead image
 ---
-
-_Photos by Catherine Massie_
-
 \[caption id="attachment\_3731" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/ripe-7-1024x683.jpg) _Ripe by Catherine Massie_\[/caption\]
 
 ![]({{ site.baseurl }}/assets/ripe-6-1024x683.jpg) ![]({{ site.baseurl }}/assets/ripe-5-1024x683.jpg) ![]({{ site.baseurl }}/assets/ripe-4-683x1024.jpg) ![]({{ site.baseurl }}/assets/ripe-3-1024x683.jpg) ![]({{ site.baseurl }}/assets/ripe-2-1024x683.jpg) ![]({{ site.baseurl }}/assets/ripe-1-1024x683.jpg)

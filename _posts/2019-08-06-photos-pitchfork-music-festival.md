@@ -29,16 +29,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Monica Sucic
+  first_name: Monica
+  last_name: Sucic
 image:
   src: http://sites.bu.edu/wtbu/files/2019/08/SM-1.jpg
   alt: post lead image
 ---
-
-_Photos by Monica Sucic_
-
 \[caption id="attachment\_5169" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/DSC0005-1024x684.jpg) _Lala Lala by Monica Sucic_\[/caption\]
 
 \[caption id="attachment\_5171" align="alignnone" width="683"\]![]({{ site.baseurl }}/assets/DSC0033-2-683x1024.jpg) _Lala Lala by Monica Sucic_\[/caption\]

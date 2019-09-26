@@ -13,16 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Brittany Moura
+  first_name: Brittany
+  last_name: Moura
 image:
   src: /assets/0011812525_10-1024x683.jpg
   alt: post lead image
 ---
-
-_By Brittany Moura_
-
 South London darlings, Shame, have conquered the hearts of music publications around the globe, a band with so much hype, with members aged just 21. Their debut album, _Songs of Praise_, was released to triumphant reviews and a promising start to a, hopefully, lengthy music career. Their second visit to the Boston area attracted a passionate, eclectic, and appreciative crowd including everyone from superfans to intrigued music blog followers.
 
 Frontman Charlie Steen was the commander of the ship, with his moves reminiscent of Iggy Pop’s in his early Stooges days. The opening song, “Dust on Trial,” immediately raptured the audience. It’s a tune that progresses into a wall of sound, impossible not to jump along to. This vibe and energy continued with the songs “Concrete” and “One Rizla,” some of their most talked about works. The guitar sounds shine strongly, thanks to Sean Coyle-Smith and Eddie Green, whose varying tones balance well against each other, especially on the track “Tasteless,” which was arguably the best performance of the night.

@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Christian Jaeger
+  first_name: Christian
+  last_name: Jaeger
 image:
   src: http://sites.bu.edu/wtbu/files/2019/04/Charlotte-Gainsbourg-Press-Photo-1-770x470.jpg
   alt: post lead image
 ---
-
-_By Christian Jaeger_
-
 British-French singer Charlotte Gainsbourg brought her bizarre, original sounds and pop-rock style to Boston’s Royale Sunday, April 7.
 
 Gainsbourg, the 47-year-old actress and musician, released her fifth studio album, _Rest_, in 2017. Capturing anger, sadness, and mourning in a record, she portrays the death of her sister, Kate, and father, Serge. On _Rest_, she further explores her unique style, blending electro-pop, rock, and soft, whisper-like storytelling over heavy, psychedelic beats.

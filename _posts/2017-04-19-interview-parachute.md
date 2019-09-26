@@ -13,15 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Daniella Weiss
+  first_name: Daniella
+  last_name: Weiss
 image:
   src: /assets/IMG_5384-636x424.jpg
   alt: post lead image
 ---
-
-
 Originally from Charlottesville, Va., American pop rock band Parachute has come a long way in the last decade since the band formed in 2006. A year after releasing their fourth studio album in March of 2016, the band has embarked on a new headlining run, deemed The Getaway Tour, for April of 2017. Keyboardist and sax player Kit French talked with WTBU Radio DJ Daniella Weiss about the band’s new tour and their latest album, _Wide Awake_.
 
 After touring for most of 2016 post-release of the new album, the band’s next endeavor—a month-long headlining tour—is well underway. When asked how the tour’s name came to be, French referenced the track “Getaway” on the _Wide Awake_ album.
@@ -51,5 +49,3 @@ French remarked that the whole process of bands learning from each other is a gi
 “He is the absolute best. We have always wanted him to come out on tour with us,” said French. “He was the only support in our heads that we wanted to try and get. And we finally got him. It’s a perfect match. He’s a great guy and his talent is undeniable.”
 
 As for what’s to come after the band finishes The Getaway Tour in Nashville, French added that they have a lineup of projects to attend to immediately upon getting off the road. For now, Parachute takes the stage at The Sinclair in Cambridge on April 17.
-
-_\-Daniella Weiss_

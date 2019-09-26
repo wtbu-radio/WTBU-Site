@@ -14,14 +14,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Zoe Salvucci
+  first_name: Zoe
+  last_name: Salvucci
 image:
   src: /assets/19149139_2939606659395532_7633905823239041005_n-636x242.png
   alt: post lead image
 ---
-
 Hailing from Cavan, Ireland, mod/blues revival band the Strypes played Brighton Music Hall on Wednesday, their first time in Boston since 2014. They are touring their third studio album _Spitting Image_ (2017), as well as later EP _Almost True_ (2017).
 
 Given their reputation as an energetic live act, The Strypes did not disappoint. The band members’ ages are only 20 to 22, singer Ross Farrelly being the youngest, which adds a youthful charm to their performances and an energy older bands strain to achieve.
@@ -37,5 +36,3 @@ The band then slowed it down for the blues song “Angel Eyes,” which had not 
 Following “Behind Closed Doors” and later single “Great Expectations,” the band then took it back to _Snapshot_ (“_Now_ it’s time for those fast songs!”), bringing up the crowd’s energy with “Mystery Man” and “What A Shame,” a single which the band played on Letterman during their first American tour in 2014. “Still Gonna Drive You Home,” a highly interactive song with a very Western feel, and crowd favorite “Scumbag City” finished off the set before the band walked off stage with a wave.
 
 Minutes later they returned, somehow even more energized, with Nick Lowe cover “Heart of the City,” followed by another electric solo by Walsh. O’Hanlon and McClorey step to the side to give the audience a full view of Walsh, while Farrelly sits down in front of the drum set, laughing and shaking his head at their drummer’s sheer talent. Walsh then transitions into the irresistibly catchy blues song that made their careers, “Blue Collar Jane.” The show ended at a mere 10 p.m., but a good portion of the crowd stayed far longer to meet the band afterward. I spoke with each member about the show, the tour, and the album, and despite their success and talent at such a young age each member is extremely humble, and more than willing to enter into a full conversation, giving each fan individualized attention. Listeners should expect new music by 2019, as Walsh said they will not be making the festival circuit this summer in favor of writing the next album.
-
-_\-Zoe Salvucci_

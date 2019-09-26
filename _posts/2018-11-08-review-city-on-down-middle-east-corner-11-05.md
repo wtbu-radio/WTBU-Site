@@ -13,16 +13,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Allie Antonevich
+  first_name: Allie
+  last_name: Antonevich
 image:
   src: /assets/0.jpeg
   alt: post lead image
 ---
-
-_By Allie Antonevich_
-
 On Monday, Nov. 5, South Carolina-based band City On Down performed at the Middle East Corner/Bakery. Unassuming in appearance and explosive in sound, the four-man group arrived ready to perform.
 
 The alternative rock/synth pop band hails from Charleston, and is fairly new to the music scene. The band was founded in 2016 and is comprised of Greg Keys (last name is aptly appropriate, as he is lead vocals and piano), Ian Giancursio (drums/back-up vocals), Robert Corrigan (bass), and Alden Sayre (lead guitar). City On Down, as explained to the audience by Keys, is not trying to be ordinary. They want their music to blend original instrumentation with electronic sounds, and their creations seem to be their lifeline.

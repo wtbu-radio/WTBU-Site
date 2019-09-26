@@ -10,16 +10,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Isabel Contreras
+  first_name: Isabel
+  last_name: Contreras
 image:
   src: http://sites.bu.edu/wtbu/files/2019/06/Monsieur-Periné-1024x683.jpg
   alt: post lead image
 ---
-
-_By Isabel Contreras_
-
 Monsieur Perine’s June 5th performance at the Paradise Rock Club fearlessly embodied the band’s spirit, showing true authenticity towards their sound.
 
 The Colombian group never took itself too seriously onstage.  They were one with the crowd, and created an immediate relationship with spectators, aided by the small and personal space the venue provided.  This relationship was not one of unattainable idealization or reverence, but one of intimacy and complicity. Everyone sang the same lyrics, and danced to the same beat; exactly who was holding the microphone was not too important.

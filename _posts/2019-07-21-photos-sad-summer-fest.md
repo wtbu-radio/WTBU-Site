@@ -16,16 +16,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Maggie Leone
+  first_name: Maggie
+  last_name: Leone
 image:
   src: http://sites.bu.edu/wtbu/files/2019/07/SadSummerFest2019-44.jpg
   alt: post lead image
 ---
-
-_By Maggie Leone_
-
 When you think of summer, the word “sad” most likely is not one of the first adjectives that comes to mind.  But for a generation that grew up on Warped Tour, the new Sad Summer Festival is the perfect remedy for a Warped-less summer.  While the name seems dreary, the atmosphere could not be any more opposite.  Bubblegum pink signage and inflatable pool toys surround the concert grounds, making for an interesting environment for pop-punk enthusiasts to thrive.  On the hottest day of the year in Pittsburgh, concert-goers relished the experience, hydrating as much as possible and finding pockets of shade, but moshing nonetheless.
 
 Jetty Bones, Just Friends, Stand Atlantic, and Mom Jeans set the tone for The Wonder Years, The Maine, Mayday Parade and State Champs.  (All in all, it’s a killer line-up).  By the time the headliners take the stage, the crowd couldn’t be more amped up and raring to go.  The Maine’s “summer of pink” outfits pair nicely with the décor of the festival itself, as does Mayday Parade’s subtle tie-dye.  While each band brings something different to the event, they all come together to create just what emo kids need in a post-Warped world, while explicitly stressing the importance of loving one another.

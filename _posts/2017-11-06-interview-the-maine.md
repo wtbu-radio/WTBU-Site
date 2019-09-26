@@ -16,14 +16,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Daniella Weiss
+  first_name: Daniella
+  last_name: Weiss
 image:
   src: /assets/static1.squarespace-587x636.png
   alt: post lead image
 ---
-
 Recently reaching the ten-year mark as a band, rock group The Maine is closing in on a remarkable 2017. These Arizona natives not only released their sixth studio album, but also are currently on a fall headlining tour to end the year. WTBU DJ Daniella Weiss heard from Jared Monaco of The Maine on all that their new album, _Lovely Little Lonely_, and the Modern Nostalgia tour entail.
 
 Back in April, the Maine released _Lovely Little Lonely_, a cohesive record with a distinct concept that circulates throughout.
@@ -59,5 +58,3 @@ The Maine has long made it their mission to nurture this relationship between fa
 No different from tours of the past, the Modern Nostalgia tour is centered on creating an enjoyable experience for the fans.
 
 As an eventful year wraps up and The Maine heads into their next decade as a band, there is excitement about the direction they are heading in. Stacked with talent, the Modern Nostalgia tour will take to the Palladium in Worcester, Mass. on Nov. 7. In Monaco’s perspective, it will even be his favorite tour the band has done so far.
-
-_\-Daniella Weiss_

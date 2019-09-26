@@ -9,16 +9,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Grace Lauson
+  first_name: Grace
+  last_name: Lauson
 image:
   src: http://sites.bu.edu/wtbu/files/2019/01/     bryce.jpg
   alt: post lead image
 ---
-
-_By Grace Lauson_
-
 Bryce Vine is about to kick off his tour in Shippensburg, PA on February 2nd and will be playing Brighton Music Hall in Allston, MA on February 6th. WTBU journalist Grace Lauson chatted with Bryce about his upcoming tour and much more.
 
 **GL (Grace Lauson): I know you must be pretty busy, can you walk me through your day? What’s a normal day for you?**

@@ -17,16 +17,13 @@ tags:
 author:
   login: ogehrke
   email: ogehrke@bu.edu
-  display_name: Olivia Gehrke
-  first_name: Olivia
-  last_name: Gehrke
+  display_name: Grace Lauson
+  first_name: Grace
+  last_name: Lauson
 image:
   src: /assets/38213725_10156581887361779_3491075552788348928_n.jpg
   alt: post lead image
 ---
-
-_By Grace Lauson_
-
 On Nov. 25, Emo Nite and 3OH!3 played at the Middle East in Cambridge as a part of their Want House Party Tour. Their friend, Lil Aaron, opened the show. Emo Nite first started when Morgan Freed, Babs Szabo, and TJ Petracca decided to play emo rock music in small dive bars in Los Angeles. They met Sean from 3OH!3 at one of their events and then toured on the Warped Tour Cruise together. 3OH!3 consists of Sean Foreman and Nathaniel Motte. They have been touring for about 10 years following the release of their popular songs “DONTTRUSTME” and “My First Kiss ft. Kesha.” They are now finishing up their American tour.
 
 The Boston show was very high energy and focused on a lot of interaction with the crowd. Considering it was a sold out show, bodies packed the venue. Fans were decked out in 3OH!3 merchandise and knew the words to all of the songs. The show started off with Emo Nite coming out to play an introductory set. Emo Nite does not make their own music, but plays emo, punk rock music from various artists. They started with “Sugar We’re Goin’ Down” by Fall Out Boy and the crowd went crazy. They invited any fan that wanted to dance on the stage for their whole set and Emo Nite danced along with them. They often faded out songs into others to keep the crowd’s energy up. They then played “Dear Maria, Count Me In” by All Time Low and “I’m Not Okay (I Promise)” by my Chemical Romance.

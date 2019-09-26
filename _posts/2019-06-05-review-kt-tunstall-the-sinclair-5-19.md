@@ -12,16 +12,13 @@ tags:
 author:
   login: salvucci
   email: salvucci@bu.edu
-  display_name: salvucci
-  first_name: ''
-  last_name: ''
+  display_name: Kate Evans
+  first_name: Kate
+  last_name: Evans
 image:
   src: http://sites.bu.edu/wtbu/files/2019/06/IMG_6026.jpg
   alt: post lead image
 ---
-
-_By Kate Evans_
-
 On Sunday the 19th KT Tunstall played a sold out show at The Sinclair in Cambridge. Opening the night was LA based alt-pop singer Maddie Ross and her producer and guitar player Wolfy. She opened the show with the first track “Hometown” off her debut EP _Touch Hands, Touch Bodies_. Ross shared the story of how she was brought on to the tour. She said she found out that KT Tunstall and Brandi Carlile were playing a festival together so she tweeted about it and Tunstall sent her a message about opening on tour. She then went in to a beautiful cover of “Kiss Me” by Sixpence None The Richer.
 
             Ross shared that she and Wolfy met at USC and have been dating for five and a half years and that by now their lives are 500% intertwined. Ross said many people compare her songs to those in rom-coms so she and Wolfy decided to write an album where each song scores a different rom-com that they made up. One song off the album “The Riddle” is a song from Wolfy’s perspective her relationship with Ross but the twist is that it was written by Ross. She informed everyone that there was a station at her merch table to donate to The Trevor Project, a non-profit organization which focuses on suicide prevention in the LGBTQ+ community. She ended her set with two catchy pop songs, “Liv Tyler” and “You’re Still My Sugar” which the crowd loved.
