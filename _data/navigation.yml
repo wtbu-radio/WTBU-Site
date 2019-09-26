@@ -29,7 +29,7 @@
   - name: Schedule
     location: /pages/about/schedule
   - name: About Us
-    location: /pages/about/index
+    location: /pages/about/
   - name: Contact Us
     location: /pages/about/contact-us
   - name: Sponsor
