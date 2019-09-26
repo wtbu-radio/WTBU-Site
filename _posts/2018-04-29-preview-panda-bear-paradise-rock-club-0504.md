@@ -12,16 +12,16 @@ tags:
 - paradise rock club
 - preview
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/26240621_10155904872022095_7770431119428527016_o-636x332.jpg
+  alt: post lead image
 ---
-![Panda Bear]({{ site.baseurl }}/assets/26240621_10155904872022095_7770431119428527016_o-636x332.jpg)
 
 Panda Bear—the stage name of Noah Lennox, best known for his work as a member of critically acclaimed Baltimore band Animal Collective—will be performing at the Paradise Rock Club on Friday, May 4. Panda Bear is touring in support of January’s vinyl-only EP _A Day With the Homies_ as well as a new album _BOUY_, the details of which have not been officially announced.
 

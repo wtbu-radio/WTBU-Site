@@ -10,16 +10,16 @@ tags:
 - interview
 - mc taylor
 - preview
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/HGM-636x318.png
+  alt: post lead image
 ---
-![HGM]({{ site.baseurl }}/assets/HGM-636x318.png)
 
 MC Taylor, the frontman of the folk music band Hiss Golden Messenger, spoke with WTBU DJ Morgan Lee to discuss what inspires him and what is to come from his band in the coming months.  Hiss Golden Messenger is set to perform on the last day of the highly-anticipated music festival Boston Calling.  
 

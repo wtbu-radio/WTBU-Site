@@ -7,15 +7,17 @@ categories:
 tags:
 - boston ballet
 - boston opera house
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:34:"http://sites.bu.edu/wtbu/files/2019/03/Coppelia-4.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4110";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/Coppelia-4.jpg
+  alt: post lead image
 ---
+
 _By Ioanna Karageorge_
 
 George Balanchine's Coppélia comes to the Boston Ballet this Spring: a tale of a village youth falling in love with a beautiful, life-sized doll crafted by a mad inventor. This lighthearted ballet is running from March 21-31, 2019 at the Boston Opera House.

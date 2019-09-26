@@ -10,15 +10,17 @@ tags:
 - the academic
 - vicar st
 - whenyoung
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:32:"http://sites.bu.edu/wtbu/files/2018/12/IMG_3735.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3433";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2018/12/IMG_3735.jpg
+  alt: post lead image
 ---
+
 _Photos by Zoe Salvucci_
 
 \[caption id="attachment\_3417" align="alignnone" width="683"\]![]({{ site.baseurl }}/assets/IMG_4245-683x1024.jpg) _The Academic by Zoe Salvucci_\[/caption\]

@@ -10,16 +10,16 @@ tags:
 - world motern day extravaganza 2
 - wtbu
 - youtube
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-4-1-1024x683.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_2294" align="alignnone" width="710"\]![Photo by Caroline Barry]({{ site.baseurl }}/assets/unnamed-4-1-1024x683.jpg) Photo by Caroline Barry\[/caption\]
 
 “You didn’t come to hear perfect music. You came to hear a lot of music.”
 

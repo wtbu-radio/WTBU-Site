@@ -12,15 +12,17 @@ tags:
 - osheaga festival
 - osheaga music and arts festival
 - osheaga music festival
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:31:"http://sites.bu.edu/wtbu/files/2019/08/mallrat.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5208";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/08/mallrat.jpg
+  alt: post lead image
 ---
+
 _By Allie Antonevich_
 
 Grace Shaw, known professionally as Mallrat, is a 20-year-old Australian singer-songwriter from Brisbane. She began releasing music in 2014 and has since released two EPs, with a third, _Driving Music_, scheduled to be released in September 2019. Mallrat supported Maggie Rogers’ “Heard It in A Past Life” tour in Europe in 2018-2019, and is currently on her headline national tour. I had a moment to catch up with Mallrat after her set at Osheaga on August 4, where we talked about inspirations and next steps.

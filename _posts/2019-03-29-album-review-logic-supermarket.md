@@ -7,15 +7,17 @@ tags:
 - album review
 - logic
 - supermarket
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:43:"http://sites.bu.edu/wtbu/files/2019/03/XBLS_1127_HERO-hero.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4131";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/XBLS_1127_HERO-hero.jpg
+  alt: post lead image
 ---
+
 _By Jarrad Levy_
 
 Attention everyone, there is a goldmine on aisle five, and that goldmine is Logic’s fifth studio album, _Supermarket_.

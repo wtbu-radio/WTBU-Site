@@ -12,16 +12,16 @@ tags:
 - qty
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/fullsizeoutput_19f0-636x410.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_952" align="alignnone" width="636"\]![Photo by Monica Sucic]({{ site.baseurl }}/assets/fullsizeoutput_19f0-636x410.jpg) Photo by Monica Sucic\[/caption\]
 
 On Friday, Oct. 27th, Bad Suns headlined Paradise Rock Club for the second time in a full year. The band, hailing from California, consists of lead singer Cristo Bowman, bassist Gavin Bennett, drummer Miles Morris, and guitarist Ray Libby. They’ve come a long way from the 2014 release of their first album, _Language & Perspective_, which earned them a significant following. Their second album, _Disappear Here_, was released in September of 2016 and was met with even more praise. The quartet has garnered significant attention within their few years of existence, especially after opening for The 1975 in 2014 and playing at popular festivals such as Bonnaroo and Coachella.
 

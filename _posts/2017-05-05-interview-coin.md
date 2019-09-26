@@ -10,16 +10,16 @@ tags:
 - indie pop
 - interview
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-1-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_656" align="alignnone" width="636"\]![Photo by Daniella Weiss]({{ site.baseurl }}/assets/unnamed-1-636x424.jpg) Photo by Daniella Weiss\[/caption\]
 
 It has been five years now since American indie-pop band COIN formed in Nashville, Tenn. as four college students. In the time since, the band has released a self-titled debut album and, most recently, their second studio album, titled _How Will You Know if You Never Try?_ Amidst the release of this new album, the band is currently out on their first ever U.S. headlining tour. WTBU DJ Daniella Weiss had a chance to talk with lead singer Chase Lawrence about the new album and tour.
 

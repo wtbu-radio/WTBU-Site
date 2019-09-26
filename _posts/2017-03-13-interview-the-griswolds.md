@@ -9,16 +9,16 @@ tags:
 - interview
 - the griswolds
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:0:"";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/tumblr_inline_omcwyn2aGU1swxv3i_500.jpg
+  alt: post lead image
 ---
-![tumblr_inline_omcwyn2aGU1swxv3i_500]({{ site.baseurl }}/assets/tumblr_inline_omcwyn2aGU1swxv3i_500.jpg)
 
 Indie-pop band The Griswolds took the stage at the Sinclair in Cambridge on Feb. 26, as part of their _The Low Lives_headlining tour. Before the show, WTBU DJ Daniella Weiss sat down with lead singer Chris Whitehall of the Australian band to talk about their tour and newest album.
 

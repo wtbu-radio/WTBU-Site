@@ -9,16 +9,16 @@ tags:
 - review
 - weezer
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/weezer-pacific-daydream-new-album-636x636.jpg
+  alt: post lead image
 ---
-![weezer-pacific-daydream-new-album]({{ site.baseurl }}/assets/weezer-pacific-daydream-new-album-636x636.jpg)
 
 Weezer is back, hot off of _The White Album_, bringing more of the California alt rock that they’re known for with _Pacific Daydream_. Over the years, the band has taken their fans on a roller coaster ride of emotions with their albums. Their releases have ranged from some real hits to some real misses, all the while deviating farther and farther from the stripped back rock sound of _The Blue Album_ and _Pinkerton_, the group’s first two and most well-received albums. The band’s eleventh album, _Pacific Daydream_, is almost pop music. Despite the ups and downs, I really loved _The White Album_, so I was excited for a new project.
 

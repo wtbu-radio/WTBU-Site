@@ -14,16 +14,16 @@ tags:
 - ska
 - the mighty mighty bosstones
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-11-768x1024.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_2290" align="alignnone" width="768"\]![WTBU DJs Zoe Salvucci (left) and Danya Trommer (right) with Joe Gittleman of Boston ska band the Mighty Mighty Bosstones at Montebello Rockfest.]({{ site.baseurl }}/assets/unnamed-11-768x1024.jpg) WTBU DJs Zoe Salvucci (left) and Danya Trommer (right) with Joe Gittleman of Boston ska band the Mighty Mighty Bosstones at Montebello Rockfest.\[/caption\]
 
 Boston-based ska icons the Mighty Mighty Bosstones played Montebello Rockfest this past weekend. WTBU DJ Danya Trommer, who hosts ska-centric show Dat Brass, chatted with Joe Gittleman about the band’s career, inspirations, and their own curated festival.
 

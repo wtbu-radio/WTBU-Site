@@ -12,16 +12,16 @@ tags:
 - review
 - royale
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-3-683x1024.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1672" align="alignnone" width="683"\]![Photo by Katie Evans]({{ site.baseurl }}/assets/unnamed-3-683x1024.jpg) Photo by Katie Evans\[/caption\]
 
 In celebration of their long awaited third studio album _How to: Friend, Love and Freefall_, Rainbow Kitten Surprise made a quick stop at the Royale in Boston in the midst of the spring leg of their Friend, Love, and Freefall tour. The tour sold out quickly and resale tickets for many of the dates were nearly three times face value. The venues the band headlined during this tour were twice the size of the places they had previously played during their 2016 winter tour.
 

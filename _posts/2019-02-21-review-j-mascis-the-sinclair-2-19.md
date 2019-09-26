@@ -7,15 +7,17 @@ tags:
 - dinosaur jr
 - j mascis
 - the sinclair
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:77:"http://sites.bu.edu/wtbu/files/2019/02/jmascis_wide-55706f78ba0457d0236a89d94173964ee8970a49.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3833";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/02/jmascis_wide-55706f78ba0457d0236a89d94173964ee8970a49.jpg
+  alt: post lead image
 ---
+
 _By Jack Beck_
 
 1.  Pizza (at its most basic, ideal, platonic level) consists of three components: tomato sauce, cheese, and bread. While there are other variations of pizza, an assortment of toppings and seasonings and different combinations which may not even include the three listed, the idea of a ‘pizza’ can be represented most directly by the combination of tomato sauce, cheese, and bread.

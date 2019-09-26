@@ -6,15 +6,17 @@ categories:
 tags:
 - houndmouth
 - paradise rock club
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:80:"http://sites.bu.edu/wtbu/files/2019/02/houndmouth_wide-54ebc7a66087dec60969e5d26b6b178520390f45.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3766";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/02/houndmouth_wide-54ebc7a66087dec60969e5d26b6b178520390f45.jpg
+  alt: post lead image
 ---
+
 _By Emma Kopelowicz_
 
 Houndmouth is nearing the halfway point in their tour and will be playing at the Paradise Rock Club on February 20th. WTBU DJ Emma Kopelowicz chatted over the phone with the band’s drummer, Shane Cody, about their latest album Golden Age, experimenting with new sounds, and the magic of Linn Drum Machines.

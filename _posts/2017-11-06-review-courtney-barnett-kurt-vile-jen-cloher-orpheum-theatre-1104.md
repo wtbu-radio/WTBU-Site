@@ -13,16 +13,16 @@ tags:
 - review
 - the sea lice
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/a2149764433_10-636x636.jpg
+  alt: post lead image
 ---
-![a2149764433_10]({{ site.baseurl }}/assets/a2149764433_10-636x636.jpg)
 
 Singer-songwriters Courtney Barnett of Australia and Kurt Vile of Philadelphia performed at the Orpheum Theatre on Saturday, November 4 as part of a tour for their collaborative album _Lotta Sea Lice_, released just a few weeks prior. Although both musicians have enjoyed considerable success—Barnett is a rapidly rising star of the indie scene, while Vile was a member of The War on Drugs before leaving in 2008 to pursue a solo career—this album marked their first release as a duo. It was a partnership that made sense to fans, as the two artists share many musical elements, including twangy rock-folk guitars and candid, dorky lyrics.
 

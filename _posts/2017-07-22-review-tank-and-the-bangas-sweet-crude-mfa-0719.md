@@ -11,17 +11,17 @@ tags:
 - sweet crude
 - tank and the bangas
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/TANK-636x491.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_702" align="alignnone" width="636"\]![Tank and the Bangas Photo by Miranda Suarez]({{ site.baseurl }}/assets/TANK-636x491.jpg) Tank and the Bangas  
-Photo by Miranda Suarez\[/caption\]
+
 
 From tiny desks to fine arts museums, Tank and the Bangas have played some unconventional venues. Their energy is always infectious no matter where they are, and that was the case at their show at the Museum of Fine Arts on Wednesday night. But while they have style, talent, and fun in abundance, they should still anticipate some growing pains.
 

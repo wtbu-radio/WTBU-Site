@@ -7,15 +7,17 @@ tags:
 - fleetmac wood
 - middle east
 - preview
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:33:"http://sites.bu.edu/wtbu/files/2019/06/GOTO-049.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4848";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/06/GOTO-049.jpeg
+  alt: post lead image
 ---
+
 _By Alyssa Lai_
 
 On June 22nd, the basement of the Middle East nightclub will be transformed into a blur of colors, leather, and gold as the married DJ duo, Roxanne Roll (Lisa Jelliffe) and Alex Oxley, brings their Gold Dust Disco to Boston. It’s their seventh year on the road with their Fleetmac Wood project, a never-ending dance party that “re-frames the music of Fleetwood Mac.” Since their foundation in 2012 in the UK, Fleetmac Wood has brought their glitter, glam, and creative remixes across the globe; they’ve been to London, Melbourne, Dublin, and recently, they brought their rave to the Burning Man Festival. They grew in popularity after their Rumours Rave in 2018, when they celebrated the 40th birthday of Fleetwood Mac’s album _Rumours_, and since then, their remixes of “The Chain” and “Dreams” have caused their crowds to go wild. And now, you have the chance to see them in action and dance along to their take on Fleetwood Mac’s wide discography, right in the heart of Boston! Just make sure to grab your tickets before they sell out and come dressed in your best metallically magnificent outfit!

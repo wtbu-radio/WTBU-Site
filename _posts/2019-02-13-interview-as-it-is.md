@@ -5,15 +5,17 @@ categories:
 - Interviews
 tags:
 - as it is
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:32:"http://sites.bu.edu/wtbu/files/2019/02/IMG_6087.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3691";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/02/IMG_6087.jpg
+  alt: post lead image
 ---
+
 _By Maggie Leone _(Photos [here](http://sites.bu.edu/wtbu/2019/02/13/photos-as-it-is-the-middle-east-2-10/))
 
 Stranger Sings DJ Maggie Leone sat down with Patty Walters, As It Is frontman, before the band’s February 10th show (their biggest headlining show in North America yet) at The Middle East Downstairs. _The Great Depression Tour: Act II_ with Sharptooth, Hold Close, and Point North, is in partnership with A Voice for the Innocent**, **a non-profit organization that provides community, resources, and support for people who have been affected by sexual violence.

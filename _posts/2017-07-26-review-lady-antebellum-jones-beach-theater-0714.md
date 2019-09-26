@@ -4,16 +4,16 @@ title: 'REVIEW: Lady Antebellum @ Jones Beach Theater 07/14'
 categories:
 - Music Reviews
 tags: []
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-3-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_713" align="alignnone" width="636"\]![Photo by Daniella Weiss]({{ site.baseurl }}/assets/unnamed-3-636x424.jpg) Photo by Daniella Weiss\[/caption\]
 
 It has been over a decade now that the Grammy-winning trio of Hilary Scott, Charles Kelley, and Dave Haywood that make up Lady Antebellum have been together as a band. On July 14, the trio took the stage at Jones Beach Theater in NY as part of their fifth headlining tour. The _You Look Good_ tour kicked off in May of 2017 following the release of “You Look Good,” the first single from their newest album. Soon after, the band released their seventh studio album, _Heart Break._
 

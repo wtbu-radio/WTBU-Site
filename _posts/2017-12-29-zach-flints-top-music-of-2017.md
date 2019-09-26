@@ -10,22 +10,22 @@ tags:
 - wtbu
 - year ender
 - zach flint
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/LCD-Soundsystem-American-Dream-cover-1-636x636.jpg
+  alt: post lead image
 ---
+
 Zach Flint, formerly a DJ for _Very Shallow Listening_ on WTBU, compiled a list of his top albums and songs of 2017.
 
 **Top Albums of 2017**
 
 1\. LCD Soundsystem - _American Dream_
-
-![LCD-Soundsystem-American-Dream-cover]({{ site.baseurl }}/assets/LCD-Soundsystem-American-Dream-cover-1-636x636.jpg)
 
 2\. Ariel Pink - _Dedicated to Bobby Jameson_
 

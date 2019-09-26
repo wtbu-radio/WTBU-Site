@@ -6,15 +6,17 @@ categories:
 tags:
 - album review
 - solange
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:31:"http://sites.bu.edu/wtbu/files/2019/03/Solange.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3946";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/Solange.jpg
+  alt: post lead image
 ---
+
 _By Emma Kopelowicz_
 
 After almost exactly two and a half years after the release of _A Seat at the Table_, Solange surprised her fans by sharing a new visual concept album entitled _When I Get Home_. The artist teased the album’s release with a personalized page of sci-fi and Western-inspired images and videos on the social media website [BlackPlanet](http://blackplanet.com/solange/). Fans were left enthralled by the “Black Westworld” imagery Solange created and anticipated her next album to have a more futuristic sound with a tinge of Southern flair.

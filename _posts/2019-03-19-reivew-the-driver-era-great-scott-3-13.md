@@ -6,15 +6,17 @@ categories:
 tags:
 - great scott
 - the driver era
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:31:"http://sites.bu.edu/wtbu/files/2019/03/image5.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4019";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/image5.jpeg
+  alt: post lead image
 ---
+
 _By Maunika Reddy_
 
 A half an hour passed since the opening band PUBLIC finished their set. The crowd was eager for The Driver Era to take the stage. Cheers flooded the venue from the back as the band appeared and headed for the stage.  

@@ -16,15 +16,17 @@ tags:
 - photos
 - princess nokia
 - sophia flissler
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:31:"http://sites.bu.edu/wtbu/files/2019/06/DSC8631.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4890";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/06/DSC8631.jpg
+  alt: post lead image
 ---
+
 _Photos by Sophia Flissler_
 
 \[caption id="attachment\_4915" align="alignnone" width="683"\]_![]({{ site.baseurl }}/assets/DSC8528-683x1024.jpg)_ _King Princess by Sophia Flissler_\[/caption\]

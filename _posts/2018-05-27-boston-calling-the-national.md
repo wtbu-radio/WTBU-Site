@@ -12,16 +12,16 @@ tags:
 - review
 - the national
 - wbtu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/fb_admat_sponsors-819x1024.jpg
+  alt: post lead image
 ---
-![Boston Calling 2018]({{ site.baseurl }}/assets/fb_admat_sponsors-819x1024.jpg)
 
 **THE NATIONAL**
 

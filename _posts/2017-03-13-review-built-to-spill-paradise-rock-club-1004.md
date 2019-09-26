@@ -9,16 +9,16 @@ tags:
 - college radio
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:0:"";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/tumblr_inline_oezvpoVK4S1swxv3i_500-e1489450077229.png
+  alt: post lead image
 ---
-![tumblr_inline_oezvpoVK4S1swxv3i_500]({{ site.baseurl }}/assets/tumblr_inline_oezvpoVK4S1swxv3i_500-e1489450077229.png)
 
 Last Tuesday, Built to Spill played Paradise Rock Club, supported by Alex G and Hop Along. All bands played powerfully and excruciatingly loud. I left this show and immediately bought earplugs.
 

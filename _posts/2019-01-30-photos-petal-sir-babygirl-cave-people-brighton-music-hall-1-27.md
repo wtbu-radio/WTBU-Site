@@ -9,15 +9,17 @@ tags:
 - petal
 - photos
 - sir babygirl
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:30:"http://sites.bu.edu/wtbu/files/2019/01/127-24.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3617";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/01/127-24.jpg
+  alt: post lead image
 ---
+
 _Photos by Angel Kim_
 
 \[caption id="attachment\_3605" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/127-1-1024x683.jpg) _Petal by Angel Kim_\[/caption\]

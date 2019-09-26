@@ -10,15 +10,17 @@ tags:
 - photos
 - the sinclair
 - william wild
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:33:"http://sites.bu.edu/wtbu/files/2019/08/DSC_4385.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5215";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/08/DSC_4385.jpeg
+  alt: post lead image
 ---
+
 _By Maisie Mansfield-Greenwald_
 
 \[caption id="attachment\_5214" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/DSC_4364-1024x768.jpeg) _William Wild by Maisie Mansfield-Greenwald_\[/caption\]

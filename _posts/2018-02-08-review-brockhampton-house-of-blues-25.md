@@ -10,16 +10,16 @@ tags:
 - house of blues
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/brockhampton-636x477.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1295" align="alignnone" width="636"\]![Photo by Matt Bandel]({{ site.baseurl }}/assets/brockhampton-636x477.jpg) Photo by Matt Bandel\[/caption\]
 
 Brockhampton is the hot new boy band that is taking over rap music. Hailing from southern California, the group all met on a Kanye West fan website’s chat room and decided to move in together and make music. This wild idea actually paid off; the group really took off this past year with the release of the _Saturation_ Trilogy. The three albums, _Saturation I_, _II_, and _III_, are all similar in style, but progressively build the group’s sound and give each member their time to shine. In terms of members, there are quite a few. The boy band features fifteen people: from rappers and singers to producers and web designers. Kevin Abstract is the face of the group and seems to take on the role as leader. Other vocalists include Ameer Vann, Dom McLennon, Merlyn Wood, Matt Champion and Joba, but even that is just a fraction of the group.
 

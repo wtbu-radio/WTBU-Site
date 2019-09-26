@@ -7,15 +7,17 @@ tags:
 - album review
 - girl with basket of fruit
 - xiu xiu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:31:"http://sites.bu.edu/wtbu/files/2019/02/xiu-xiu.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3762";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/02/xiu-xiu.jpg
+  alt: post lead image
 ---
+
 _By Jack Salvucci_
 
 Xiu Xiu’s newest record, _Girl with Basket of Fruit_, barrages the listener with many familiar tricks from the band’s playbook. The clean production and twists on those sounds familiar to fans work together to create one of the more interesting and contemporary records of the band’s discography. This record comes two years after 2017’s _Forget_, a highly memorable record that saw Xiu Xiu exploring new territories of contemporary electronic and psychedelic pop with some of the best production of their career. While Forget is arguably one of their more accessible records, however, this new record, with eclectic instrumentation and abrasive tones strewn on nearly every track, will be familiar to the avid Xiu Xiu listener.

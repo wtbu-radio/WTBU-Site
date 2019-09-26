@@ -11,16 +11,16 @@ tags:
 - rise concert series
 - wtbu
 - ysaye barnwell
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/6528.jpg
+  alt: post lead image
 ---
-![6528]({{ site.baseurl }}/assets/6528.jpg)
 
 Continuing the Isabella Stewart Gardner Museum’s RISE concert series, the innovative jazz phenom Esperanza Spalding and Ysaye Barnwell from the famous gospel acapella group Sweet Honey in the Rock collaborated for a very unique and engaging performance on April 12. Coming from two very different musical backgrounds, I was interested to see how they would work with each other. Despite this difference, both artists presented the theme of African American pride and faith in the face of injustice. This theme was especially apparent as Barnwell sang a funky version of “The Star Spangled Banner,” ironically substituting the line, “...and the home of the slave.”
 

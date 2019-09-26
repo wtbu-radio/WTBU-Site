@@ -10,16 +10,16 @@ tags:
 - preview
 - the mighty mighty bosstones
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/001_MMBosstones_A_LisaJohnson_HiRes-1024x715.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_2635" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/001_MMBosstones_A_LisaJohnson_HiRes-1024x715.jpg) The Mighty Mighty Bosstones 2018. Photograph by Lisa Johnson.\[/caption\]
 
 Cranking and Skanking Fest is a one day festival at the Worcester Palladium featuring some of the biggest names in ska, all curated by Boston’s own the Mighty Mighty BossToneS.  The lineup includes bands from all over the map, such as Jamaica’s Toots and the Maytals, Allston natives Big D and the Kids Table, and French Canadians the Planet Smashers. WTBU DJ Danya Trommer had a chance to talk to lead singer of the Mighty Mighty BosstoneS, Dicky Barrett, to discuss the festival and the band’s new album.  
 

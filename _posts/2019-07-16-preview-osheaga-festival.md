@@ -14,15 +14,17 @@ tags:
 - osheaga music and arts festival
 - osheaga music festival
 - preview
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:71:"http://sites.bu.edu/wtbu/files/2019/07/Osheaga-2019-Lineup-Announcement-Feature-Banner.png";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5047";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/07/Osheaga-2019-Lineup-Announcement-Feature-Banner.png
+  alt: post lead image
 ---
+
 _By Allie Antonevich_
 
 In a little under 3 weeks, 135,000 people will gather at Parc Jean-Drapeau on Montreal’s Saint Helen’s Island for the 14th annual OSHEAGA Music and Arts Festival. The popular Canadian event spans across three days from August 2-4, combining rising musical acts with visual installations and interactive activities.

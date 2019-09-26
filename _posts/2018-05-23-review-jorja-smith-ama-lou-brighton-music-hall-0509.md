@@ -11,16 +11,16 @@ tags:
 - jorja smith
 - review
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/IMG_7999-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1642" align="alignnone" width="636"\]![Photo by Elina Kent]({{ site.baseurl }}/assets/IMG_7999-636x424.jpg) Photo by Elina Kent\[/caption\]
 
 On May 9, Jorja Smith, accompanied by Ama Lou, performed at Brighton Music Hall. 
 

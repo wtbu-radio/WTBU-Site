@@ -12,17 +12,17 @@ tags:
 - ne-hi
 - steep leans
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/IMG_9894-636x424.jpg
+  alt: post lead image
 ---
-![IMG_9894]({{ site.baseurl }}/assets/IMG_9894-636x424.jpg)  
-_(Jason Balla, Photo by Olivia Gehrke)_
+
 
 Chicago rockers NE-HI coasted through Boston last Friday to deliver a show of infectiously catchy indie rock bliss. With the Middle East’s new venue, Sonia, opening up the same night and a handful of stacked local shows, it was questionable on whether the NE-HI show would draw a dense crowd, but the Middle East Upstairs, though not sold out, was a packed house.
 

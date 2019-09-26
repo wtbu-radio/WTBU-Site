@@ -12,16 +12,16 @@ tags:
 - review
 - vampire weekend
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/baioartttt.jpg
+  alt: post lead image
 ---
-![baioartttt]({{ site.baseurl }}/assets/baioartttt.jpg)
 
 With his new album’s release yesterday, Chris Baio continues his metamorphosis from “the bassist from Vampire Weekend” to “Baio, the Multifaceted DJ and Eclectic Songwriter.” _Man of the World_ is the 32-year-old’s sophomore independent album.
 

@@ -10,19 +10,19 @@ tags:
 - sophie sachar
 - wtbu
 - year ender
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/a2628204520_10-636x636.jpg
+  alt: post lead image
 ---
+
 Sophie Sachar, the editor in chief of The Beat and DJ for Goose Mothers, Flannel Shirt Parade, and Left of the Dial, shares her favorite albums of 2017 (with a Spotify playlist to match!)
 
-![a2628204520_10]({{ site.baseurl }}/assets/a2628204520_10-636x636.jpg)  
-**1\. Japanese Breakfast -** **_Soft Sounds from Another Planet_**
 
 Blending dream pop, science fiction, and intimate stories from her life, Michelle Zauner’s second album as Japanese Breakfast creates a warm atmosphere featuring a killer saxophone solo, a robot-human love story, and plenty of groovy bass lines.
 

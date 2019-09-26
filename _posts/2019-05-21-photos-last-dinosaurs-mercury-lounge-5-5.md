@@ -9,15 +9,17 @@ tags:
 - loose buttons
 - mercury lounge
 - photos
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:57:"http://sites.bu.edu/wtbu/files/2019/05/rqKTR8oKQJOhyJujCOsoUg_thumb_4257.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4752";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/05/rqKTR8oKQJOhyJujCOsoUg_thumb_4257.jpg
+  alt: post lead image
 ---
+
 _By Caroline Barry_
 
 If a cartoon protagonist, a goth, and a cute Mark Zuckerberg formed one of the most danceable sounds currently on the indie scene, they would be called Last Dinosaurs. And, like those long-gone reptiles, I wasn’t sure I’d ever have the chance to see this group with my own two eyes. That is, until they appeared at Mercury Lounge on the night of May 5.

@@ -7,15 +7,17 @@ tags:
 - brighton music hall
 - bryce vine
 - review
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:28:"http://sites.bu.edu/wtbu/files/2019/01/vine.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3474";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/01/vine.jpg
+  alt: post lead image
 ---
+
 _By Jillian Napolitano_
 
 8:31pm. The lights dim as the _Star Wars_ theme begins to echo through Brighton Music Hall. The bass drops, making the entire crowd screams and pushes forward. Bryce Vine steps on stage.

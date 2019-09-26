@@ -13,16 +13,16 @@ tags:
 - review
 - terri lyne carrington
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/12366204_801611313298805_1291320573788266558_n.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_3037" align="alignnone" width="960"\]![]({{ site.baseurl }}/assets/12366204_801611313298805_1291320573788266558_n.jpg) Photo by Erik Jacobs\[/caption\]
 
 _By Audrey Sutter_
 

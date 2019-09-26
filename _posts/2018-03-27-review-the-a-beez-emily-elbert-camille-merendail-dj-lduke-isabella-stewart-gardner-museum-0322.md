@@ -4,16 +4,16 @@ title: "REVIEW: The A-Beez, Emily Elbert, Camille Merendail, DJ L'Duke @ Isabell
 categories:
 - Music Reviews
 tags: []
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-8-636x477.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1456" align="alignnone" width="636"\]![Photo by Hannah Rogers]({{ site.baseurl }}/assets/unnamed-8-636x477.jpg) Photo by Hannah Rogers\[/caption\]
 
 On Thursday, March 22, Boston’s the A-Beez performed at the Isabella Stewart Gardner Museum to debut their new album titled _Say Goodbye_. The show was held in the museum’s Calderwood Hall, a venue unlike any I have ever seen. It is the shape of a cube, with chairs set up on the floor right next to the band and four more floors ascending to the ceiling, with two rows of seating on each floor. There were also rows and rows of lights which looked like stars when the lights went dim, and created a very ethereal and relaxing environment. The A-Beez’s set was opened by Camille Merendail and Emily Elbert, with DJ L’Duke providing some pre-show beats.
 

@@ -12,15 +12,17 @@ tags:
 - pitchfork
 - pitchfork music festival
 - show previews
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:53:"http://sites.bu.edu/wtbu/files/2019/07/curation_mklv3mpkxwt0wd5zozu2.png";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5043";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/07/curation_mklv3mpkxwt0wd5zozu2.png
+  alt: post lead image
 ---
+
 _By Monica Sucic_
 
 The 14th Pitchfork Music Festival plans to continue its reputation of being “one of the most welcoming, comfortable, reasonably priced, and rewarding weekends of music” in 2019. Hosted at Chicago’s Union Park, the festival will highlight rising powerhouses of various genres from July 19th to 21st. Friday’s headliner is the trio of indie-rock sisters, HAIM, who are fresh off recording songs with Vampire Weekend for _Father of the Bride_. The Isley Brothers, who headline Saturday, are returning for a roaring 60th birthday celebration. Swedish-pop sensation Robyn will finish off the festival as the final act on Sunday night. 

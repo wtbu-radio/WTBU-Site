@@ -11,16 +11,16 @@ tags:
 - sabri
 - sleigh bells
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/22309085_1604378439614763_2681848543091417160_n-636x636.jpg
+  alt: post lead image
 ---
-![22309085_1604378439614763_2681848543091417160_n]({{ site.baseurl }}/assets/22309085_1604378439614763_2681848543091417160_n-636x636.jpg)
 
 It has been the consensus among fans of the Brooklyn-based indie punk duo Sleigh Bells that the quality of their output has been steadily declining over the last few years. Their debut release, 2010’s _Treats_, saw considerable commercial success due to its innovatively raw, thrashing pop style. The band enjoyed similarly positive reception with _Reign of Terror_ in 2012. A year and a half later, though, they released _Bitter Rivals_, a collection of tracks with markedly cleaner production and more prominent melodies; fans and music blogs alike considered it a watered-down version of their earlier albums and mourned the loss of the distortion so crucial to the Sleigh Bells sound. 2015’s _Jessica Rabbit_ brought more of the same, and by the time mini-album _Kid Kruschev_ was released in October 2017, no one was surprised that it appeared even worse than its predecessors.
 

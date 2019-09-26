@@ -11,16 +11,16 @@ tags:
 - paradise rock club
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/26731407_10156037458563686_2360744444247178411_n.jpg
+  alt: post lead image
 ---
-![26731407_10156037458563686_2360744444247178411_n]({{ site.baseurl }}/assets/26731407_10156037458563686_2360744444247178411_n.jpg)
 
 Georgia-based indie band of Montreal performed a concert at the Paradise Rock Club on Monday, March 26 as part of a tour for their new album, _White Is Relic/Irrealis Mood_, released on March 9.
 

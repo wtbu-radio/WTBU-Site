@@ -9,17 +9,17 @@ tags:
 - interview
 - public access tv
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:0:"";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/BookScanStation-2017-02-25-03-16-14-PM0002-636x486.jpg
+  alt: post lead image
 ---
-![BookScanStation-2017-02-25-03-16-14-PM0002]({{ site.baseurl }}/assets/BookScanStation-2017-02-25-03-16-14-PM0002-636x486.jpg)  
-_Photo by Kristen Lay_
+
 
 Public Access T.V. recently began their tour in Boston with Splashh and The Britanys on Thursday, Jan. 19 at the Great Scott. Before the show, WTBU DJ Kristen Lay spoke with the band about Brooklyn, social media, and their show in D.C. on Inauguration Day.
 

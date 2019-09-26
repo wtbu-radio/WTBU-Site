@@ -9,15 +9,17 @@ tags:
 - maddie ross
 - photos
 - the sinclair
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:32:"http://sites.bu.edu/wtbu/files/2019/06/IMG_6026.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4817";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/06/IMG_6026.jpg
+  alt: post lead image
 ---
+
 _By Kate Evans_
 
 On Sunday the 19th KT Tunstall played a sold out show at The Sinclair in Cambridge. Opening the night was LA based alt-pop singer Maddie Ross and her producer and guitar player Wolfy. She opened the show with the first track “Hometown” off her debut EP _Touch Hands, Touch Bodies_. Ross shared the story of how she was brought on to the tour. She said she found out that KT Tunstall and Brandi Carlile were playing a festival together so she tweeted about it and Tunstall sent her a message about opening on tour. She then went in to a beautiful cover of “Kiss Me” by Sixpence None The Richer.

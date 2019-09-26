@@ -10,16 +10,16 @@ tags:
 - interview
 - snail mail
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/0009913625_10-636x424.jpg
+  alt: post lead image
 ---
-![0009913625_10]({{ site.baseurl }}/assets/0009913625_10-636x424.jpg)
 
 Lindsey Jordan, who performs under the name Snail Mail,  recently announced that her first full-length album will be out on Matador Records on June 8. WTBU DJ Paul Stokes got a preview of what’s to come when he sat down with Jordan at the Great Scott before her show with Lomelda this past January.
 

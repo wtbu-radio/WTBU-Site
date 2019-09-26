@@ -12,16 +12,16 @@ tags:
 - the maine
 - the mowglis
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-2-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_661" align="alignnone" width="636"\]![Colin Dieden of The Mowgli's by Katie Evans]({{ site.baseurl }}/assets/unnamed-2-636x424.jpg) Colin Dieden of The Mowgli's by Katie Evans\[/caption\]
 
 From the moment the tour was announced until the day of the show, my excitement stayed at a constant high. This would be my third time seeing the Mowgli’s, my second time seeing Beach Weather, and my first show for The Maine.
 

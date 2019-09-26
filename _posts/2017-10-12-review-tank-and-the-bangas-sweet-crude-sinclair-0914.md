@@ -10,16 +10,16 @@ tags:
 - sinclair
 - tank and the bangas
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/Tank-636x476.png
+  alt: post lead image
 ---
-\[caption id="attachment\_878" align="alignnone" width="636"\]![Photo by Derrick Monteiro]({{ site.baseurl }}/assets/Tank-636x476.png) Photo by Derrick Monteiro\[/caption\]
 
 Tank and the Bangas had a sold-out crowd at the Sinclair jumping, dancing, and trying to sing along to genre-defying songs at lightning speeds. The New Orleans-based band combines all the best musical influences of the city, lacing together jazz, funk, and hip-hop with a Cajun influence.
 

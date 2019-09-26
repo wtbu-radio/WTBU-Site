@@ -10,16 +10,16 @@ tags:
 - lany
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-1-636x476.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_892" align="alignnone" width="636"\]![Photo by Daniella Weiss]({{ site.baseurl }}/assets/unnamed-1-636x476.jpg) Photo by Daniella Weiss\[/caption\]
 
 It’s been a big year for a certain alt-pop three-piece from Los Angeles. As their fourth year of being a band is underway, LANY released their debut, self-titled album and has spent 2017 touring in support of their emerging music. LANY—which stands for Los Angeles New York—is made up of three talented young artists by the names of Paul Klein, Jake Goss, and Les Priest.
 

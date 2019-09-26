@@ -4,15 +4,17 @@ title: 'INTERVIEW: Strange Weekend'
 categories:
 - Interviews
 tags: []
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:61:"http://sites.bu.edu/wtbu/files/2019/01/08E13A7A-D474-4CCD-80B0-EA61410115A1.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3466";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/01/08E13A7A-D474-4CCD-80B0-EA61410115A1.jpeg
+  alt: post lead image
 ---
+
 WTBU's Reed Romanko sat down with Glen Ridge, New Jersey band Strange Weekend to discuss their history, music, and goals for the band. Strange Weekend is Simon Ogilvie (vocals/guitar), Aiden O'Connor (drums), and Oliver Turiano (bass).
 
 REED ROMANKO: So, what ​is ​Strange Weekend?  

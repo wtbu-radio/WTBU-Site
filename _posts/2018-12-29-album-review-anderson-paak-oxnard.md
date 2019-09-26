@@ -6,15 +6,17 @@ categories:
 tags:
 - album review
 - anderson paak
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:52:"http://sites.bu.edu/wtbu/files/2018/12/Anderson-Paak-Oxnard-Feature.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3445";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2018/12/Anderson-Paak-Oxnard-Feature.jpg
+  alt: post lead image
 ---
+
 _By Olivia Amitay_
 
 For those expecting to hear the breezy beach vibes of Anderson .Paak’s last album _Malibu_, _Oxnard_ is not the answer.

@@ -12,16 +12,16 @@ tags:
 - sinclair
 - sofi tukker
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/28616767_1977056552321796_4306152655864035684_o-636x636.jpg
+  alt: post lead image
 ---
-![Sofi Tukker]({{ site.baseurl }}/assets/28616767_1977056552321796_4306152655864035684_o-636x636.jpg)
 
 With the two week old release of _Treehouse_, electronic-pop duo Sofi Tukker brought the color and addictive beats of their new album to the Sinclar on Wednesday, April 25. Igniting the stage and possessing a distinct energy of their own, this duo’s performance will be hard for audiences to forget, and a challenge to top.
 

@@ -12,16 +12,16 @@ tags:
 - review
 - symphony hall
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/JohnMulaneyBSO_ArtistPage.jpg
+  alt: post lead image
 ---
-![JohnMulaneyBSO_ArtistPage]({{ site.baseurl }}/assets/JohnMulaneyBSO_ArtistPage.jpg)
 
 Chicago-native and comedian John Mulaney graced Boston with his presence this week at Symphony Hall, performing his new show _Kid Gorgeous_ a number of times, sometimes several per evening.  Max Silvestri, a fellow comedian, opened for Mulaney. His bits about the life of an only child and fearing groups of straight men brought many laughs from the audience.  He was a great first act and a superb start to the evening.
 

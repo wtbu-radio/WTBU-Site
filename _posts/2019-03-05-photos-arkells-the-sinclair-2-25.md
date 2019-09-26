@@ -7,15 +7,17 @@ tags:
 - arkells
 - photos
 - the sinclair
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:48:"http://sites.bu.edu/wtbu/files/2019/03/arkells-green-pink-large.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3980";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/arkells-green-pink-large.jpg
+  alt: post lead image
 ---
+
 _Photos by Monica Sucic_
 
 \[caption id="attachment\_3975" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/arkells-teal-small-2-1024x684.jpg) _Arkells by Monica Sucic_\[/caption\]

@@ -11,16 +11,16 @@ tags:
 - the sherlocks
 - uk
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-636x358.jpg
+  alt: post lead image
 ---
-![unnamed]({{ site.baseurl }}/assets/unnamed-636x358.jpg)
 
 UK-based indie pop band The Sherlocks made a stop at the Middle East in Cambridge this November. WTBU DJ Kiran Galani spoke to members (and pairs of brothers) Kiaran and Brandon Crook and Josh and Andy Davidson ahead of their show about new music, their dream show, and what’s yet to come.
 

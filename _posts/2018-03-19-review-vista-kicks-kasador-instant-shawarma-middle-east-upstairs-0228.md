@@ -11,16 +11,16 @@ tags:
 - review
 - vista kicks
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-5-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1408" align="alignnone" width="636"\]![Photo by Katie Evans]({{ site.baseurl }}/assets/unnamed-5-636x424.jpg) Photo by Katie Evans\[/caption\]
 
 After the release of their debut album _Booty Shakers Ball_, California-based rockers Vista Kicks set off on their first headline tour making stops across the U.S. including the Middle East Upstairs in Cambridge. Opening the night was Boston natives Instant Shawarma. They had a garage rock sound that did not stand out. The crowd seemed a bit disinterested as they had a long wait for the main act. The stage was so dark I could hardly see the band from the front row. The band announced that they would be coming back to play the Foundation Room at the House of Blues.
 

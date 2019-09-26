@@ -10,17 +10,17 @@ tags:
 - parachute
 - the sinclair
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/IMG_5384-636x424.jpg
+  alt: post lead image
 ---
-![Version 2]({{ site.baseurl }}/assets/IMG_5384-636x424.jpg)  
-_Photo by Daniella Weiss_
+
 
 Originally from Charlottesville, Va., American pop rock band Parachute has come a long way in the last decade since the band formed in 2006. A year after releasing their fourth studio album in March of 2016, the band has embarked on a new headlining run, deemed The Getaway Tour, for April of 2017. Keyboardist and sax player Kit French talked with WTBU Radio DJ Daniella Weiss about the band’s new tour and their latest album, _Wide Awake_.
 

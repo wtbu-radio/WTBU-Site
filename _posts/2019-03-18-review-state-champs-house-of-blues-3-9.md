@@ -6,15 +6,17 @@ categories:
 tags:
 - house of blues
 - state champs
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:44:"http://sites.bu.edu/wtbu/files/2019/03/State-Champs-Upset-1.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4008";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/State-Champs-Upset-1.jpg
+  alt: post lead image
 ---
+
 _By Ali Audet_
 
 State Champs brought their Living Proof tour to Boston’s House of Blues on Saturday, March 9th. The tour is in support of their third studio album, _Living Proof_, released last June. Not only was this a sold out show, but it was also the largest headlining show the band has ever played.

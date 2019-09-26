@@ -7,15 +7,17 @@ tags:
 - album review
 - distance over time
 - dreamtheater
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:72:"http://sites.bu.edu/wtbu/files/2019/02/24958690_10155976529925439_7669121237656517706_o.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3856";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/02/24958690_10155976529925439_7669121237656517706_o.jpg
+  alt: post lead image
 ---
+
 _By Ben Gorelick_
 
 Marking their fourteenth studio album, progressive metal giant Dream Theater’s _Distance over Time_ offers a return to form from their previous album _The Astonishing_ (2016). Being much heavier and not focused on a central concept or story lets this record feel more like one of their classic albums. If you were a fan of any of Dream Theater’s work from the late 90’s to the mid 2000’s, this is the album for you.

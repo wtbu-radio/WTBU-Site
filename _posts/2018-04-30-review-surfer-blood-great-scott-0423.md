@@ -14,16 +14,16 @@ tags:
 - surfer blood
 - winter
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/24958889_10155551875183889_5817831362390220277_o-636x425.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1592" align="alignnone" width="636"\]![Photo by Victoria Sanders]({{ site.baseurl }}/assets/24958889_10155551875183889_5817831362390220277_o-636x425.jpg) Photo by Victoria Sanders\[/caption\]
 
 Indie rock act Surfer Blood performed at the Great Scott in Allston, Mass. on April 23 following the 2017 releases of their fourth studio album _Snowdonia_ and their _Covers_ project.
 

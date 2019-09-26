@@ -9,16 +9,16 @@ tags:
 - newsletter
 - op-ed
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/succulents-1993396_1280-636x424.jpg
+  alt: post lead image
 ---
-![succulents-1993396_1280]({{ site.baseurl }}/assets/succulents-1993396_1280-636x424.jpg)
 
 Ever since the fall of _Pitchfork_, music journalism has been really confusing for me. I don’t want to read about why a pop song I love is a 6.5 and some obscure German noise producer is a 10. This kind of cruel criticism isn’t inspiring good music anymore. _Dazed_ can’t post something without getting mocked. _The Fader_ only cares about rap, and indie magazines like _Spin_, _Consequence of Sound_, and _Brooklyn Vegan_ have virtually dedicated their audiences as 30-somethings. Living in Boston, I tried to read/write for local music-focused magazines, but there’s only so many times one can talk about Vundabar. I was lost, looking for a strongly curated voice to tell me what to listen to.
 

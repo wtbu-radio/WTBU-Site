@@ -11,16 +11,16 @@ tags:
 - nina tarr
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/Ariel-LP-1000x1000-636x636.jpg
+  alt: post lead image
 ---
-![Ariel-LP-1000x1000]({{ site.baseurl }}/assets/Ariel-LP-1000x1000-636x636.jpg)
 
 The calendar said Halloween was over, but at the Ariel Pink concert at Brighton Music Hall on Nov. 2, no one would have guessed that the season of wild and spooky shenanigans had come to an end.
 

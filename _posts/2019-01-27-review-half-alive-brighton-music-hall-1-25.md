@@ -4,15 +4,17 @@ title: 'REVIEW: Half Alive @ Brighton Music Hall 1/25'
 categories:
 - Music Reviews
 tags: []
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:48:"http://sites.bu.edu/wtbu/files/2019/01/half.alive_press20182019.png";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3557";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/01/half.alive_press20182019.png
+  alt: post lead image
 ---
+
 _By Jarrad Levy_
 
 You probably don’t know who Half Alive are — but you will. Having only five songs released, one would wonder — rightfully so — how the band could run a full tour as the main act. After all, the show would be ridiculously short and be quite predictable given there would be such a small pool of songs to pull from. While the show was shorter than most concerts, Half Alive were able to keep their concert interesting, unpredictable, and, most importantly, fun, by playing the songs that have already become fan favorites, some unreleased songs, two covers, and lots of breathtaking and unique choreographed dance breaks.

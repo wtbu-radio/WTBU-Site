@@ -9,16 +9,16 @@ tags:
 - nyc
 - ozy fest
 - preview
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/30623657_1501532879957015_2898884993864433664_o-901x1024.jpg
+  alt: post lead image
 ---
-![]({{ site.baseurl }}/assets/30623657_1501532879957015_2898884993864433664_o-901x1024.jpg)
 
 Taking over the spacious Rumsey Playfield in Central Park in just a few short days is the third-ever OZY Fest presented by OZY Media. The two-day festival runs July 21-22 and is all that one could dream of in a New York summer festival and much, much more. The OZY Fest will feature big music acts including Common, Young the Giant, Grouplove, and Passion Pit, but it is complete with way more than music—it’s made up of powerful talks on important topics from thought leaders of our generation today, as well as an impressive range of food for attendees to try.
 

@@ -9,16 +9,16 @@ tags:
 - live review
 - td garden
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: {{ site.baseurl }}/assets/dave-matthews-band-2018-press-crop-updated-1480x779-636x335.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_3388" align="alignnone" width="636"\]![]({{ site.baseurl }}/assets/dave-matthews-band-2018-press-crop-updated-1480x779-636x335.jpg) Photo by René Huemer\[/caption\]
 
 _By David Taylor_
 

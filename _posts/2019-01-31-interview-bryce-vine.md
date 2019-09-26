@@ -6,15 +6,17 @@ categories:
 tags:
 - bryce vine
 - interview
-meta:
-  _bu_banner: 'a:7:{s:4:"type";s:5:"image";s:3:"url";s:32:"http://sites.bu.edu/wtbu/files/2019/01/     bryce.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3473";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}'
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/01/     bryce.jpg
+  alt: post lead image
 ---
+
 _By Grace Lauson_
 
 Bryce Vine is about to kick off his tour in Shippensburg, PA on February 2nd and will be playing Brighton Music Hall in Allston, MA on February 6th. WTBU journalist Grace Lauson chatted with Bryce about his upcoming tour and much more.

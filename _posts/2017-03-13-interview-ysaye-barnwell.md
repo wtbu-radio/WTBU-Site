@@ -8,16 +8,16 @@ tags:
 - interview
 - wtbu
 - ysaye barnwell
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:0:"";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/tumblr_inline_oluxbp1rB51swxv3i_500-498x636.jpg
+  alt: post lead image
 ---
-![tumblr_inline_oluxbp1rB51swxv3i_500]({{ site.baseurl }}/assets/tumblr_inline_oluxbp1rB51swxv3i_500-498x636.jpg)
 
 Dr. Ysaye Barnwell’s experience extends far beyond the limits of music. It begins with her membership as a rare female bass in the all-female African acappella group Sweet Honey in the Rock from the years 1973-2013. From there, Barnwell was extensively involved in the Civil Rights Movement, singing in, attending and organizing Marches. Today she travels the country, giving lectures and speaking to young activists about how to organize and use singing as a part of their protests. WTBU DJ Allie Miller spoke with her about the Boston Women’s March, African music and her advice for the activists of today.
 

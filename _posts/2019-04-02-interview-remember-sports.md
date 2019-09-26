@@ -5,15 +5,17 @@ categories:
 - Interviews
 tags:
 - remember sports
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:112:"http://sites.bu.edu/wtbu/files/2019/04/remember-sports-carly-hoskins-web_wide-95ca8c10babb255a02c7f698df8fda0369c7ceab-s800-c85.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4144";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/04/remember-sports-carly-hoskins-web_wide-95ca8c10babb255a02c7f698df8fda0369c7ceab-s800-c85.jpg
+  alt: post lead image
 ---
+
 _By Reed Romanko_
 
 WTBU DJ Reed Romanko talked on the phone with Remember Sports' Carmen Perry about their upcoming album and current tour. Remember Sports plays at ONCE in Somerville on April 8th. Tickets are available [here](https://www.oncesomerville.com/event/1828267-remember-sports-somerville/).

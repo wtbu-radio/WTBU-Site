@@ -10,16 +10,16 @@ tags:
 - jukebox the ghost
 - tommy siegel
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/26910538_10155327697925017_1975445340959050727_o-1024x1024.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_2592" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/26910538_10155327697925017_1975445340959050727_o-1024x1024.jpg) Photo by Shervin Lainez\[/caption\]
 
 WTBU DJ Danya Trommer chatted with Tommy Siegel, guitarist of indie pop band Jukebox the Ghost, about the band’s genesis, “demo-itis,” and what’s in store for the future. Check out the full audio here:
 

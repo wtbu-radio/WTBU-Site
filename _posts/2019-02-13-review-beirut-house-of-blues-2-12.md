@@ -6,15 +6,17 @@ categories:
 tags:
 - beirut
 - house of blues
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:65:"http://sites.bu.edu/wtbu/files/2019/02/1820e50b4406323a2f89731fc015b0bf86731879.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3736";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/02/1820e50b4406323a2f89731fc015b0bf86731879.jpeg
+  alt: post lead image
 ---
+
 _By Emy Takinami_
 
 The first song on Beirut’s impressive 24 song setlist was “When I Die” off their new album, _Gallipoli_, released just two weeks prior to the show. Zach Condon, Beirut’s frontman, claimed through his lyrics, “I promise that I’ll get it right/I’ve been practicing my whole life,” which isn’t far from the truth for the musician who’s been playing trumpet since he was a high school student in Santa Fe, New Mexico. Between dropping out of high school at 17 to travel the world and explore music to standing on stage at the House of Blues 16 years later, touring for his 5th studio album, it’s easy to see that Condon has indeed been practicing his whole life. Whether he gets it right or not depends on whether you believe Balkan folk, Mariachi Mexican, and electronic pop music are fit to blend.

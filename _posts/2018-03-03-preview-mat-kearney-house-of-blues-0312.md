@@ -11,16 +11,16 @@ tags:
 - mat kearney
 - preview
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-636x636.jpg
+  alt: post lead image
 ---
-![unnamed]({{ site.baseurl }}/assets/unnamed-636x636.jpg)
 
 Based in Nashville, singer-songwriter Mat Kearney has led a successful and exciting career thus far and has big plans for what’s next.  The future of 2018 for Kearney brings the release of his fifth studio album _CRAZYTALK_, from which the Oregon-born singer has previously released four singles, “Better Than I Used To Be,” “Face to Face,” “Don’t Cry For Me,” and “Kings and Queens.”
 

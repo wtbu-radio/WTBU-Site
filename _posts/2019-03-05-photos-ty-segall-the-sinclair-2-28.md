@@ -7,15 +7,17 @@ tags:
 - photos
 - the sinclair
 - ty segall
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:27:"http://sites.bu.edu/wtbu/files/2019/03/ty5.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3968";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/ty5.jpg
+  alt: post lead image
 ---
+
 _Photos by Maya Mabern_
 
 \[caption id="attachment\_3962" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/IMG_8548-1024x727.jpg) _Ty Segall by Maya Mabern_\[/caption\]

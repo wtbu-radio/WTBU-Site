@@ -6,15 +6,17 @@ categories:
 tags:
 - orpheum theatre
 - the kooks
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:38:"http://sites.bu.edu/wtbu/files/2019/02/the-kooksFinal.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3771";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/02/the-kooksFinal.jpg
+  alt: post lead image
 ---
+
 _By Julie Montana_
 
 Titans of the alt-rock scene, The Kooks are back again with their fifth studio album _Let's Go Sunshine._ The four-piece English band are no strangers to indie fans, but the rise of streaming platforms have allowed a new generation of listeners to tune into their upbeat, rhythmic sound. After enjoying more than ten years in the Spotify Top 200, The Kooks have truly cemented themselves into alt-rock history. But their newest era of hit music is just getting started.

@@ -9,15 +9,17 @@ tags:
 - middle east
 - middle east upstairs
 - the middle east
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:30:"http://sites.bu.edu/wtbu/files/2019/04/87-og.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4421";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/04/87-og.jpeg
+  alt: post lead image
 ---
+
 _By Isabela Rocha_
 
 On April 17th, the Los Angeles band Kolars played Upstairs at the Middle East Club. Their show was opened by the charismatic Calliope Musicals.

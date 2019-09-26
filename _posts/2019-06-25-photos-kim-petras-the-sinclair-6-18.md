@@ -8,15 +8,17 @@ tags:
 - monica sucic
 - photos
 - the sinclair
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:31:"http://sites.bu.edu/wtbu/files/2019/06/DSC0425.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4928";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/06/DSC0425.jpg
+  alt: post lead image
 ---
+
 _Photos by Monica Sucic_
 
 \[caption id="attachment\_4918" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/DSC0926-1024x683.jpg) _Kim Petras by Monica Sucic_\[/caption\]

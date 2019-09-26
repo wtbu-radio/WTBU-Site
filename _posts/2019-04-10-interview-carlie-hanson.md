@@ -5,15 +5,17 @@ categories:
 - Interviews
 tags:
 - carlie hanson
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:51:"http://sites.bu.edu/wtbu/files/2019/04/771042083-carlie_hanson_web.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4236";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/04/771042083-carlie_hanson_web.jpg
+  alt: post lead image
 ---
+
 _By Grace Lauson_
 
 Carlie Hanson is about to kick off her tour where she will be opening up for the Bad Suns. She is playing on Saturday, April 20th at the Royale in Boston, MA. WTBU journalist. Grace Lauson chatted with Carlie about her daily life, the upcoming tour, and much more.

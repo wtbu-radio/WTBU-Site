@@ -4,16 +4,16 @@ title: 'DJ Spotlight: Lucas Williams'
 categories:
 - Interviews
 tags: []
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: efrantz
   email: efrantz@bu.edu
   display_name: Emily Frantz
   first_name: Emily
   last_name: Frantz
+image:
+  src: {{ site.baseurl }}/assets/Lucas-477x636.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_576" align="alignnone" width="477"\]![Processed with VSCO with a6 preset]({{ site.baseurl }}/assets/Lucas-477x636.jpg) _Photo/Interview by Max Crossan_\[/caption\]
 
 Lucas Williams
 

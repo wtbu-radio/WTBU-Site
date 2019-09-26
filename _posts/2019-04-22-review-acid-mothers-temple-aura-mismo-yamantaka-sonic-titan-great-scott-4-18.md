@@ -9,15 +9,17 @@ tags:
 - great scott
 - sonic titan
 - yamantaka
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:66:"http://sites.bu.edu/wtbu/files/2019/04/AcidMothersTemple-photo2018-e1524258021538.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4462";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/04/AcidMothersTemple-photo2018-e1524258021538.jpg
+  alt: post lead image
 ---
+
 _By Jack Beck_
 
 Did you ever think how low the odds of all this happening are? Your parents had to meet and do all the things they did in the exact way they did them for you to be here. And their parents had to meet and do all the things they did in the exact way they did them for your parents to be here. Same for their parents, and their parent’s parents, and so on. Then you had to do all the things you did in the exact way you did them (and do all the things you do in the exact way you do them) and because of all those people doing all those things in their own special way, and also all of Acid Mothers Temple’s parents and grandparents and great-grandparents and so on doing all their own things in their own special way, you’re here, reading this review of Acid Mothers Temple at Great Scott last Thursday. Crazy.

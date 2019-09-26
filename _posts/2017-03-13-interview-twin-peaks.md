@@ -9,16 +9,16 @@ tags:
 - interview
 - twin peaks
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:0:"";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/tumblr_inline_o7jb10AvhQ1swxv3i_500-1-636x636.png
+  alt: post lead image
 ---
-![tumblr_inline_o7jb10AvhQ1swxv3i_500]({{ site.baseurl }}/assets/tumblr_inline_o7jb10AvhQ1swxv3i_500-1-636x636.png)
 
 Chicago-rockers Twin Peaks kicked off the U.S. leg of their North American tour on May 18 at The Sinclair in Cambridge, Massachusetts. The band is touring their third album, “Down in Heaven,” with fellow Chicago natives, NE-HI and Jimmy Whispers. WTBU DJ Olivia Gehrke sat down with Jack Dolan (bassist, vocalist, songwriter) and Clay Frankel (guitarist, vocalist, songwriter) before the show to discuss the creating and touring of their latest album, released on May 13.
 

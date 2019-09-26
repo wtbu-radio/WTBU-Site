@@ -13,15 +13,17 @@ tags:
 - sad summer festival
 - state champs
 - the maine
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:44:"http://sites.bu.edu/wtbu/files/2019/07/SadSummerFest2019-44.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5132";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/07/SadSummerFest2019-44.jpg
+  alt: post lead image
 ---
+
 _By Maggie Leone_
 
 When you think of summer, the word “sad” most likely is not one of the first adjectives that comes to mind.  But for a generation that grew up on Warped Tour, the new Sad Summer Festival is the perfect remedy for a Warped-less summer.  While the name seems dreary, the atmosphere could not be any more opposite.  Bubblegum pink signage and inflatable pool toys surround the concert grounds, making for an interesting environment for pop-punk enthusiasts to thrive.  On the hottest day of the year in Pittsburgh, concert-goers relished the experience, hydrating as much as possible and finding pockets of shade, but moshing nonetheless.

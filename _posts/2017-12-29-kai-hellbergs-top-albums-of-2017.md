@@ -10,20 +10,20 @@ tags:
 - top albums of 2017
 - wtbu
 - year ender
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/a1384328309_10-636x636.jpg
+  alt: post lead image
 ---
+
 WTBU DJ Kai Hellberg compiled a list and shared his thoughts on the top 10 albums of 2017.
 
 **10.** **Milo - _Who Told You To Think?​?​!​!​?​!​?​!​?​!_**  
-![a1384328309_10]({{ site.baseurl }}/assets/a1384328309_10-636x636.jpg)  
-“This the last call for those real MCs,” Milo calls out on his most recent effort, “Who Told You To Think??!!?!?!?!,” a piece of abstract hip-hop that re-emphasizes the poetic side of rapping. Ever since the release of MF DOOM and Madlib’s _Madvillainy_ in 2004, there’s been an artistic benchmark for abstract MCs, and Milo is certainly on his way to reaching it. He isn’t being flashy about his monetary gain or romantic success. As he says, “my vocabulary pays my rent,” and with this wildly introspective and enigmatic record, it’s safe to say his landlord will be pleased with Milo’s effort.
 
 Favorite Tracks: “Sorcerer,” “The Young Man Has A Point (Nurture),” “Poet (Black Bean)”
 

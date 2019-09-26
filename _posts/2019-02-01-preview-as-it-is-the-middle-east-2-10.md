@@ -6,15 +6,17 @@ categories:
 tags:
 - as it is
 - middle east
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:61:"http://sites.bu.edu/wtbu/files/2019/01/86020BAB-5B08-4446-8C74-3C8832DE4387.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3478";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/01/86020BAB-5B08-4446-8C74-3C8832DE4387.jpeg
+  alt: post lead image
 ---
+
 _By_ _Maggie_ _Leone_
 
 The Great Depression will be hitting Boston on February 10th, 2019 when the Brighton, UK based pop-punk band, As It Is, plays at the Middle East (downstairs).  The tour follows the release of their album of the same name on August 10th, 2018.

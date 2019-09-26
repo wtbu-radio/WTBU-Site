@@ -11,16 +11,16 @@ tags:
 - review
 - rock
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/fb_meta_ember_breaking_benjamin-636x332.jpg
+  alt: post lead image
 ---
-![fb_meta_ember_breaking_benjamin]({{ site.baseurl }}/assets/fb_meta_ember_breaking_benjamin-636x332.jpg)
 
 On Friday, April 13, Breaking Benjamin released their sixth studio album, _Ember_. Featuring 12 tracks, including the single "Red Cold River," _Ember_ is a powerful exhibition of Breaking Benjamin's potential in both performance and songwriting. Unlike their previous album, _Dark Before Dawn_, _Ember_ attempts to tackle heavier issues in its songs, such as identity, mental health, and morality while lead singer Benjamin Burnley explores a new depth to his vocal abilities. For longtime fans of Breaking Benjamin and first time listeners of modern rock, _Ember_ holds a compelling and moving collection of songs that will not disappoint.
 

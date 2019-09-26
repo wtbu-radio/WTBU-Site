@@ -8,15 +8,17 @@ tags:
 - empress of
 - photos
 - salt cathedral
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:36:"http://sites.bu.edu/wtbu/files/2019/02/Empress-Of-4.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3894";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/02/Empress-Of-4.jpg
+  alt: post lead image
 ---
+
 _By Ioanna Karageorge_
 
 R&B electropop queen Empress Of, also known as Lorely Rodriguez, returned to Boston this past Sunday to play a set at Allston’s Brighton Music Hall. Previously graduating from Berklee School of Music, Rodriguez now has two studio albums out, _Me_ and _Us_, the latter being just released in October of 2018. Opening for her was Salt Cathedral, a Columbia-raised duo who got the crowd starting to dance with their eclectic tropical rhythms. Empress Of then excitedly took the stage in a green iridescent two-piece sewn by her own mother. Performing a mix of songs from single tracks to songs off both of her albums, she danced around stage like she was truly excited by and proud of her music. This feeling radiated to the audience who were especially rowdy when she played the tracks “Water Water” and “Woman Is A Word” which are characteristic of her confident and honest lyricism.

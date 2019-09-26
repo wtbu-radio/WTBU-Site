@@ -6,15 +6,17 @@ categories:
 tags:
 - jacob collier
 - the royale
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:102:"http://sites.bu.edu/wtbu/files/2019/03/small-jacob-collier-artist-photo_wide-0d8240767c95f2b67ac05990de80a0a557f152fd.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3951";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/small-jacob-collier-artist-photo_wide-0d8240767c95f2b67ac05990de80a0a557f152fd.jpg
+  alt: post lead image
 ---
+
 _By Chris Bunting_
 
 On March 3rd, musical wunderkind Jacob Collier graced the stage of Royale in Boston while touring for his album _Djesse Vol 1_. Collier explained the album is one of four based around a titular character that represents “the inner child who creates freely”. His performance embodied that concept wonderfully.

@@ -10,16 +10,16 @@ tags:
 - interview
 - miles michaud
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:0:"";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/Allah-Las_204015-613x636.jpg
+  alt: post lead image
 ---
-![Allah-Las performs at Piknik i Parken in Oslo on 25. June 2016. Lineup: Matthew Correia (percussion) Spencer Dunham (bass) Miles Michaud (guitar / vocal) Pedrum Siadatian (guitar)]({{ site.baseurl }}/assets/Allah-Las_204015-613x636.jpg)
 
 WTBU DJ Emily Pintor recently spoke to Miles Michaud, the lead singer of the Allah-Las, about the band’s beginnings, their latest album, and college radio. The LA native surf rock band is playing Brighton Music Hall on March 25  at 8 p.m. with Babe Rainbow.
 

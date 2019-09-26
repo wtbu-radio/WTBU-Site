@@ -12,15 +12,17 @@ tags:
 - osheaga music and arts festival
 - osheaga music festival
 - review
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:31:"http://sites.bu.edu/wtbu/files/2019/07/osheaga.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5048";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/07/osheaga.jpg
+  alt: post lead image
 ---
+
 _By Allie Antonevich_
 
 From August 2-4, more than 130,000 festival goers flocked to Montreal, Quebec, for the 14th edition of Osheaga. Founded in 2006, the popular Canadian event took place at the newly renovated site at Espace 67 of Parc Jean-Drapeau, a beautiful island that holds the Montreal skyline in view.

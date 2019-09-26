@@ -11,16 +11,16 @@ tags:
 - review
 - td garden
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/31764032693_37d98a2b62_b-636x384.jpg
+  alt: post lead image
 ---
-![31764032693_37d98a2b62_b]({{ site.baseurl }}/assets/31764032693_37d98a2b62_b-636x384.jpg)
 
 The anticipation for Ed Sheeran at TD Garden Friday night was palpable throughout the arena as the crowd shuffled in during James Blunt’s opening set. That excited tension ended at roughly 8:40pm when the lights went out and Sheeran casually walked on stage and began singing “Castle on the Hill” as the crowd erupted into screams and applause. Behind him was a vivid and bright autumn scene, displayed uniquely on a row of tall and narrow LED screens which surrounded his one-man setup on the center of the stage.
 

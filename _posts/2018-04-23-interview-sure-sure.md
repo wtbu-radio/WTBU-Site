@@ -9,16 +9,16 @@ tags:
 - interview
 - sure sure
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-3-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1560" align="alignnone" width="636"\]![Photo by Monica Sucic]({{ site.baseurl }}/assets/unnamed-3-636x424.jpg) Photo by Monica Sucic\[/caption\]
 
 _On April 17, WTBU DJ Monica Sucic sat down with LA’s Sure Sure before their sold-out show at the Middle East Upstairs. Coming off of a successful winter tour with Hippo Campus, vocalist and “keysman” Chris Beachy, vocalist and guitarist Charlie Glick, producer and bassist Mike Coleman, and drummer Kevin Farzad are currently on their very first headlining tour across North America. The Californian quartet talked about their unique recording studio, their first tour, and Baja Fresh._
 

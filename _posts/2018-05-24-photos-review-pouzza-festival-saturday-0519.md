@@ -13,16 +13,16 @@ tags:
 - pouzza festival
 - review
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/anti-queens-1-636x357.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1648" align="alignnone" width="636"\]![Anti-Queens / Photo by Zoe Salvucci]({{ site.baseurl }}/assets/anti-queens-1-636x357.jpg) Anti-Queens / Photo by Zoe Salvucci\[/caption\]
 
 In Montreal last weekend, punk fans young and old from all over Canada flocked to the Quartier Des Spectacles for the 8th annual Pouzza Fest, a hardcore music festival taking place in one weekend every May. Headliners this year included Anti-Flag, Face to Face, and Reel Big Fish, who closed out Saturday night.
 

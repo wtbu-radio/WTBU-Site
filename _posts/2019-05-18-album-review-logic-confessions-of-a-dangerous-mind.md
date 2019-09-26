@@ -8,15 +8,17 @@ tags:
 - confessions of a dangerous mind
 - jarrad levy
 - logic
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:30:"http://sites.bu.edu/wtbu/files/2019/05/Logic.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4716";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/05/Logic.jpeg
+  alt: post lead image
 ---
+
 _By Jarrad Levy_
 
 In his sixth studio album, Logic delivers the most controversial and surface level release of his ten year career.

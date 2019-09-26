@@ -11,16 +11,16 @@ tags:
 - los colognes
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/DUkY1cvUMAAMzeU.jpg-large-636x358.jpeg
+  alt: post lead image
 ---
-![DUkY1cvUMAAMzeU.jpg-large]({{ site.baseurl }}/assets/DUkY1cvUMAAMzeU.jpg-large-636x358.jpeg)
 
 After a blast of Southern rock from Nashville-based opener Los Colognes, Blues Traveler made their way onto the stage at House of Blues as a high-energy walk-on song played in the background, kicking off the second leg of their 30th anniversary tour. Clad in his characteristic black hat, front man/harmonica virtuoso John Popper led the group in the instrumental jam “Mountain Cry,” featuring fantastic slap technique from bassist Tad Kinchla, before leading into an extended version of their tune “But Anyway.” Although I was initially skeptical of how well the group would improvise, each band member churned out impressive and energetic solos throughout the night, even going so far as to step offstage during others’ solos as in the jazz tradition. Beyond their individual talents, the band was also tight as a unit. After so many years of playing together, the band has a great sense of each other’s playing that allowed them to take their blues-infused pop songs in unexpected directions.
 

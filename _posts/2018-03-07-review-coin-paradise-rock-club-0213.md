@@ -11,16 +11,16 @@ tags:
 - review
 - the aces
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-1-1-636x360.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1362" align="alignnone" width="636"\]![Photo by Monica Sucic]({{ site.baseurl }}/assets/unnamed-1-1-636x360.jpg) Photo by Monica Sucic\[/caption\]
 
 The American alt-pop band COIN headlined Paradise Rock Club on Feb. 13, where they almost tore a speaker off the ceiling. Literally.
 

@@ -11,16 +11,16 @@ tags:
 - r&amp;b
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/maxresdefault-636x358.jpg
+  alt: post lead image
 ---
-![maxresdefault]({{ site.baseurl }}/assets/maxresdefault-636x358.jpg)
 
 _In Tongues_ is the first EP from producer and R&B singer Joji. This is not the first musical venture for Joji, or as his birth certificate states, George Miller. Miller is well known on YouTube as Filthy Frank, where he plays a cast of colorful characters. He explores controversial topics and internet/meme culture through crude and absurd humor, pulling ridiculous stunts for his audience to laugh or cringe at. Under the name Pink Guy, one of the characters on his channel, Miller has released two comedic albums that will go down in meme history. Now Miller is making the transition from the absurdity of Pink Guy to music with a more serious tone and feel. I started following Joji after his single “I Don’t Wanna Waste My Time,” and have been interested to see what he would pull together for his first official project.
 

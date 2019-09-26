@@ -10,16 +10,16 @@ tags:
 - interview
 - tj petracca
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/17626282_617944675063156_3602859747503545936_n.jpg
+  alt: post lead image
 ---
-![]({{ site.baseurl }}/assets/17626282_617944675063156_3602859747503545936_n.jpg)
 
 Emo Nite and 3OH!3 are currently on their WANT House Party Tour with Lil Aaron. They played Boston on Nov. 25 and are looking forward to the rest of their tour within the United States. WTBU journalist Grace Lauson chatted with Berklee grad and co-founder of [Emo Nite](https://emonite.com/) TJ Petracca.
 

@@ -9,16 +9,16 @@ tags:
 - declan mckenna
 - preview
 - what do you think about the car
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/9df5d48735ce27933a24_Sophie-Green-636x517.jpg
+  alt: post lead image
 ---
-![9df5d48735ce27933a24_Sophie-Green]({{ site.baseurl }}/assets/9df5d48735ce27933a24_Sophie-Green-636x517.jpg)
 
 After making a name for himself with his hit single “Brazil” in 2015, British singer-songwriter Declan McKenna released his first full-length album, _What Do You Think About the Car?_ on July 21, 2017.
 

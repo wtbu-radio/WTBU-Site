@@ -9,15 +9,17 @@ tags:
 - lauren jenkins
 - the wild feathers
 - wild feathers
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:76:"http://sites.bu.edu/wtbu/files/2019/06/twf_056_preview-f7f94adf-6b17-4ac5-a19c-ce2a05ecd91b.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4837";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/06/twf_056_preview-f7f94adf-6b17-4ac5-a19c-ce2a05ecd91b.jpg
+  alt: post lead image
 ---
+
 _By Alyssa Lai_
 
 So it’s 8PM, a Friday night, and you have a 7AM shift at you job tomorrow morning. You’ve just spent the entire day lounging around your apartment, and damn, you really want to go out and dance the night away with some good music, but you don’t exactly want to get carried away… Since, you know, you have to wake up early for that job. This was my situation last weekend, but don’t worry, there’s a happy ending here. Rather than heading out to a nightclub and regretting my decisions in 11 hours, I spent my evening at Brighton Music Hall, enjoying the music of Lauren Jenkins and The Wild Feathers.

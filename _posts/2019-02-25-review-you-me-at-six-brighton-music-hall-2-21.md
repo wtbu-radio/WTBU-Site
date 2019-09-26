@@ -6,15 +6,17 @@ categories:
 tags:
 - brighton music hall
 - you me at six
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:55:"http://sites.bu.edu/wtbu/files/2019/02/you-me-at-six-929694254-700x420.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3865";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/02/you-me-at-six-929694254-700x420.jpg
+  alt: post lead image
 ---
+
 _By Jarrad Levy_
 
 On Thursday, February 21st, You Me at Six began the next leg of their current tour promoting their new album, _IV_.

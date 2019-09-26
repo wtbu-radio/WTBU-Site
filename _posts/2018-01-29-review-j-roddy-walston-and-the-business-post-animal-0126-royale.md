@@ -11,16 +11,16 @@ tags:
 - review
 - royale
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/23456292_10155291223290787_596071891846557662_o-636x636.jpg
+  alt: post lead image
 ---
-![23456292_10155291223290787_596071891846557662_o]({{ site.baseurl }}/assets/23456292_10155291223290787_596071891846557662_o-636x636.jpg)
 
 Post Animal opened up for J Roddy Walston and the Business at the Royale on Friday night. It was an early show, with Post Animal starting at 7 p.m. and J. Roddy Walston at 8 p.m. Most of the crowd arrived nearing the end of Post Animal’s set, which was a real shame for them because they missed out on the real stars of the show. They are a five-piece band, consisting of bassist and singer Dalton Allison, Jake Hirshland on guitar and keys, Wes Toledo on drums, and both Javi Reyes and Matt Williams on guitar. Occasionally, Stranger Things star Joe Keery also appears on guitar, because you can never have enough guitars.
 

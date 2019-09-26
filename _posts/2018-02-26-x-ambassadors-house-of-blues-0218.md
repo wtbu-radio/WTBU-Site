@@ -10,16 +10,16 @@ tags:
 - review
 - wtbu
 - x ambassadors
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-2-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1329" align="alignnone" width="636"\]![Photo by Katie Evans]({{ site.baseurl }}/assets/unnamed-2-636x424.jpg) Photo by Katie Evans\[/caption\]
 
 After a spending time working on new music, X Ambassadors have returned to the touring world by kicking off a short February tour. They performed a sold out show at the House of Blues in Boston on Feb. 18.
 

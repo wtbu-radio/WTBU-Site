@@ -10,16 +10,16 @@ tags:
 - interview
 - remo drive
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-1-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_822" align="alignnone" width="636"\]![Photo by Monica Sucic]({{ site.baseurl }}/assets/unnamed-1-636x424.jpg) Photo by Monica Sucic\[/caption\]
 
 Twin Cities based Remo Drive played Sonia this weekend on Saturday, September 9th, to start off the last week of their first headlining tour. Made up of lead singer and guitarist Erik Paulson, bassist Stephen Paulson, drummer Sam Mathys, and second guitarist Zack Cummings, Remo Drive has entered the emo scene with their highly-praised debut album, _Greatest Hits_. The album, released in March, includes their popular singles “Crash Test Rating” and “Yer Killin’ Me,” whose music video has over 800,000 views on YouTube. WTBU DJ Monica Sucic sat down with them before the show to discuss the album, music videos, and more.
 

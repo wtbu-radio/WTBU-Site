@@ -13,16 +13,16 @@ tags:
 - review
 - sinclair
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/a3385549727_10-636x636.jpg
+  alt: post lead image
 ---
-![a3385549727_10]({{ site.baseurl }}/assets/a3385549727_10-636x636.jpg)
 
 On Thursday night, Nov. 30, Beach Slang an American punk rock band from Philadelphia hit the Sinclair stage—hard. The Boston concert also featured Dave Hause and the Mermaid, and Homeless Gospel Tour.
 

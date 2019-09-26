@@ -6,15 +6,17 @@ categories:
 tags:
 - brighton music hall
 - sasami
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:38:"http://sites.bu.edu/wtbu/files/2019/04/SASAMI-920x584.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4457";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/04/SASAMI-920x584.jpg
+  alt: post lead image
 ---
+
 _By Angel Kim_
 
 SASAMI (Sasami Ashworth) will headline at Brighton Music Hall this Saturday, April 27, with support from Sen Morimoto. She is currently touring her self-titled debut album that was released on March 8. Previously, singles “[Callous](https://www.youtube.com/watch?v=-2eGnkiy26g)” and “[Not the Time](https://www.youtube.com/watch?v=T61l0Qlo-1E)” were released in 2018 and “[Jealousy](https://www.youtube.com/watch?v=Uo5SBdEbEHs)” was released in early 2019. Ashworth describes _SASAMI_’s lyrics as “a mix of a diary and a collection of letters, written but never sent, to people I've been intimately involved with in one way or another.” Even though _SASAMI_ is Ashworth’s first solo album, the Los Angeles-based singer, songwriter, producer, composer, and multi-instrumentalist has been making music for years, from studying French horn classically to playing synths for rock band Cherry Glazerr from 2015 to 2018.

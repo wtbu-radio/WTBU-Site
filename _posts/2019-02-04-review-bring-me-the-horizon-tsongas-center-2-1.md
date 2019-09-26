@@ -7,15 +7,17 @@ tags:
 - bring me the horizon
 - review
 - tsongas center
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:63:"http://sites.bu.edu/wtbu/files/2019/02/bring-me-the-horizon-press-2015-770x470.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3640";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/02/bring-me-the-horizon-press-2015-770x470.jpg
+  alt: post lead image
 ---
+
 _By Jarrad Levy_
 
 Bring Me the Horizon has such a variety of music in their catalogue that is all masterful and passionate in its own way. Whether it be hardcore, metal, rock, or pop - it is all done with a vigor and passion usually unseen in a band that does performs only one of those genres. This presence was not lost in the band’s on-stage performance.

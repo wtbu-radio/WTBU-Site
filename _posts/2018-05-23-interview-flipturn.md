@@ -8,17 +8,17 @@ tags:
 - flipturn
 - interview
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/flipturn-group-shot-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1632" align="alignnone" width="636"\]![Photo by Monica Sucic]({{ site.baseurl }}/assets/flipturn-group-shot-636x424.jpg) Photo by Monica Sucic\[/caption\]  
-Coming off the release of their second EP, Florida-based Flipturn has journeyed up the East Coast on their first tour. The band is composed of Dillon Basse on lead vocals and guitar, Tristan Duncan on lead guitar, Madeline Jarman on bass, Taylor Allen on keys and guitar, and Adrian Walker on drums. This group of college students has shown extreme progress during their few years as a band, and they've solidified their sound with two driven and passionate indie rock EPs. From an initial listen of the newest EP,_ Citrona_, you can tell that they bring a lot to the table. There are powerful rock tracks like “Churches,” “Nickels,” and “Six Below” that balance out two softer songs, “August” and “Hippies.” Before their show at The Lilypad on May 15th, WTBU DJ Monica Sucic chatted with the group about the EP, 14 hour drives, and U2. 
+
 
 **Monica Sucic: How was the release of ****_Citrona_**** different from the release of ****_Heavy Colors_****?**
 

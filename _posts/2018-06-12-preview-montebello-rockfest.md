@@ -10,16 +10,16 @@ tags:
 - montebello rockfest 2018
 - preview
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/rockfest18_afficheWEB_FINAL_en-773x1024.jpg
+  alt: post lead image
 ---
-![Rockfest2018]({{ site.baseurl }}/assets/rockfest18_afficheWEB_FINAL_en-773x1024.jpg)
 
 In a few days’ time, crowds of punks from all over Canada will be setting up camp in Quebec for the 13th annual Montebello Rockfest, a three day festival celebrating punk, ska, hardcore, and metal music taking place in June every year. Founded in 2005 by a then-17-year-old Alex Martel, the festival has since grown to become the largest rock festival in all of Canada. Exploding in popularity since 2005, in which the festival attracted 500 fans, it has sold roughly 200,000 tickets every year since the 2014 edition.
 

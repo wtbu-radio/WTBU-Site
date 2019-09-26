@@ -6,15 +6,17 @@ categories:
 tags:
 - interview. colin dieden
 - the mowglis
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:42:"http://sites.bu.edu/wtbu/files/2019/03/THEMOWGLI_1600x900.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4013";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/THEMOWGLI_1600x900.jpg
+  alt: post lead image
 ---
+
 WTBU DJ Kate Evans chatted with Colin Dieden, vocalist and guitarist of The Mowgli's, about their current tour with Jukebox the Ghost. The tour stops in Boston at the Royale on March 28th. Tickets are available [here](https://www.axs.com/events/366806/jukebox-the-ghost-the-mowgli-s-tickets?skin=boweryboston&src=CFC_BOSBOWERY_jukeboxmowglis_royale_2019_royalesite).
 
 **Kate Evans: So you’re currently on a co-headline tour across the U.S. with Jukebox the Ghost. How is it going?**

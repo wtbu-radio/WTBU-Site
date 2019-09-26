@@ -11,16 +11,16 @@ tags:
 - led zeppelin
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/15027371_10154114639034856_1651253087234316206_n-636x242.png
+  alt: post lead image
 ---
-![15027371_10154114639034856_1651253087234316206_n]({{ site.baseurl }}/assets/15027371_10154114639034856_1651253087234316206_n-636x242.png)
 
 On Tuesday, Nov. 28, Jason Bonham’s Led Zeppelin Experience played the House of Blues as a part of their annual winter tour. Founding member Jason Bonham, son of the late Led Zeppelin drummer John Bonham, crafted a group of band members that mimic the ‘70s blues rock band almost exactly. Jason, along with Dorian Heartsong on bass and Alex Howland on keyboards and guitar, found later on in this project’s timeline the two remaining members that would turn the band into a visual representation of Zeppelin themselves. They found their singer, James Dylan on YouTube. He posted videos of Zeppelin covers, sounding just like Robert Plant in his prime. When their original guitarist, Tony Catania, who had worked with Bonham on many projects previously, left the band, they found their very own Jimmy Page. Jimmy Sakurai, a long time Page impersonator, not only mimics his sloppy blues guitar sound, but also happens to be the spitting image of the world famous guitar god.
 

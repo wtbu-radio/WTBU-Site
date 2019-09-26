@@ -12,16 +12,16 @@ tags:
 - ne-hi
 - the owens
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/IMG_0725.JPG-636x393.jpeg
+  alt: post lead image
 ---
-![IMG_0725.JPG]({{ site.baseurl }}/assets/IMG_0725.JPG-636x393.jpeg)
 
 Much has changed since the last time NE-HI graced the stage of the Middle East Upstairs this past March. For one, their album _Offers_, a one-month old babe at the time of their last tour, has since fully matured and gained heavy traction. And as guitarist and vocalist Jason Balla had pointed out, it wasn’t raining ice chunks, making this mild September Boston night seem a little less apocalyptic. One constant, though, was the infectious level of energy that has become a staple of NE-HI’s live shows.
 

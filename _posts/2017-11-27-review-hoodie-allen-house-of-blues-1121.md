@@ -11,16 +11,16 @@ tags:
 - review
 - the hype
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/21013812_10154822668483314_727183814323462266_o-636x636.jpg
+  alt: post lead image
 ---
-![21013812_10154822668483314_727183814323462266_o]({{ site.baseurl }}/assets/21013812_10154822668483314_727183814323462266_o-636x636.jpg)
 
 When you hear the name “Hoodie Allen,” you probably think back to water bottles full of your parent’s vodka, sneaking into the city, and making out with strangers on the sides of the venue. While it’s true Hoodie Allen was widely known by the younger generation for his 2012 single “No Interruption,” he has come a long way as an artist since then. Dropping below the radio radar after that hit, Hoodie—also known as Steven Markowitz—continued to pump out albums year after year, solidifying a dedicated fanbase with his self-aware rap and down-to-earth interaction with fans both in person and on social media.
 

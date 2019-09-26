@@ -12,16 +12,16 @@ tags:
 - matt simons
 - preview
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/30124529_10160120175580507_4309694674433474560_n.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_3184" align="alignnone" width="960"\]![]({{ site.baseurl }}/assets/30124529_10160120175580507_4309694674433474560_n.jpg) Photo by Shervin Lainez\[/caption\]
 
 Matt Simons is currently finishing up the international leg of his tour. He has an upcoming show in Boston this Monday Nov. 12. Simons is most known for his song “Catch and Release” and has just released a new single called “We Can Do Better.” He looks forward to releasing his album later this year. WTBU writer Grace Lauson chatted with Simons about being on the road, writing hits, and growing up in a musical family.
 

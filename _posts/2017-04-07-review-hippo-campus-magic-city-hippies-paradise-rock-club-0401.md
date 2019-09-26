@@ -11,17 +11,17 @@ tags:
 - paradise rock club
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-636x357.jpg
+  alt: post lead image
 ---
-![unnamed]({{ site.baseurl }}/assets/unnamed-636x357.jpg)  
-_(Photos by Monica Sucic)_
+
 
 On Saturday, April 1, Hippo Campus headlined the Paradise Rock Club as a part of the East Coast leg of their 2017 _Landmark_ Tour. After releasing EPs in 2014 (_Bashful Creatures)_ and 2015 (_South)_, the Minnesota-based band released their first full album, _Landmark_, this past February. Hippo Campus is made up of frontman and guitarist Jake Luppen, guitarist Nathan Stocker, bassist Zach Sutton, and drummer Whistler Allen.
 

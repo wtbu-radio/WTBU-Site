@@ -7,15 +7,17 @@ tags:
 - barrie
 - interview
 - sxsw
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:29:"http://sites.bu.edu/wtbu/files/2019/04/image.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4414";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/04/image.jpg
+  alt: post lead image
 ---
+
 _By Allie Antonevich_
 
 At SXSW, WTBU DJ Allie Antonevich interviewed Barrie, a Brooklyn-based band, at Historic Scoot Inn during the B+Q BBQ Day Party. Just coming off their tour with Miya Folick, their debut LP, “Happy To Be Here,” is out May 3rd.

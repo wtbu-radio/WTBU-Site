@@ -11,16 +11,16 @@ tags:
 - radio
 - review
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-8-1024x678.jpg
+  alt: post lead image
 ---
-\[caption class="single-post-image" id="attachment\_2086" align="alignnone" width="710"\]![Boston Calling Music Festival attendees wait for Jack White's headlining performance on May 26, 2018. Photo by Miranda Suarez / WTBU.]({{ site.baseurl }}/assets/unnamed-8-1024x678.jpg) Boston Calling Music Festival attendees wait for Jack White's headlining performance on May 26, 2018. Photo by Miranda Suarez / WTBU.\[/caption\]
 
 \[audio mp3="http://sites.bu.edu/wtbu/files/2018/06/Boston-Calling-Sunday-Diehards.mp3"\]\[/audio\]
 

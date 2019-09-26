@@ -9,16 +9,16 @@ tags:
 - craig owens
 - interview
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:0:"";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/tumblr_inline_okf25aKzyq1swxv3i_500-1.jpg
+  alt: post lead image
 ---
-![tumblr_inline_okf25aKzyq1swxv3i_500]({{ site.baseurl }}/assets/tumblr_inline_okf25aKzyq1swxv3i_500-1.jpg)
 
 When an artist drastically changes up their style of music, it’s generally a hit or miss for fans. In ex-Chiodos frontman Craig Owens’ case, his new alternative urban sound, presented under the name badXchannels, seems to definitely be a bullseye. Radio hosts of “Jalapeño Peppers” Ezgi Toper and Claudia Quadrino sat down with badXchannels after his show at the Middle East in Cambridge on Dec. 10, 2016. He was touring for his newly released debut EP WHYDFML. Owens seems to be comfortable and confident in his new style and project.
 

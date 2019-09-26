@@ -8,16 +8,16 @@ tags:
 - cub sport
 - interview
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/0-1.jpeg
+  alt: post lead image
 ---
-![]({{ site.baseurl }}/assets/0-1.jpeg)
 
 Australian indie-pop band Cub Sport just wrapped up their fall tour in the US and Canada. The band–comprised of lead singer Tim Nelson, keyboardist Sam “Bolan” Netterfield, bassist Zoe Davis, and drummer Dan Puusaari–has had an eventful year after releasing their sophomore record, _Bats_, in 2017. They toured from late February to early May, supported Vance Joy throughout September, then hit the road again in October. Nelson and Netterfield, who publicly announced their engagement last year, got married in August–all while finishing their third, self-titled album, set to release on Jan. 19. WTBU writer Angel Kim chatted with Nelson and Netterfield before their show at the Red Room at Cafe 939 on Nov. 8.
 

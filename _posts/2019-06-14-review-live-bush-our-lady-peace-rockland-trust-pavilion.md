@@ -9,15 +9,17 @@ tags:
 - olivia gehrke
 - our lady peace
 - rockland trust pavilion
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:98:"http://sites.bu.edu/wtbu/files/2019/06/75d5f6e2-87be-41a5-b137-ecb7584ef6fc-Main_ShotLIVE_by_Clay_Patrick_McBride.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4829";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/06/75d5f6e2-87be-41a5-b137-ecb7584ef6fc-Main_ShotLIVE_by_Clay_Patrick_McBride.jpg
+  alt: post lead image
 ---
+
 _By Olivia Gehrke_
 
 There wouldn’t be nearly as much to say about the ‘90s if 1994 disappeared from the picture. Seminal rock ‘n’ roll albums would never have graced the airwaves. No _Jar of Flies_ by Alice in Chains, or Weezer’s Blue Album. No _Dookie_ by Green Day, no _Parklife_ by Blur or _Definitely Maybe_ by Oasis. Nirvana’s MTV Unplugged session wouldn’t have changed the world, and Soundgarden’s _Super Unknown_ would cease to exist. Ah yes, 1994. A year to remember, if not revel in.

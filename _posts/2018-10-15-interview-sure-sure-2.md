@@ -14,16 +14,16 @@ tags:
 - preview
 - sure sure
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/41368496_977729265770858_9127058825466085376_n.jpg
+  alt: post lead image
 ---
-![]({{ site.baseurl }}/assets/41368496_977729265770858_9127058825466085376_n.jpg)
 
 Californian indie pop four-piece Sure Sure is bopping their way across the country on their “first ever third tour” this fall. After soaring off the success of their first two tours earlier in 2018, guitarist Charlie Glick, drummer Kevin Farzad, bassist and self-proclaimed “GOAT” Michael Coleman, and “keysman” Chris Beachy have been ecstatically cooking up new tunes and preparing for tour. WTBU journalist Monica Sucic chatted with Sure Sure for the first ever second time.   
 

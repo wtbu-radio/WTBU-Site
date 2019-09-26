@@ -12,16 +12,16 @@ tags:
 - the maine
 - the social animals
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-1-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_791" align="alignnone" width="636"\]![Photo by Daniella Weiss]({{ site.baseurl }}/assets/unnamed-1-636x424.jpg) Photo by Daniella Weiss\[/caption\]
 
 The first weekend of August saw the return of a few of emo music’s most notable names to Boston through Dashboard Confessional's summer headlining tour. The tour’s stop at Blue Hills Bank Pavilion, which overlooks the Boston harbor on a crisp summer night, consisted of the emo rock group taking the stage following three popular openers of the same musical vein.
 

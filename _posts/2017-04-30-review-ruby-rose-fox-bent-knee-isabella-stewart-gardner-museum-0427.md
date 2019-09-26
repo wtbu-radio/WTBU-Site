@@ -10,16 +10,16 @@ tags:
 - rise concert series
 - ruby rose fox
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/17359288_1695690863790677_4703991692405465307_o-636x354.jpg
+  alt: post lead image
 ---
-![17359288_1695690863790677_4703991692405465307_o]({{ site.baseurl }}/assets/17359288_1695690863790677_4703991692405465307_o-636x354.jpg)
 
 Thursday was my third concert of RISE: a concert series at the Isabella Stewart Gardner Museum devoted to the talents of up-and-coming artists. Ruby Rose Fox and Bent Knee performed with style and an artful charisma that made this show just like the rest.
 

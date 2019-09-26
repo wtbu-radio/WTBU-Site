@@ -12,16 +12,16 @@ tags:
 - review
 - show review
 - varsity
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/use-this-one-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1625" align="alignnone" width="636"\]![Photo by Monica Sucic]({{ site.baseurl }}/assets/use-this-one-636x424.jpg) Photo by Monica Sucic\[/caption\]
 
 On Wednesday May 9, Chicago-based Varsity played Allston’s Great Scott. The five-piece indie pop-rock group is made up of vocalist Steph Smith, Dylan Weschler on back-up vocals and guitar, guitarist Pat Stanton, Paul Stolz on bass, and Jake Stolz on drums. The group was formed in 2013, with their first single, “Turns Out/Downtown,” out that same year. Recently, they’ve been touring the US following the release of their sophomore album _Parallel Person._ Varsity’s sound has often been described as a blend of indie pop and surf rock, and their music will entertain your ears with upbeat riffs and eloquent lyrics. For fans of the Walters and Tennis, Varsity will surely be your new favorite band.
 

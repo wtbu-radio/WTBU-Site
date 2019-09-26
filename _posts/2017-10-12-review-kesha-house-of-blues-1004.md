@@ -10,16 +10,16 @@ tags:
 - kesha
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/Kesha-636x476.png
+  alt: post lead image
 ---
-\[caption id="attachment\_875" align="alignnone" width="636"\]![Photo by Temma Pelletier]({{ site.baseurl }}/assets/Kesha-636x476.png) Photo by Temma Pelletier\[/caption\]
 
 Kesha’s House of Blues performance brought all the theatrics of a stadium show to an intimate venue. With tuxedoed backup dancers and flashing lights, confetti cannons and costume changes, the concert was extravagant for a 2,500-person audience. This is not to say that Kesha sacrificed a connection to her audience. The smaller scale meant she could stop periodically to answer yells of “I love you” with sincerely appreciative impromptu speeches about how lucky she felt to be on tour and surrounded by fans.
 

@@ -10,16 +10,16 @@ tags:
 - maluma
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/28379061_1971367719548288_8100204864026840871_n-636x636.jpg
+  alt: post lead image
 ---
-![28379061_1971367719548288_8100204864026840871_n]({{ site.baseurl }}/assets/28379061_1971367719548288_8100204864026840871_n-636x636.jpg)
 
 If there is one guarantee, it’s that Maluma knows how to deliver an intoxicating performance. Setting the tone for the concert with his first song, “23” off of his upcoming album, _F.A.M.E._, the Colombia-born reggaetonero confidently sang of money and fame. _“__Mucho carro y mucho bling bling bling__/_ _Y del banco siempre suena el ring ring.”_ But under all the glamour and pyrotechnics, one moment stuck out to me that showed how sincere Maluma really is. After a break during “Corazón,” a song he did with Brazilian singer Nego de Borel, Maluma took off his shades and grabbed a bottle of water to drink. As he approached the microphone stand again, the crowd erupted with screams. Everyone was jumping up and down, screaming his trademark, “Maluma, baby.” The cameras closed up on his face, and behind the beautifully intricate metallic, red, floral suit, there was no way to hide how happy he was to be there. With his hand on his heart, Maluma’s humble, if shy, smile radiated throughout the arena as he thanked the audience for being there.
 

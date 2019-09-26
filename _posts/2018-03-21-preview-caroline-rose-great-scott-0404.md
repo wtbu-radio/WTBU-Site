@@ -12,16 +12,16 @@ tags:
 - loner
 - preview
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/LONER_COVER_900x900_RGB_preview_1024x1024.jpg
+  alt: post lead image
 ---
-![LONER_COVER_900x900_RGB_preview_1024x1024]({{ site.baseurl }}/assets/LONER_COVER_900x900_RGB_preview_1024x1024.jpg)
 
 “_I go to a friend of a friend's party / everyone's well-dressed with a perfect body / and they all have alternative haircuts and straight white teeth / all I see is just more of the same thing,_” Caroline Rose sings on the first track, “More of the Same,” of her sophomore album _LONER_. In an album “as manic as I am,” Rose covers topics that range between death and accidental pregnancy and blends her dark humor with pop beats that she has arranged herself. While Rose takes inspiration from artists like Blondie, Justin Timberlake, and Kate Bush, _LONER_ is a sound she can call her own.
 

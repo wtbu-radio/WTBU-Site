@@ -11,16 +11,16 @@ tags:
 - review
 - white stripes
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/775169182_TH_1609_2468F3A215223382B5C4C3A2AE76D526_preview-1024x819.jpeg
+  alt: post lead image
 ---
-\[caption id="attachment\_2076" align="alignnone" width="710"\]![Photo by Boston Calling]({{ site.baseurl }}/assets/775169182_TH_1609_2468F3A215223382B5C4C3A2AE76D526_preview-1024x819.jpeg) Photo by Boston Calling\[/caption\]
 
 Jack White used to be a minimalist. His two-person band, the White Stripes, blasted to alt-rock stardom in the 2000s, winning Grammys and producing the banger-turned-stadium-chant “Seven Nation Army.” Every kid who’s picked up a bass since knows how to pluck out that famous riff.
 

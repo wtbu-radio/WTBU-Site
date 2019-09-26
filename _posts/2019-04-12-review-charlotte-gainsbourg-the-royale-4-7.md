@@ -6,15 +6,17 @@ categories:
 tags:
 - charlotte gainsbourg
 - the royale
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:66:"http://sites.bu.edu/wtbu/files/2019/04/Charlotte-Gainsbourg-Press-Photo-1-770x470.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4326";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/04/Charlotte-Gainsbourg-Press-Photo-1-770x470.jpg
+  alt: post lead image
 ---
+
 _By Christian Jaeger_
 
 British-French singer Charlotte Gainsbourg brought her bizarre, original sounds and pop-rock style to Boston’s Royale Sunday, April 7.

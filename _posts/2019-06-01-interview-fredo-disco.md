@@ -7,15 +7,17 @@ tags:
 - fredo disco
 - interview
 - reed romanko
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:43:"http://sites.bu.edu/wtbu/files/2019/06/IMG_20190528_170053.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4766";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/06/IMG_20190528_170053.jpg
+  alt: post lead image
 ---
+
 _By Reed Romanko_
 
 WTBU's Reed Romanko talked to Fredo Fosco of fredo disco ahead of their show with Hot Mulligan at Brighton Music Hall.

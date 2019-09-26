@@ -13,16 +13,16 @@ tags:
 - trnsmt
 - trnsmt festival
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/22859812_1469221719820085_1205752852246418476_o-1019x1024.jpg
+  alt: post lead image
 ---
-![]({{ site.baseurl }}/assets/22859812_1469221719820085_1205752852246418476_o-1019x1024.jpg)
 
 At TRNSMT Festival earlier this month, WTBU DJ Zoe Salvucci chatted with the Academic, an indie rock band from Co. Westmeath, Ireland. They closed out Friday night with their aftershow at King Tut’s Wah Wah Hut in downtown Glasgow, and played early Saturday afternoon on the King Tut’s stage at the festival. The Academic is Craig Fitzgerald (guitar/vocals), brothers Matt and Stephen Murtaugh (guitar and bass, respectively), and Dean Gavin (drums). They discussed their recent debut release, _Tales from the Backseat_, their musical influences, and starting out as a band in Ireland.
 

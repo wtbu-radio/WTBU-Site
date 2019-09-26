@@ -11,16 +11,16 @@ tags:
 - interview
 - noah kahan
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/26239963_1743087752428727_4320432214879022139_o-636x636.jpg
+  alt: post lead image
 ---
-![26239963_1743087752428727_4320432214879022139_o]({{ site.baseurl }}/assets/26239963_1743087752428727_4320432214879022139_o-636x636.jpg)
 
 Noah Kahan is a singer-songwriter on the up-and-up in the folk music scene, focusing on storytelling and driven by his humble roots from a small town in Vermont. His single, “Hurt Somebody,” helped expand his fame far outside his hometown, gaining over 1.4 million streams on Spotify in less than a week. He’s opened for artists like Ben Folds, Milky Chance, and the Strumbellas, and will be opening for George Ezra at the House of Blues on April 22. WTBU DJ Monica Sucic asked him a few questions about his favorite places to write, his inspirations, and his reaction to his recent rise to popularity.
 

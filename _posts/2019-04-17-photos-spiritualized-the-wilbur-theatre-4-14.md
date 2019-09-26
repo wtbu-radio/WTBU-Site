@@ -9,15 +9,17 @@ tags:
 - the wilbur
 - wilbur
 - wilbur theatre
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:32:"http://sites.bu.edu/wtbu/files/2019/04/IMG_9450.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4401";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/04/IMG_9450.jpg
+  alt: post lead image
 ---
+
 _Photos by Ioanna Karageorge_
 
 Boston was graced with a two-hour performance from English space-rock band Spiritualized this Sunday 4/14 at The Wilbur Theatre. With no opening band, the multi-membered rock ensemble glided through a number of entrancing atmospheric pieces to more full-bodied danceable tunes during their set. Playing music from both their earlier records and their newest album release from 2018, "And Nothing Hurt," Spiritualized moved their audience with a powerful display of musical expertise and sentimental emotion.

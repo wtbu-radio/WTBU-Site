@@ -7,15 +7,17 @@ categories:
 tags:
 - cherry glazerr
 - interview
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:65:"http://sites.bu.edu/wtbu/files/2019/02/cherry-glazerr-juicy-socks-new-song-video.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3812";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/02/cherry-glazerr-juicy-socks-new-song-video.jpg
+  alt: post lead image
 ---
+
 _By Julia Bertelli_
 
 On February 15, Brighton Music Hall was filled to the brim with punks of all different shapes and sizes as the heavy sounds of Los Angeles-based rock band Cherry Glazerr pulsed through the speakers. After an opening set from the genre-defying Sneaks, fans eagerly awaited until the trio, fronted by 22-year old Clementine Creevy, took the stage. Psychedelic animated graphics projected on the stage’s backdrop, directly behind a large inflatable cherry, as the band performed new songs “Ohio” and “That’s Not My Real Life,” as well as fan-favorite “Had Ten Dollaz.” In a moment of vulnerability, Creevy opens up about her insecurities while performing “Self Explained,” before once again riling up the crowd to form a mosh pit that doesn’t break up until after the encore. After closing off with cool-girl punk ballad “I Told You I’d Be With The Guys,” not a single person ended off the show without being covered in sweat from the intense mosh pit or having lost their voice from screaming alongside the electrifying band.

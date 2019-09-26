@@ -12,16 +12,16 @@ tags:
 - milk &amp; bone
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/MilkBone-636x477.png
+  alt: post lead image
 ---
-\[caption id="attachment\_1353" align="alignnone" width="636"\]![Photo by Allie Atonevich]({{ site.baseurl }}/assets/MilkBone-636x477.png) Photo by Allie Atonevich\[/caption\]
 
 Electro-pop Canadian duo Milk & Bone released their sophomore effort, _Deception Bay_, in early February. They began jet setting across Canada and the United States in March to tour the album. Band members Laurence Lafond-Beaulne and Camille Poliquin returned to Great Scott in Allston on March 4 for a night wrapped up in floaty vocals, harrowing lyrics, and deep electronic synths.
 

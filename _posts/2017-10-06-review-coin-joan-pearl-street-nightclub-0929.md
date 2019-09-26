@@ -11,16 +11,16 @@ tags:
 - pearl street nightclub
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-1-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_656" align="alignnone" width="636"\]![Photo by Daniella Weiss]({{ site.baseurl }}/assets/unnamed-1-636x424.jpg) Photo by Daniella Weiss\[/caption\]
 
 Four hours and two buses later was what it took to arrive at the Pearl Street Nightclub in the small, picturesque town of Northampton, Massachusetts. The 500 capacity venue was in the basement of an unmarked building located down a dark, somewhat sketchy alleyway. The windows and doors were covered in stickers and posters, and the room looked as if it was falling apart. Thirty minutes after waiting inside, two boys dressed in overalls stepped on the stage. The Little Rock, Arkansas based synth pop duo calls themselves joan. Suddenly, shades of pink overwhelmed the stage and a ‘90s pop vibe rang throughout the venue. Their sound is similar to that of The 1975’s second studio album, _I Like It When You Sleep, for You Are So Beautiful Yet So Unaware of It,_ and the lead singer’s voice sounded eerily like Paul Klein’s from LANY. They performed the two singles that have previously been released, along with many unknown songs. The band continuously kept the crowd entertained and dancing. During one song, the lead singer asked the crowd, “Is it cool if I play the guitar for a bit?” The audience screamed in response, letting him know it was alright. He stepped forward and played an incredible guitar solo. They ended their set with one of their most upbeat songs and everyone in the room danced along.
 

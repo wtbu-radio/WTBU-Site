@@ -11,15 +11,17 @@ tags:
 - spoon
 - sunflower bean
 - xfinity center
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:61:"http://sites.bu.edu/wtbu/files/2019/08/529516B4-F60B-461A-A680-DEC28A874564.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5238";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/08/529516B4-F60B-461A-A680-DEC28A874564.jpeg
+  alt: post lead image
 ---
+
 _By Brittany Moura_
 
 An all-star lineup rocked the Xfinity Center this past Thursday evening, with rule-breaking, bending, and sometimes back-bending bands Sunflower Bean, Spoon, Cage the Elephant, and Beck. Talk about a rock show.

@@ -8,15 +8,17 @@ tags:
 - cafe 939
 - photos
 - red room
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:33:"http://sites.bu.edu/wtbu/files/2019/03/MG_0454-2.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4000";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/MG_0454-2.jpg
+  alt: post lead image
 ---
+
 _By Hannah Rogers_
 
 Alice Phoebe Lou, South African singer-songwriter based in Berlin, delivered a feminist, spiritual, and psychedelic performance Tuesday night in the Red Room at Cafe 939, Berklee’s student-run coffeehouse that features live performances. Lou’s album _Paper Castles_ debuted today, Friday, March 8th.

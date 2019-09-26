@@ -11,16 +11,16 @@ tags:
 - rob grote
 - the districts
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/20664745_1551012781587322_9176743350418713882_n.jpg
+  alt: post lead image
 ---
-![]({{ site.baseurl }}/assets/20664745_1551012781587322_9176743350418713882_n.jpg)
 
 WTBU DJ David Taylor chatted with the Districts’ lead singer, Rob Grote, about touring, writing music, and his musical influences growing up. The Philly-based band is on the road with Hippo Campus this fall.
 

@@ -9,15 +9,17 @@ tags:
 - photos
 - the anthem
 - the national
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:28:"http://sites.bu.edu/wtbu/files/2019/06/cb-6.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4875";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/06/cb-6.jpg
+  alt: post lead image
 ---
+
 _By Angel Kim_
 
 With support from Courtney Barnett, The National headlined at The Anthem in DC on June 19. They are currently touring their new album “I Am Easy To Find”, and will play at Agganis Arena this fall.

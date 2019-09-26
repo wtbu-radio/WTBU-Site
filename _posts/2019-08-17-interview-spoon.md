@@ -4,15 +4,17 @@ title: 'INTERVIEW: Spoon'
 categories:
 - Interviews
 tags: []
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:61:"http://sites.bu.edu/wtbu/files/2019/08/B261C6E6-F44D-4124-97DA-052E8D1E0238.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5231";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/08/B261C6E6-F44D-4124-97DA-052E8D1E0238.jpeg
+  alt: post lead image
 ---
+
 _By Brittany Moura_
 
 Spoon is on tour supporting Beck and Cage the Elephant, alongside up-and-comers Sunflower Bean, WTBU DJ Brittany Moura sat down with Spoon frontman Britt Daniel ahead of the tour's show at Xfinity Center in Mansfield to discuss the band's history, future plans, and current tour.

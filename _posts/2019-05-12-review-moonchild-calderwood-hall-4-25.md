@@ -11,15 +11,17 @@ tags:
 - rise
 - rise concert series
 - rise music series
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:31:"http://sites.bu.edu/wtbu/files/2019/05/MG_0535.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4649";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/05/MG_0535.jpg
+  alt: post lead image
 ---
+
 _By Hannah Rogers_
 
 On Thursday night, alternative R&B trio Moonchild performed in the Calderwood Hall at Isabella Stewart Gardner Museum as part of the RISE music series, for which local rising stars and established musicians perform. In Calderwood Hall, people are able to enjoy a concert experience in a beautiful and unique venue.

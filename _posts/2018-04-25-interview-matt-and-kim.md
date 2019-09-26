@@ -13,16 +13,16 @@ tags:
 - pop
 - preview
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-5-636x424.jpg
+  alt: post lead image
 ---
-![Matt and Kim]({{ site.baseurl }}/assets/unnamed-5-636x424.jpg)
 
 **“Matt and Kim are bringing the heat!” exclaims Matt Johnson, the keys and vocals behind the renowned Brooklyn-based duo Matt and Kim. The pair are back on tour after getting taken off the road due to an injury that rendered drummer Kim Schifino unable to perform. WTBU DJ Monica Sucic talked with Johnson about being sidelined, his relationship with Kim, and the many artists featured on the upcoming sixth album,** **_Almost Everyday._**
 

@@ -12,16 +12,16 @@ tags:
 - preview
 - tall heights
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-636x424.jpg
+  alt: post lead image
 ---
-![unnamed]({{ site.baseurl }}/assets/unnamed-636x424.jpg)
 
 Making their return to Boston this March, Judah & The Lion (Cletus the Van Records/Caroline) are bringing their biggest headlining tour to date, the Going to Mars tour, across the country. The tour is in support of the deluxe edition release of their sophomore album _Folk Hop N Roll,_ which features hits on Alternative radio, “Suit and Jacket” and “Take It All Back.”
 

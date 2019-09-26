@@ -12,16 +12,16 @@ tags:
 - review
 - soundcloud
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/Screen-Shot-2017-10-14-at-6.04.49-PM-636x636.png
+  alt: post lead image
 ---
-![Screen Shot 2017-10-14 at 6.04.49 PM]({{ site.baseurl }}/assets/Screen-Shot-2017-10-14-at-6.04.49-PM-636x636.png)
 
 The Harvard dropout\*, Tupac ghostwriter, meme rapper extraordinaire has blessed us with his first full length project, appropriately titled _Little Pump_. Lil Pump is the Florida rapper who has made a name for himself off of his hit singles “D Rose” and “Gucci Gang” that first garnered attention on the popular streaming service, SoundCloud. Despite being predominantly used by amateur artists, SoundCloud is the first step for many in breaking into the mainstream and has given rise to many musicians who are now household names. Lil Pump is also another one of the Floridian rappers to rise to fame recently, following names such as Denzel Curry, Kodak Black, XXXTentacion, Ski Mask the Slump God, and Smokepurpp, who is featured on the mixtape multiple times. All of these rappers have gained a lot of attention recently, especially the first three who have been featured on hip-hop magazine “_XXL_’s” freshman class in the past two years.
 

@@ -10,16 +10,16 @@ tags:
 - minnieapolis
 - twin cities
 - wbtu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/33226055_1975831945763287_1077733283137060864_o-1024x1024.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_2602" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/33226055_1975831945763287_1077733283137060864_o-1024x1024.jpg) Photo by Zoe Prinds\[/caption\]
 
 _Minnesota-based indie rockers Bad Bad Hats have made a name for themselves since the release of their first EP in 2013. After the release of_ It Hurts_, they continued to stun the scene with their debut album,_ Psychic Reader, _filled with upbeat tracks like “Joseph,” “Spin,” and “Cruella.” The hit songs “Midway” and “Psychic Reader” rocketed to over 3 million and 1 million streams on Spotify, respectively. The group is fronted by vocalist Kerry Alexander, with Connor Davison on drums, and Chris Hoge covering all other instruments. WTBU DJ Monica Sucic asked Alexander about Minnesota, inspirations, and the band’s upcoming sophomore album._
 

@@ -12,16 +12,16 @@ tags:
 - rap
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/cupcakke-477x636.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_982" align="alignnone" width="477"\]![Photo by Bruna Giampietro]({{ site.baseurl }}/assets/cupcakke-477x636.jpg) Photo by Bruna Giampietro\[/caption\]
 
 An empowering sex icon, LGBT ally, and female rapper has emerged in our generation and deservingly turned heads. At only 20 years old, Cupcakke has conquered a massive loyal and passionate fan base amounting to 275K followers on Twitter and 323K on Instagram. Ironically, she started her career performing about her Christian faith at her local church. However, soon, the artist from Chicago embraced rap culture and started releasing her original music through social media platforms, such as YouTube, and quickly became viral with hits such as “Deepthroat” and “Vagina.” Her 2016 album _Cum Cake_ placed her as #23 in Rolling Stone's "Best Rap Albums of 2016" list.
 

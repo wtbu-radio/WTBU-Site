@@ -12,16 +12,16 @@ tags:
 - review
 - SHAED
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/22366725_1952019608405362_6029839045960099135_n-636x235.jpg
+  alt: post lead image
 ---
-![22366725_1952019608405362_6029839045960099135_n]({{ site.baseurl }}/assets/22366725_1952019608405362_6029839045960099135_n-636x235.jpg)
 
 Three callously cool up-and-coming indie bands played the Great Scott in Allston on Dec. 4. Dizzy, a band comprised of singer Katie Munshaw, and brothers Alex, Mackenzie, and Charlie Spencer covering drums, guitar, and bass, opened the show. Songs “Swim” and “Stars and Moons” are the only two available on listening platforms, but they played a variation of newer songs, including a cover of Arcade Fire’s “The Suburbs.” Their sound can best be illustrated as floaty pop-centric indie, with the lead singer’s dance moves mimicking a Lorde-esque free teenage spirit.
 

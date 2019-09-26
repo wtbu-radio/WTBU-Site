@@ -6,15 +6,17 @@ categories:
 tags:
 - great scott
 - upsahl
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:36:"http://sites.bu.edu/wtbu/files/2019/03/orange-red-2.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4060";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/orange-red-2.jpg
+  alt: post lead image
 ---
+
 _Photos by Monica Sucic_
 
 \[caption id="attachment\_4048" align="alignnone" width="684"\]![]({{ site.baseurl }}/assets/teal-pink-w_-ring-684x1024.jpg) _UPSAHL by Monica Sucic_\[/caption\]

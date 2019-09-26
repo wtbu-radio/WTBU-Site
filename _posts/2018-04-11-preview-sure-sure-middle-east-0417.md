@@ -11,16 +11,16 @@ tags:
 - preview
 - sure sure
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-636x424.png
+  alt: post lead image
 ---
-\[caption id="attachment\_1523" align="alignnone" width="636"\]![Photo by Monica Sucic]({{ site.baseurl }}/assets/unnamed-636x424.png) Photo by Monica Sucic\[/caption\]
 
 Have you ever felt trapped between two different eras? Have you ever wanted to coast down that California highway of your dreams, eating up the sunshine with your hands in the air, but also felt the need to nestle yourself in the warm embrace of a dark New York City venue during the ‘80s new wave scene? Lucky for you, there’s a band for that! And that band’s name is Sure Sure. 
 

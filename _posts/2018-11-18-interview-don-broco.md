@@ -9,16 +9,16 @@ tags:
 - england
 - interview
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/0-15.jpeg
+  alt: post lead image
 ---
-\[caption id="attachment\_3259" align="alignnone" width="744"\]![]({{ site.baseurl }}/assets/0-15.jpeg) Don Broco by Maggie Leone\[/caption\]
 
 “Stranger Sings” DJ Maggie Leone sat down with drummer Matt Donnelly and bassist Tom Doyle of Don Broco on their tour bus Wednesday night after their show at the House of Blues in Boston.  The Bedford, England-based band is currently on tour with Mike Shinoda (of Linkin Park) on the Monster Energy Outbreak Tour Presents: Mike Shinoda North America.
 

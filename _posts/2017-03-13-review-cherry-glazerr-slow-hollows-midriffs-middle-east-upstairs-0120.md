@@ -11,17 +11,17 @@ tags:
 - review
 - slow hollows
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:0:"";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/tumblr_inline_okb18goghl1swxv3i_500.jpg
+  alt: post lead image
 ---
-![tumblr_inline_okb18goghl1swxv3i_500]({{ site.baseurl }}/assets/tumblr_inline_okb18goghl1swxv3i_500.jpg)  
-Jan. 20, 2017 will go down in history for being a rather strange day, but also for being the day of Cherry Glazerr’s record release. The LA rock band celebrated _Apocalipstick_, their latest album out on [Secretly Canadian](http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.secretlycanadian.com&t=NjVhOWNjZThjODY5YWU0MGY4OWI3YzJkYWJlMTQ1YTI2MTEzODA0Yyw3ZDFjVkFIWg%3D%3D&b=t%3AKIk-PtjejdhRSOqxbjcLKQ&p=http%3A%2F%2Fwtburadio.tumblr.com%2Fpost%2F156326011473%2Fcherry-glazerr-slow-hollows-midriffs-middle&m=1), while playing a sold out show at the Middle East this past Friday night.
+
 
 Being all ages, the show packed the 194 capacity venue to the brim with young teens, middle-aged couples, and families alike. There was immediate camaraderie between everyone as well, not only because there was a collective mourning over the shift in power to our country’s new leader, but also because everyone was excitedly waiting to see Cherry Glazerr take the stage.
 

@@ -12,16 +12,16 @@ tags:
 - review
 - wtbu
 - young the giant
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-6-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_847" align="alignnone" width="636"\]![Photo by Caroline Barry]({{ site.baseurl }}/assets/unnamed-6-636x424.jpg) Photo by Caroline Barry\[/caption\]
 
 It was a dark and stormy Thursday, muggy, with a sky lit up by two dozen flashes of lighting per minute; the seats flooded and the stage saturated with rainwater. Three bands were due to play that night, Sept. 14, at the Blue Hills Bank Pavilion, a partially outdoor venue: Joywave, Cold War Kids, and Young The Giant. The venue crew worked diligently to mop and dry the equipment, and against Mother Nature’s apparent wishes, the show went on.
 

@@ -9,16 +9,16 @@ tags:
 - interview
 - surfer blood
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/24958889_10155551875183889_5817831362390220277_o-636x425.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1592" align="alignnone" width="636"\]![Photo by Victoria Sanders]({{ site.baseurl }}/assets/24958889_10155551875183889_5817831362390220277_o-636x425.jpg) Photo by Victoria Sanders\[/caption\]
 
 _Florida-based indie act Surfer Blood rolled through Allston last week for a night of infectious tunes and high energy. WTBU DJ William Bauman talked covers, touring, and the band’s new sonic direction with lead vocalist/guitarist John Paul Pitts before their show at the Great Scott on April 23._
 

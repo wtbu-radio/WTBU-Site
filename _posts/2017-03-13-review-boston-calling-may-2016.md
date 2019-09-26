@@ -8,16 +8,16 @@ tags:
 - college radio
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:0:"";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/tumblr_inline_o80uzrNlWn1swxv3i_500.png
+  alt: post lead image
 ---
-![tumblr_inline_o80uzrNlWn1swxv3i_500]({{ site.baseurl }}/assets/tumblr_inline_o80uzrNlWn1swxv3i_500.png)
 
 In comparison to other music festivals, Boston Calling clearly isn’t the biggest or the grandest. There’s no camping, audiences stand on nothing but brick, and there’s only three stages – two for big acts. And yet, the festival marches on, consistently bringing in impressively large artists for their lineups each season. On the third anniversary of its inception, Boston Calling continued to strive for new heights, introducing a new, third stage for local acts and comedy. While the festival still feels like it’s finding its footing, it provided some true highlights and memorable moments during its Spring 2016 festival this past weekend.
 

@@ -7,15 +7,17 @@ tags:
 - royale
 - the royale
 - twin xl
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:34:"http://sites.bu.edu/wtbu/files/2019/04/IMG_7453-2.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4162";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/04/IMG_7453-2.jpg
+  alt: post lead image
 ---
+
 _Photos by Maggie Leone_
 
 \[caption id="attachment\_4181" align="alignnone" width="1024"\]![]({{ site.baseurl }}/assets/IMG_7630-1024x683.jpg) _Twin XL by Maggie Leone_\[/caption\]

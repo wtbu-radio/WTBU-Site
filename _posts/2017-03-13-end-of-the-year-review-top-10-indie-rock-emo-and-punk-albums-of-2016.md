@@ -10,16 +10,16 @@ tags:
 - punk
 - wtbu
 - year ender
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:0:"";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/tumblr_inline_oi4y9gtYeu1swxv3i_500.jpg
+  alt: post lead image
 ---
-![tumblr_inline_oi4y9gtYeu1swxv3i_500]({{ site.baseurl }}/assets/tumblr_inline_oi4y9gtYeu1swxv3i_500.jpg)
 
 2016 has been an absolutely insane year. From Donald Trump being elected to the slew of amazing musicians dying, I would say we have nearly hit rock bottom as a planet in 2016. Luckily, we have been blessed with having many incredible artists release eclectic and seminal albums that will be stuck in our heads for decades to come. The emo, punk rock, and indie rock genres have had quite the shift in sonic change. A lot of bands who play these styles of music have really hit it home with their style changes. Here are, in my opinion, the Top 10 Indie Rock, Emo, and Punk Albums of 2016:
 

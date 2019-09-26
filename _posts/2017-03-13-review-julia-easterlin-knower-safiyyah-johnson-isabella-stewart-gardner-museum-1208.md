@@ -9,17 +9,17 @@ tags:
 - review
 - rise concert series
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:0:"";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/tumblr_inline_ok203zqtfH1swxv3i_400.jpg
+  alt: post lead image
 ---
-![tumblr_inline_ok203zqtfH1swxv3i_400]({{ site.baseurl }}/assets/tumblr_inline_ok203zqtfH1swxv3i_400.jpg)  
-_Photo by [Tammy Jean Lamoureux](http://t.umblr.com/redirect?z=http%3A%2F%2Flamourdelaphoto.blogspot.com&t=OWYzZTExNWM1MGI2ZDAxMTY3OTExOWQ4N2FlNmZlMTZkMjc0NWQ3NixXd1BhdmpQWA%3D%3D&b=t%3AKIk-PtjejdhRSOqxbjcLKQ&p=http%3A%2F%2Fwtburadio.tumblr.com%2Fpost%2F156102340788%2Fconcert-review-julia-easterlin-knower-safiyyah&m=1)_
+
 
 RISE is the new evening concert series at Boston’s Isabella Stewart Gardner Museum. It’s a program dedicated to showcasing the talent of young, up-and-coming artists. Their Thursday night show on Dec. 8 did just that. With the three captivating acts of Julia Easterlin, Knower, and Safiyyah Johnson, and an attentive crowd, the atmosphere was perfect for a museum concert.
 

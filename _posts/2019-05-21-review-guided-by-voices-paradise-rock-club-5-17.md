@@ -8,15 +8,17 @@ tags:
 - jack beck
 - paradise rock club
 - the dise
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:59:"http://sites.bu.edu/wtbu/files/2019/05/Guided-by-Voices-losing-game-pricks.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4756";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/05/Guided-by-Voices-losing-game-pricks.jpg
+  alt: post lead image
 ---
+
 _By Jack Beck_
 
 It’s weird to think that Robert Pollard and the rest of Guided By Voices are actual people. I don’t mean that in a mean way at all, it’s just that when I listen to their music I really can’t imagine it coming from a bunch people just playing instruments in their garage or their studio or anything like that. To me it sounds a lot more like something fantastical but still super goofy, like that old gnome dude from those Travolocity commercials, like what he would make if he spent all of his time listening to Big Star instead of getting us really good deals on hotels.

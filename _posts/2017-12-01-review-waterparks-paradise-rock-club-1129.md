@@ -14,16 +14,16 @@ tags:
 - sleep on it
 - waterparks
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/cac2789d1f9cb2dac285de13f243a2c2-636x318.jpg
+  alt: post lead image
 ---
-![cac2789d1f9cb2dac285de13f243a2c2]({{ site.baseurl }}/assets/cac2789d1f9cb2dac285de13f243a2c2-636x318.jpg)
 
 While the policy of the Paradise Rock Club may be “no stage diving or moshing,” fans attending the Monster Energy Outbreak Tour (or the Made in America Tour) featuring Waterparks largely disregarded those rules.  The show began with the band Sleep On It from Chicago, who came to rock. Their set was incredible; they surely knew how to prepare the crowd for the rest of the night. Their album _Overexposed_ was released recently, and from what they played last night, it is definitely something to check out! Next was Chapel, a duo comprised of a female drummer and a male lead singer, who filled the room with quirky tones and lyrics, bringing a slight pop sound to the lineup.  They recently released an EP titled _Sunday Brunch,_ which could be found at the merch table, alongside t-shirts and other clothing items.  Lead singer of Waterparks Awsten Knight was sporting a long-sleeve _Sunday Bruch_ t-shirt during his set last night, and truthfully it was very stylish.  And finally, the last opening act was As It Is from Brighton, England. Lead singer Patty Walters, who appeared on stage during Sleep On It’s set to lend his voice to their song “Fireworks” (which originally features Derek DiScanio from State Champs), was incredibly vivacious and a joy to watch.  He was all over the stage, jumping around, and throwing the microphone like a yo-yo, never failing to catch it. Selected by the Waterparks boys themselves, these three opening acts were an energetic, wonderful kick-off before the headliners took the stage.
 

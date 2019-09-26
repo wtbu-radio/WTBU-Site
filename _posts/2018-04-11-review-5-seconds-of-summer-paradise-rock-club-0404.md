@@ -11,16 +11,16 @@ tags:
 - paradise rock club
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/IMG_9351-2-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1515" align="alignnone" width="636"\]![Photo by Maggie Leone]({{ site.baseurl }}/assets/IMG_9351-2-636x424.jpg) Photo by Maggie Leone\[/caption\]
 
 When 5 Seconds of Summer announced the 5SOS Tour a few months ago, the fact that tickets were only $30 and that the band was playing at the Paradise Rock Club, felt like a dream.  Being there Sunday night, that dreamlike feeling only intensified. The intimate venue made the show incredibly special; it was a once in a lifetime experience, as it’s not every night you are in a relatively small room with four of your idols singing your favorites songs practically to you.  Every time a crew member set foot on stage, the crowd packed into the bar exploded in anticipation of Ashton Irwin, Luke Hemmings, Michael Clifford, and Calum Hood. Finally, after a small wait, the boys took the stage and the fun truly began. Even though they have performed in front of countless crowds, the band was energetic, engaging, and eager to please their audience.  The set was short, but sweet–especially when they played their new song “Valentine,” which references different desserts throughout. The crowd gathered in the Paradise Rock Club had the honor of being the first group in North America to have heard the set list of the 5SOS Tour, as up until Sunday night, the band had been touring in Europe.
 

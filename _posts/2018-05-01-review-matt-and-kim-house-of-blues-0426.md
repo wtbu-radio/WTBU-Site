@@ -12,16 +12,16 @@ tags:
 - pop
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/DSC0606-636x424.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_1601" align="alignnone" width="636"\]![Photo by Monica Sucic]({{ site.baseurl }}/assets/DSC0606-636x424.jpg) Photo by Monica Sucic\[/caption\]
 
 Brooklyn-based couple Matt and Kim used to tour non-stop, stopping everywhere they could across North America at festivals and headlining shows. Last year, everything changed for Matt Johnson and Kim Schifino when Schifino tore her ACL after an on-stage accident. She continued to play drums with vigor until the pain became too much to handle, and after five songs she was taken away in an ambulance.
 

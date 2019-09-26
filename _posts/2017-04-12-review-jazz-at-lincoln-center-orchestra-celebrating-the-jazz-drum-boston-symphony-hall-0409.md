@@ -11,16 +11,16 @@ tags:
 - jazz at lincoln center
 - wtbu
 - wynton marsalis
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/jlco.jpg
+  alt: post lead image
 ---
-![jlco]({{ site.baseurl }}/assets/jlco.jpg)
 
 On Sunday April 9, The Jazz at Lincoln Center Orchestra (JALC) brought their virtuosity and sophistication to Boston Symphony Hall as part of the Boston Celebrity Series. As America’s premier jazz ensemble, under the direction of trumpet icon Wynton Marsalis, the Jazz at Lincoln Center Orchestra brings together some of today’s finest jazz players to bring classic and contemporary jazz pieces full of stellar improvisation to audiences around the world.
 

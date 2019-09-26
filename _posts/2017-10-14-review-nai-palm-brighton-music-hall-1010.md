@@ -10,16 +10,16 @@ tags:
 - nai palm
 - review
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/unnamed-1-1-636x516.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_895" align="alignnone" width="636"\]![Photo by Meredith Aebi]({{ site.baseurl }}/assets/unnamed-1-1-636x516.jpg) Photo by Meredith Aebi\[/caption\]
 
 Brighton Music Hall is known for its intimate atmosphere, as it’s a small venue with two bars, a downstairs area and a floor that your shoes seem to mysteriously stick to. But probably the most intimate part of it is its stage—concertgoers crowd around it on their feet and are able to (if in the front) stand nearly feet away from the performer. The stage is raised, so there’s almost a feeling of the performer being worshipped. In some cases, some might say they truly are worshipping them if the artist is a favorite of theirs.
 

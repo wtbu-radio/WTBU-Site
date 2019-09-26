@@ -10,16 +10,16 @@ tags:
 - paradise rock club
 - wrabel
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/22196097_971552449649897_2812156012859624398_n-636x636.jpg
+  alt: post lead image
 ---
-![22196097_971552449649897_2812156012859624398_n]({{ site.baseurl }}/assets/22196097_971552449649897_2812156012859624398_n-636x636.jpg)
 
 Happening upon Leon at Paradise felt like finding a hidden gem. It felt as if I was getting this special opportunity to see a young artist still yet to be discovered, and what a fool I was to think so. Once I entered Paradise I was completely wrong in thinking I was the only one that knew this incredible talent. The faces of the crowd were even more surprising, particularly the amount of men excitedly waiting to see her. You could feel the energy in the room and it continued to get stronger through the opener.
 

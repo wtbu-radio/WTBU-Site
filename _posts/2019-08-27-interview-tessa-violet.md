@@ -7,15 +7,17 @@ tags:
 - allie antonevich
 - interview
 - tessa violet
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:37:"http://sites.bu.edu/wtbu/files/2019/08/maxresdefault.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5278";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/08/maxresdefault.jpg
+  alt: post lead image
 ---
+
 _By Allie Antonevich_
 
 Tessa Violet, known previously as Meekakitty, is currently touring for her 2019 EP, _Bad Ideas (Act One)_. Though I was unable to make her show at the Sinclair last minute, I was able to connect with the popular YouTube vlogger-turned-singer songwriter over email to get a sense of what she’s up to now and what’s on the horizon.

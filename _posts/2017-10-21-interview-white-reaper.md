@@ -11,16 +11,16 @@ tags:
 - tony esposito
 - white reaper
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/22426202_1237682799711681_4137976660968621361_o-2-636x242.jpg
+  alt: post lead image
 ---
-![22426202_1237682799711681_4137976660968621361_o-2]({{ site.baseurl }}/assets/22426202_1237682799711681_4137976660968621361_o-2-636x242.jpg)
 
 _White Reaper revive rock ‘n’ roll’s roots with their latest album,_ The World’s Best American _Band. And that title? They believe it._ No Problem _DJ Olivia Gehrke spoke with Tony Esposito, lead singer and guitarist for White Reaper, about what goes into being the world’s best American band._
 

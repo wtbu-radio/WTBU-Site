@@ -11,17 +11,17 @@ tags:
 - once ballroom
 - somerville
 - wtbu
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:0:"";s:3:"alt";s:0:"";s:7:"post_id";s:0:"";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/atlas-genius-10.14.17-125-424x636.jpg
+  alt: post lead image
 ---
-\[caption id="attachment\_920" align="alignnone" width="424"\]![Photo by Katie Evans]({{ site.baseurl }}/assets/atlas-genius-10.14.17-125-424x636.jpg) Photo by Katie Evans\[/caption\]  
-After nearly two years of new music silence, Atlas Genius decided to hit the road in anticipation of their third studio album. They headlined intimate venues across the U.S. on their _63 Days of Love Tour_ making a stop at ONCE Ballroom in Somerville, Mass.
+
 
 Opening up the night was alternative pop group Half the Animal. The band played an array of pop songs while the audience danced along. Lead vocalist Chase Johnson paused their set to thank music and sex and continued on with their new single “Bad Bad Love.” After a total of seven songs the band thanked the audience for listening and walked off stage.
 

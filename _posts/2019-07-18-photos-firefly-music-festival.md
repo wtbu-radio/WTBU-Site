@@ -22,15 +22,17 @@ tags:
 - tyler the creator
 - unknown mortal orchestra
 - vampire weekend
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:31:"http://sites.bu.edu/wtbu/files/2019/07/MG_1941.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"5095";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/07/MG_1941.jpg
+  alt: post lead image
 ---
+
 _By Spencer Vilicic_
 
 This year's edition of Firefly Music Festival took place from 21-23 June in Delaware. WTBU DJ Spencer Vilicic was in attendance; check out his photos below and read his review here.

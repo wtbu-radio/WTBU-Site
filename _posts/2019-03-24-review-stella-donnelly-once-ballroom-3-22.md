@@ -6,15 +6,17 @@ categories:
 tags:
 - once ballroom
 - stella donnelly
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:70:"http://sites.bu.edu/wtbu/files/2019/03/55453706_2248204508736625_162140281053904896_n.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4044";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/55453706_2248204508736625_162140281053904896_n.jpg
+  alt: post lead image
 ---
+
 _By Ben Gorelick_
 
 ONCE Ballroom was in a buzz after the opening act, Faye Webster, had shared not only her songs, but also some genuinely impressive yo-yo tricks. After this, people had come on stage starting to set up drums, synths, and different guitars and pedals. The excitement for Stella Donnelly was palpable in the air.

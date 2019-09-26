@@ -5,15 +5,17 @@ categories:
 - Interviews
 tags:
 - thumpasaurus
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:32:"http://sites.bu.edu/wtbu/files/2019/03/DSC_7729.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4034";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/03/DSC_7729.jpg
+  alt: post lead image
 ---
+
 In the midst of their US tour in support of recent album _The Book of Thump_ and new space opera EP _Where Does The Love Go?_, WTBU DJ Carrie Sheehan caught up with Henry Was and Lucas Tameran of Los Angeles punk-funk band Thumpasaurus for a frank discussion of their path to renown, aesthetic development, and the powerful appeal of John Travolta’s face.  
 
 **Carrie Sheehan: Well, I'm just gonna start with the small talk -- how has the tour been so far?**

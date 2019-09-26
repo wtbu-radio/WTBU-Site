@@ -6,15 +6,17 @@ categories:
 tags:
 - interview
 - the lost kings
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:61:"http://sites.bu.edu/wtbu/files/2019/01/35B8E44A-92BD-47DA-8EF4-3D25AD9D0000.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3486";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/01/35B8E44A-92BD-47DA-8EF4-3D25AD9D0000.jpeg
+  alt: post lead image
 ---
+
 _By Grace Lauson_
 
 Lost Kings have just kicked off “The So What Tour” in San Diego and will be playing at The Sinclair in Boston on Jan. 24. WTBU journalist Grace Lauson chatted with Lost Kings which consists of Robert Abisi and Nick Shanholtz.

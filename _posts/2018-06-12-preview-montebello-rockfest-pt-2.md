@@ -10,16 +10,16 @@ tags:
 - montebello rockfest 2018
 - preview
 - wtbu
-meta:
-  _bu_banner: |-
 author:
   login: ogehrke
   email: ogehrke@bu.edu
   display_name: Olivia Gehrke
   first_name: Olivia
   last_name: Gehrke
+image:
+  src: {{ site.baseurl }}/assets/rockfest18_afficheWEB_FINAL_en-773x1024.jpg
+  alt: post lead image
 ---
-![Rockfest2018]({{ site.baseurl }}/assets/rockfest18_afficheWEB_FINAL_en-773x1024.jpg)
 
 Montebello Rockfest is quickly approaching.  Labeled as “Canada’s Largest Rock Festival,” the 13th edition of the festival brings an astounding lineup.  
 

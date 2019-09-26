@@ -7,15 +7,17 @@ tags:
 - carpool tunnel
 - david taylor
 - interview
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:70:"http://sites.bu.edu/wtbu/files/2019/07/65730439_2271997442901360_384348428521439232_o.jpg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4978";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/07/65730439_2271997442901360_384348428521439232_o.jpg
+  alt: post lead image
 ---
+
 _By David Taylor_
 
 WTBU DJ David Taylor sat down with Bay Area indie rockers Carpool Tunnel ahead of their show in San Francisco on July 2nd. They discuss the band's influences, touring, and future projects.

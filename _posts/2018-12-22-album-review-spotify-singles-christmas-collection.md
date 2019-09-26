@@ -6,15 +6,17 @@ categories:
 tags:
 - album review
 - spotify christmas singles
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:68:"http://sites.bu.edu/wtbu/files/2018/12/Spotify-Singles-Christmas-Collection-740x390.png";s:3:"alt";s:0:"";s:7:"post_id";s:4:"3397";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2018/12/Spotify-Singles-Christmas-Collection-740x390.png
+  alt: post lead image
 ---
+
 _By Olivia Malek_
 
 It’s that time of year again.

@@ -11,15 +11,17 @@ tags:
 - firefly music festival
 - preview
 - spencer vilicic
-meta:
-  _bu_banner: a:7:{s:4:"type";s:5:"image";s:3:"url";s:65:"http://sites.bu.edu/wtbu/files/2019/06/ejlfUadovmwPVtOUtgQQJRd9rHjVceDim6EJbz1t.jpeg";s:3:"alt";s:0:"";s:7:"post_id";s:4:"4844";s:4:"html";s:0:"";s:8:"position";s:12:"contentWidth";s:7:"caption";s:0:"";}
 author:
   login: salvucci
   email: salvucci@bu.edu
   display_name: salvucci
   first_name: ''
   last_name: ''
+image:
+  src: http://sites.bu.edu/wtbu/files/2019/06/ejlfUadovmwPVtOUtgQQJRd9rHjVceDim6EJbz1t.jpeg
+  alt: post lead image
 ---
+
 _By Spencer Vilicic_
 
 When you were ten years old, did you ever wish that you could run away into the woods and listen to your favorite music all day? Now that you are in your 20s, it’s time to realize that dream. Nestled in the Woodlands of Dover, Delaware, Firefly Music Festival returns for their eighth year this June 21-23, featuring some of 2019’s most in-demand artists. Headlining the festival this year is Panic! At The Disco on Friday, Travis Scott on Saturday, and Post Malone on Sunday. Other notable acts include Tyler, the Creator, fresh off the release of his sixth studio album IGOR; Vampire Weekend, with their recent studio album Father of the Bride; and Zedd, who’s been in some hot water lately over allegations made by Matthew Koma. In addition, you can expect appearances from Kygo, Death Cab For Cutie, Passion Pit, Brockhampton, Young The Giant, and many more.
