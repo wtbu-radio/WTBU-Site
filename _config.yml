@@ -1,6 +1,9 @@
-url: "https://wtburadio.org" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://wtburadio.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wtbu-radio.firebaseapp.com"
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "WTBU Radio" # the name of your site, e.g. ACME Corp.
+
+permalink: pretty
 
 collections:
   pages:
@@ -18,7 +21,7 @@ exclude: ['post-converter']
 pagination:
   enabled: true
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
-  debug: true
+  debug: false
 
   # How many objects per paginated page, used to be `paginate` (default: 0, means all)
   per_page: 5

@@ -19,4 +19,14 @@ window.onclick = function(event) {
             }
         }
     }
-} 
+}
+
+/* Toggle between adding and removing the "responsive" class to topBar when the user clicks on the hamburger button */
+function mobileDropdown() {
+    var x = document.getElementById("topBar");
+    if (x.className === "topBar") {
+      x.className += " responsive";
+    } else {
+      x.className = "topBar";
+    }
+  } 
